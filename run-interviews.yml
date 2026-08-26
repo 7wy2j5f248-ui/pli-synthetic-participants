@@ -1,0 +1,81 @@
+# .github/workflows/run-interviews.yml
+#
+# Runs the synthetic PLI interview script entirely on GitHub's servers.
+# You trigger it manually (or on a schedule) and walk away — no local
+# machine needs to stay on, and nobody has to sit through interviews.
+#
+# SETUP (one-time):
+# 1. Put run_interviews.py in the repo root (or update `working-directory`
+#    below to match wherever you place it).
+# 2. Add a repo secret: Settings -> Secrets and variables -> Actions ->
+#    New repository secret -> name it ANTHROPIC_API_KEY, paste a key from
+#    https://console.anthropic.com (this is billed separately from your
+#    Claude.ai Pro subscription — Pro chat access and API usage are
+#    different products with different billing).
+# 3. Commit this file to .github/workflows/run-interviews.yml
+# 4. Go to the "Actions" tab on GitHub -> "Run interviews" workflow ->
+#    "Run workflow" -> choose mode (pilot/full) -> Run.
+# 5. Watch progress live in the Actions tab, or just close the tab and
+#    check back later. When it finishes, run_log.jsonl and transcripts/
+#    are uploaded as a downloadable artifact on that run's summary page.
+#
+# private-local/ (hidden personas) is deliberately NOT uploaded as an
+# artifact and NOT committed — it stays out of anything you or anyone
+# else can see, per CLAUDE.md's non-negotiable privacy rule.
+
+name: Run interviews
+
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "pilot (36 interviews) or full (900 interviews)"
+        required: true
+        default: "pilot"
+        type: choice
+        options: [pilot, full]
+      languages:
+        description: "Optional comma-separated subset, e.g. en,fr (leave blank for all 18)"
+        required: false
+        default: ""
+
+jobs:
+  run-interviews:
+    runs-on: ubuntu-latest
+    timeout-minutes: 2880  # up to 48h; the full 900-interview run is long and sequential
+
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install playwright anthropic
+          playwright install --with-deps chromium
+
+      - name: Run interviews
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          ARGS="--mode ${{ inputs.mode }}"
+          if [ -n "${{ inputs.languages }}" ]; then
+            ARGS="$ARGS --languages ${{ inputs.languages }}"
+          fi
+          python run_interviews.py $ARGS
+
+      - name: Upload results (transcripts + log)
+        if: always()  # upload whatever we have even if the run was stopped/blocked partway
+        uses: actions/upload-artifact@v4
+        with:
+          name: interview-results-${{ inputs.mode }}-${{ github.run_id }}
+          path: |
+            run_log.jsonl
+            transcripts/
+          retention-days: 90
+          # NOTE: private-local/ is intentionally excluded — hidden personas
+          # never leave the runner.
