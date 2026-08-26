@@ -37,7 +37,7 @@ Total planned interviews: **36**.
 - Adults only: `yes`
 - Required participant characteristics or quotas: Broad plausible variation across life stage, work rhythm, household, sleep pattern, attitudes, and location; no fixed demographic quotas
 - Characteristics to exclude: Real people, prototype persona copies, medical emergencies, and stereotyped identity-trait combinations
-- PLI completion signal: The interviewer gives its concluding response after the participant answers the final canonical question; PLI then records the session as completed
+- PLI completion signal: A localized completion banner appears with `data-completion-signal="INTERVIEW_COMPLETE"`, the page changes to `data-interview-status="completed"`, and the answer controls become disabled
 - Rate or scheduling limit: Sequential interviews only
 - Transcript reference: Record the visible generated PLI Participant ID as `participant:<ID>`
 

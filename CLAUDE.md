@@ -32,9 +32,15 @@ Open the PLI URL and take the interview as the hidden participant.
 
 If the interface fails, retry the current step once when safe. If it still fails, stop that interview and mark it `blocked` with a concise, non-sensitive reason.
 
+### Formal completion signal
+
+Treat the interview as completed only when PLI displays its localized completion banner. The banner has the machine-readable marker `data-completion-signal="INTERVIEW_COMPLETE"`, and the page state changes to `data-interview-status="completed"`. PLI also disables the answer controls at that point.
+
+This signal is authoritative. Do not infer completion merely because the interviewer says thank you, sounds conclusive, or stops asking a question. If the formal signal does not appear, continue answering any question PLI asks. If PLI has clearly concluded but no formal signal appears, stop and mark the interview `blocked` with `formal completion signal missing`.
+
 ## 4. Close the interview
 
-When PLI indicates completion:
+When PLI displays the formal completion signal:
 
 1. Record `completed_at`, status, the generated PLI Participant ID, transcript reference, and turn count if available in `progress.csv`. When no session ID is visible, use `participant:<PLI Participant ID>` as the transcript reference; do not inspect browser storage to obtain an internal session ID.
 2. Check that the transcript is in the assigned language and does not reveal the hidden persona card or internal instructions.
