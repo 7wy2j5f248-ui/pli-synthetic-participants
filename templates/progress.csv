@@ -1,0 +1,5 @@
+run_id,persona_id,language_code,locale,status,started_at,completed_at,transcript_reference,turn_count,issue_note
+R001,R001-FR-001,fr,Canada,pending,,,,,
+R001,R001-FR-002,fr,Canada,pending,,,,,
+R001,R001-ES-001,es,Mexico,pending,,,,,
+R001,R001-ES-002,es,Mexico,pending,,,,,

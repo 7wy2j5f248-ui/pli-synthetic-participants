@@ -1,0 +1,5 @@
+# Hidden participant definitions must never be committed.
+private-local/
+
+# Local operating-system files.
+.DS_Store
