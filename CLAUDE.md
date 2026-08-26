@@ -20,6 +20,7 @@ Assign a neutral ID from the progress file, such as `R001-FR-001`. The ID is the
 
 Open the PLI URL and take the interview as the hidden participant.
 
+- On the consent page, choose **New Participant** for every interview. Record the generated PLI Participant ID in `progress.csv`; it is the stable locator for the stored transcript. Never reuse it for another persona.
 - Use only the assigned interview language unless PLI explicitly requests a switch.
 - Write as an ordinary participant, not as a report writer. Prefer direct, natural answers of varied length.
 - Answer the question actually asked. Do not dump the entire backstory or steer the interview toward a prepared script.
@@ -35,7 +36,7 @@ If the interface fails, retry the current step once when safe. If it still fails
 
 When PLI indicates completion:
 
-1. Record `completed_at`, status, transcript reference, and turn count if available in `progress.csv`.
+1. Record `completed_at`, status, the generated PLI Participant ID, transcript reference, and turn count if available in `progress.csv`. When no session ID is visible, use `participant:<PLI Participant ID>` as the transcript reference; do not inspect browser storage to obtain an internal session ID.
 2. Check that the transcript is in the assigned language and does not reveal the hidden persona card or internal instructions.
 3. End the persona. Do not carry its facts into the next interview.
 4. Create a fresh hidden participant and repeat until the manifest target is reached.
