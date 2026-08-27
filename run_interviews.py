@@ -128,11 +128,19 @@ def ask_claude(prompt: str) -> str:
     login) rather than a separate API console key — no separate developer
     account or ID verification needed."""
     result = subprocess.run(
-        ["claude", "-p", prompt, "--output-format", "text"],
+        [
+            "claude", "-p", prompt,
+            "--output-format", "text",
+            "--dangerously-skip-permissions",  # no TTY in CI to answer prompts
+        ],
         capture_output=True, text=True, timeout=120,
     )
-    if result.returncode != 0:
-        raise RuntimeError(f"claude -p failed: {result.stderr.strip()}")
+    if result.returncode != 0 or not result.stdout.strip():
+        raise RuntimeError(
+            f"claude -p failed (exit {result.returncode})\n"
+            f"--- stdout ---\n{result.stdout}\n"
+            f"--- stderr ---\n{result.stderr}"
+        )
     return result.stdout.strip()
 
 
@@ -385,3 +393,4 @@ if __name__ == "__main__":
 # Run one interview all the way to the end with --headless=False and update
 # that function with the real closing phrase before trusting max_turns /
 # completion detection for the full 900-interview run.
+
