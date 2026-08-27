@@ -373,6 +373,11 @@ def main():
     args = parser.parse_args()
 
     langs = [l.strip() for l in args.languages.split(",")] if args.languages else list(LANGUAGES.keys())
+    unknown = [l for l in langs if l not in LANGUAGES]
+    if unknown:
+        print(f"ERROR: unrecognized language code(s): {', '.join(unknown)}")
+        print(f"Valid codes are: {', '.join(LANGUAGES.keys())}")
+        return
     count_per_lang = PILOT_COUNT if args.mode == "pilot" else FULL_COUNT_PER_LANGUAGE
     run_id = f"{'PILOT' if args.mode == 'pilot' else 'FULL'}-{datetime.now().strftime('%Y%m%d%H%M%S')}"
 
