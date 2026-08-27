@@ -58,13 +58,28 @@ PRIVATE_DIR = Path("private-local")  # hidden personas only — must stay out of
 
 def save_debug_snapshot(page, tag: str):
     """On any blocked/failed interview, save a screenshot + current URL/HTML
-    so the failure is diagnosable from the uploaded artifact alone, without
-    needing a live/manual run to see what the page actually showed."""
+    + visible text + element diagnostics, so the failure is diagnosable from
+    the uploaded artifact alone, without needing a live/manual run."""
     try:
         DEBUG_DIR.mkdir(exist_ok=True)
         page.screenshot(path=str(DEBUG_DIR / f"{tag}.png"))
         (DEBUG_DIR / f"{tag}_url.txt").write_text(page.url)
         (DEBUG_DIR / f"{tag}.html").write_text(page.content())
+        try:
+            body_text = page.evaluate("document.body.innerText || ''")
+        except Exception:
+            body_text = "(could not read body text)"
+        try:
+            matches = page.evaluate(
+                "Array.from(document.querySelectorAll('#participantIdBox'))"
+                ".map(el => ({outerHTML: el.outerHTML, visible: el.offsetParent !== null}))"
+            )
+        except Exception:
+            matches = "(could not query participantIdBox)"
+        (DEBUG_DIR / f"{tag}_diagnostics.txt").write_text(
+            f"visible body text:\n{body_text}\n\n"
+            f"#participantIdBox matches (should be exactly 1):\n{matches}\n"
+        )
     except Exception as e:
         (DEBUG_DIR / f"{tag}_snapshot_failed.txt").write_text(str(e))
 
@@ -230,20 +245,16 @@ def run_single_interview(page, lang_code: str, lang_label: str, run_id: str, idx
 
     # 3. Consent form (consent.html) — select "new participant", capture ID, agree
     page.click(SELECTORS["new_participant_radio"])
-    # Wait on the box's actual text content rather than Playwright's own
-    # visibility heuristic — headless Chromium can disagree with what's
-    # genuinely painted on screen for this element (confirmed via debug
-    # screenshots: content was rendered and correct, but reported "hidden").
+    # Wait on the page's actual visible text rather than a specific element's
+    # state — sidesteps any risk of duplicate/hidden elements sharing this id,
+    # and headless-vs-headed rendering quirks seen in earlier debug captures.
     page.wait_for_function(
-        """() => {
-            const el = document.querySelector('#participantIdBox');
-            return el && /P\\d{6,}/.test(el.innerText);
-        }""",
-        timeout=30000,
+        "() => /P\\d{6,}/.test(document.body.innerText || '')",
+        timeout=45000,
     )
-    box_text = page.eval_on_selector("#participantIdBox", "el => el.innerText")
-    id_match = re.search(r"\bP\d{6,}\b", box_text)
-    participant_id = id_match.group(0) if id_match else box_text.strip()
+    body_text = page.evaluate("document.body.innerText")
+    id_match = re.search(r"\bP\d{6,}\b", body_text)
+    participant_id = id_match.group(0) if id_match else "UNKNOWN"
     page.click(SELECTORS["consent_agree_button"])
     page.wait_for_load_state("networkidle")
 
