@@ -7,15 +7,25 @@ and drive the browser via Playwright.
 
 HOW TO USE
 ----------
-1. pip install playwright anthropic
+1. pip install playwright
    playwright install chromium
-2. export ANTHROPIC_API_KEY=sk-...
-3. Fill in the SELECTORS dict below by inspecting the live page once
-   (see "FINDING SELECTORS" at the bottom of this file).
+2. npm install -g @anthropic-ai/claude-code
+3. Log in once on any machine with a browser, using your existing Claude
+   Pro/Max account: run `claude` and follow the login prompt, or run
+   `claude setup-token` to generate a long-lived OAuth token you can copy
+   to a headless machine (export CLAUDE_CODE_OAUTH_TOKEN=...). No separate
+   API console account, credit card, or ID verification needed — this
+   uses your existing Claude.ai subscription.
 4. Adjust LANGUAGES / PILOT_COUNT / FULL_COUNT_PER_LANGUAGE as needed.
 5. Run: python run_interviews.py --mode pilot        (36 interviews, 2/lang)
         python run_interviews.py --mode full          (900 interviews, 50/lang)
         python run_interviews.py --mode full --languages en,fr   (subset)
+
+NOTE ON USAGE LIMITS: this draws from your Pro plan's normal usage limits,
+not pay-per-token billing. A run of 900 interviews (each ~10-15 short
+generations) is a meaningful chunk of usage — it may need to be spread
+across multiple days/sessions if you hit your plan's rate or usage caps.
+Watch for "claude -p failed" errors in run_log.jsonl as a sign of this.
 
 The script writes one JSON line per interview to run_log.jsonl and a full
 transcript to transcripts/<run_id>_<lang>_<n>.json as it goes, so you can
@@ -31,7 +41,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 from playwright.sync_api import sync_playwright, TimeoutError as PWTimeout
-import anthropic
+import subprocess
 
 # ---------------------------------------------------------------------------
 # CONFIG
@@ -112,7 +122,18 @@ SELECTORS = {
 INTERVIEWER_LABEL = "AI"
 PARTICIPANT_LABEL = "Participant"
 
-client = anthropic.Anthropic()  # reads ANTHROPIC_API_KEY from env
+def ask_claude(prompt: str) -> str:
+    """Call Claude Code in headless mode (`claude -p`). Authenticates via
+    CLAUDE_CODE_OAUTH_TOKEN (from `claude setup-token`, tied to your Pro/Max
+    login) rather than a separate API console key — no separate developer
+    account or ID verification needed."""
+    result = subprocess.run(
+        ["claude", "-p", prompt, "--output-format", "text"],
+        capture_output=True, text=True, timeout=120,
+    )
+    if result.returncode != 0:
+        raise RuntimeError(f"claude -p failed: {result.stderr.strip()}")
+    return result.stdout.strip()
 
 
 # ---------------------------------------------------------------------------
@@ -120,12 +141,7 @@ client = anthropic.Anthropic()  # reads ANTHROPIC_API_KEY from env
 # ---------------------------------------------------------------------------
 
 def generate_persona(lang_label: str) -> str:
-    resp = client.messages.create(
-        model="claude-sonnet-4-6",
-        max_tokens=400,
-        messages=[{"role": "user", "content": PERSONA_CONSTRAINTS}],
-    )
-    return resp.content[0].text
+    return ask_claude(PERSONA_CONSTRAINTS)
 
 
 def generate_answer(persona: str, lang_label: str, question: str, history: list) -> str:
@@ -155,12 +171,7 @@ Interviewer just said: {question}
 
 Your reply (in {lang_label} only):
 """
-    resp = client.messages.create(
-        model="claude-sonnet-4-6",
-        max_tokens=300,
-        messages=[{"role": "user", "content": prompt}],
-    )
-    return resp.content[0].text.strip()
+    return ask_claude(prompt)
 
 
 # ---------------------------------------------------------------------------
