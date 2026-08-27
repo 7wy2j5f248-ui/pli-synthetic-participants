@@ -35,7 +35,6 @@ kill and resume safely (it skips interviews already marked "completed").
 import argparse
 import json
 import os
-import re
 import time
 import uuid
 from datetime import datetime, timezone
@@ -71,14 +70,14 @@ def save_debug_snapshot(page, tag: str):
             body_text = "(could not read body text)"
         try:
             matches = page.evaluate(
-                "Array.from(document.querySelectorAll('#participantIdBox'))"
-                ".map(el => ({outerHTML: el.outerHTML, visible: el.offsetParent !== null}))"
+                "(() => { const el = document.getElementById('generatedId'); "
+                "return el ? {textContent: el.textContent, visible: el.offsetParent !== null} : null; })()"
             )
         except Exception:
-            matches = "(could not query participantIdBox)"
+            matches = "(could not query #generatedId)"
         (DEBUG_DIR / f"{tag}_diagnostics.txt").write_text(
             f"visible body text:\n{body_text}\n\n"
-            f"#participantIdBox matches (should be exactly 1):\n{matches}\n"
+            f"#generatedId element:\n{matches}\n"
         )
     except Exception as e:
         (DEBUG_DIR / f"{tag}_snapshot_failed.txt").write_text(str(e))
@@ -244,17 +243,24 @@ def run_single_interview(page, lang_code: str, lang_label: str, run_id: str, idx
     page.wait_for_load_state("networkidle")
 
     # 3. Consent form (consent.html) — select "new participant", capture ID, agree
+    #
+    # Real page structure (confirmed from captured source):
+    #   #participantIdBox  -> for RETURNING participants (stays hidden — this
+    #                         was mistakenly what earlier versions checked)
+    #   #generatedIdBox    -> shown for NEW participants; the actual ID text
+    #                         lives in the #generatedId element inside it.
+    # Using textContent (not innerText) avoids a headless-only quirk where
+    # innerText depends on layout being flushed, which can lag in headless
+    # Chromium until something (like a screenshot) forces a reflow.
     page.click(SELECTORS["new_participant_radio"])
-    # Wait on the page's actual visible text rather than a specific element's
-    # state — sidesteps any risk of duplicate/hidden elements sharing this id,
-    # and headless-vs-headed rendering quirks seen in earlier debug captures.
     page.wait_for_function(
-        "() => /P\\d{6,}/.test(document.body.innerText || '')",
-        timeout=45000,
+        """() => {
+            const el = document.getElementById('generatedId');
+            return el && /P\\d{6,}/.test(el.textContent || '');
+        }""",
+        timeout=15000,
     )
-    body_text = page.evaluate("document.body.innerText")
-    id_match = re.search(r"\bP\d{6,}\b", body_text)
-    participant_id = id_match.group(0) if id_match else "UNKNOWN"
+    participant_id = page.evaluate("document.getElementById('generatedId').textContent").strip()
     page.click(SELECTORS["consent_agree_button"])
     page.wait_for_load_state("networkidle")
 
