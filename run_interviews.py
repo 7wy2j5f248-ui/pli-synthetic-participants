@@ -144,10 +144,10 @@ SELECTORS = {
 # Each message in #chat looks like:
 #   <p class="chat-message"><b><bdi class="message-label">AI</bdi>:</b>
 #    <bdi class="message-content">text</bdi></p>
-# label is "AI" for the interviewer, "Participant" for the participant's own
-# (echoed) messages.
-INTERVIEWER_LABEL = "AI"
-PARTICIPANT_LABEL = "Participant"
+# The label text itself is translated per language (e.g. French "IA"), so
+# interviewer-vs-participant is determined by position in the strictly
+# alternating sequence (see is_interviewer_turn below), not by matching
+# this label text.
 
 def ask_claude(prompt: str) -> str:
     """Call Claude Code in headless mode (`claude -p`). Authenticates via
@@ -298,7 +298,15 @@ def run_single_interview(page, lang_code: str, lang_label: str, run_id: str, idx
         seen_count = len(messages)
         latest = messages[-1]
 
-        if latest["label"] != INTERVIEWER_LABEL:
+        # The chat strictly alternates interviewer -> participant, starting
+        # with the interviewer (index 0, 2, 4, ... are interviewer turns).
+        # Deliberately NOT matching on latest["label"] here: that label text
+        # is itself translated per language (French "IA" instead of "AI",
+        # etc.), so English-only matching silently stalled every non-English
+        # interview where "AI" isn't the literal on-page word. Position in
+        # the strictly-alternating sequence is language-independent.
+        is_interviewer_turn = (len(messages) % 2 == 1)
+        if not is_interviewer_turn:
             # Unexpected state (e.g. our own message hasn't been followed by
             # a reply yet) — wait one more beat and re-check.
             page.wait_for_timeout(1000)
