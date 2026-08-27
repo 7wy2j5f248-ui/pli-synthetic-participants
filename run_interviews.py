@@ -134,7 +134,7 @@ SELECTORS = {
     "language_link": None,               # auto-derived from LANGUAGES label
     "welcome_continue_button": "text=Continue",         # welcome.html
     "consent_new_participant_radio": "text=I am a new participant",  # consent.html
-    "consent_agree_button": "text=I Agree",             # consent.html
+    "consent_agree_button": "#agreeButton",           # consent.html
     "new_participant_radio": "#newParticipant",
     "participant_id_label": "#generatedParticipantIdLabel",
     "chat_container": "#chat",                          # interview.html
