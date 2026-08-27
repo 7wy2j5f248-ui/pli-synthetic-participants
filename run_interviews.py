@@ -132,11 +132,9 @@ SELECTORS = {
     # link/button for each language on the landing screen (index.html);
     # matched by visible text, e.g. get_by_text("Français")
     "language_link": None,               # auto-derived from LANGUAGES label
-    "welcome_continue_button": "text=Continue",         # welcome.html
-    "consent_new_participant_radio": "text=I am a new participant",  # consent.html
-    "consent_agree_button": "#agreeButton",           # consent.html
+    "welcome_continue_button": "#continueButton",       # welcome.html
     "new_participant_radio": "#newParticipant",
-    "participant_id_label": "#generatedParticipantIdLabel",
+    "consent_agree_button": "#agreeButton",             # consent.html
     "chat_container": "#chat",                          # interview.html
     "chat_message": "#chat p.chat-message",
     "chat_input": "#message",
