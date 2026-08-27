@@ -1,28 +1,28 @@
 # .github/workflows/run-interviews.yml
 #
 # Runs the synthetic PLI interview script entirely on GitHub's servers.
-# You trigger it manually (or on a schedule) and walk away - no local
+# You trigger it manually (or on a schedule) and walk away — no local
 # machine needs to stay on, and nobody has to sit through interviews.
 #
 # This uses your existing Claude Pro/Max subscription via Claude Code's
-# headless mode - NOT the API console - so there is no separate developer
+# headless mode — NOT the API console — so there is no separate developer
 # account, credit card, or identity verification required.
 #
 # SETUP (one-time):
-# 1. Put run_interviews.py in the repo root (or update working-directory
+# 1. Put run_interviews.py in the repo root (or update `working-directory`
 #    below to match wherever you place it).
 # 2. On your own computer (anywhere with a browser), run:
 #      npm install -g @anthropic-ai/claude-code
 #      claude setup-token
-#    This opens a normal login in your browser (same login as claude.ai -
+#    This opens a normal login in your browser (same login as claude.ai —
 #    no ID upload for this flow) and prints a long-lived OAuth token
 #    starting with sk-ant-oat...  Copy it.
 # 3. Add a repo secret: Settings -> Secrets and variables -> Actions ->
 #    New repository secret -> name it CLAUDE_CODE_OAUTH_TOKEN -> paste the
 #    token from step 2.
 # 4. Commit this file to .github/workflows/run-interviews.yml
-# 5. Go to the Actions tab on GitHub -> Run interviews workflow ->
-#    Run workflow -> choose mode (pilot/full) -> Run.
+# 5. Go to the "Actions" tab on GitHub -> "Run interviews" workflow ->
+#    "Run workflow" -> choose mode (pilot/full) -> Run.
 # 6. Watch progress live in the Actions tab, or just close the tab and
 #    check back later. When it finishes, run_log.jsonl and transcripts/
 #    are uploaded as a downloadable artifact on that run's summary page.
@@ -30,11 +30,11 @@
 # NOTE: this draws from your Pro plan's normal usage limits, not
 # pay-per-token billing. The full 900-interview run is a meaningful chunk
 # of usage and may need to be split across multiple days if you hit your
-# plan's caps - rerun with the same mode and it skips already-completed
-# interviews.
+# plan's caps — rerun with the same mode and it skips already-completed
+# interviews (see load_completed_keys() in the script).
 #
 # private-local/ (hidden personas) is deliberately NOT uploaded as an
-# artifact and NOT committed - it stays out of anything you or anyone
+# artifact and NOT committed — it stays out of anything you or anyone
 # else can see, per CLAUDE.md's non-negotiable privacy rule.
 
 name: Run interviews
@@ -56,7 +56,7 @@ on:
 jobs:
   run-interviews:
     runs-on: ubuntu-latest
-    timeout-minutes: 2880
+    timeout-minutes: 2880  # up to 48h; the full 900-interview run is long and sequential
 
     steps:
       - name: Check out repo
@@ -78,6 +78,13 @@ jobs:
           playwright install --with-deps chromium
           npm install -g @anthropic-ai/claude-code
 
+      - name: Verify Claude Code auth (preflight check)
+        env:
+          CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+        run: |
+          claude --version
+          claude -p "Reply with exactly: OK" --output-format text --dangerously-skip-permissions
+
       - name: Run interviews
         env:
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
@@ -89,7 +96,7 @@ jobs:
           python run_interviews.py $ARGS
 
       - name: Upload results (transcripts + log)
-        if: always()
+        if: always()  # upload whatever we have even if the run was stopped/blocked partway
         uses: actions/upload-artifact@v4
         with:
           name: interview-results-${{ inputs.mode }}-${{ github.run_id }}
@@ -97,3 +104,5 @@ jobs:
             run_log.jsonl
             transcripts/
           retention-days: 90
+          # NOTE: private-local/ is intentionally excluded — hidden personas
+          # never leave the runner.
