@@ -1,0 +1,127 @@
+{
+  "run_id": "FULL-20260827070823",
+  "language": "en",
+  "index": 13,
+  "started_at": "2026-08-27T07:34:40.357907+00:00",
+  "participant_id": "P1787816066510",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Welcome to the interview."
+    },
+    {
+      "role": "participant",
+      "text": "Bloke, alright — go on then, what's this for exactly?"
+    },
+    {
+      "role": "interviewer",
+      "text": "This is a research interview about your recent sleep, especially last night and the past couple of weeks, and how things like technology or daily routines might relate to it.\n\nYou’ve already seen the consent info; you’re free to skip any question or stop at any time. There are no right or wrong answers — we’re just interested in your own experience.\n\nTo start off: What time did you go to bed last night?"
+    },
+    {
+      "role": "participant",
+      "text": "Went to bed later than usual, if I'm honest — about one, gone one. There was a football match on, extra time, penalties, the whole business. Otherwise it'd have been half eleven, normally."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that makes sense.\n\nApproximately how many hours did you sleep last night? Would you say you slept well? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Slept maybe five, five and a half hours. Not great, but not a disaster either — mostly down to staying up for the match, not anything else. Woke up a bit groggy but I put that squarely on me and the penalty shootout, nothing more sinister than that."
+    },
+    {
+      "role": "interviewer",
+      "text": "Got it, thanks for explaining that.\n\nWhat was the last activity you engaged in before going to bed, after the match finished? And why did you choose to do that before turning in?"
+    },
+    {
+      "role": "participant",
+      "text": "Nothing much, honestly — just switched the telly off, checked the doors were locked, and went straight to bed. Didn't fancy winding down properly, just wanted to get horizontal after all that penalty drama."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that’s clear.\n\nThinking about the past two weeks, what factors have most affected your sleep quality?"
+    },
+    {
+      "role": "participant",
+      "text": "Past couple of weeks — honestly not much stands out. Bit of noise from next door some nights, they seem to think two in the morning's a fine time to be moving furniture around, but that's more an occasional annoyance than a proper pattern. Otherwise, ordinary stuff, nothing dramatic."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that’s helpful.\n\nIs that pretty typical for you, or has something changed in your sleep over the past few weeks compared with how it usually is?"
+    },
+    {
+      "role": "participant",
+      "text": "Yeah, that's pretty typical actually. I mean the odd bad night here and there's normal for me — has been for years. Nothing's really changed, if that's what you're asking. I don't sleep like I did in my twenties, but that's just age, isn't it, not some new development."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that’s clear.\n\nYou’ve probably heard the advice that adults should get 7–9 hours of sleep a night. Does that feel practical for you right now?"
+    },
+    {
+      "role": "participant",
+      "text": "Not really, no — seven to nine's a bit of a fantasy for me most weeks. Six's more the reality, and I get by fine on it. I reckon if you're not falling asleep at the wheel, you're doing alright, whatever the number says."
+    },
+    {
+      "role": "interviewer",
+      "text": "What tends to make it easy or difficult for you to actually get more than six hours of sleep?"
+    },
+    {
+      "role": "participant",
+      "text": "Easy is when I've had a proper walk that day and nobody's up banging about at 2am. Hard is when my head's still buzzing from something — like a match that goes to penalties — or I've had that second coffee too late in the day. Honestly though, half the time I couldn't tell you why one night's better than another."
+    },
+    {
+      "role": "interviewer",
+      "text": "That’s helpful, thank you.\n\nMany people check their mobile phones, tablets, or computers right before bed. Do you do this, too? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Not much, honestly — phone stays on the kitchen counter charging, not by the bed. Old habit more than a deliberate wellness thing, I just never got into scrolling in bed. Might glance at it once for the football scores before I switch the telly off, that's about it."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that’s helpful.\n\nDo you regularly use social media at all? If yes, how do you typically use it, especially in the hours before bed?"
+    },
+    {
+      "role": "participant",
+      "text": "Not really into it, no — I had a Facebook years back for the driving school but I barely touch it these days. Definitely not lying there scrolling Instagram or whatever before bed, that's more my daughter's department than mine."
+    },
+    {
+      "role": "interviewer",
+      "text": "Got it, thanks.\n\nNow a quick question about technology in general: Do you regularly use AI chatbots, like ChatGPT, Gemini, Claude, or similar apps? If yes, what do you mainly use them for?"
+    },
+    {
+      "role": "participant",
+      "text": "Not really, no — I've had a poke around with one of those chatbot things when my daughter showed me, mostly just to see what the fuss was about. Don't use it regularly for anything, I'd rather just look things up myself or ask someone who actually knows."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that’s clear.\n\nSince you don’t really use social media or AI chatbots regularly, I’ll skip ahead a bit.\n\nIf you could improve one thing about your sleeping habits, what would it be?"
+    },
+    {
+      "role": "participant",
+      "text": "Honestly? The 3am wake-up for the bathroom — I'd happily do without that bit. Everything else I can live with, but that one's just annoying more than anything else."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that’s helpful to know.\n\nGiven your work, daily routine, and everything else you’ve got on, do you think cutting out that 3am wake-up would realistically be doable, or does it feel like one of those things you just have to put up with?"
+    },
+    {
+      "role": "participant",
+      "text": "Yeah, doable, but I'm not going to rearrange my life over it. A middle-aged bladder doesn't care about my schedule. If I cut the evening beer maybe it'd help a bit, but honestly some nights it's not even the beer — I just wake up, go, and I'm back asleep in two minutes. Not worth losing sleep over losing sleep, if that makes sense."
+    },
+    {
+      "role": "interviewer",
+      "text": "That does make sense, thank you.\n\nA couple of optional background questions now. Feel free to skip anything you’d rather not share.\n\nCould you tell me:\n• Your age;\n• Your profession;\n• Your country of birth;\n• Your current country of residence; and\n• If those are different, when you moved?"
+    },
+    {
+      "role": "participant",
+      "text": "Fifty-eight. Driving instructor — well, semi-retired, so mostly still a driving instructor. Born and still living in the same country, never moved anywhere, so that last bit doesn't really apply to me."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for sharing that, that’s all the interview questions I had.\n\nBefore we wrap up, is there anything else about your sleep, your evenings, or anything we’ve talked about today that you’d like to add?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T07:36:08.891691+00:00"
+}

@@ -1,0 +1,143 @@
+{
+  "run_id": "FULL-20260827070823",
+  "language": "en",
+  "index": 32,
+  "started_at": "2026-08-27T08:15:02.555722+00:00",
+  "participant_id": "P1787818490764",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Welcome to the interview."
+    },
+    {
+      "role": "participant",
+      "text": "\"Morning. Ready when you are.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "What time did you go to bed last night?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Around eleven, but that's later than usual — had a callout that ran late. Read on my phone for a bit before I actually dozed off.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for sharing that. What were you reading on your phone before you fell asleep?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Nothing exciting — just some local news, then I ended up scrolling through a forum about old motorcycle repairs. Not exactly bedtime reading, I know.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Approximately how many hours did you sleep last night? Would you say you slept well? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Six, maybe six and a half. Slept alright, I guess — woke up a few times but that's normal for me. Was up for good by five, didn't bother trying to get more.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "What was the last activity you engaged in before going to bed, and why did you choose to do that activity?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Just closed things up — locked the toolbox, put my phone on the charger, and got into bed. Nothing fancy, that's just the routine after a late job.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Over the past two weeks, what factors have most affected your sleep quality?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Honestly, the callouts — you never know when the phone's going to ring, and that throws the whole week off. Other than that, same as always: up early out of habit, radio humming in the background, nap if I need it.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Is that pretty typical for you, or has something changed recently with your sleep over these past couple of weeks?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Pretty typical, yeah. Been like this for years — I just don't fight it anymore.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Overall, are you happy with how you are sleeping these days? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Yeah, I don't mind it. Six hours that mostly work for me beats eight hours I have to fight for. It is what it is at this point.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "You’ve probably heard the advice that adults should get 7–9 hours of sleep a night. Does that feel practical for you right now?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Practical? Not really, not with this job. If the phone doesn't ring till nine I'm not going to lie there waiting for hour seven just to hit a number.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "What makes it easy or difficult for you to actually get that much sleep?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Not much easy about it, honestly. Some nights the phone doesn't ring and I could sleep through, but my body clock's still stuck on early starts from thirty years of trade work, so 4:30 rolls around and that's that. The unpredictable jobs make it worse, but even on quiet weeks I don't think I'd hit nine hours — that ship's sailed.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Many people check their mobile phones, tablets, or computers right before bed. Do you do this too? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Nah, not really — phone's more useful in the morning telling me who wants a lock picked. At night I'll sometimes read on it if I can't sleep, but that's more filling time than habit.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. Do you regularly use social media? If yes, how do you typically use it, especially in the hours before bed?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Nah, not big on social media. I'll check messages from my daughter or whatever, but I'm not scrolling feeds at midnight — got better things to do, like sleep, apparently.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Got it, thanks. Now a quick question about technology in general: do you regularly use AI chatbots, like ChatGPT, Gemini, Claude, or similar apps?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Nah, don't mess with that stuff. I can already barely trust the GPS to get me to a job on time, not putting my sleep problems in the hands of a robot.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that’s helpful to know. Since you don’t really use social media or AI chatbots, we’ve covered what we need for that part.\n\nIf you could improve one thing about your sleeping habits, what would it be?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Guess I'd want the middle bit to stick — falling asleep's never the issue, it's staying that way past 4:30. Wouldn't mind trading a few of those broken hours for two solid ones.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Given your work, studies, or daily responsibilities, do you think that change—sleeping through those early-morning hours—would be doable? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Doable enough, sure — no jobs, no alarm, nothing stopping me but my own wiring. It's not the schedule fighting me at that hour, it's whatever's left of the old habit clock. I could probably train it out over time, but honestly I've stopped fighting it — I just get up and get on with the day.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that.\n\nA few final background questions, and feel free to skip anything you’d rather not share:\n\n• Your age;\n• Your profession;\n• Your country of birth;\n• Your current country of residence;\n• If different from above, when did you move?"
+    },
+    {
+      "role": "participant",
+      "text": "\"58, been fixing locks for near forty years now — trade I fell into, never regretted it. Born and still living in the same town I grew up in, so no big moves to report. Never had a reason to leave.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for sharing that background, that’s all very clear.\n\nBefore we wrap up, is there anything else you’d like to add about your sleep or your routine that we haven’t talked about?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T08:16:41.734581+00:00"
+}

@@ -1,0 +1,127 @@
+{
+  "run_id": "FULL-20260827070823",
+  "language": "en",
+  "index": 18,
+  "started_at": "2026-08-27T07:44:24.313885+00:00",
+  "participant_id": "P1787816653554",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Welcome to the interview."
+    },
+    {
+      "role": "participant",
+      "text": "Oh, hey — sure, happy to be here. Fire away."
+    },
+    {
+      "role": "interviewer",
+      "text": "What time did you go to bed last night?"
+    },
+    {
+      "role": "participant",
+      "text": "Went to bed around one, maybe a little after — I was up late fixing a radio for a customer who needed it back first thing this morning, so it ran later than usual for me."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for sharing that. What was the last activity you engaged in before actually going to sleep—were you working on the radio right up until then, or doing something else just before bed?"
+    },
+    {
+      "role": "participant",
+      "text": "Just finishing up the radio — I soldered the last connection, tested it played okay, then just shut off the shop lights and went up to bed. No wind-down routine really, just straight from the workbench to under the covers."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that’s clear. \n\nApproximately how many hours did you sleep last night, and would you say you slept well? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Slept about six hours, give or take — hard to say exactly since I woke up a couple times to hit the bathroom. Wouldn't call it great, but it wasn't bad either — I was more tired from staying up late than from the sleep itself being choppy."
+    },
+    {
+      "role": "interviewer",
+      "text": "Over the past two weeks, what factors have most affected your sleep quality?"
+    },
+    {
+      "role": "participant",
+      "text": "Over the past two weeks, it's mostly been the shop's hours — I'm up late a lot when jobs run behind, so bedtime slides around depending on how busy the week is. Otherwise nothing major, just my usual habit of leaving that little radio on overnight, which honestly helps more than it hurts."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that makes sense. Would you say this pattern over the past two weeks is pretty typical for you, or has something changed recently?"
+    },
+    {
+      "role": "participant",
+      "text": "Pretty typical, yeah. This is more or less how it's been for years — the hours just shift around depending on how busy the shop gets. Nothing's really changed recently."
+    },
+    {
+      "role": "interviewer",
+      "text": "Overall, are you happy with how you’re sleeping these days, or not so much? Why do you say that?"
+    },
+    {
+      "role": "participant",
+      "text": "Not so much, honestly — I get by, but waking up groggy after only six hours isn't exactly ideal. It's less \"sleep problem\" and more just the cost of running a shop on my own schedule instead of a normal one."
+    },
+    {
+      "role": "interviewer",
+      "text": "You’ve probably heard the advice that adults should get 7–9 hours of sleep a night. Does that feel practical for you right now?"
+    },
+    {
+      "role": "participant",
+      "text": "Not really, no — with my hours, seven to nine hours would mean going to bed around sundown and I'd be missing customers all evening. Six or so works fine for me, I just don't buy into the idea that everyone's supposed to run on the same schedule."
+    },
+    {
+      "role": "interviewer",
+      "text": "What makes it easy or difficult for you to actually get that much sleep—around 7–9 hours—in your current situation?"
+    },
+    {
+      "role": "participant",
+      "text": "Honestly, the shop's the biggest thing — when I've got jobs stacking up, I'm not closing the door till whenever, so bedtime just isn't in my control most nights. On the flip side, once I do lay down I fall asleep pretty easy, no trouble there, it's just getting to that point at a reasonable hour that's the tricky part."
+    },
+    {
+      "role": "interviewer",
+      "text": "Many people check their phones, tablets, or computers right before bed. Do you do this too? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Not really, no — by the time I'm closing up it's late enough I just want to lie down, and honestly staring at a screen doesn't help me wind down anyway. I'll maybe glance at the phone to check the time or an alarm, but that's about it."
+    },
+    {
+      "role": "interviewer",
+      "text": "Do you regularly use social media? If so, how do you typically use it, especially in the hours before bed?"
+    },
+    {
+      "role": "participant",
+      "text": "Not really, no — I've never gotten into that habit. If I'm on my phone at night it's just checking messages from customers or the time, not scrolling through feeds."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that’s helpful to know.\n\nNow a couple of quick questions about technology in general: Do you regularly use AI chatbots, like ChatGPT, Gemini, Claude, or similar apps?"
+    },
+    {
+      "role": "participant",
+      "text": "Not really, no — I'm not one for chatbots or anything like that. I've got customers to deal with in person all day, I don't need one more screen talking back at me."
+    },
+    {
+      "role": "interviewer",
+      "text": "That makes sense, thanks for explaining.\n\nIf you could improve one thing about your sleeping habits, what would it be?"
+    },
+    {
+      "role": "participant",
+      "text": "Honestly? Getting to bed earlier when I don't have a rush job — even shaving off half an hour would probably help, but I won't lose sleep over it, pun intended."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for sharing that.\n\nJust a few brief background questions, and feel free to skip anything you’d rather not share:\n\nWhat is your age, your profession, your country of birth, your current country of residence, and (if different) when you moved there?"
+    },
+    {
+      "role": "participant",
+      "text": "58, I run an appliance-repair shop, born here in the States and never really left this city — moved here in my twenties for the apprenticeship and just stuck around."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that’s all the main questions I had.\n\nBefore we wrap up, is there anything else you’d like to add about your sleep, your routine, or anything we talked about today?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T07:46:00.169361+00:00"
+}

@@ -1,0 +1,143 @@
+{
+  "run_id": "FULL-20260827070823",
+  "language": "en",
+  "index": 3,
+  "started_at": "2026-08-27T07:13:40.518886+00:00",
+  "participant_id": "P1787814801311",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Welcome to the interview."
+    },
+    {
+      "role": "participant",
+      "text": "Nice to be here. I've had my coffee and I'm ready to go — fire away!"
+    },
+    {
+      "role": "interviewer",
+      "text": "What time did you go to bed last night?"
+    },
+    {
+      "role": "participant",
+      "text": "Went to bed around 10:30, read for maybe twenty minutes like usual, and was out by 11."
+    },
+    {
+      "role": "interviewer",
+      "text": "That sounds like a nice routine. What were you reading last night?"
+    },
+    {
+      "role": "participant",
+      "text": "Just a mystery novel I've had going for a while — nothing fancy, just something to unwind with before the lights go out."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for sharing that. Approximately how many hours did you sleep last night? Would you say you slept well? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Slept about seven hours, I'd say — and yeah, I'd call it a good night. Didn't wake up till my usual little 3am check-in, and was right back under within a few minutes, so nothing that really counted as trouble."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that makes sense. What was the last activity you engaged in before going to bed, and why did you choose to do that activity?"
+    },
+    {
+      "role": "participant",
+      "text": "Just brushed my teeth and turned off the bedroom lamp — nothing exciting, that's pretty much the last thing every night before I pick up the book."
+    },
+    {
+      "role": "interviewer",
+      "text": "Got it, thanks. Over the past two weeks, what factors have most affected your sleep quality?"
+    },
+    {
+      "role": "participant",
+      "text": "Over the past two weeks it's really just been the usual — nothing's thrown me off much. I'd say the biggest thing is just staying off screens after nine, that seems to keep my head clearer. Oh, and we had a stretch of hot, sticky weather last week that made a couple of nights a bit more restless than usual, but that's about it."
+    },
+    {
+      "role": "interviewer",
+      "text": "Is this pretty typical for you, or has something changed recently with your sleep over the past couple of weeks?"
+    },
+    {
+      "role": "participant",
+      "text": "Pretty typical, honestly — nothing's really changed. That hot spell last week was the only wrinkle, and even that wasn't a big deal, just a couple of sticky nights where I kicked the blankets off more than usual."
+    },
+    {
+      "role": "interviewer",
+      "text": "Overall, are you happy with how you are sleeping these days? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Yeah, I'd say so. Nothing to complain about — I still get up feeling rested, that little 3am thing doesn't bother me anymore than it ever has, and honestly, aside from that muggy stretch last week, it's been the same steady sleep I've had for years now."
+    },
+    {
+      "role": "interviewer",
+      "text": "You’ve probably heard the advice that adults should get 7–9 hours of sleep a night. Does that feel practical for you right now?"
+    },
+    {
+      "role": "participant",
+      "text": "That feels totally practical for me — I'm generally getting around seven, sometimes closer to seven and a half, so I'm right in that range already. I don't chase eight or nine, though; that's never really been how my body works, and I don't lose sleep over the couple hours' difference."
+    },
+    {
+      "role": "interviewer",
+      "text": "What makes it easy or difficult for you to actually get that much sleep?"
+    },
+    {
+      "role": "participant",
+      "text": "Well, mostly it's easy — being retired from the office grind and setting my own hours for bookkeeping helps a lot, I'm not fighting an alarm clock most days. If anything gets in the way it's just my own restlessness some nights, like when it's too warm, but that's rare enough it doesn't really change the overall picture."
+    },
+    {
+      "role": "interviewer",
+      "text": "Many people check their mobile phones, tablets, or computers right before bed. Do you do this, too? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Yeah, I do use my phone before bed a bit, mostly checking the weather for the next day or reading a few pages on my tablet — but I try to shut it off by nine, that's just something I've noticed works better for me over the years. Nobody told me to, I just settled into it."
+    },
+    {
+      "role": "interviewer",
+      "text": "Do you regularly use social media? If yes, how do you typically use it, especially in the hours before bed?"
+    },
+    {
+      "role": "participant",
+      "text": "I don't really, no — I have a Facebook account mostly to see photos my son posts, but I'm not one to scroll it much, and definitely not before bed. Never got into the habit, honestly, and I don't miss it."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that’s clear. Now a couple of quick questions about technology in general: Do you regularly use AI chatbots, such as ChatGPT, Gemini, Claude, or similar applications?"
+    },
+    {
+      "role": "participant",
+      "text": "I don't use those, no — I've heard my son talk about ChatGPT for his work, but I've never had a reason to try one myself. Not really my thing."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. If you could improve one thing about your sleeping habits, what would it be?"
+    },
+    {
+      "role": "participant",
+      "text": "Something I'd probably nudge is not needing that three a.m. wake-up out of habit — it's harmless, but if I could just sleep straight through I imagine I'd feel even more rested. It's minor though, I'm not losing sleep over it, so to speak."
+    },
+    {
+      "role": "interviewer",
+      "text": "Given your work, studies, or daily responsibilities, do you think that change—sleeping straight through without the 3 a.m. wake-up—would be doable? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Doable, sure — nobody's making me get up at three, so it's not like there's a deadline pushing on it either way. I think it'd just take my body deciding to let go of the old habit, honestly, and that's not really something I can schedule.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that’s helpful to know. Now a few background questions. (Feel free to skip anything you’d rather not share.)\n\nWhat is your age, your profession, your country of birth, your current country of residence, and—if they’re different—when did you move?"
+    },
+    {
+      "role": "participant",
+      "text": "\"58, work part-time doing bookkeeping for a couple of farm-supply businesses out here. Born and raised in Canada, actually — small prairie town originally, still in the country, just moved out to this spot near Winnipeg after my kids were grown, so no big move across borders or anything like that.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thank you for sharing all of that. Before we wrap up, is there anything else about your sleep, your evening routine, or your experience with technology and sleep that you’d like to add?\n\nIf not, we’re all done—thanks very much for taking part in this interview today."
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T07:15:25.827575+00:00"
+}

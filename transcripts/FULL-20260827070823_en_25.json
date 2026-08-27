@@ -1,0 +1,135 @@
+{
+  "run_id": "FULL-20260827070823",
+  "language": "en",
+  "index": 25,
+  "started_at": "2026-08-27T07:59:06.234266+00:00",
+  "participant_id": "P1787817534003",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Welcome to the interview."
+    },
+    {
+      "role": "participant",
+      "text": "Not much to report, honestly. Slept okay-ish, up a bit late."
+    },
+    {
+      "role": "interviewer",
+      "text": "What time did you actually go to bed last night?"
+    },
+    {
+      "role": "participant",
+      "text": "Around 1am, maybe a bit after. Later than I'd like."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for sharing that. Approximately how many hours did you sleep last night, and would you say you slept well? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Honestly, I'd guess around five hours, broken up. Wouldn't call it a good night — I was still stewing over a conversation with my son before I finally dropped off, and I woke up a couple times after that too."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. What was the last activity you engaged in before going to bed, and why did you choose to do that?"
+    },
+    {
+      "role": "participant",
+      "text": "Reading sports news on his phone, tired but not sleepy — trying to get his mind off the conversation with his son rather than lying there stewing."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. Over the past two weeks, what factors have most affected your sleep quality?"
+    },
+    {
+      "role": "participant",
+      "text": "Honestly, probably work — I had a couple of weekend inventory counts that threw off my routine, so my sleep and wake times got a bit scrambled. And then this thing with my son about money's been on my mind more than I'd like, so a few nights I've just been lying there running the conversation over in my head instead of sleeping."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for sharing that. Would you say the way your sleep has been over these past two weeks is pretty typical for you, or has something changed recently?"
+    },
+    {
+      "role": "participant",
+      "text": "Yeah, honestly, not too far off my normal — I'm usually a light sleeper anyway, wake once or twice most nights. The last couple weeks it's been a bit worse just because of the weekend shifts and this money thing with my son. Nothing new, just more of it."
+    },
+    {
+      "role": "interviewer",
+      "text": "Overall, are you happy with how you are sleeping these days? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Fine, could be worse. I'm functional, I get through the day — it's just not the deep, solid sleep I used to get. But honestly, that's less about the sleep itself and more about having a few things on my mind lately.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thank you for explaining that. You’ve probably heard the advice that adults should get 7–9 hours of sleep a night. Does that feel practical for you right now?"
+    },
+    {
+      "role": "participant",
+      "text": "\"7 to 9? Honestly, no. With my schedule I'm looking at more like six, six and a half most nights. I've made peace with it — as long as I wake up at a decent time and can function, I don't stress too much about hitting some number.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "What, if anything, makes it easier or harder for you to actually get that much sleep?"
+    },
+    {
+      "role": "participant",
+      "text": "Makes it easier if I'm actually tired when I get into bed — those weekend counts mess that up because I'm eating and sleeping at weird times. And keeping my phone away helps, when I remember to. Harder is obviously the money stuff with my son — once my head starts going over that, there's not much that gets it to stop."
+    },
+    {
+      "role": "interviewer",
+      "text": "Many people check their phones, tablets, or computers right before bed. Do you do this too? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Yeah, guilty as charged — sports scores, mostly, or the news. If I wake up in the night that's usually what I reach for instead of getting up and moving around. Probably not doing me any favors, but it's become the habit."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. Do you regularly use social media? If so, how do you typically use it, especially in the hours before bed?"
+    },
+    {
+      "role": "participant",
+      "text": "Not really, no. Not much interest in scrolling through that at night — sports scores are enough of a rabbit hole for me."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for clarifying that. Now a quick question about technology in general: Do you regularly use AI chatbots, like ChatGPT, Gemini, Claude, or similar apps?"
+    },
+    {
+      "role": "participant",
+      "text": "Not really, no — I've poked around with one out of curiosity a couple times, but it's not part of my routine."
+    },
+    {
+      "role": "interviewer",
+      "text": "Since you don’t really use social media or AI chatbots regularly, we’ll move on. If you could improve one thing about your sleeping habits, what would it be?"
+    },
+    {
+      "role": "participant",
+      "text": "Could be worse, but honestly — cutting off the phone scrolling in the middle of the night. Just getting up instead, moving around a bit rather than lying there feeding my brain more stuff to chew on."
+    },
+    {
+      "role": "interviewer",
+      "text": "Given your work, studies, or daily responsibilities, do you think that kind of change—cutting off the phone at night and getting up instead—would be doable for you? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Could be worse — cutting off the phone is the harder part. Getting up if I wake up isn't a scheduling problem, it's just breaking a habit. Weekend counts throw the whole routine off anyway, so those nights it wouldn't matter much either way."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. Now a couple of quick background questions. Please share only what you’re comfortable with:\n\n• Your age;\n• Your profession;\n• Your country of birth;\n• Your current country of residence;\n• (If different) when you moved there."
+    },
+    {
+      "role": "participant",
+      "text": "52. Warehouse logistics coordinator. Born in Portugal, still live here — never left, really, just moved around a bit within the country over the years."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for sharing that. Before we wrap up, is there anything else about your sleep, your evenings, or your routine that you’d like to add that we haven’t talked about?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T08:00:47.570741+00:00"
+}

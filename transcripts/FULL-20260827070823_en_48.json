@@ -1,0 +1,159 @@
+{
+  "run_id": "FULL-20260827070823",
+  "language": "en",
+  "index": 48,
+  "started_at": "2026-08-27T08:47:27.422422+00:00",
+  "participant_id": "P1787820429286",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Welcome to the interview."
+    },
+    {
+      "role": "participant",
+      "text": "Welcome, thanks."
+    },
+    {
+      "role": "interviewer",
+      "text": "What time did you go to bed last night?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Bed\" is a bit generous—but I got home around quarter past seven, showered, watched a bit of TV, and I'd say I was out by half eight or so."
+    },
+    {
+      "role": "interviewer",
+      "text": "Approximately how many hours did you sleep last night? Would you say you slept well? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Yeah, maybe five and a half hours, give or take. Woke up twice from some delivery truck banging around outside, so it wasn't great, but it's about what I expect after a first night shift.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "What was the last activity you engaged in before going to bed, and why did you choose to do that activity?"
+    },
+    {
+      "role": "participant",
+      "text": "Watched a bit of TV after my shower, then just shut it off when I started nodding off. Nothing fancy — after a night shift it's usually shower, decompress a little in front of the TV, and let myself get sleepy before I bother heading to bed."
+    },
+    {
+      "role": "interviewer",
+      "text": "Over the past two weeks, what factors have most affected your sleep quality?"
+    },
+    {
+      "role": "participant",
+      "text": "Over the past two weeks, honestly it's the noise more than anything — that delivery truck this morning wasn't a one-off, there's construction going on a couple streets over too. Otherwise it's just the usual back-and-forth between day shifts and night shifts, my body never really settles into one rhythm before it flips again."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. Is this pattern—noise and flipping between day and night shifts—pretty typical for you, or has something changed recently?"
+    },
+    {
+      "role": "participant",
+      "text": "Pretty typical, yeah — the shift flipping is just how the schedule works, four on four off, so I don't expect it to change. The construction noise is the newer part, that's only been going on the last couple weeks."
+    },
+    {
+      "role": "interviewer",
+      "text": "Overall, are you happy with how you are sleeping these days? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Yeah, I'd say I'm alright with it. It's not great sleep, but it's what comes with the job — I've made my peace with the flipping back and forth. The noise lately is more of an annoyance than anything, but that'll settle down once the construction's done.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "You’ve probably heard the advice that adults should get 7–9 hours of sleep a night. Does that feel practical for you right now?"
+    },
+    {
+      "role": "participant",
+      "text": "Yeah, honestly, not really — with the flipping schedule it's more like \"whatever I can grab.\" Some blocks I'll hit that seven, others I'm closer to five or six. I don't stress about the number too much, I just go by whether I feel functional."
+    },
+    {
+      "role": "interviewer",
+      "text": "What makes it easy or difficult for you to actually get that much sleep?"
+    },
+    {
+      "role": "participant",
+      "text": "Not much makes it easy, honestly — the schedule fights me. Blackout curtains and the fan help block out the noise, and I try not to have caffeine once I'm off shift, but really it comes down to whether the neighborhood cooperates that day."
+    },
+    {
+      "role": "interviewer",
+      "text": "Many people check their mobile phones, tablets, or computers right before bed. Do you do this, too? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Yeah, I do it, not gonna lie — usually just checking the weather or news for a few minutes while I'm winding down. Doesn't seem to keep me up any worse than usual, but I try to put it away once I actually turn the light off."
+    },
+    {
+      "role": "interviewer",
+      "text": "Do you regularly use social media? If yes, how do you typically use it, especially in the hours before bed?"
+    },
+    {
+      "role": "participant",
+      "text": "Nah, not really — I'm not much for scrolling social media before bed, maybe check the weather app but that's about it. I've got a Facebook I barely touch, mostly just to see photos my daughter posts."
+    },
+    {
+      "role": "interviewer",
+      "text": "Now a couple of quick questions about technology in general: Do you regularly use AI chatbots, such as ChatGPT, Gemini, Claude, or similar applications?"
+    },
+    {
+      "role": "participant",
+      "text": "No, I don't really mess with those AI chatbot things — not my area, and honestly I don't have much use for it day to day."
+    },
+    {
+      "role": "interviewer",
+      "text": "Since you don’t really use social media or AI chatbots regularly, let’s skip ahead.\n\nIf you could improve one thing about your sleeping habits, what would it be?"
+    },
+    {
+      "role": "participant",
+      "text": "Honestly? Getting a full night without waking up every hour. The two-chunk sleep on night shifts leaves me feeling kind of patched together instead of actually rested."
+    },
+    {
+      "role": "interviewer",
+      "text": "Given your work, studies, or daily responsibilities, do you think getting a full, uninterrupted night of sleep is doable for you right now? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Yeah, honestly, not really — not while I'm on this rotation. Every four days the shift flips, so my body never gets a real chance to settle into one sleep pattern before it's time to switch again."
+    },
+    {
+      "role": "interviewer",
+      "text": "Now a few background questions. Please skip anything you’d rather not share.\n\nWhat is your age?"
+    },
+    {
+      "role": "participant",
+      "text": "52."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thank you. What is your profession?"
+    },
+    {
+      "role": "participant",
+      "text": "Water treatment plant operator — I run one of the city's water plants. Been doing it about twenty years now."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks. What is your country of birth?"
+    },
+    {
+      "role": "participant",
+      "text": "Canada — born and raised, just moved around a bit inside the country. Thunder Bay originally, then out here to Winnipeg for the job."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thank you. What is your current country of residence?"
+    },
+    {
+      "role": "participant",
+      "text": "Canada — Winnipeg, Manitoba."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks. If you’re comfortable sharing: when did you move from Thunder Bay to Winnipeg?\n\nAfter this, we’ll be done with the main questions—if there’s anything else you’d like to add about your sleep or schedule, you’ll be welcome to share it."
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T08:49:15.860922+00:00"
+}

@@ -1,0 +1,159 @@
+{
+  "run_id": "FULL-20260827070823",
+  "language": "en",
+  "index": 12,
+  "started_at": "2026-08-27T07:32:07.111423+00:00",
+  "participant_id": "P1787815910500",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Welcome to the interview."
+    },
+    {
+      "role": "participant",
+      "text": "Mm, sure — happy to be here. Go ahead whenever you're ready."
+    },
+    {
+      "role": "interviewer",
+      "text": "What time did you go to bed last night?"
+    },
+    {
+      "role": "participant",
+      "text": "Around 2:30 in the morning, actually — later than I'd planned. Had a client's quarterly filing that wouldn't wrap itself up."
+    },
+    {
+      "role": "interviewer",
+      "text": "Approximately how many hours did you sleep last night? Would you say you slept well? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Probably around six hours, give it or take. I wouldn't say I slept \"well\" in the sense of it being deep and uninterrupted — I woke up twice to glance at my phone, which is a dumb habit I haven't kicked — but I felt reasonably okay by mid-morning. I've stopped expecting a perfect night's sleep, honestly, so \"good enough\" is my usual bar."
+    },
+    {
+      "role": "interviewer",
+      "text": "What was the last activity you engaged in before going to bed? Why did you choose to do that activity?"
+    },
+    {
+      "role": "participant",
+      "text": "Reading paperback thrillers, actually, propped up with the fan running for noise. It's the closest thing I have to a wind-down ritual — beats staring at another screen after a full day of spreadsheets."
+    },
+    {
+      "role": "interviewer",
+      "text": "That does sound like a nice ritual. Do you remember the title or author of the thriller you were reading last night, or what it was about?"
+    },
+    {
+      "role": "participant",
+      "text": "Yeah — it was one of the Jack Reacher ones, honestly can't remember which, they kind of blur together at this point. Something about him getting mixed up in a small-town conspiracy, standard stuff."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. \n\nWhat factors have most affected your sleep quality over the past two weeks?"
+    },
+    {
+      "role": "participant",
+      "text": "Factors have most affected my sleep quality over the past two weeks? Honestly, the biggest one is just workload spikes — quarterly filing crunch pushes my bedtime back by an hour or two some nights, and that throws off the routine even if I still wake up around the same time. Otherwise not much has changed — same fan, same no-caffeine-after-3-rule, nothing dramatic."
+    },
+    {
+      "role": "interviewer",
+      "text": "Is this pretty typical for you, or has something changed recently with your workload or sleep, compared to a few months ago?"
+    },
+    {
+      "role": "participant",
+      "text": "Pretty typical, yeah. This has basically been my rhythm for a couple years now — the late nights, the natural wake-up. The only thing that shifts is the intensity around filing deadlines, and even that's just the same pattern turned up a notch, not something new."
+    },
+    {
+      "role": "interviewer",
+      "text": "Overall, are you happy with how you are sleeping these days? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Honestly, yeah, mostly. It's not textbook — I'm not getting eight hours by the clock most nights — but I wake up at a consistent time, I'm not dragging through the day, and I've made peace with the fact that my schedule runs later than everyone else's. If I weren't happy with it I'd probably have changed something by now instead of just working around the fan and the paperbacks."
+    },
+    {
+      "role": "interviewer",
+      "text": "You’ve probably heard the advice that adults should get 7–9 hours of sleep a night. Does that feel practical for you right now?"
+    },
+    {
+      "role": "participant",
+      "text": "Honestly, not really — not consistently, anyway. I probably hit that on a slow week, but with my hours I'm usually closer to six and a half, seven. I've made peace with it though, since the wake time staying steady seems to matter more to how I actually feel than hitting some number on a chart."
+    },
+    {
+      "role": "interviewer",
+      "text": "What makes it easy or difficult for you to actually get that much sleep?"
+    },
+    {
+      "role": "participant",
+      "text": "Sleep's easy for me because nobody's waiting on me in the morning — no kids, no partner, no boss with a start time — so I just let the schedule fall where it wants. The hard part's really just self-inflicted: I'm the one setting client deadlines, and when I stack them badly the late nights creep even later."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that.\n\nMany people check their mobile phones, tablets, or computers right before bed. Do you do this, too? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Yeah, guilty as charged, though not right at bedtime — I'm usually reading a paperback to wind down instead. Where it gets me is overnight, if I stir I'll grab the phone out of habit just to check the time or see if a client emailed, which is probably not doing me any favors but it's a hard habit to break after years of running my own thing."
+    },
+    {
+      "role": "interviewer",
+      "text": "Do you regularly use social media? If yes, how do you typically use it, especially in the hours before bed?"
+    },
+    {
+      "role": "participant",
+      "text": "Not really, no — I'll scroll through it during the day sometimes, but I'm pretty deliberate about keeping it out of the bedtime routine. Paperback wins over the phone at night, mostly because doomscrolling is a worse way to wind down than a cheap thriller."
+    },
+    {
+      "role": "interviewer",
+      "text": "Now a couple of quick questions about technology in general: Do you regularly use AI chatbots (such as ChatGPT, Gemini, Claude, or similar applications)?"
+    },
+    {
+      "role": "participant",
+      "text": "Not really, no — I'll poke at one occasionally if I need to draft a client email or double-check some tax wording, but it's not part of my routine, and definitely nowhere near bedtime."
+    },
+    {
+      "role": "interviewer",
+      "text": "Since you don’t really use social media or AI chatbots regularly, we can skip ahead.\n\nIf you could improve one thing about your sleeping habits, what would it be?"
+    },
+    {
+      "role": "participant",
+      "text": "I'd trim the deadline stacking — space out client filings better so the late nights don't cascade like last night's. The wake time's already solid; it's really just not letting my own scheduling turn one late night into three."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for sharing that.\n\nNow a few quick background questions. Feel free to skip anything you’d rather not share.\n\nWhat is your age?"
+    },
+    {
+      "role": "participant",
+      "text": "52."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thank you. What is your profession?"
+    },
+    {
+      "role": "participant",
+      "text": "I run a small independent bookkeeping practice — mostly solo, working with local clients, out of my apartment."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thank you. What is your country of birth?"
+    },
+    {
+      "role": "participant",
+      "text": "United States."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thank you. What is your current country of residence?"
+    },
+    {
+      "role": "participant",
+      "text": "United States."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thank you. That’s all the main questions I had.\n\nBefore we wrap up, is there anything else about your sleep or nightly routine that you’d like to add that we haven’t talked about?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T07:34:22.429728+00:00"
+}

@@ -1,0 +1,135 @@
+{
+  "run_id": "FULL-20260827070823",
+  "language": "en",
+  "index": 40,
+  "started_at": "2026-08-27T08:30:32.986453+00:00",
+  "participant_id": "P1787819418310",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Welcome to the interview."
+    },
+    {
+      "role": "participant",
+      "text": "\"Welcome\" — right, well, thank you. Not sure I've got much interesting to say, but go ahead, ask away."
+    },
+    {
+      "role": "interviewer",
+      "text": "What time did you go to bed last night?"
+    },
+    {
+      "role": "participant",
+      "text": "Around 11:30, like most nights. I don't dawdle once I'm in bed — asleep in maybe twenty minutes, that part's never been the issue."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that’s helpful. \n\nApproximately how many hours did you sleep last night? Would you say you slept well? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Honestly? Maybe five hours, five and a bit — I nodded off around eleven-fifty and was staring at the ceiling by quarter to five. Whether that counts as sleeping \"well,\" I don't know, it's just the usual pattern for me, so I wouldn't say I lost sleep over it, if you'll pardon the phrase."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. \n\nWhat was the last activity you engaged in before going to bed last night?"
+    },
+    {
+      "role": "participant",
+      "text": "Nothing dramatic — just listened to the radio for a bit in bed, some late-night talk program, then switched off the light around 11:30."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that makes sense.\n\nWhy did you choose to listen to that radio program before going to sleep?"
+    },
+    {
+      "role": "participant",
+      "text": "Just habit, really — the same guy comes on around eleven most nights, talks about nothing in particular. It's not that I need it to fall asleep, it just fills the gap between switching the light off and actually dropping off."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thank you. \n\nWhat factors have most affected your sleep quality over the past two weeks?"
+    },
+    {
+      "role": "participant",
+      "text": "Honestly, nothing's really changed — it's the same as it's been for years. If anything, this time of year the light comes in earlier through the curtains, so maybe that nudges the wake-up time a touch, but I couldn't swear to it. Work's been normal, nothing keeping me up worrying, just the usual four-forty-five wake-up like clockwork."
+    },
+    {
+      "role": "interviewer",
+      "text": "Is that pretty typical for you over the longer term, or has anything about your sleep changed in the past few months?"
+    },
+    {
+      "role": "participant",
+      "text": "Same as it's ever been, really — nothing's shifted in the last few months. If you'd asked me twenty years ago I'd have given you the same 4:45 answer."
+    },
+    {
+      "role": "interviewer",
+      "text": "Overall, are you happy with how you are sleeping these days? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Honestly, yeah — I'd say so. It's not much sleep on paper, but I function fine, I'm not dragging through the day, and it's been the same rhythm for decades, so I don't lose any sleep worrying about my sleep, if that makes sense."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that.\n\nYou've probably heard the advice that adults should get 7–9 hours of sleep a night. Does that feel practical for you right now?"
+    },
+    {
+      "role": "participant",
+      "text": "Honestly, no — realistically I get maybe five, five and a half hours most nights. If I aimed for seven or eight I'd just be lying in the dark waiting for something that isn't coming."
+    },
+    {
+      "role": "interviewer",
+      "text": "What makes it easy or difficult for you to actually get that much sleep?"
+    },
+    {
+      "role": "participant",
+      "text": "Honestly, easy is one thing — hard is another. Falling asleep's the easy part, always has been. Staying asleep past five is the hard part, and there's not much makes that easier, short of knocking myself out with something, and I'm not keen on that."
+    },
+    {
+      "role": "interviewer",
+      "text": "That makes sense. \n\nMany people check their mobile phones, tablets, or computers right before bed. Do you do this, too? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Honestly, no — my phone's usually charging in the kitchen, not the bedroom. Old habit more than any wisdom about it, I just never got into keeping it by the bed. I might catch the news on the radio instead, but that's about it before I turn the light out."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that.\n\nDo you regularly use social media? If so, how do you typically use it, especially in the hours before bed?"
+    },
+    {
+      "role": "participant",
+      "text": "No, not really — I never got the social media habit, other than sometimes checking WhatsApp for messages from my kids. That's more likely to be over dinner than in bed, though."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that’s clear. \n\nNow a couple of quick questions about technology in general: Do you regularly use AI chatbots, like ChatGPT, Gemini, Claude, or similar applications?"
+    },
+    {
+      "role": "participant",
+      "text": "Not really, no — I've had a poke at one of those chatbots when my son showed me, but I'm not using it day to day. Not much use for it in my line of work."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that’s helpful.\n\nIf you could improve one thing about your sleeping habits, what would it be?"
+    },
+    {
+      "role": "participant",
+      "text": "If I could improve one thing? Getting past five in the morning, I suppose — just an extra hour or two would be nice. But honestly, I've made my peace with it, so I'm not losing sleep over losing sleep, if that makes sense."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that makes sense. \n\nNow a few background questions. (Feel free to skip anything you’d rather not share.)\n\nWhat is your age, your profession, your country of birth, your current country of residence, and—if different—when did you move?"
+    },
+    {
+      "role": "participant",
+      "text": "58, and I train new drivers — driving instructor. Been doing that a good while now. Born and raised here in Portugal, still in Portugal — Viseu, in fact — never had reason to leave."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for sharing that. Those are all the main questions I had.\n\nBefore we wrap up, is there anything else about your sleep or your bedtime/wake-up routine that you’d like to add that we haven’t talked about?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T08:32:09.665408+00:00"
+}

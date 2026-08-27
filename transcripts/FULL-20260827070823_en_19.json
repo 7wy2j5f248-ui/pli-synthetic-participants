@@ -1,0 +1,135 @@
+{
+  "run_id": "FULL-20260827070823",
+  "language": "en",
+  "index": 19,
+  "started_at": "2026-08-27T07:46:16.250925+00:00",
+  "participant_id": "P1787816764199",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Welcome to the interview."
+    },
+    {
+      "role": "participant",
+      "text": "\"Alright, sure. Long as we get through it — worked an early one this morning.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "What time did you go to bed last night?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Ah— late one, actually. Neighbor had me over for the match, didn't get to bed till maybe midnight. Fell asleep quick enough though.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for sharing that. Approximately how many hours did you sleep last night, and would you say you slept well? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Eh, about five and a half hours, I'd guess. Was fine, nothing wrong with it — just cut short 'cause I went to bed late and the wake-up time doesn't move for me.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "What was the last activity you engaged in before going to bed, and why did you choose to do that activity?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Ah, just watching that match with my neighbor, like I said. Wasn't planning it that way, just stayed till it finished, then walked home and went straight to bed. Didn't do anything special before that — no routine, if that's what you're asking.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that makes sense. Over the past two weeks, what factors have most affected your sleep quality?\n\n(For example, things like stress, schedule, noise, light, caffeine, or anything else that comes to mind.)"
+    },
+    {
+      "role": "participant",
+      "text": "\"Nothing dramatic, honestly. Schedule's the big one — I'm two weeks into early starts after twenty years on days, and my body just hasn't caught up yet. Otherwise a freight train comes through some nights, but I barely notice it anymore, tune it out.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Is this pretty typical for you, or has something changed recently with your sleep compared to, say, a few months ago?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Nah, not much has changed really. Waking up around three-thirty's just been my pattern for years, long before this shift switch. Only real difference lately is I'm dragging a bit more on the walk in, but that's the early starts, not the sleep itself.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Overall, are you happy with how you are sleeping these days? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Yeah, I'd say so. It's not perfect, but it never has been — I sleep, I get up, I get through the day fine. No sense fussing over it more than that.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "You've probably heard the advice that adults should get 7–9 hours of sleep a night. Does that feel practical for you right now?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Ha—no, not really. I sleep about six or so most nights and I feel fine. If I forced myself to lie there chasing nine hours I'd probably just end up more frustrated than rested.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "What makes it easy or difficult for you to actually get that much sleep?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Honestly, it's easy most nights—I'm just tired by nine or ten and I'm out. The hard part's staying asleep straight through, or getting back to a full stretch after I wake at three-thirty. That gap in the middle just eats into the total, no matter how easy I fall asleep.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Many people check their phones, tablets, or computers right before bed. Do you do this too? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Nah, not really. Radio's within reach if I wake up needing something, but I try to keep the phone off the nightstand — figure the light's not doing me any favors if I'm already up at three-thirty. Just an old habit more than anything scientific.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that’s clear. Do you regularly use social media at all? If so, how do you typically use it, especially in the hours before bed?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Nah, not big into it. I'll scroll a headline or two if the radio's got nothing on, but that's about it. Not the type to be doom-scrolling at midnight — never got the appeal, honestly.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that’s helpful. Now a couple of quick questions about technology in general: Do you regularly use AI chatbots, like ChatGPT, Gemini, Claude, or similar apps?\n\nIf yes, when did you start using them, and what do you mainly use them for?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Nah, never really got into those. Tried the phone one my son showed me once, felt like talking to a machine that's trying too hard to sound friendly — not really my thing.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that’s useful to know. Since you don’t really use social media or AI chatbots regularly, we’ll move on.\n\nIf you could improve one thing about your sleeping habits, what would it be?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Sleep through that three-thirty gap without lying there half an hour. Doesn't wake me up angry or anything, just... be nice to skip it once in a while.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Given your work, studies, or daily responsibilities, do you think sleeping through that three-thirty gap would be doable? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Doable? Sure, in theory — but at fifty-eight I've had that three-thirty wake-up longer than I haven't. Body's just used to it. I don't fight it much anymore, I just wait it out with the radio and get up when the alarm says so.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that’s clear. Just a couple of background questions, and you can skip anything you’d rather not answer:\n\n• Your age;\n• Your profession;\n• Your country of birth;\n• Your current country of residence;\n• And if it’s different, when did you move there?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Fifty-eight. Warehouse logistics coordinator — moving freight around, basically. Born here, lived here my whole life, never moved anywhere.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thank you for sharing that. Those are all the main questions I had.\n\nIs there anything else about your sleep or your daily routine that you think is important for us to understand before we wrap up?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T07:47:47.722141+00:00"
+}

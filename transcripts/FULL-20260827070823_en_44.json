@@ -1,0 +1,135 @@
+{
+  "run_id": "FULL-20260827070823",
+  "language": "en",
+  "index": 44,
+  "started_at": "2026-08-27T08:39:05.980665+00:00",
+  "participant_id": "P1787819934039",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Welcome to the interview."
+    },
+    {
+      "role": "participant",
+      "text": "Welcome. Thanks."
+    },
+    {
+      "role": "interviewer",
+      "text": "What time did you go to bed last night?"
+    },
+    {
+      "role": "participant",
+      "text": "Went to bed around 9:30, like usual."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks. Approximately how many hours did you sleep last night? Would you say you slept well? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Slept maybe five hours, on and off. Woke up around 3:15 and couldn't get back down for a while, so I wouldn't call it a great night, but it's not unusual for me either."
+    },
+    {
+      "role": "interviewer",
+      "text": "What was the last activity you engaged in before going to bed? Why did you choose to do that activity?"
+    },
+    {
+      "role": "participant",
+      "text": "Made tea and went back and forth over that thing with my brother in my head. Didn't really pick the tea on purpose, just needed something to do besides lie there."
+    },
+    {
+      "role": "interviewer",
+      "text": "Over the past two weeks, what factors have most affected your sleep quality?"
+    },
+    {
+      "role": "participant",
+      "text": "Over the last two weeks it's mostly the usual — waking up around three and my mind latching onto something, work worries or family stuff. Nothing new, really. Just the odd night here and there where I can't shut my head off."
+    },
+    {
+      "role": "interviewer",
+      "text": "Is this pretty typical for you, or has something changed recently with your sleep compared to a few months ago?"
+    },
+    {
+      "role": "participant",
+      "text": "Just typical. Nothing's really changed — been like this a good while now."
+    },
+    {
+      "role": "interviewer",
+      "text": "Overall, are you happy with how you are sleeping these days? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Not really, no — waking at three and stewing over something is more nights than not. I don't lose sleep over it, that's just how it's been, but \"happy\" isn't the word I'd use."
+    },
+    {
+      "role": "interviewer",
+      "text": "You’ve probably heard the advice that adults should get 7–9 hours of sleep a night. Does that feel practical for you right now?"
+    },
+    {
+      "role": "participant",
+      "text": "Not really. Seven to nine's just not where I've been at for years now — I'm up by five whether I like it or not. I feel fine on what I get, so I don't push myself to chase a number."
+    },
+    {
+      "role": "interviewer",
+      "text": "What makes it easy or difficult for you to actually get that much sleep?"
+    },
+    {
+      "role": "participant",
+      "text": "Not too hard, honestly — I go to bed early and I'm out fast. The trouble's more staying asleep past three than getting to sleep in the first place."
+    },
+    {
+      "role": "interviewer",
+      "text": "Many people check their mobile phones, tablets, or computers right before bed. Do you do this, too? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Not really — I keep the phone charging in the kitchen overnight, out of the bedroom. Old habit more than anything, just never got in the way of using it in bed."
+    },
+    {
+      "role": "interviewer",
+      "text": "Do you regularly use social media? If so, how do you typically use it, especially in the hours before bed?"
+    },
+    {
+      "role": "participant",
+      "text": "Not really, no — I'll scroll through some news or sports stuff most nights before bed, but that's earlier in the evening, not right before lights out."
+    },
+    {
+      "role": "interviewer",
+      "text": "Now a couple of quick questions about technology in general: Do you regularly use AI chatbots (such as ChatGPT, Gemini, Claude, or similar applications)?"
+    },
+    {
+      "role": "participant",
+      "text": "Not really, no. I've poked at one a couple times when my daughter showed me, but it's not something I use on my own."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining. If you could improve one thing about your sleeping habits, what would it be?"
+    },
+    {
+      "role": "participant",
+      "text": "Probably that I don't wake back up after three. I've made my peace with the early rising — it's the middle-of-the-night gap that gets old."
+    },
+    {
+      "role": "interviewer",
+      "text": "Given your work, studies, or daily responsibilities, do you think that change—sleeping through instead of waking around three—would be doable? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Yeah, probably not — I'm up around four-thirty anyway for work most mornings, so the schedule's not really the problem. It's just those middle hours that are wasted."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for sharing that. Now a few background questions (feel free to skip anything you’d rather not share):\n\nWhat is your age, your profession, your country of birth, your current country of residence, and—if different—when did you move?"
+    },
+    {
+      "role": "participant",
+      "text": "58, I do inventory and logistics work — semi-retired at this point, just a few mornings a week. Born and raised here, actually, never left the country. Grew up rural, moved to the city in my twenties for the job, been in the same region ever since."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thank you for sharing that background. Before we wrap up, is there anything else about your sleep, your routines around bedtime, or anything we’ve talked about today that you’d like to add?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T08:40:40.650596+00:00"
+}

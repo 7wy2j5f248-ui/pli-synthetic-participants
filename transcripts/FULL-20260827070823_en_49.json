@@ -1,0 +1,135 @@
+{
+  "run_id": "FULL-20260827070823",
+  "language": "en",
+  "index": 49,
+  "started_at": "2026-08-27T08:49:31.046528+00:00",
+  "participant_id": "P1787820559931",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Welcome to the interview."
+    },
+    {
+      "role": "participant",
+      "text": "Not much to say yet, but sure — go ahead."
+    },
+    {
+      "role": "interviewer",
+      "text": "What time did you go to bed last night?"
+    },
+    {
+      "role": "participant",
+      "text": "Bed around 11:30 last night — well, closer to 12:30 actually, I was catching up on invoices and lost track of time."
+    },
+    {
+      "role": "interviewer",
+      "text": "Approximately how many hours did you sleep last night? Would you say you slept well? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "About 6, maybe six and a half hours. I'd say it was decent — I fell asleep quick enough despite the late start, and I didn't wake up till the alarm, so no complaints really."
+    },
+    {
+      "role": "interviewer",
+      "text": "What was the last activity you engaged in before going to bed, and why did you choose to do that activity?"
+    },
+    {
+      "role": "participant",
+      "text": "Last thing I did was go over the day's receipts and enter tomorrow's opening tasks in a notebook — habit, really, I like starting the day already knowing what needs doing rather than figuring it out cold."
+    },
+    {
+      "role": "interviewer",
+      "text": "Over the past two weeks, what factors have most affected your sleep quality?"
+    },
+    {
+      "role": "participant",
+      "text": "Over the past two weeks, honestly, it's just been the shop keeping me up later than I'd like — bookkeeping some nights runs past when I'd normally wind down. Otherwise nothing dramatic, maybe one or two nights where I was up around 4 for the usual bathroom trip and took a bit longer to drop back off."
+    },
+    {
+      "role": "interviewer",
+      "text": "Is that pretty typical for you, or has something changed recently with how late the shop keeps you up and those occasional 4 a.m. wake-ups?"
+    },
+    {
+      "role": "participant",
+      "text": "Typical, yeah — the late nights happen a couple times a month when invoices pile up. The 4am thing's been going on for years, nothing new there."
+    },
+    {
+      "role": "interviewer",
+      "text": "Overall, are you happy with how you are sleeping these days? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Happy enough — I'm not losing sleep over losing sleep, if that makes sense. It's not perfect, but it does the job, and honestly I'd rather have it boring and predictable than chase some ideal.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "You’ve probably heard the advice that adults should get 7–9 hours of sleep a night. Does that feel practical for you right now?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Practical\" isn't really how I'd put it — some nights I hit that, most nights I'm probably a bit under. It's not something I chase, though. If the shop's slow I get closer to it, if bookkeeping runs long I don't. I'd rather just keep the routine steady than stress about hitting a number."
+    },
+    {
+      "role": "interviewer",
+      "text": "What makes it easy or difficult for you to actually get that much sleep?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Mainly the shop, really — if bookkeeping runs long that pushes bedtime back and eats into it. And I need to keep a steady bedtime, if I go too far off my usual time I don't sleep as deep, so the next day's just a bit harder going.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Many people check their mobile phones, tablets, or computers right before bed. Do you do this, too? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Not really, no — phone stays in the kitchen charging once I'm done with the books. If I'm still on a screen it's the laptop doing invoices, but once that's closed I'm closed too, if that makes sense."
+    },
+    {
+      "role": "interviewer",
+      "text": "Do you regularly use social media? If so, how do you typically use it, especially in the hours before bed?"
+    },
+    {
+      "role": "participant",
+      "text": "I'm not really on it — Facebook once in a while to see photos my daughter posts, but that's about it, and never at night. Not much interest in scrolling, honestly."
+    },
+    {
+      "role": "interviewer",
+      "text": "Now a couple of quick questions about technology in general: Do you regularly use AI chatbots, such as ChatGPT, Gemini, Claude, or similar applications?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Not really — never used them, wouldn't know where to start honestly. My daughter's mentioned it a few times but it's not really my thing.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Since you don’t really use social media or AI chatbots, we’ll move on.\n\nIf you could improve one thing about your sleeping habits, what would it be?"
+    },
+    {
+      "role": "participant",
+      "text": "Honestly, probably going to bed a bit earlier instead of letting the bookkeeping run late — that's the main thing that eats into it. Not a big overhaul, just tightening up that habit."
+    },
+    {
+      "role": "interviewer",
+      "text": "Given your work at the shop and your other daily responsibilities, do you think going to bed earlier is actually doable? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Honestly, yeah, it's doable — the invoices don't have to happen every single night, I could push some of that to the weekend instead. Mostly just a matter of not letting it slide, since nothing about the shop actually forces me to stay up that late."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that.\n\nNow a few background questions. (Feel free to skip anything you’d rather not share.)\n\nWhat is your age, your profession, your country of birth, your current country of residence, and—if they’re different—when did you move?"
+    },
+    {
+      "role": "participant",
+      "text": "52, been fixing bikes for going on twenty-five years now. Born here, never left the region actually — same town my whole life, so no moving story to tell."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for sharing that. Those were all the main questions I had.\n\nBefore we wrap up, is there anything else about your sleep or evening routine that you’d like to add that we haven’t talked about?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T08:51:06.005369+00:00"
+}

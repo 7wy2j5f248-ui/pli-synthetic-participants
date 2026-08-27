@@ -1,0 +1,127 @@
+{
+  "run_id": "FULL-20260827070823",
+  "language": "en",
+  "index": 35,
+  "started_at": "2026-08-27T08:20:59.857998+00:00",
+  "participant_id": "P1787818846866",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Welcome to the interview."
+    },
+    {
+      "role": "participant",
+      "text": "\"Morning. Yeah, sure, go ahead.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "What time did you go to bed last night?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Uh, eleven thirty, thereabouts. Watched the match, then went straight to bed.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Approximately how many hours did you sleep last night? Would you say you slept well? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Slept maybe six, six and a half hours? Woke up around three like I usually do, and then there was a delivery van outside that got me up for a bit too. Not terrible, but not great either — just kind of okay.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "What was the last activity you engaged in before going to bed? Why did you choose to do that activity?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Watched the match, then just went straight to bed. Didn't do much else — brushed my teeth, that's about it. Nothing special.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining. Over the past two weeks, what factors have most affected your sleep quality?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Mostly the waking up around three, that's the main thing. Been happening for a few months now. And then some nights it's noise — dog barking, or this morning it was a delivery van. Nothing dramatic, just enough to break it up.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Is this pretty typical for you, or has something changed recently with your sleep over the past few months?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Yeah, I think it's changed. It wasn't always like this — the three am thing started a few months back. Before that I'd sleep through pretty much fine. Hard to say exactly why, but it's newer, not just how I've always been.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Overall, are you happy with how you are sleeping these days? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Not really, no. I mean, it's not the end of the world, but waking up at three every night gets old. I'd like it to just go back to normal, whatever that was.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for sharing that. You've probably heard the advice that adults should get 7–9 hours of sleep a night. Does that feel practical for you right now?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Not really, honestly. Some nights maybe, but with the shop and everything I'm not chasing a number. I just want the three am thing to stop, hours are secondary to that.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "What makes it easy or difficult for you to actually get that much sleep right now?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Honestly, easy part's falling asleep — that's not the issue. Hard part's staying asleep past three. Shop keeps me busy enough during the day, but once I'm up at that hour there's nothing to do but wait it out or scroll my phone, and that just eats into the hours.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Many people check their mobile phones, tablets, or computers right before bed. Do you do this, too? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Yeah, kind of. Not scrolling exactly, more just... phone's on the nightstand and if I'm awake I'll grab it. Doesn't feel like it's making things worse, but honestly I've never really thought about whether it does.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. Do you regularly use social media? If yes, how do you typically use it, especially in the hours before bed?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Not really, no. Never got into it much — never saw the point I guess. I mean I'll look at stuff people send me sometimes, but I'm not scrolling feeds at night or anything like that.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that makes sense. Now a couple of quick questions about technology in general: Do you regularly use AI chatbots, like ChatGPT, Gemini, Claude, or similar applications?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Nah, not really my thing. My daughter's mentioned using one for work stuff, but I don't mess with it.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that’s helpful to know. Since you don’t really use social media or AI chatbots, I’ll skip ahead a bit.\n\nIf you could improve one thing about your sleeping habits, what would it be?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Honestly? Just sleeping straight through past three. Everything else about my sleep's fine, it's just that one stretch that's the problem.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. A couple of last background questions, and you can skip anything you’d rather not share:\n\n• Your age;\n• Your profession;\n• Your country of birth;\n• Your current country of residence;\n• (If different from above) when did you move?"
+    },
+    {
+      "role": "participant",
+      "text": "\"52. I fix bikes for a living — run my own little shop. Born and still living here, never moved anywhere.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for sharing those details. That was the last main question I had.\n\nBefore we wrap up, is there anything else about your sleep or nighttime routine that you’d like to add that we haven’t talked about?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T08:22:25.393019+00:00"
+}

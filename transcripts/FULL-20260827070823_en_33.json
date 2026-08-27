@@ -1,0 +1,135 @@
+{
+  "run_id": "FULL-20260827070823",
+  "language": "en",
+  "index": 33,
+  "started_at": "2026-08-27T08:16:58.923896+00:00",
+  "participant_id": "P1787818605809",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Welcome to the interview."
+    },
+    {
+      "role": "participant",
+      "text": "(Chuckle) Alright, welcome to me too, I suppose. Ask away."
+    },
+    {
+      "role": "interviewer",
+      "text": "What time did you go to bed last night?"
+    },
+    {
+      "role": "participant",
+      "text": "(Half a shrug) Later than usual, actually — closer to midnight. Stayed up watching the football."
+    },
+    {
+      "role": "interviewer",
+      "text": "Around what time did you finally turn the TV off and try to sleep?"
+    },
+    {
+      "role": "participant",
+      "text": "Around midnight, I think — right after the final whistle. Didn't rush to bed straight away though."
+    },
+    {
+      "role": "interviewer",
+      "text": "After the match ended and before you went to bed, what was the last thing you did?"
+    },
+    {
+      "role": "participant",
+      "text": "Nothing much — just switched off the TV and sat for a minute before heading to bed. No big ritual."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining. About last night overall: approximately how many hours did you sleep, and would you say you slept well? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "(Considers) Maybe five, five and a half hours actually asleep, if you don't count the hour I spent wide awake at three in the morning stewing over something from work. So — not great. Woke up feeling like I'd done a half day's work before the day even started."
+    },
+    {
+      "role": "interviewer",
+      "text": "Over the past two weeks, what would you say have been the main factors affecting how well you sleep?"
+    },
+    {
+      "role": "participant",
+      "text": "(Half-smile) Football running late didn't help, but that's a one-off. Mostly it's the three a.m. wake-up — always the bathroom, but the going back to sleep part depends on whether my brain's decided to relitigate something from the day. Work's been a bit tense lately, so more nights than not it's that."
+    },
+    {
+      "role": "interviewer",
+      "text": "Would you say this pattern—waking up around three and your mind going over work—has been pretty typical for you for a while, or is it something that’s changed recently?"
+    },
+    {
+      "role": "participant",
+      "text": "(Half a shrug) Pretty typical, honestly — the three a.m. thing's been years, that's just my bladder's schedule now. The lying-there-stewing-about-work part comes and goes with whatever's going on at the office. Been more of the latter lately, if I'm honest."
+    },
+    {
+      "role": "interviewer",
+      "text": "Overall, are you happy with how you’re sleeping these days, or not really? What makes you feel that way?"
+    },
+    {
+      "role": "participant",
+      "text": "(Sighs a little) Honestly, mostly. It's not perfect — the three a.m. thing's not going away, and I could do without the work stuff following me to bed — but I get enough sleep most nights to function. I'd say content rather than happy, if that's a meaningful difference to you people."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that distinction. You’ve probably heard the advice that adults should get 7–9 hours of sleep a night—does that feel practical for you right now?"
+    },
+    {
+      "role": "participant",
+      "text": "(Snorts) Practical? For me, sure — I get close enough most nights when the three a.m. business doesn't run long. But I think that number's a bit of an average dressed up as a rule. Some people need nine, some function fine on six, and no app's going to tell you which one you are better than you already know."
+    },
+    {
+      "role": "interviewer",
+      "text": "Many people check their phones, tablets, or computers right before bed. Do you do this too? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "(Shrugs) Phone, yes, guilty as charged — usually just checking the football scores or the weather for tomorrow's site visit. Never occurred to me it'd matter for sleeping, honestly. I put it down at some point and just... fall asleep, so I've never seen the harm in it."
+    },
+    {
+      "role": "interviewer",
+      "text": "Do you regularly use social media? If so, how do you typically use it, especially in the hours before bed?"
+    },
+    {
+      "role": "participant",
+      "text": "(Chuckles) Not much of a social media man, honestly. I've got a Facebook account mostly to see photos my kids post, and I'll scroll it for a minute or two if I'm already lying awake, but it's not part of the bedtime routine — more of a \"well, I'm up anyway\" thing. Wouldn't call it regular use, more like checking in on the family every few days."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that makes sense. Now a couple of quick questions about technology in general: do you regularly use AI chatbots, like ChatGPT, Gemini, Claude, or similar apps?"
+    },
+    {
+      "role": "participant",
+      "text": "(Chuckles) No, not really — the odd search engine question, but I haven't sat down and had a conversation with one. My son keeps saying I should try it for report drafting, but I'm old-fashioned enough to still write my own site notes."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that’s helpful to know. Since you don’t really use social media or AI chatbots regularly, I’ll skip ahead a bit.\n\nIf you could improve one thing about your sleeping habits, what would it be?"
+    },
+    {
+      "role": "participant",
+      "text": "I suppose if I could fix one thing, it'd be that three a.m. wake-up — or really, getting my brain to shut up about work once I'm back in that chair with the crossword. The waking itself doesn't bother me much, it's the hour I lose lying there arguing with a colleague who isn't even in the room."
+    },
+    {
+      "role": "interviewer",
+      "text": "Given your work, studies, or daily responsibilities, do you think making that change—quieting your mind after the three a.m. wake-up—would actually be doable for you? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "(Sighs, half-laughing) Doable? Probably, yeah — I'm not exactly juggling a newborn or a night shift, my mornings don't demand much before eight. The trouble isn't the schedule, it's that I've been doing this particular bad habit for years and my brain doesn't ask permission. I could probably train myself to leave work at work if I actually tried, I just haven't bothered — the crossword's been an easier fix than the real one."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that’s clear. Now a few background questions—feel free to skip anything you’d rather not share.\n\nWhat is your age, your profession, your country of birth, your current country of residence, and (if different) when you moved?"
+    },
+    {
+      "role": "participant",
+      "text": "(Half-laughs) Fair enough. Fifty-two, land surveyor by trade — mostly outdoor and site work, some office time. Born here, in Portugal, and never left — mid-sized city inland, same one my whole life. So no relocation story to tell, I'm afraid, unless you count the odd site visit to the middle of nowhere."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for sharing that background. Before we wrap up, is there anything else about your sleep, your evenings, or your three a.m. routine that you think is important and that we haven’t talked about yet?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T08:18:43.314736+00:00"
+}

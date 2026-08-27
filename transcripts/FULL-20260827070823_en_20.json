@@ -1,0 +1,167 @@
+{
+  "run_id": "FULL-20260827070823",
+  "language": "en",
+  "index": 20,
+  "started_at": "2026-08-27T07:48:02.863228+00:00",
+  "participant_id": "P1787816871812",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Welcome to the interview."
+    },
+    {
+      "role": "participant",
+      "text": "Oh, hello there. Ready when you are — go ahead and ask away."
+    },
+    {
+      "role": "interviewer",
+      "text": "What time did you go to bed last night?"
+    },
+    {
+      "role": "participant",
+      "text": "Oh, around 9:30, give or take — I was up at four for the ferry, so I don't dawdle on work nights. Didn't stay asleep straight through, mind you, but that's the going-down time."
+    },
+    {
+      "role": "interviewer",
+      "text": "Approximately how many hours did you sleep in total last night, and would you say you slept well? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Slept in stretches, I'd say — maybe five and a half hours all told, once you take out that middle-of-the-night detour into boat arithmetic. I wouldn't call it a good night, but I wouldn't call it a bad one either — more of a normal one for me, honestly. There's always a night or two a week where my brain decides two a.m. is a fine time for a staff meeting."
+    },
+    {
+      "role": "interviewer",
+      "text": "What was the last activity you engaged in before going to bed, and why did you choose to do that activity?"
+    },
+    {
+      "role": "participant",
+      "text": "Oh, last thing — probably reading. I keep a stack of old maritime charts by the bed, and I'll flip through one for ten minutes or so before the light goes off. Not for any deep reason, just... it's dull enough in a good way, settles my head down better than a book with an actual plot would."
+    },
+    {
+      "role": "interviewer",
+      "text": "Those charts sound intriguing in their own way. Can you tell me a bit more about what you look at when you flip through them — are they charts of places you know, places you’d like to go, or just whatever’s on top of the stack?"
+    },
+    {
+      "role": "participant",
+      "text": "Oh, bit of both, really. Mostly ones I know — the harbour here, a stretch of the South Shore I used to sail as a girl — but every so often I'll land on somewhere I've never been, like a chart of the Faroe Islands my son picked up for me as a joke gift years back. I don't linger on any one for long, just enough to trace a coastline with my eyes till they get heavy."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. Moving on, what factors have most affected your sleep quality over the past two weeks?"
+    },
+    {
+      "role": "participant",
+      "text": "Well, the boat's launch deadline is probably the biggest one — when I'm mid-repair on something, my brain likes to keep working the problem after lights-out, like it did last night. Shift days versus off days shuffle things around too; my body never quite settles on one bedtime, though that's more habit than anything new. Otherwise, nothing dramatic — no big life upheaval, just the usual push and pull between the ferry schedule and the sailboat."
+    },
+    {
+      "role": "interviewer",
+      "text": "Would you say the way your sleep has been over these past couple of weeks is pretty typical for you, or has something changed recently?"
+    },
+    {
+      "role": "participant",
+      "text": "Oh, typical, I'd say — this is more or less how it's gone for years. The odd two a.m. wake-up when something's on my mind isn't new, and neither is the drift between shift bedtime and off-day bedtime. If anything's changed, it's just that the boat's given my brain something specific to chew on lately, but the pattern itself — no, that's just how I run."
+    },
+    {
+      "role": "interviewer",
+      "text": "Overall, are you happy with how you are sleeping these days? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Honestly, mostly yes — I've stopped fighting it, and once you stop fighting it, it doesn't feel like a problem anymore. Would I like fewer of these two a.m. staff meetings with myself? Sure. But the body seems to sort itself out over the course of a week, and I've never been one for chasing a perfect eight hours on a schedule."
+    },
+    {
+      "role": "interviewer",
+      "text": "You’ve probably heard the advice that adults should get 7–9 hours of sleep a night. Does that feel practical for you right now?"
+    },
+    {
+      "role": "participant",
+      "text": "(chuckles) \"Practical\" isn't the word I'd use for my life, no — with the shift schedule shuffling things around, chasing a flat number every night just isn't in the cards. But if you add it up over a week I probably land somewhere close to that range anyway, just not in nice tidy nightly slices."
+    },
+    {
+      "role": "interviewer",
+      "text": "What makes it easy or difficult for you to actually get that much sleep, given your current routine and responsibilities?"
+    },
+    {
+      "role": "participant",
+      "text": "Well, easy part's the off days — no alarm, no ferry pulling on my sleeve, I just let the body do what it wants. Hard part's the shift mornings, four a.m. doesn't care how the previous night went, so if I've had one of those two a.m. detours, I'm just running short that day and making it up later in the week. Honestly the biggest thing working against me is my own stubbornness — I could probably even it out if I actually tried, but I've never much wanted to."
+    },
+    {
+      "role": "interviewer",
+      "text": "Many people check their mobile phones, tablets, or computers right before bed. Do you do this, too? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "(laughs) Guilty as charged, but not for the reasons you'd think — I'm usually flipping through the tide tables or checking the marine forecast for tomorrow's shift, not doom-scrolling. Ten minutes, tops, and then it's face-down on the nightstand, screen off. Never seemed to cause me trouble, though I suppose I wouldn't necessarily know if it did."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. Do you regularly use social media? If so, how do you typically use it, especially in the hours before bed?"
+    },
+    {
+      "role": "participant",
+      "text": "(laughs) Not much, if I'm honest — Facebook, mostly to see photos my son posts, and I check the harbour association page for notices. Before bed's usually the marine forecast, like I said, not scrolling through feeds. That kind of thing never grabbed me the way it seems to for other folks."
+    },
+    {
+      "role": "interviewer",
+      "text": "Now a couple of quick questions about technology in general: Do you regularly use AI chatbots, such as ChatGPT, Gemini, Claude, or similar applications?"
+    },
+    {
+      "role": "participant",
+      "text": "(laughs) No, can't say I do — I've heard folks talk about them but never had the itch to try one myself. Prefer to sort my own thoughts out, even the tide-table kind."
+    },
+    {
+      "role": "interviewer",
+      "text": "Since you don’t really use social media much and don’t use AI chatbots, we’ll skip ahead a bit. If you could improve one thing about your sleeping habits, what would it be?"
+    },
+    {
+      "role": "participant",
+      "text": "(sighs, almost fond) Honestly, I'd want it to stop showing up uninvited at two in the morning — the boat can wait till daylight, but my brain never seems to get that memo. Everything else I'm fine with as is."
+    },
+    {
+      "role": "interviewer",
+      "text": "Given your work, studies, or daily responsibilities, do you think that change—fewer of those 2 a.m. wake-ups—would be doable? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "(considers this, tapping a mental oar) Doable, sure — I've got the tools, the notepad trick works when I actually remember to use it before my brain runs off with the numbers. It's more a matter of catching myself early instead of an hour in, and I don't always bother, because by the time I'm awake enough to notice, I'm already halfway through calculating bolt sizes. So — doable, yes. Likely, ask me again in a year."
+    },
+    {
+      "role": "interviewer",
+      "text": "Now I have a few optional background questions. You can skip anything you’d rather not share.\n\nWhat is your age?"
+    },
+    {
+      "role": "participant",
+      "text": "58."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thank you. What is your profession?"
+    },
+    {
+      "role": "participant",
+      "text": "(chuckles) Ferry dispatcher, down at the terminal — semi-retired now, so I only do three early shifts a week. Rest of the time I'm elbow-deep in an old sailboat I'm restoring, which some days feels like the real job."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thank you. What is your country of birth?"
+    },
+    {
+      "role": "participant",
+      "text": "Canada — I've lived here in Nova Scotia my whole life, coastal town girl through and through."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thank you. And to finish up those background questions: What is your current country of residence, and if it’s different from your country of birth, when did you move?"
+    },
+    {
+      "role": "participant",
+      "text": "Nova Scotia, born and raised — never left. So no move to speak of."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for sharing all of that. Those were all the planned questions I had.\n\nBefore we wrap up, is there anything else about your sleep, your routines, or anything we talked about today that you’d like to add?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T07:50:09.967035+00:00"
+}

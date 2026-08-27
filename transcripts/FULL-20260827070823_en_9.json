@@ -1,0 +1,127 @@
+{
+  "run_id": "FULL-20260827070823",
+  "language": "en",
+  "index": 9,
+  "started_at": "2026-08-27T07:26:30.077214+00:00",
+  "participant_id": "P1787815572347",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Welcome to the interview."
+    },
+    {
+      "role": "participant",
+      "text": "\"Hi. Yeah, ready when you are.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "What time did you go to bed last night?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Around 9:30, like usual on early-shift weeks.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks. Approximately how many hours did you sleep last night? Would you say you slept well? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "\"About seven hours — went down around 9:30, up at 4:45. Woke up briefly around 2 when the cat got into my room, but that's about it. I'd call it a good night, yeah, nothing to complain about.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. What was the last activity you engaged in before going to bed? And why did you choose to do that activity?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Just a short walk around the block, then some reading in bed. Nothing fancy — kind of the same wind-down every early-shift night.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks. What factors have most affected your sleep quality over the past two weeks?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Honestly, not much has changed — the shift rotation's been steady. Maybe the housemate's cat has been more of a nuisance lately, gets into my room a couple nights a week, but that's a minor thing. Nothing major's been throwing me off.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Is that pretty typical for you, or has something changed recently with your sleep or schedule?\n\nAnd overall, are you happy with how you are sleeping these days? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Pretty typical, yeah — nothing's shifted with the schedule. And I'd say I'm happy enough with my sleep, honestly. It's not glamorous, but it works — I get my seven hours most weeks and I know how to handle the rough patches when the rotation flips.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for sharing that. You mentioned reading in bed as part of your wind‑down — what kind of things do you usually read at night? Any particular book or type of book recently?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Nothing fancy, honestly — mostly crime novels, cheap paperbacks. Been working through a Fred Vargas one this week, few pages at a time before my eyes give out.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "That makes sense, thanks. You’ve probably heard the advice that adults should get 7–9 hours of sleep a night. Does that feel practical for you right now?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Practical enough for me, most weeks — I land around seven on both the early and night shifts. It's the rotation weeks that eat into it a bit, but I've made my peace with that. I don't lose sleep over the number, if you'll pardon the pun.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that’s clear. Many people check their mobile phones, tablets, or computers right before bed. Do you do this too? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Not really — phone stays on the charger in the kitchen once I'm winding down. Old habit more than discipline, honestly, I just never got into scrolling before bed.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Got it, thanks. Do you regularly use social media at other times of day? If so, how do you typically use it?"
+    },
+    {
+      "role": "participant",
+      "text": "Not really, no — I check Instagram maybe once or twice a day, usually on my lunch break at work or a bit in the evening. Mostly just scrolling, following a couple of welding and motorbike accounts, nothing I'd call heavy use."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that’s helpful. Now a couple of quick questions about technology in general: Do you regularly use AI chatbots, like ChatGPT, Gemini, Claude, or similar apps?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Not really, no. I've messed around with one out of curiosity, saw what the fuss was about, but it's not part of my routine. I'm more of a look-it-up-on-a-forum type when I need something specific.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that’s clear. If you could improve one thing about your sleeping habits, what would it be?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Honestly, probably just not having to reset my clock every third week. The sleep itself is fine — it's the switching that gets old.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Given your work, studies, or daily responsibilities, do you think that kind of change—avoiding the regular shift switching—would be doable for you? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Honestly, no, not really — the maintenance windows only open up after midnight when they shut down track access, so somebody's got to be there and it rotates through the crew. I could ask to be taken off nights permanently, but then it just lands on someone else, and I'd rather take my third the same as everyone.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "That makes sense, thanks for explaining. I have a few last background questions, and you can skip anything you’d rather not share.\n\nCould you tell me:\n- Your age;\n- Your profession;\n- Your country of birth;\n- Your current country of residence;\n- And, if different, when you moved?"
+    },
+    {
+      "role": "participant",
+      "text": "46, structural welder, born in Lyon, still living in Lyon — never moved away."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that’s all the main questions I had.\n\nBefore we wrap up, is there anything else you’d like to add about your sleep or your routine that we haven’t talked about?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T07:27:56.976223+00:00"
+}

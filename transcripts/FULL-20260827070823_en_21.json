@@ -1,0 +1,127 @@
+{
+  "run_id": "FULL-20260827070823",
+  "language": "en",
+  "index": 21,
+  "started_at": "2026-08-27T07:50:25.335642+00:00",
+  "participant_id": "P1787817014073",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Welcome to the interview."
+    },
+    {
+      "role": "participant",
+      "text": "Not much to it — mornings start early, so I try to be in bed by nine-thirty or so. Ready when you are."
+    },
+    {
+      "role": "interviewer",
+      "text": "What time did you actually get into bed last night?"
+    },
+    {
+      "role": "participant",
+      "text": "Went down around quarter to ten, I think — a bit later than I meant to. Got sucked into one of those home renovation shows and lost track of time."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for sharing that. About how many hours would you say you slept last night, and did you feel like you slept well? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "About seven hours, give or take — I was down by ten, up once around two to let the dog out, then back at it by five. Wouldn't call it great, wouldn't call it bad either — pretty standard night for me at this point."
+    },
+    {
+      "role": "interviewer",
+      "text": "What was the last thing you did before you went to bed last night, and why did you choose to do that?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Just checked the doors were locked and let the dog out one last time before turning in — habit more than anything, but I figure it saves me the trip at midnight.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Over the past two weeks, what factors have most affected your sleep quality?"
+    },
+    {
+      "role": "participant",
+      "text": "Over the past two weeks, probably the shift schedule itself — the 5am starts mean I'm going down earlier than my body always wants to. Other than that, it's just the usual: the fan running, the odd wake-up out of habit, dog stuff. Nothing new, really."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that helps. Would you say this pattern is pretty typical for you, or has anything about your sleep changed recently?"
+    },
+    {
+      "role": "participant",
+      "text": "Pretty typical, yeah. Nothing's really changed — waking up around two, sometimes closer to three, that's just been the pattern for years now. If anything it's a bit more predictable than it used to be."
+    },
+    {
+      "role": "interviewer",
+      "text": "You’ve probably heard the advice that adults should get 7–9 hours of sleep a night. Does that feel practical for you right now?"
+    },
+    {
+      "role": "participant",
+      "text": "Seven-ish hours works out okay for me most nights, so 7 to 9 isn't a stretch. It's more the \"unbroken\" part that's a fantasy — with the 5am starts and old habits, I'm just not getting eight hours straight no matter what any chart says."
+    },
+    {
+      "role": "interviewer",
+      "text": "What makes it easy or difficult for you to actually get that much sleep, given your current schedule and habits?"
+    },
+    {
+      "role": "participant",
+      "text": "Honestly, the shift schedule makes it hard, not easy — going down at 9:30 doesn't come naturally, my body's not always ready. What makes it work at all is just sticking to it, same routine every night — fan on, dog out, lights off — so I don't have to think about it. The habit does more heavy lifting than anything else at this point."
+    },
+    {
+      "role": "interviewer",
+      "text": "Many people check their mobile phones, tablets, or computers right before bed. Do you do this, too? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Not really — I turn my phone off notifications and leave it charging across the room, mostly. Old habit from shift work, honestly, I don't need something buzzing at me at 9:30 when I've got a 5am wake-up coming."
+    },
+    {
+      "role": "interviewer",
+      "text": "Do you regularly use social media? If so, how do you typically use it, especially in the hours before bed?"
+    },
+    {
+      "role": "participant",
+      "text": "Not much, honestly. I'll scroll through a bit if I'm eating lunch or something, but before bed it's basically off — I'm too wiped out from a 5am start to be scrolling anything at 9:30."
+    },
+    {
+      "role": "interviewer",
+      "text": "Now a couple of quick questions about technology in general: Do you regularly use AI chatbots, like ChatGPT, Gemini, Claude, or similar apps?"
+    },
+    {
+      "role": "participant",
+      "text": "Used it a couple times when my daughter showed me — mostly for stuff like figuring out a work email or looking something up quick. Not something I go to regularly, no. I'm more of a \"just Google it\" guy, honestly."
+    },
+    {
+      "role": "interviewer",
+      "text": "Since you don’t really use social media or AI chatbots regularly, we’ll skip ahead a bit.\n\nIf you could improve one thing about your sleeping habits, what would it be?"
+    },
+    {
+      "role": "participant",
+      "text": "If I could fix one thing, it'd be sleeping through without the 2am wake-up — even if it's just letting the dog out, it'd be nice not to have that built into my body clock at this point."
+    },
+    {
+      "role": "interviewer",
+      "text": "Given your work, studies, or daily responsibilities, do you think that change—sleeping through without the 2am wake-up—would be doable? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Honestly, probably not, no. Fifteen years of shift work, that clock's pretty well set in me at this point — even on my days off I still stir around that time out of habit. I've made my peace with it; it's not really something I can just decide my way out of."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. I have a few quick background questions, and you can skip anything you’d rather not share:\n\n• Your age;\n• Your profession;\n• Your country of birth;\n• Your current country of residence;\n• (If different from above) when did you move?"
+    },
+    {
+      "role": "participant",
+      "text": "Age's fifty-two. Logistics coordinator at a warehouse — scheduling, staffing shifts, that kind of thing. Born and raised right here, never lived anywhere else, so no move to speak of."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thank you for sharing that background information.\n\nBefore we wrap up, is there anything else about your sleep or your bedtime routine that you’d like to add that we haven’t talked about?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T07:51:59.755015+00:00"
+}

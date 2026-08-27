@@ -1,0 +1,127 @@
+{
+  "run_id": "FULL-20260827070823",
+  "language": "en",
+  "index": 36,
+  "started_at": "2026-08-27T08:22:40.337803+00:00",
+  "participant_id": "P1787818949463",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Welcome to the interview."
+    },
+    {
+      "role": "participant",
+      "text": "Good, thanks for having me on."
+    },
+    {
+      "role": "interviewer",
+      "text": "What time did you go to bed last night?"
+    },
+    {
+      "role": "participant",
+      "text": "Went to bed about quarter to eleven, same as usual."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks. Approximately how many hours did you sleep last night, and would you say you slept well? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Slept alright, about seven hours I'd guess. Was on standby for a callout that never came, so I was half-listening for the phone most of the night — didn't get properly woken but the sleep was lighter than normal."
+    },
+    {
+      "role": "interviewer",
+      "text": "What was the last activity you engaged in before going to bed, and why did you choose to do that activity?"
+    },
+    {
+      "role": "participant",
+      "text": "Just watched a bit of football highlights and had the radio on low, like I usually do — helps me wind down without really thinking about it."
+    },
+    {
+      "role": "interviewer",
+      "text": "Over the past two weeks, what factors have most affected your sleep quality?"
+    },
+    {
+      "role": "participant",
+      "text": "Over the past two weeks it's mostly been the on-call thing — being on standby a couple of times a month means I don't sleep as deep, even when the phone doesn't ring. Other than that, nothing much, pretty steady really."
+    },
+    {
+      "role": "interviewer",
+      "text": "Is that pretty typical for you, or has something about your sleep changed recently?"
+    },
+    {
+      "role": "participant",
+      "text": "Pretty typical, yeah. Standby nights are the only thing that really shakes it up — otherwise I sleep about the same night to night."
+    },
+    {
+      "role": "interviewer",
+      "text": "Overall, are you happy with how you are sleeping these days? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Pretty happy with it, yeah — I sleep enough most nights and I'm not one to lose sleep over losing sleep, if that makes sense. The standby nights are a bit of a nuisance but that's just part of the job."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. You’ve probably heard the advice that adults should get 7–9 hours of sleep a night. Does that feel practical for you right now?"
+    },
+    {
+      "role": "participant",
+      "text": "That feels about right for me, actually — I get roughly seven, maybe a bit less on standby nights. I'm not chasing nine hours or anything, seven's always done the job."
+    },
+    {
+      "role": "interviewer",
+      "text": "What makes it easy or difficult for you to actually get that much sleep?"
+    },
+    {
+      "role": "participant",
+      "text": "Not much gets in the way, really. Job's fine for it since I'm on days mostly — it's just the standby nights that throw a spanner in it. Bed's comfortable, place is quiet enough, so honestly the easy part outweighs the hard part."
+    },
+    {
+      "role": "interviewer",
+      "text": "Many people check their mobile phones, tablets, or computers right before bed. Do you do this, too? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "No, not really. Phone stays on the kitchen counter charging most nights — habit more than anything. I might glance at it if I've had the radio on, but I'm not scrolling in bed."
+    },
+    {
+      "role": "interviewer",
+      "text": "Do you regularly use social media? If so, how do you typically use it, especially in the hours before bed?"
+    },
+    {
+      "role": "participant",
+      "text": "Not really, no. I might glance at the football scores on my phone but I'm not one for scrolling through feeds, especially not before bed."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that makes sense. Now a couple of quick questions about technology in general: Do you regularly use AI chatbots, such as ChatGPT, Gemini, Claude, or similar applications?"
+    },
+    {
+      "role": "participant",
+      "text": "No, not for me — my daughter's tried to get me to use one, and I've had a poke around, but it's not really my thing. I'd rather just ring someone or look it up myself."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that’s helpful to know. Since you don’t really use social media or AI chatbots regularly, I’ll skip ahead.\n\nIf you could improve one thing about your sleeping habits, what would it be?"
+    },
+    {
+      "role": "participant",
+      "text": "Honestly? Probably the standby nights — never quite switching off properly while I'm half-listening for the phone. Everything else I'm not fussed about, but that would be the one thing I'd sort if I could."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that’s clear. Now a quick set of background questions. (Feel free to skip anything you’d rather not share.)\n\nWhat is your age, your profession, your country of birth, your current country of residence, and—if different from your country of birth—when did you move?"
+    },
+    {
+      "role": "participant",
+      "text": "52, water utility maintenance tech, born and still living in this country — never moved, so no relocation date to give."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for sharing that. Those are all the main questions I had.\n\nBefore we finish, is there anything else about your sleep or bedtime routine that you’d like to add that we haven’t talked about?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T08:24:01.451526+00:00"
+}

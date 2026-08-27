@@ -1,0 +1,159 @@
+{
+  "run_id": "FULL-20260827070823",
+  "language": "en",
+  "index": 2,
+  "started_at": "2026-08-27T07:11:09.659021+00:00",
+  "participant_id": "P1787814656535",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Welcome to the interview."
+    },
+    {
+      "role": "participant",
+      "text": "Good morning. Doing alright, thanks — a bit tired today if I'm honest."
+    },
+    {
+      "role": "interviewer",
+      "text": "What time did you go to bed last night?"
+    },
+    {
+      "role": "participant",
+      "text": "Around 10:30, same as always."
+    },
+    {
+      "role": "interviewer",
+      "text": "Approximately how many hours did you sleep last night? Would you say you slept well? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "About 6, maybe a little under. Not great — I stayed up too late watching an old match and couldn't shut my brain off after that."
+    },
+    {
+      "role": "interviewer",
+      "text": "What was the last activity you engaged in before going to bed? Why did you choose to do that activity?"
+    },
+    {
+      "role": "participant",
+      "text": "Last night I stayed up watching an old football match on my tablet — longer than I meant to. Just wanted to unwind, I guess, but it backfired since I couldn't switch off after."
+    },
+    {
+      "role": "interviewer",
+      "text": "Over the past two weeks, what factors have most affected your sleep quality?"
+    },
+    {
+      "role": "participant",
+      "text": "Over the past two weeks, mostly just work stress creeping in a bit — nothing major, just enough to keep my head busy at night sometimes. Otherwise it's been pretty normal for me."
+    },
+    {
+      "role": "interviewer",
+      "text": "Is that pretty typical for you, or has something changed recently with your sleep or stress levels?"
+    },
+    {
+      "role": "participant",
+      "text": "Pretty typical, yeah. Work stress is nothing new for me — just an off night with the football thing on top of it."
+    },
+    {
+      "role": "interviewer",
+      "text": "Overall, are you happy with how you are sleeping these days? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Not bad, honestly. A rough night here and there doesn't bother me much — long as I'm getting my seven hours most of the time, I figure I'm doing alright."
+    },
+    {
+      "role": "interviewer",
+      "text": "You’ve probably heard the advice that adults should get 7–9 hours of sleep a night. Does that feel practical for you right now?"
+    },
+    {
+      "role": "participant",
+      "text": "Not really, no. Seven's my number and it works fine for me — nine sounds like a luxury I don't have time for on a work day."
+    },
+    {
+      "role": "interviewer",
+      "text": "What makes it easy or difficult for you to actually get around seven hours of sleep most nights?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Honestly, sticking to the same bedtime helps — I don't wander off schedule much on weekdays. What throws it off is nights like last night, staying up on the tablet, or if something's on my mind. Otherwise it's pretty automatic for me at this point.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Many people check their mobile phones, tablets, or computers right before bed. Do you do this too? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "No, not really — I've had enough of screens by the time I'm ready for bed most nights. Last night was the exception with the football thing, and that's probably part of why I had trouble settling."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. Do you regularly use social media at other times of day? If yes, how do you typically use it, especially in the hours before bed?"
+    },
+    {
+      "role": "participant",
+      "text": "No, I don't really do social media much. Facebook now and then to see pictures from the grandkids, that's about it — nothing at night."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for sharing that. Now a quick question about technology in general: Do you regularly use AI chatbots, such as ChatGPT, Gemini, Claude, or similar applications?"
+    },
+    {
+      "role": "participant",
+      "text": "No, not for me. My son's into that kind of thing — I'll stick to just typing things into a search engine myself."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining. Since you don’t really use social media or AI chatbots regularly, I’ll skip ahead.\n\nIf you could improve one thing about your sleeping habits, what would it be?"
+    },
+    {
+      "role": "participant",
+      "text": "If I could improve one thing, it'd be getting off the tablet earlier — nights like last night are always my own doing, not much else to blame."
+    },
+    {
+      "role": "interviewer",
+      "text": "Given your work, studies, or daily responsibilities, do you think cutting back on tablet use at night would be doable? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Cutting back would be doable, honestly — I don't have much stopping me, I live alone, no one else to answer to in the evening. It's really just a habit I've let slide, not a schedule problem."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. Now I have a few quick background questions. Please feel free to skip anything you’d rather not share.\n\nWhat is your age?"
+    },
+    {
+      "role": "participant",
+      "text": "58."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thank you. What is your current profession or main daily occupation?"
+    },
+    {
+      "role": "participant",
+      "text": "Warehouse inventory coordinator — I keep track of stock, do counts, that sort of thing. Been doing it a long while now."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thank you. What is your country of birth?"
+    },
+    {
+      "role": "participant",
+      "text": "\"United States.\" (born and raised here, never lived elsewhere)"
+    },
+    {
+      "role": "interviewer",
+      "text": "Thank you. And what is your current country of residence?"
+    },
+    {
+      "role": "participant",
+      "text": "United States."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for sharing that. That covers all of the main questions I had.\n\nBefore we finish, is there anything else about your sleep or evening habits that you’d like to add that we haven’t talked about?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T07:13:17.257273+00:00"
+}

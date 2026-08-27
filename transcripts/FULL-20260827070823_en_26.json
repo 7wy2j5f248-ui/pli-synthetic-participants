@@ -1,0 +1,151 @@
+{
+  "run_id": "FULL-20260827070823",
+  "language": "en",
+  "index": 26,
+  "started_at": "2026-08-27T08:01:01.752858+00:00",
+  "participant_id": "P1787817651898",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Welcome to the interview."
+    },
+    {
+      "role": "participant",
+      "text": "Alright, thanks. Ready when you are."
+    },
+    {
+      "role": "interviewer",
+      "text": "What time did you go to bed last night?"
+    },
+    {
+      "role": "participant",
+      "text": "Went to bed around 11, but I was up at 6 this morning, so — do the math, it wasn't a lot. Some weeks the shift schedule doesn't care what time I \"meant\" to sleep."
+    },
+    {
+      "role": "interviewer",
+      "text": "Approximately how many hours do you think you actually slept last night? And would you say you slept well? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Probably five to six hours, if I'm being generous with the math. I'd say it was decent, not great — I got interrupted around 3am by a work text, but I fell back asleep fine, so it's not like I was staring at the ceiling all night."
+    },
+    {
+      "role": "interviewer",
+      "text": "What was the last activity you engaged in before going to bed?"
+    },
+    {
+      "role": "participant",
+      "text": "Last thing before bed I usually just watch some TV — low volume, kind of like background noise until I doze off. Didn't do anything special last night."
+    },
+    {
+      "role": "interviewer",
+      "text": "Why do you usually choose to watch TV as your last activity before going to sleep?"
+    },
+    {
+      "role": "participant",
+      "text": "Just habit at this point — it's mindless, keeps the room from being dead silent, and I don't have to think about it. Doesn't require any effort, which is kind of the point after a long shift."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. Over the past two weeks, what factors have most affected your sleep quality?"
+    },
+    {
+      "role": "participant",
+      "text": "Factors like the work text at 3am waking me up, and the rotating shift schedule messing with when I actually go to bed — that's probably the biggest one. Other than that, not much has changed on my end."
+    },
+    {
+      "role": "interviewer",
+      "text": "Is that rotating shift schedule and getting work messages at odd hours pretty typical for you, or has something changed recently in the last little while?"
+    },
+    {
+      "role": "participant",
+      "text": "Pretty typical, yeah. The shift rotation's been going on for a couple years now, so I'm used to it. The 3am texts happen more than I'd like — comes with coordinating trucks that don't care what time it is — but nothing's really changed lately, just the usual grind."
+    },
+    {
+      "role": "interviewer",
+      "text": "Overall, are you happy with how you are sleeping these days? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Not really happy, no — I get by, but waking up once or twice a night's just the norm for me at this point. It's not the end of the world, functional over great, I guess. If the shift didn't jump around so much I'd probably sleep better, but that's the job."
+    },
+    {
+      "role": "interviewer",
+      "text": "You’ve probably heard the advice that adults should get 7–9 hours of sleep a night. Does that feel practical for you right now?"
+    },
+    {
+      "role": "participant",
+      "text": "Seven to nine hours sounds nice in theory, but with the shift jumping around I'm lucky to get seven most weeks — some weeks it's closer to six. I don't stress about hitting a number though, I just try to feel decent when I'm up. If I chased nine hours on a 6am week I'd have to go to bed at like 8pm, and that's not happening."
+    },
+    {
+      "role": "interviewer",
+      "text": "What makes it easy or difficult for you to actually get that much sleep?"
+    },
+    {
+      "role": "participant",
+      "text": "Honestly, the shift changing every week or two is the main thing that makes it hard — my body never fully settles into one bedtime. What makes it easier is when the schedule's steady for a stretch, or when work doesn't blow up my phone overnight."
+    },
+    {
+      "role": "interviewer",
+      "text": "Many people check their mobile phones, tablets, or computers right before bed. Do you do this, too? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Yeah, honestly — the 3am thing tonight was because of that. I keep it on the nightstand for work reasons, so if it buzzes I'm gonna look at it, and then I'm scrolling for a few minutes before I realize what I'm doing. Not proud of it, but when your phone's basically a work radio you can't really leave it in another room."
+    },
+    {
+      "role": "interviewer",
+      "text": "That makes sense. Do you regularly use social media? If yes, how do you typically use it, especially in the hours before bed?"
+    },
+    {
+      "role": "participant",
+      "text": "Not really, no. I'm on there sometimes, but it's more of a lunch-break scroll thing than a bedtime habit — once the phone's on the nightstand it's just for texts, not doom-scrolling feeds."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. Now a quick question about technology in general: Do you regularly use AI chatbots (like ChatGPT, Gemini, Claude, or similar apps)? If yes, what do you mainly use them for?"
+    },
+    {
+      "role": "participant",
+      "text": "Not really, no. Wouldn't trust it to tell me anything about my own body that I don't already know from just living in it — I mostly just use it for boring stuff, like drafting an email or looking something up quick."
+    },
+    {
+      "role": "interviewer",
+      "text": "Since you do use them a bit, do you feel like your sleeping habits have changed at all since you began using AI chatbots regularly?"
+    },
+    {
+      "role": "participant",
+      "text": "Nah, not really. I don't really use them enough for that, and definitely not around bedtime — like I said, it's more a \"help me word this email\" thing at lunch than anything touching my sleep. My sleep habits are messed with by my schedule, not by chatbots."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for clarifying that. If you could improve one thing about your sleeping habits, what would it be?"
+    },
+    {
+      "role": "participant",
+      "text": "Honestly? Getting the phone off the nightstand, or at least on silent for anything but the emergency line. Everything else I can live with — the shift work I've made peace with, but that 3am buzz-and-scroll thing is the one habit that's actually optional."
+    },
+    {
+      "role": "interviewer",
+      "text": "Given your work and daily responsibilities, do you think making that change with your phone would be doable? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Yeah, doable — silent mode's not exactly a heavy lift. I've already got emergency contacts starred, so it's really just flipping one setting instead of leaving the whole thing wide open. No real excuse other than laziness, honestly.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. Now a few background questions—feel free to skip anything you’d rather not share.\n\nWhat is your age, your profession, your country of birth, and your current country of residence?"
+    },
+    {
+      "role": "participant",
+      "text": "Age's 52. Logistics coordinator at a warehouse — I move boxes around on a schedule, basically. Born and still living in the same country, so nothing exotic there."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for sharing that. A couple of quick follow-ups, if you’re comfortable:\n\nWhich country is that, and is there anything else you’d like to add about your sleep or your schedule that we haven’t talked about yet?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T08:03:38.482969+00:00"
+}

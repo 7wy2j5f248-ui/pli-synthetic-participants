@@ -1,0 +1,143 @@
+{
+  "run_id": "FULL-20260827070823",
+  "language": "en",
+  "index": 22,
+  "started_at": "2026-08-27T07:52:15.346811+00:00",
+  "participant_id": "P1787817123835",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Welcome to the interview."
+    },
+    {
+      "role": "participant",
+      "text": "\"Yeah, hi. Ready when you are.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "What time did you go to bed last night?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Late. Got off the evening shift, ended up watching TV to unwind, so probably close to midnight before I actually laid down.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. Approximately how many hours did you sleep last night? Would you say you slept well? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Six hours, maybe six and a half if I'm being generous. Wouldn't call it good sleep though — kept waking up and clock-watching, then I was up for the day around 4:30. Just how it goes some nights, nothing new.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "What was the last activity you engaged in before going to bed, and why did you choose to do that activity?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Watched TV — some late-night show, don't even remember what. Wasn't trying to unwind exactly, just didn't feel like lying there yet after that shift. Ended up going longer than I meant to.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Over the past two weeks, what factors do you think have most affected your sleep quality?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Honestly, the shift rotation's the big one — going from mornings to evenings throws my clock off every couple weeks. Other than that, waking up for the bathroom most nights, and if I don't wind down right after a late shift I end up watching TV too long, like last night.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Is that mix of rotating shifts, waking up at night, and watching TV later than you mean to pretty typical for you, or has something changed recently?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Pretty typical, yeah. Been doing the shift rotation for years now, body never really adjusts to it. Bathroom trips are just age I guess. Last night was just a bit worse 'cause I let the TV run too long.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Overall, are you happy with how you are sleeping these days? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Not really, no. It's manageable, I get through the day, but I wouldn't call six hours of broken sleep good. Honestly at this point I don't expect it to be great — that's just where I'm at.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "You’ve probably heard the advice that adults should get 7–9 hours of sleep a night. Does that feel practical for you right now?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Seven to nine? Sure, in theory. In practice with the shifts I work, that'd mean sleeping the same hours every night, and my schedule just doesn't allow that. I'd take a solid six over a rough eight, honestly.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "What makes it easy or difficult for you to actually get that much sleep, given your current schedule and routine?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Honestly, the hard part's just that my body clock never picks a lane — soon as it adjusts to mornings, they flip me to evenings again. Easy part, I guess, is I fall asleep fine once I'm actually down. Getting a full stretch without waking up for the bathroom, that's the real obstacle.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Many people check their mobile phones, tablets, or computers right before bed. Do you do this too? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Yeah, pretty much every night. Scroll through news or whatever until I'm tired enough to actually shut it off. Probably doesn't help, but it's just habit at this point.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Do you regularly use social media? If so, how do you typically use it, especially in the hours before bed?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Not really, I check the news more than anything else. Sometimes I'll glance at it, but I'm not big on posting or scrolling through people's stuff for long. Mostly it's the same thing — kills a few minutes before I put the phone down.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Now a quick question about technology in general: Do you regularly use AI chatbots, like ChatGPT, Gemini, Claude, or similar apps?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Nah, don't really mess with those. Kids know that stuff better than I do.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. Do you feel like your sleeping habits have changed at all since you started regularly checking news or using your phone before bed?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Nah, not that I've noticed. I was probably sleeping about the same before phones existed, honestly. It's more the shift work messing with me than the scrolling.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "If you could improve one thing about your sleeping habits, what would it be?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Honestly? Getting a solid stretch without waking up for the bathroom. That's the one thing that'd actually make a difference — everything else I've kind of made peace with.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Given your work, shifts, or other daily responsibilities, do you think getting that solid stretch of sleep without bathroom wake-ups feels doable, or not really? Why?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Doable? Not really, no. Bladder doesn't care what shift I worked. Best I can do is not drink much after dinner, but that only helps a little.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for sharing that. Now just a few background questions, and you can skip anything you’d rather not answer:\n\nWhat are your age, your profession, your country of birth, your current country of residence, and (if different) when you moved there?"
+    },
+    {
+      "role": "participant",
+      "text": "\"52, work in warehouse logistics — coordinator, running the floor and scheduling shifts mostly. Born and raised here in the Midwest, never lived anywhere else.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for sharing all of that, and for sticking through all the questions.\n\nBefore we wrap up, is there anything else about your sleep, your schedule, or your routines at night that you’d like to add that we haven’t talked about?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T07:54:15.152266+00:00"
+}

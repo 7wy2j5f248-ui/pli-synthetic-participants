@@ -1,0 +1,175 @@
+{
+  "run_id": "FULL-20260827070823",
+  "language": "en",
+  "index": 7,
+  "started_at": "2026-08-27T07:22:00.206134+00:00",
+  "participant_id": "P1787815295475",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Welcome to the interview."
+    },
+    {
+      "role": "participant",
+      "text": "Hey, thanks for having me. Ready to get started whenever you are."
+    },
+    {
+      "role": "interviewer",
+      "text": "What time did you go to bed last night?"
+    },
+    {
+      "role": "participant",
+      "text": "Around 11:30, like most nights."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks. Approximately how many hours did you sleep last night? Would you say you slept well? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "About 6 and a half hours, I think — went down around 11:30, up at 6:15. I'd say okay, not great, I woke up once in the middle of the night but got back to sleep alright."
+    },
+    {
+      "role": "interviewer",
+      "text": "What was the last activity you engaged in before going to bed?"
+    },
+    {
+      "role": "participant",
+      "text": "Just watching some football with the TV on low, and having a small glass of wine. Nothing special, really — same thing most nights."
+    },
+    {
+      "role": "interviewer",
+      "text": "You mentioned you do that most nights—why did you choose to watch football and have a small glass of wine before bed?"
+    },
+    {
+      "role": "participant",
+      "text": "Just habit, really — winding down before bed. Football's on most nights this time of year, and the wine's just one small glass, helps me relax a bit after the shop. Nothing more to it than that."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. Over the past two weeks, what factors have most affected your sleep quality?"
+    },
+    {
+      "role": "participant",
+      "text": "Over the past two weeks, honestly, work's probably the biggest one — some evenings I'm stuck doing paperwork in the back office later than I'd like, and my head's still on it a bit when I lie down. Other than that, nothing major, just the odd night where I wake up and don't drop off as quick as I used to."
+    },
+    {
+      "role": "interviewer",
+      "text": "Is this pretty typical for you, or has something changed in your sleep or work routine recently?"
+    },
+    {
+      "role": "participant",
+      "text": "Not much has changed, no — sleep's been steady like this for a few months. I just chalk it up to getting older, to be honest, not anything different in my routine."
+    },
+    {
+      "role": "interviewer",
+      "text": "Overall, are you happy with how you are sleeping these days? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Not bad, honestly. I sleep enough most nights, and when it's off it's off for a reason I can point to — like the paperwork thing. I'm not losing sleep over losing sleep, if that makes sense."
+    },
+    {
+      "role": "interviewer",
+      "text": "You've probably heard the advice that adults should get 7–9 hours of sleep a night. Does that feel practical for you right now?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Honestly, most nights I'm not far off that — but no, I wouldn't call it practical to chase, exactly. I get close enough and I feel alright, so I don't sit there counting hours.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "What, if anything, makes it easy or difficult for you to actually get that much sleep?"
+    },
+    {
+      "role": "participant",
+      "text": "Getting close to the full 7-9 is easy enough on a normal night — I'm knackered from the shop, so I fall asleep quick once I'm down. What makes it harder is the paperwork running late, or my mother needing something upstairs — those push the start of my night back, and then it's not really about hours anymore, it's just later than I'd like."
+    },
+    {
+      "role": "interviewer",
+      "text": "Many people check their mobile phones, tablets, or computers right before bed. Do you do this, too? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Not really, no — the screen tires my eyes out at that hour, so I mostly leave the phone alone before bed. TV's on low with the football or the news, that's about it."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. Do you regularly use social media at all? If so, how do you typically use it, especially in the hours before bed?"
+    },
+    {
+      "role": "participant",
+      "text": "Not really, no — I look at it maybe once in a while, nothing before bed though. Football scores and the odd message from a customer, that's about the extent of it for me."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that’s clear. Now a quick question about technology in general: do you regularly use AI chatbots, like ChatGPT, Gemini, Claude, or similar apps?"
+    },
+    {
+      "role": "participant",
+      "text": "No, I don't use those — never really felt the need to, and it's not something that comes up much in my line of work."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that’s helpful to know. If you think about the last few years, do you feel like your sleeping habits have changed at all, or have they stayed more or less the same?"
+    },
+    {
+      "role": "participant",
+      "text": "Pretty much the same, really. Maybe a bit lighter sleep the last few months, but I put that down to getting older, not anything I'd say changed in a big way."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. If you could improve one thing about your sleeping habits, what would it be?"
+    },
+    {
+      "role": "participant",
+      "text": "If I could change one thing, it'd be getting the paperwork done earlier so I'm not up in the office past when I should be — the later nights are the real culprit, not the sleep itself."
+    },
+    {
+      "role": "interviewer",
+      "text": "Given your work, studies, or daily responsibilities, do you think getting that paperwork done earlier is realistically doable? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Yeah, honestly, probably not this week — my brother and I are already stretched thin at the shop. But it's something I could push myself on, maybe do half an hour when we close instead of leaving it all for after dinner."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that makes sense. Now I have a few background questions. Please feel free to skip anything you’d rather not share.\n\nCould you tell me your age?"
+    },
+    {
+      "role": "participant",
+      "text": "47."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thank you. And what is your profession?"
+    },
+    {
+      "role": "participant",
+      "text": "Locksmith. Small shop, I run it with my brother."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks. What country were you born in?"
+    },
+    {
+      "role": "participant",
+      "text": "Portugal — born and raised right here in Porto, actually."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thank you. And where are you currently living now?"
+    },
+    {
+      "role": "participant",
+      "text": "Living right here in Porto, actually — same neighborhood I grew up in. Never left."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for sharing that. One last question on background: is there anything else about your sleep, your routine, or your situation that you think would be useful for the researchers to know?\n\nIf not, you’re also welcome to just say you don’t have anything to add."
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T07:24:04.968577+00:00"
+}

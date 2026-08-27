@@ -1,0 +1,143 @@
+{
+  "run_id": "FULL-20260827070823",
+  "language": "en",
+  "index": 23,
+  "started_at": "2026-08-27T07:54:33.946884+00:00",
+  "participant_id": "P1787817259379",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Welcome to the interview."
+    },
+    {
+      "role": "participant",
+      "text": "Hi, thanks for having me — happy to talk."
+    },
+    {
+      "role": "interviewer",
+      "text": "What time did you go to bed last night?"
+    },
+    {
+      "role": "participant",
+      "text": "Went to bed around half eleven, so 11:30 or so. Nothing unusual there, that's about my normal time."
+    },
+    {
+      "role": "interviewer",
+      "text": "Approximately how many hours did you sleep last night? Would you say you slept well? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Slept about six and a half hours, I think — nothing exact, I didn't check the clock much. I'd say decently, yeah. Woke up once for the dog and once to use the bathroom, but that's just normal for me, doesn't really count as \"not sleeping well\" in my book."
+    },
+    {
+      "role": "interviewer",
+      "text": "What was the last activity you engaged in before going to bed?"
+    },
+    {
+      "role": "participant",
+      "text": "Last night after the tea I just watched an episode of my show — it's a Danish drama I'm working through with subtitles — and then brushed my teeth and got into bed. Pretty routine, nothing special."
+    },
+    {
+      "role": "interviewer",
+      "text": "Why did you choose to watch that show before going to bed?"
+    },
+    {
+      "role": "participant",
+      "text": "Oh, mostly just habit at this point — I'm partway through the series and it's what I look forward to at the end of the day. It's calm, nothing too intense, so it winds me down rather than getting me wound up. Doesn't keep me up thinking about it, if that's what you're asking."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thank you, that makes sense.\n\nWhat factors have most affected your sleep quality over the past two weeks?"
+    },
+    {
+      "role": "participant",
+      "text": "Over the past two weeks the biggest thing has honestly been my own workload — I'm not deep into tax season yet, so it's mostly been normal, but the odd late night finishing up a client file pushes bedtime back a bit. Otherwise it's the usual: the dog needing out once in a while, my husband coming or going at odd hours if he's got an early haul. Nothing dramatic, really."
+    },
+    {
+      "role": "interviewer",
+      "text": "Is this pretty typical for you, or has something changed recently?"
+    },
+    {
+      "role": "participant",
+      "text": "Pretty typical, yeah — nothing's really changed. It's the same rhythm I've had for years, just the odd rough patch here and there depending on client deadlines."
+    },
+    {
+      "role": "interviewer",
+      "text": "Overall, are you happy with how you are sleeping these days? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Overall, yeah, I'd say I'm happy enough with it. It's not perfect — I'm not sleeping eight straight hours or anything — but it works for me and I feel fine day to day, so I don't see much reason to fuss over it."
+    },
+    {
+      "role": "interviewer",
+      "text": "You’ve probably heard the advice that adults should get 7–9 hours of sleep a night. Does that feel practical for you right now?"
+    },
+    {
+      "role": "participant",
+      "text": "7-9 hours? Honestly, no, that's not really where I'm at — I get maybe six, six and a half most nights, and it's been that way for years. Maybe if I didn't run my own business I'd try to stretch it out, but realistically that number feels more like a guideline for someone else's life than mine."
+    },
+    {
+      "role": "interviewer",
+      "text": "What makes it easy or difficult for you to actually get that much sleep?"
+    },
+    {
+      "role": "participant",
+      "text": "Honestly, it's easier than you'd think most months — running my own hours means I can push work later or start a bit earlier if I need to, so I'm not fighting a commute or a boss's schedule. What makes it harder is really just me not stopping when I should — I'll tell myself \"one more invoice\" and suddenly it's midnight."
+    },
+    {
+      "role": "interviewer",
+      "text": "Many people check their mobile phones, tablets, or computers right before bed. \n\nDo you do this, too? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "No, not really — I'll admit I watch a show on my laptop before bed most nights, but I don't scroll through my phone once I'm actually lying down. I know that's probably not what the sleep guides recommend, but honestly it winds me down more than it wires me up, so I've never worried about it."
+    },
+    {
+      "role": "interviewer",
+      "text": "Do you regularly use social media? If yes, how do you typically use it, especially in the hours before bed?"
+    },
+    {
+      "role": "participant",
+      "text": "No, I don't really do social media in the evenings — I'm on it a bit during the day for the business page, but by the time I sit down with my show and tea, I'm not scrolling. Honestly by that hour I'm just tired of screens with feeds and notifications, the drama is more of a wind-down for me."
+    },
+    {
+      "role": "interviewer",
+      "text": "Now a couple of quick questions about technology in general: Do you regularly use AI chatbots, such as ChatGPT, Gemini, Claude, or similar applications?\n\nIf yes, what do you mainly use them for?"
+    },
+    {
+      "role": "participant",
+      "text": "No, I haven't really gotten into those — I've heard people mention them, but between running the business and everything else, I haven't sat down to try one."
+    },
+    {
+      "role": "interviewer",
+      "text": "Since you’re not really using social media or AI chatbots regularly, I’ll skip ahead a bit.\n\nIf you could improve one thing about your sleeping habits, what would it be?"
+    },
+    {
+      "role": "participant",
+      "text": "Honestly, probably cutting back on the late nights during tax season — I know I run myself thin those few months, but I've never actually found a good way around it since the work just has to get done."
+    },
+    {
+      "role": "interviewer",
+      "text": "Given your work and other responsibilities, do you think cutting back on those late nights during tax season would be doable, or not really? Why?"
+    },
+    {
+      "role": "participant",
+      "text": "Honestly, doable but only if I set a hard line for myself — like no laptop after 11, no matter what's queued up. The tricky part isn't the work itself, it's that I never say no to \"just one more\" — the clients don't actually push me to stay up that late, I do that to myself."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that.\n\nA few final background questions. Feel free to skip anything you’d rather not share:\n\nWhat is your age, your profession, your country of birth, your current country of residence, and (if different) when did you move?"
+    },
+    {
+      "role": "participant",
+      "text": "I'm 52 — I run my own accounting practice. Born and still living in Timișoara, Romania, so no move to speak of, just relocated from a smaller town nearby back in my late twenties for work."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thank you for sharing that. \n\nBefore we wrap up, is there anything else about your sleep or evening routines that you’d like to add that we haven’t talked about?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T07:56:14.958250+00:00"
+}

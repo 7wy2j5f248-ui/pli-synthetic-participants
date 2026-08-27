@@ -1,0 +1,135 @@
+{
+  "run_id": "FULL-20260827070823",
+  "language": "en",
+  "index": 34,
+  "started_at": "2026-08-27T08:19:10.710516+00:00",
+  "participant_id": "P1787818727555",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Welcome to the interview."
+    },
+    {
+      "role": "participant",
+      "text": "Welcome, thanks. Ready when you are."
+    },
+    {
+      "role": "interviewer",
+      "text": "What time did you go to bed last night?"
+    },
+    {
+      "role": "participant",
+      "text": "Went to bed around 11:30, watched a match first. Pretty standard for a day-shift week."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for sharing that. Approximately how many hours did you sleep last night, and would you say you slept well? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Slept about six and a half hours — went down at 11:30, was up briefly around 2 or so when a delivery truck came through, and once more when I needed some water. I'd call it okay, not great. Nothing special, just typical for a day week."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. What was the last activity you engaged in before going to bed, and why did you choose to do that activity?"
+    },
+    {
+      "role": "participant",
+      "text": "Watched a match, headed to bed around 11:30 — nothing complicated about it, just how I wind down before an early start on a day-shift week."
+    },
+    {
+      "role": "interviewer",
+      "text": "Over the past two weeks, what factors have most affected your sleep quality?"
+    },
+    {
+      "role": "participant",
+      "text": "Over the past two weeks, honestly the shift changeover is the main thing — every 10 days I flip between day, evening, and night weeks, and my body never really catches up before it rotates again. Night weeks are the worst, I'm patching together sleep in two chunks instead of one solid stretch."
+    },
+    {
+      "role": "interviewer",
+      "text": "Is that sleep pattern pretty typical for you over the longer term, or has something changed recently with your shifts or routine?"
+    },
+    {
+      "role": "participant",
+      "text": "Pretty typical, yeah — this rotation's been my life for years now. Nothing's changed recently, it's just the grind of the 10-day flip. Body never really gets the memo before it's time to switch again."
+    },
+    {
+      "role": "interviewer",
+      "text": "Overall, are you happy with how you are sleeping these days? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Yeah, more or less — I don't lose sleep over it, pardon the pun. It's not great sleep every night, but for this job it's about what I expect, so I don't beat myself up over it."
+    },
+    {
+      "role": "interviewer",
+      "text": "You’ve probably heard the advice that adults should get 7–9 hours of sleep a night. Does that feel practical for you right now?"
+    },
+    {
+      "role": "participant",
+      "text": "Yeah, seven to nine sounds nice in theory, but it's not really built for a job where your clock flips every ten days. I get close to that on day weeks, maybe not on night weeks — you just work with what the schedule gives you."
+    },
+    {
+      "role": "interviewer",
+      "text": "What tends to make it easier or harder for you to actually get that much sleep with your current rotation?"
+    },
+    {
+      "role": "participant",
+      "text": "Day weeks it's easier — the routine's more like a normal person's, so I just watch some TV, hit the sack by 11 and I'm out. Night weeks it's the light and noise mostly, plus my own head not shutting off after being wired all shift — the curtains and fan help, but a delivery truck or the phone ringing will still pull me out of it."
+    },
+    {
+      "role": "interviewer",
+      "text": "Many people check their mobile phones, tablets, or computers right before bed. Do you do this too? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Not really, no — screens are what keep me wired to begin with after a shift, so on a night I'm actually trying to wind down, the last thing I need is my phone lighting up my face. I'll maybe glance at it once to set an alarm, then it's face-down on the nightstand."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. Do you regularly use social media at other times of day? If yes, how do you typically use it, especially in the hours before bed?"
+    },
+    {
+      "role": "participant",
+      "text": "Not really, just some scrolling on my phone in the afternoons or on a break — nothing structured. I steer clear of it in the hour before I actually try to sleep, same reason as the phone thing."
+    },
+    {
+      "role": "interviewer",
+      "text": "Now a couple of quick questions about technology in general: Do you regularly use AI chatbots, like ChatGPT, Gemini, Claude, or similar applications?"
+    },
+    {
+      "role": "participant",
+      "text": "Not really — I've poked at one a couple times out of curiosity, but I don't use them regularly. Not much use for it on a shift where I'm mostly dealing with dispatch calls and paperwork."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for clarifying that. Since you don’t really use social media or AI chatbots regularly, I’ll skip ahead.\n\nIf you could improve one thing about your sleeping habits, what would it be?"
+    },
+    {
+      "role": "participant",
+      "text": "If I could change one thing, it'd be getting rid of the constant flip-flopping — even just settling into one shift for longer than ten days would help. Right now my body never really gets the chance to lock in a rhythm before it's time to switch again."
+    },
+    {
+      "role": "interviewer",
+      "text": "Given your work, studies, or daily responsibilities, do you think that kind of change—having longer stretches on one shift—would be doable? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Doable? Not really up to me — the roster's set at the district level for the whole crew, so it's not like I can just ask for a longer stretch on my own. Guys have brought it up before and management's take is it'd mean hiring more staff to cover it properly, so nothing's changed in twenty years."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. Now, a few optional background questions—please skip anything you’d rather not share.\n\nCould you share your age, your profession, your country of birth, your current country of residence, and (if different) when you moved?"
+    },
+    {
+      "role": "participant",
+      "text": "52, I'll turn 53 this fall. I've been a dispatcher for going on 18 years now, mostly here at the water utility. Born and raised in a smaller town not far from here, moved to this city about 20 years back for the job — never left the country, so nothing exotic there."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for sharing that background. Those were all the main questions I had.\n\nBefore we wrap up, is there anything else about your sleep, your schedule, or how it all feels for you that you’d like to add?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T08:20:42.792973+00:00"
+}

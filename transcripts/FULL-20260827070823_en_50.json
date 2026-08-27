@@ -1,0 +1,159 @@
+{
+  "run_id": "FULL-20260827070823",
+  "language": "en",
+  "index": 50,
+  "started_at": "2026-08-27T08:51:21.147188+00:00",
+  "participant_id": "P1787820670093",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Welcome to the interview."
+    },
+    {
+      "role": "participant",
+      "text": "Nice to be here. I'm doing alright, thanks for having me."
+    },
+    {
+      "role": "interviewer",
+      "text": "What time did you go to bed last night?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Uh, around 11:40, so pretty late. Had a closing shift so that's about normal for me.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Approximately how many hours did you sleep last night? Would you say you slept well? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "\"About six hours, I'd say. It was okay, not great — I woke up around 3, couldn't shut my brain off about a route change at work, so that ate into things a bit before I got back down.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "What was the last activity you engaged in before going to bed, and why did you choose to do that activity?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Honestly, just watched a little TV, some late-night show, nothing special. I don't have much of a wind-down routine — by the time I'm off shift I'm just trying to relax for a few minutes before I crash.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. Over the past two weeks, what factors have most affected your sleep quality?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Honestly probably the shift changes more than anything. Bouncing between the early and the late week throws my body off, and then work stuff — like this route reschedule — creeps into my head at night. The street noise doesn't help either, but I'm pretty used to that by now.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Is this pretty typical for you, or has something changed recently with your shifts or how much work follows you home at night?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Yeah, pretty typical honestly — the shift bouncing's been going on for a while, that's just the job. This particular thing with the route was more of a one-off headache, not something that usually follows me home. Most nights it's just the noise or the schedule messing with me, not actual work stuff replaying in my head.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Overall, are you happy with how you are sleeping these days? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Eh, it's fine — I wouldn't say I'm losing sleep over it, pun intended. It's just the nature of rotating shifts, so I don't really expect it to be great, and I'm functional enough to do my job, so I'm not gonna complain too much.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that makes sense. You’ve probably heard the advice that adults should get 7–9 hours of sleep a night. Does that feel practical for you right now?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Seven to nine? Yeah, right, when? No, honestly, not really practical on this schedule — maybe on my off days I get close, but with the shift bouncing around, six or so is more the reality. I don't beat myself up over it, it just is what it is.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "What makes it easy or difficult for you to actually get that much sleep?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Honestly, the shift bouncing is the biggest thing working against me — my body never gets a chance to settle into a rhythm before it flips again. What makes it easier, I guess, is just being tired enough that I fall asleep fast even when the schedule's a mess. It's more about surviving the swap than actually fixing it.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Many people check their mobile phones, tablets, or computers right before bed. Do you do this, too? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Not really, no — I'm pretty wiped by the time I get in bed, so scrolling doesn't hold much appeal. Might glance at texts from my daughter if she's sent something, but that's about it before the lights go off.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for sharing that. Do you regularly use social media at all? If yes, how do you typically use it, especially in the hours before bed?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Nah, not really — I've got the daughter's Facebook to check in on every now and then, that's about it. I'm not really doom-scrolling Instagram or whatever before bed, doesn't interest me much.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that’s clear. Now a couple of quick questions about technology in general: Do you regularly use AI chatbots, like ChatGPT, Gemini, Claude, or similar apps?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Nah, can't say I do — my daughter's tried to get me to mess with one, but it's not really my thing. I'll take a phone call over typing at a robot any day.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Got it, thanks. If you could improve one thing about your sleeping habits, what would it be?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Honestly, staying on one shift long enough for my body to figure out what time zone it's in — the flipping back and forth is the real problem, not the total hours.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Given your work, studies, or daily responsibilities, do you think that kind of stable shift would be doable for you? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Nah, not really — I don't see it happening. Logistics doesn't work that way, somebody's got to cover the early and late ends, and with seniority the way it is I don't get first pick. Learned to just roll with it at this point.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. Now I have a few background questions. You can skip anything you’d rather not share.\n\nYour age?"
+    },
+    {
+      "role": "participant",
+      "text": "52."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thank you. What’s your profession?"
+    },
+    {
+      "role": "participant",
+      "text": "Warehouse logistics coordinator — I schedule and track deliveries, that sort of thing."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks. What country were you born in?"
+    },
+    {
+      "role": "participant",
+      "text": "I was born in the U.S. — grew up in a small town, moved here about eight years back for the job."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks. And which country do you currently live in?"
+    },
+    {
+      "role": "participant",
+      "text": "\"United States.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that’s all the main questions I had.\n\nBefore we wrap up, is there anything else you’d like to add about your sleep, your schedule, or anything we talked about today?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T08:53:22.202008+00:00"
+}

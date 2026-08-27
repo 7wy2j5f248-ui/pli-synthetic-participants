@@ -1,0 +1,135 @@
+{
+  "run_id": "FULL-20260827070823",
+  "language": "en",
+  "index": 10,
+  "started_at": "2026-08-27T07:28:12.115812+00:00",
+  "participant_id": "P1787815681193",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Welcome to the interview."
+    },
+    {
+      "role": "participant",
+      "text": "Welcome, thanks. Ready when you are."
+    },
+    {
+      "role": "interviewer",
+      "text": "What time did you go to bed last night?"
+    },
+    {
+      "role": "participant",
+      "text": "Went to bed around 9:30, a bit later than usual actually — I got caught up watching a match that ran long, so maybe closer to 10."
+    },
+    {
+      "role": "interviewer",
+      "text": "Approximately how many hours did you sleep last night? Would you say you slept well? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Slept about six and a half hours or so, give or take. I'd say it was fine — nothing special, just normal sleep. Woke up once around 2am for the bathroom but went right back down, so it didn't really throw things off."
+    },
+    {
+      "role": "interviewer",
+      "text": "What was the last activity you engaged in before going to bed, and why did you choose to do that activity?"
+    },
+    {
+      "role": "participant",
+      "text": "Went with reading a bit — a few pages of a paperback under a lamp. Kind of a wind-down habit for me, keeps me off the phone before bed."
+    },
+    {
+      "role": "interviewer",
+      "text": "That sounds like a nice routine. What was the book you were reading, and what made you pick that one up?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Nothing fancy, just a used western I picked up — Louis L'Amour, I think. Doesn't take much brainpower before bed, which is kind of the point.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. Moving on, over the past two weeks, what factors have most affected your sleep quality?"
+    },
+    {
+      "role": "participant",
+      "text": "Not much has really changed, if I'm honest — the schedule's the schedule, and I've been on it long enough that it mostly runs itself. If anything, Sunday nights are the one spot where I notice it, just a bit of a lighter sleep before the week kicks back off, but that's been true for years, not really a new factor."
+    },
+    {
+      "role": "interviewer",
+      "text": "Is that pattern pretty typical for you overall, or has anything about your sleep or routine changed recently?"
+    },
+    {
+      "role": "participant",
+      "text": "Pretty typical, yeah. Nothing's really changed on my end — same shift, same routine, just an average week."
+    },
+    {
+      "role": "interviewer",
+      "text": "Overall, are you happy with how you are sleeping these days? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Yeah, I'd say so. It's not exciting, but it does the job — I get up, get through the shift without dragging, and that's really all I'm asking of it.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for sharing that. You've probably heard the advice that adults should get 7–9 hours of sleep a night. Does that feel practical for you right now?"
+    },
+    {
+      "role": "participant",
+      "text": "That does feel about right for some folks, but honestly 7-9 hours would mean going to bed by 8 or so, and that's just not realistic with my schedule. I'm getting closer to 6.5, maybe 7 on a good night, and it's held up fine for me for years, so I don't lose sleep over the gap, so to speak."
+    },
+    {
+      "role": "interviewer",
+      "text": "Many people check their mobile phones, tablets, or computers right before bed. Do you do this too? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Not really, no — I keep the phone charging on the kitchen counter overnight, out of the bedroom. If I'm reading before bed it's the paperback, not a screen."
+    },
+    {
+      "role": "interviewer",
+      "text": "Do you regularly use social media? If so, how do you typically use it, especially in the hours before bed?"
+    },
+    {
+      "role": "participant",
+      "text": "Not really into social media, no — I check the news headlines here and there, but I'm not scrolling through anything before bed. Once the paperback comes out, that's pretty much it for screens or feeds."
+    },
+    {
+      "role": "interviewer",
+      "text": "Now a couple of quick questions about technology in general: Do you regularly use AI chatbots (such as ChatGPT, Gemini, Claude, or similar applications)?"
+    },
+    {
+      "role": "participant",
+      "text": "\"No, not really — I'm not one to fiddle with that kind of thing much. Heard of them, sure, but it's not part of my routine.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that’s helpful to know. If you could improve one thing about your sleeping habits, what would it be?"
+    },
+    {
+      "role": "participant",
+      "text": "Honestly, probably getting to bed a touch earlier on Sunday nights — that's the one night it tends to get shorter, right before the week starts back up. Otherwise I don't have much to complain about."
+    },
+    {
+      "role": "interviewer",
+      "text": "Given your work, studies, or daily responsibilities, do you think that change—going to bed a bit earlier on Sunday nights—would be doable? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Yeah, it's doable — I just have to actually turn the TV off instead of letting one game run into the next one. It's not a scheduling problem, more a discipline thing on my end."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. Now, just a few optional background questions (feel free to skip anything you’d rather not share):\n\nWhat is your age, your profession, your country of birth, your current country of residence, and—if different—when did you move?"
+    },
+    {
+      "role": "participant",
+      "text": "As my persona, I'll answer the optional background question naturally.\n\n52, warehouse inventory coordinator, born here in this country actually — grew up rural, about two hours from where I live now, moved to the city for the job back in my late twenties. Never left since."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for sharing that background, that’s all the main questions I have.\n\nBefore we wrap up, is there anything else about your sleep or evening routine that you’d like to add that we haven’t talked about?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T07:29:39.778137+00:00"
+}

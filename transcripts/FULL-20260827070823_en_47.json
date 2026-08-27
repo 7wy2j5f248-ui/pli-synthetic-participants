@@ -1,0 +1,175 @@
+{
+  "run_id": "FULL-20260827070823",
+  "language": "en",
+  "index": 47,
+  "started_at": "2026-08-27T08:45:03.794287+00:00",
+  "participant_id": "P1787820291142",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Welcome to the interview."
+    },
+    {
+      "role": "participant",
+      "text": "*chuckles slightly* Sure, hi. Ready when you are."
+    },
+    {
+      "role": "interviewer",
+      "text": "What time did you go to bed last night?"
+    },
+    {
+      "role": "participant",
+      "text": "*shrugs slightly* Around half ten, like usual. I'm pretty regular about it."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks. Approximately how many hours did you sleep last night, and would you say you slept well? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "*thinks for a second* Six, six and a half maybe. I'd say I slept alright — woke up once around two needing the loo, took me a bit to drop off again, but that's nothing new. Wasn't a bad night, just a normal one."
+    },
+    {
+      "role": "interviewer",
+      "text": "Got it, thanks. What was the last activity you engaged in before going to bed?"
+    },
+    {
+      "role": "participant",
+      "text": "*stretches* Just watched a bit of telly, honestly — nothing special. Turned it off, brushed my teeth, and that was that."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks. Why did you choose to watch TV before bed rather than do something else?"
+    },
+    {
+      "role": "participant",
+      "text": "*shrugs* No real reason — it's just the habit. Winds me down, don't have to think about it. Reading always ends with me falling asleep with my glasses on, so I gave that up years ago."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining. Over the past two weeks, what factors have most affected your sleep quality?"
+    },
+    {
+      "role": "participant",
+      "text": "*rubs the back of his neck* Honestly, not much has changed — the odd early wake-up for the bathroom, that's about it. Maybe the heat a couple nights, but nothing I'd call a real pattern."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks. Would you say this is pretty typical for you, or has anything about your sleep changed recently?"
+    },
+    {
+      "role": "participant",
+      "text": "*sighs a little* Yeah, pretty typical, honestly. Been like this for years — nothing's really changed."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for clarifying. Overall, are you happy with how you are sleeping these days? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "*shrugs, considers* Yeah, I'd say so. Nothing dramatic, sleep like most people my age I'd guess — the odd bathroom trip. Falling asleep's easy, waking up's easy, that's really all I ask of it."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining. You've probably heard the advice that adults should get 7–9 hours of sleep a night. Does that feel practical for you right now?"
+    },
+    {
+      "role": "participant",
+      "text": "*shrugs slightly* Practical? I don't clock it, but I'd guess I get close to that most nights — bed at half ten, up near six. So yeah, it fits, more by accident than by trying to hit a number."
+    },
+    {
+      "role": "interviewer",
+      "text": "That makes sense. What, if anything, makes it easy or difficult for you to actually get that much sleep?"
+    },
+    {
+      "role": "participant",
+      "text": "*thinks for a second* Nothing much, really. Same wind-down every night, quiet flat, no kids or noise to deal with anymore. Only thing that ever throws it off is if I've eaten too late — then I just lie there a bit longer than I'd like."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that’s clear. Many people check their mobile phones, tablets, or computers right before bed. Do you do this, too? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "*shrugs* Not really, no. Phone stays out in the kitchen once I'm done with it — old habit, more about not wanting the light in my eyes than anything else. If I want the crossword before bed I do it on paper."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks. Do you regularly use social media at other times of day? If so, how do you typically use it, especially in the hours before bed?"
+    },
+    {
+      "role": "participant",
+      "text": "*chuckles a bit* Nah, I never got into it much — I look at it now and then, nothing regular. Definitely not before bed though, that's just crossword and lights out."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining. Now a couple of quick questions about technology in general: Do you regularly use AI chatbots, like ChatGPT, Gemini, Claude, or similar applications?"
+    },
+    {
+      "role": "participant",
+      "text": "*shrugs* Not really — tried ChatGPT once or twice when my daughter showed me, but it's not something I go to. Didn't see the need for it, honestly."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that’s helpful. Since you don’t really use social media or AI chatbots regularly, we can skip ahead.\n\nIf you could improve one thing about your sleeping habits, what would it be?"
+    },
+    {
+      "role": "participant",
+      "text": "*rubs chin, thinks* Probably that waking up at two for the loo — I'd cut that out if I could. Otherwise I wouldn't mess with it much, it works well enough as is."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that makes sense. Now, thinking about your work, studies, or daily responsibilities, do you think cutting out that 2 a.m. wake-up would be doable? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "*grunts, considers it* Doable, sure — I'm not so far gone I can't manage a bit less water before bed, that's on me really. Work's fine either way, I'm up and alert by seven regardless of how the night went."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining. Now a few background questions, and feel free to skip anything you’d rather not share:\n\nWhat is your age?"
+    },
+    {
+      "role": "participant",
+      "text": "58, for what it's worth."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks. What is your profession?"
+    },
+    {
+      "role": "participant",
+      "text": "*shrugs a little* Inventory clerk down at a warehouse — checking stock, sorting deliveries, that sort of thing. Fourteen years now, same spot."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks. What is your country of birth?"
+    },
+    {
+      "role": "participant",
+      "text": "United Kingdom, born and raised here. Never had much reason to leave."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks. What is your current country of residence?"
+    },
+    {
+      "role": "participant",
+      "text": "United Kingdom, same as I said before — this is home."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks. One last background question:\n\nIf it’s different from your country of birth or current residence, when did you move? If it’s all the same, you can just say so."
+    },
+    {
+      "role": "participant",
+      "text": "\"United Kingdom the whole time — never moved anywhere. Lived here from the start.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for sharing all of that. Those were all the main questions I had.\n\nBefore we wrap up, is there anything else about your sleep or your evenings before bed that you’d like to add that we haven’t talked about?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T08:47:05.222849+00:00"
+}

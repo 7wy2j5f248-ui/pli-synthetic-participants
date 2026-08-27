@@ -1,0 +1,135 @@
+{
+  "run_id": "FULL-20260827070823",
+  "language": "en",
+  "index": 5,
+  "started_at": "2026-08-27T07:18:15.499747+00:00",
+  "participant_id": "P1787815083250",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Welcome to the interview."
+    },
+    {
+      "role": "participant",
+      "text": "Oh, hi. Yeah, ready when you are."
+    },
+    {
+      "role": "interviewer",
+      "text": "What time did you go to bed last night?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Around 11:40, I think. Woke up once around 2 to hit the bathroom, but otherwise stayed down till my alarm.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for sharing that. Approximately how many hours did you sleep last night? Would you say you slept well? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Maybe six and a half, six and three-quarters? I'd say it was alright — didn't sleep straight through, but that bathroom trip's pretty normal for me these days. Nothing kept me up worrying or anything.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "What was the last activity you engaged in before going to bed, and why did you choose to do that activity?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Just my usual wind-down — dimmed the lights and had the radio call-in show on low for a while. Been doing that for years, it kind of signals to my brain that it's time to shut off, more than anything else does.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Over the past two weeks, what factors have most affected your sleep quality?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Mostly just the rotation itself — this is my second day back on days after a night block, so my body's still catching up. Nothing else really stands out, no stress or noise or anything unusual, just the shift switch messing with the schedule like it always does.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Is this pretty typical for you, or has something changed recently with your sleep over the last couple of weeks?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Yeah, pretty typical. This whole switch-back stretch always throws me for a day or two — nothing new about it.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Overall, are you happy with how you are sleeping these days? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Yeah, I'd say so. It is what it is with this job, but I sleep decent when I'm on a stable stretch, and I've got my routine dialed in. Can't complain.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "You’ve probably heard the advice that adults should get 7–9 hours of sleep a night. Does that feel practical for you right now?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Seven to nine? Not really on my schedule, no. Some blocks I get close to it, others I'm running on six, six and a half. I've made peace with it — the job's the job.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "What makes it easy or difficult for you to actually get that much sleep?"
+    },
+    {
+      "role": "participant",
+      "text": "\"On stable stretches it's easy — same room, same routine, my body knows what to do by day two or three. What kills it is the switch itself, and honestly just getting older, I notice it takes me longer to fall back into a rhythm than it used to.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Many people check their mobile phones, tablets, or computers right before bed. Do you do this, too? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Not really, no. I'm usually already halfway dozing by the time I've got the radio going, and the room's dim enough that pulling out a screen would kind of defeat the whole point.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that makes sense. Do you regularly use social media at other times of day? If yes, how do you typically use it, especially in the hours before bed?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Not really — I check it maybe once in the morning with coffee, scroll a few minutes. Not much of an evening thing for me, my son's the one glued to his phone, not me.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. Now a couple of quick questions about technology in general: Do you regularly use AI chatbots, like ChatGPT, Gemini, Claude, or similar applications?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Nah, not really my thing. Tried the chat kind once when my daughter showed me, didn't see much use for it on my end.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. Since you don’t really use social media or AI chatbots regularly, I’ll move on.\n\nIf you could improve one thing about your sleeping habits, what would it be?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Honestly? Not having to reset every few weeks. If I could just pick a schedule and stay on it, I think I'd sleep better across the board. But that's not really up to me.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Given your work and daily responsibilities, do you think that kind of stable schedule—or something closer to it—would be doable for you, or does it feel pretty unrealistic? Why?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Doable, sure, but not up to me — the plant's gotta run around the clock either way, someone's got seniority. If I'm honest, closest I get to stable is when I stack my days off right after a run, but that's about it.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. Now I have a few optional background questions; you can skip anything you’d rather not share.\n\nCould you tell me:\n\n• Your age;\n• Your profession;\n• Your country of birth;\n• Your current country of residence;\n• And, if different, when you moved there?"
+    },
+    {
+      "role": "participant",
+      "text": "\"58, water treatment plant operator. Born and still living in this country, city's changed but not the country, so no move to speak of.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for sharing that. Those were all the main questions I had.\n\nBefore we wrap up, is there anything else about your sleep, your schedule, or your bedtime routine that you’d like to add that we haven’t talked about?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T07:19:43.792199+00:00"
+}

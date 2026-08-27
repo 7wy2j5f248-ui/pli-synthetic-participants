@@ -1,0 +1,159 @@
+{
+  "run_id": "FULL-20260827070823",
+  "language": "en",
+  "index": 39,
+  "started_at": "2026-08-27T08:28:14.762781+00:00",
+  "participant_id": "P1787819284415",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Welcome to the interview."
+    },
+    {
+      "role": "participant",
+      "text": "Not bad, thanks. Ready when you are."
+    },
+    {
+      "role": "interviewer",
+      "text": "What time did you go to bed last night?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Around 10:30, same as usual. Didn't have any trouble getting to sleep, actually.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Approximately how many hours did you sleep last night? Would you say you slept well? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Seven hours, give or take. I'd say it was decent — that little wake-up around 2 threw me off a bit, but I got back to sleep within the hour, so no complaints really.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "What was the last activity you engaged in before going to bed?\nWhy did you choose to do that activity?"
+    },
+    {
+      "role": "participant",
+      "text": "Read a paperback for a bit under the lamp — same as most nights, helps me wind down without staring at a screen."
+    },
+    {
+      "role": "interviewer",
+      "text": "That sounds nice. What was the book you were reading, and what do you like about reading that kind of book before bed?\n\n(After that:) What factors have most affected your sleep quality over the past two weeks?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Something light — a detective paperback, one of those procedurals. Nothing too heavy or exciting, which is really the point — I don't want a page-turner keeping me up, just something to occupy my head for ten minutes till I get drowsy again.\"\n\nAs for the past two weeks — honestly not much has changed. Same routine, same schedule. That 2am wake-up creeping in is probably the main thing I'd point to, though I couldn't tell you why it started."
+    },
+    {
+      "role": "interviewer",
+      "text": "Is that 2am wake-up something that's pretty typical for you over the longer term, or does it feel like a relatively new change?\n\nAfter that: Overall, are you happy with how you are sleeping these days? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Not new, exactly — I've noticed it creeping in over the last couple months, but before that it just wasn't a thing. So I guess it's new-ish, if that makes sense.\"\n\nAs for happy with my sleep overall — yeah, mostly. Seven hours, falling asleep easy, that's more than most people get, I figure. The 2am thing is a minor annoyance, not something that's wrecking my day."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. You’ve probably heard the advice that adults should get 7–9 hours of sleep a night. Does that feel practical for you right now?\n\n(After that:) What makes it easy or difficult for you to actually get that much sleep?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Practical, sure — it's not far off what I already get. Hard part's not the sleeping, it's this stretch of shift work and just getting older, I guess. Some nights that 2am thing eats into it, but otherwise the routine does most of the work for me.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "What, if anything, makes it easier or harder for you to consistently stay within that 7–9 hour range, given your shift work and the 2am wake-ups?"
+    },
+    {
+      "role": "participant",
+      "text": "Honestly, having a fixed shift is what keeps me on track — same wake time every day whether I need the alarm or not, so my body just falls into the rhythm. What throws it off is when that 2am wake-up drags on longer than usual, like it did last night, or when there's a Saturday overtime shift coming up and I'm half-thinking about work instead of just drifting off. Getting older's probably in there too, though I couldn't point to exactly how."
+    },
+    {
+      "role": "interviewer",
+      "text": "Many people check their mobile phones, tablets, or computers right before bed. Do you do this, too? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Not really — I'll glance at it if it buzzes while I'm still up doing something else, but once I'm actually in bed with the lamp on, that's paperback time, not phone time. Screen's too bright and I don't need my head full of emails right before trying to sleep."
+    },
+    {
+      "role": "interviewer",
+      "text": "Do you regularly use social media? If so, how do you typically use it, especially in the hours before bed?"
+    },
+    {
+      "role": "participant",
+      "text": "Not really into social media honestly — I've got Facebook but mostly to see photos my daughter posts, and I might check it over coffee in the morning. At night it's not part of my wind-down at all, that's paperback territory like I said."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. Now a couple of quick questions about technology more generally: Do you regularly use AI chatbots, like ChatGPT, Gemini, Claude, or similar apps?"
+    },
+    {
+      "role": "participant",
+      "text": "Not really, no — I've poked at one maybe once or twice out of curiosity, but it's not something I use regularly. Not really my thing."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that’s helpful to know.\n\nIf you think about the time since you first tried things like social media or AI chatbots, do you feel like your sleeping habits have changed at all over those years, or have they stayed pretty similar?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Pretty similar, honestly. Maybe I stay up a little later scrolling if something catches my eye, but nothing that's really moved the needle on how I sleep. The 2am thing is new, but I'd chalk that up to getting older before I'd blame a screen.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "If you could improve one thing about your sleeping habits, what would it be?"
+    },
+    {
+      "role": "participant",
+      "text": "If I could fix one thing, it'd be that 2am wake-up settling down faster instead of dragging on for forty minutes. Rest of it I'm not fussed about, but lying there staring at the ceiling gets old."
+    },
+    {
+      "role": "interviewer",
+      "text": "Given your work, studies, or daily responsibilities, do you think that kind of change—shorter 2am wake-ups—feels doable for you? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Doable, mostly. I'm not doing anything at 2am that's demanding — I'm just lying there. The harder part is my brain deciding to be wide awake for no reason. I could probably try not reading my phone if it buzzes earlier in the night, but honestly I think it's more about getting older than something I can just fix with a new habit."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for sharing that. Now I have a few brief background questions. (Feel free to skip anything you’d rather not share.)\n\nFirst, how old are you?"
+    },
+    {
+      "role": "participant",
+      "text": "52."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thank you. What is your profession?"
+    },
+    {
+      "role": "participant",
+      "text": "Warehouse inventory coordinator — I keep track of stock, do counts, that kind of thing. Been doing it a long time now."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks. Which country were you born in?"
+    },
+    {
+      "role": "participant",
+      "text": "Born in this country, actually — grew up on the coast a few hours from here, moved inland for the job about eight years back."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that’s clear. Which country are you living in now?"
+    },
+    {
+      "role": "participant",
+      "text": "Living inland — moved here about eight years ago from the coast, so this country the whole time."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that’s helpful.\n\nIf you’re comfortable sharing: Is there anything else about your sleep, your evenings, or your daily routine that you think might be useful for us to know but haven’t mentioned yet?\n\nIf not, we’re all done — and thank you for taking the time to answer these questions."
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T08:30:13.901400+00:00"
+}

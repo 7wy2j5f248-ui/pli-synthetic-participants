@@ -1,0 +1,135 @@
+{
+  "run_id": "FULL-20260827070823",
+  "language": "en",
+  "index": 4,
+  "started_at": "2026-08-27T07:15:43.214573+00:00",
+  "participant_id": "P1787814930106",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Welcome to the interview."
+    },
+    {
+      "role": "participant",
+      "text": "Hi — sure, happy to be here. Not much to prepare on my end, honestly."
+    },
+    {
+      "role": "interviewer",
+      "text": "What time did you go to bed last night?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Around eleven, same as usual. I'm not one of those people who watches the clock about it — I just get sleepy and go.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks. Approximately how many hours did you sleep last night, and would you say you slept well? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Around six hours, I'd guess — went down at eleven, was up by five to. I'd call it decent, not great. The dog next door had me up around three for a while, but I got back off eventually and didn't feel too worse for wear this morning.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "What was the last activity you engaged in before going to bed, and why did you choose to do that activity?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Oh, just a crossword actually — I keep a book of them by the armchair. It settles my head down better than telly does, so that's usually the last thing before I turn the lights off.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "That sounds like a nice routine. Over the past two weeks, what factors have most affected your sleep quality?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Honestly, not much has changed — that neighbor's dog is a repeat offender, maybe two or three times this fortnight. Otherwise the work weeks throw me off more than anything, if I've got an early site visit I sometimes go to bed a bit keyed up thinking about the next day, but that's about the size of it.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Is that pretty typical for you, or has something about your sleep or routine changed recently?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Pretty typical, yeah. If you'd asked me a year ago when I still had a proper schedule, I'd probably have said differently — but now that the workweek's a bit of a moving target, this is just what it looks like most of the time.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Overall, are you happy with how you are sleeping these days? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Yeah, I'd say so. It's not perfect — you're never going to talk me into loving that dog — but I get enough decent nights that I'm not fussed about it. I stopped expecting flawless sleep a long time ago.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for sharing that. You’ve probably heard the advice that adults should get 7–9 hours of sleep a night. Does that feel practical for you right now?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Honestly, no — I'd love it, but with the way work's gone lately, some weeks it just doesn't happen. I'm not going to lose sleep over losing sleep, if that makes sense — six hours that's decent quality suits me better than chasing a number.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "What makes it easy or difficult for you to actually get that much sleep?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Honestly, it comes down to whether I know what the next day looks like. If it's an open week, I sleep like a rock. If I've got an early site visit or something's unresolved with a client, that's when I get the odd restless night — like last night, really.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Many people check their mobile phones, tablets, or computers right before bed. Do you do this, too? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Not really, no — by the time I'm winding down I've usually had enough screens for one day. I'll maybe glance at my phone once to check nothing's blown up with a client, then it goes on the charger in the other room.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Do you regularly use social media? If so, how do you typically use it, especially in the hours before bed?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Not really, no — I check in on Facebook now and then to see what my son's posted, but it's more of a daytime thing. By the evening I'm honestly not that fussed about scrolling.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Now a couple of quick questions about technology in general: Do you regularly use AI chatbots, like ChatGPT, Gemini, Claude, or similar apps?"
+    },
+    {
+      "role": "participant",
+      "text": "\"No, not really — I've had a poke around with one out of curiosity when my son was going on about it, but it's not something I use day to day. Not really my world, that stuff.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that makes sense. If you could improve one thing about your sleeping habits, what would it be?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Honestly? Getting up earlier — waking at 6:30 without an alarm is fine, but I'd like a bit more say over the schedule myself rather than it just happening to me. Other than that, I'm not fussed, six-ish decent hours does the job.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. Now, just a few final background questions. (Feel free to skip anything you’d rather not share.)\n\nCould you tell me your age?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Fifty-eight.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thank you. And what is your profession?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Quantity surveyor — semi-retired now, though I still do a bit of consulting for a couple of building firms.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks. And what is your country of birth?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T07:17:59.169772+00:00"
+}

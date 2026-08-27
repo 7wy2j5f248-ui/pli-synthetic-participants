@@ -1,0 +1,159 @@
+{
+  "run_id": "FULL-20260827070823",
+  "language": "en",
+  "index": 43,
+  "started_at": "2026-08-27T08:36:51.965069+00:00",
+  "participant_id": "P1787819798328",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Welcome to the interview."
+    },
+    {
+      "role": "participant",
+      "text": "Good morning. Fired away already, huh — sure, go ahead."
+    },
+    {
+      "role": "interviewer",
+      "text": "What time did you go to bed last night?"
+    },
+    {
+      "role": "participant",
+      "text": "Went to bed later than usual, actually — closer to one, I was still doing paperwork for inventory."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for sharing that. Approximately how many hours did you sleep last night, and would you say you slept well? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Rough count, maybe five hours, five and a half. Woke up at four like always but this time it took me near an hour to get back under — kept running the delivery schedule in my head. So not my best night, but nothing new either."
+    },
+    {
+      "role": "interviewer",
+      "text": "What was the last activity you engaged in before going to bed, and why did you choose to do that activity?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Paperwork, same as always. Was going through my invoice pile before bed — didn't choose it exactly, it just doesn't stop till it stops.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "What factors have most affected your sleep quality over the past two weeks?"
+    },
+    {
+      "role": "participant",
+      "text": "Honestly, it's just the workload — end of month, restocking, deliveries, that kind of thing eats into the evening and pushes bedtime back. When my head's still on the shop, that four a.m. wake-up turns into an hour instead of five minutes. Other than that, nothing's really changed — same bed, same noise outside, same routine mostly."
+    },
+    {
+      "role": "interviewer",
+      "text": "Is that pretty typical for you, or has something changed recently with your workload or your sleep compared to a few months ago?"
+    },
+    {
+      "role": "participant",
+      "text": "Typical, mostly. Workload spikes around end of month, that's usual — I just don't always stay up past midnight for it. Sleep's about the same as it's been for years, this was just one of the busier nights, not a pattern."
+    },
+    {
+      "role": "interviewer",
+      "text": "Overall, are you happy with how you are sleeping these days? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Happy enough. Nothing to complain about — I wake up rested most days, and last night was the exception, not the rule. If I stopped keeping my hours steady, that'd worry me more than one rough night ever will.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thank you. You’ve probably heard the advice that adults should get 7–9 hours of sleep a night. Does that feel practical for you right now?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Practical? Not really, not for me anyway — five, six hours plus the odd nap-nod would put me on the floor in this business. What matters more to me is that six-fifteen alarm hitting the same time every day. If the hours add up short some nights, so be it, long as the wake time doesn't wander.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Many people check their mobile phones, tablets, or computers right before bed. Do you do this too? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Not really — phone's on charge across the room by then, and honestly if I look at it I just start thinking about tomorrow's orders. Easier to just leave it be.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Do you regularly use social media? If so, how do you typically use it, especially in the hours before bed?"
+    },
+    {
+      "role": "participant",
+      "text": "Not much, honestly — check messages and a couple of local news pages, nothing heavy. Doesn't take long, and it's not really part of my wind-down, more like I glance at it whenever, could be nine, could be eleven."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that’s clear. Now a couple of quick questions about technology in general: Do you regularly use AI chatbots, such as ChatGPT, Gemini, Claude, or similar applications?"
+    },
+    {
+      "role": "participant",
+      "text": "Not really, no. I've poked at one a couple times for figuring out tax stuff, but it's not something I lean on day to day. Running the shop keeps me busy enough without adding a chatbot into the mix."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that helps. Since you don’t really use social media much and don’t regularly use AI chatbots, we’ll move on.\n\nIf you could improve one thing about your sleeping habits, what would it be?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Honestly? Nothing dramatic — just wish that hour-of-lying-there-doing-inventory-in-my-head thing didn't happen. Rare as it is. Otherwise I'm not chasing eight hours or whatever, that's not me.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Given your work, studies, or daily responsibilities, do you think reducing that “inventory in your head” time would be doable? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Doable, sure — mostly. Delivery orders are pretty steady, I know what's coming most days. It's just Wednesday nights I do the big supplier tally, and that's the one that gets in my head. Could probably just do it earlier in the evening instead of last thing, that'd likely fix it. Haven't bothered trying, but no reason not to.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that makes sense.\n\nJust a few final background questions. You can skip anything you’d rather not share.\n\nHow old are you?"
+    },
+    {
+      "role": "participant",
+      "text": "58."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thank you. What is your profession?"
+    },
+    {
+      "role": "participant",
+      "text": "Runs a small hardware and tool-rental shop, been doing it for years — self-employed, so I set my own hours, for better or worse."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks. What country were you born in?"
+    },
+    {
+      "role": "participant",
+      "text": "Born and raised right here, actually — never left this city. Same one I've got the shop in."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks. Just to clarify, which country is that?"
+    },
+    {
+      "role": "participant",
+      "text": "United States."
+    },
+    {
+      "role": "interviewer",
+      "text": "And is your current country of residence also the United States?"
+    },
+    {
+      "role": "participant",
+      "text": "Yes, still the United States."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thank you for sharing all of that, and for walking through your sleep and background details.\n\nWe’ve covered everything the interview needed. Is there anything else you’d like to add about your sleep, your routine, or anything we’ve talked about before we wrap up?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T08:38:49.921212+00:00"
+}

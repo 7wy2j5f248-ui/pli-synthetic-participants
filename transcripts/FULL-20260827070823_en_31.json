@@ -1,0 +1,159 @@
+{
+  "run_id": "FULL-20260827070823",
+  "language": "en",
+  "index": 31,
+  "started_at": "2026-08-27T08:12:57.770155+00:00",
+  "participant_id": "P1787818362202",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Welcome to the interview."
+    },
+    {
+      "role": "participant",
+      "text": "\"Sure, hi.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "What time did you go to bed last night?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Around 11, I think. Nothing special about it, just the usual.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks. Approximately how many hours did you sleep last night, and would you say you slept well? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "\"About six hours, I guess, give or take. I'd say fine, not great — I got woken up twice, once by some delivery truck outside, but I fell back asleep both times pretty quick. Woke up at 4:45 feeling okay, not amazing, just okay.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "What was the last activity you engaged in before going to bed, and why did you choose to do that activity?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Not much, honestly — just switched off the light after listening to my usual talk show on the radio for a bit. Low volume, doesn't require any thinking on my part, works better than scrolling my phone.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "What factors have most affected your sleep quality over the past two weeks?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Mostly the shift I'm on, honestly. Day-shift weeks I wake up at 4:30 no matter what, been that way for years. Swing-shift weeks are worse though, I can't wind down till way past midnight even when I'm dead tired.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Is this pretty typical for you, or has something changed recently with your shifts or how you’re sleeping?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Pretty typical, yeah. Been rotating shifts for years now, so it's not new. Wish I could say something's different but it's really just the same pattern it always is.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Overall, are you happy with how you are sleeping these days? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Yeah, I'd say I'm okay with it. Not thrilled, but it works — I'm not dragging through the day or anything. If I could change one thing it'd be the swing weeks messing with my wind-down time, but that's just the job.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. You’ve probably heard the advice that adults should get 7–9 hours of sleep a night. Does that feel practical for you right now?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Honestly, not really — not with the shift rotation. Some weeks I can pretty much hit that on day shift, but swing weeks I'm lucky to get six. I've made my peace with it as long as I'm not falling apart during the day.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "What makes it easy or difficult for you to actually get that much sleep?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Honestly, the day-shift weeks are easy — I just wind down, lights out by 10:30 or so, and I'm out. It's the swing weeks that fight me. Body's still wired past midnight even when I know I've got to be up early-ish, and by the time I actually fall asleep the window's already shorter.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Many people check their mobile phones, tablets, or computers right before bed. Do you do this, too? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Yeah, honestly, guilty as charged. I'll check my phone for a few minutes once I'm in bed — nothing crazy, just news or texts. Doesn't seem to mess with me much, though, especially day-shift weeks when I'm already conking out by 10:30.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Do you regularly use social media? If so, how do you typically use it, especially in the hours before bed?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Not really, no — I'm not big on it. I'll glance at it sometimes during the day on breaks, but at night I'm usually done with my phone by the time I check texts and news, so scrolling through feeds isn't really part of my routine.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Now a couple of quick questions about technology in general: Do you regularly use AI chatbots, like ChatGPT, Gemini, Claude, or similar apps?"
+    },
+    {
+      "role": "participant",
+      "text": "\"No, not really — I've messed around with one out of curiosity but it's not something I use regularly. Not much use for it in my day-to-day.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that’s helpful. If you could improve one thing about your sleeping habits, what would it be?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Honestly? Getting the swing weeks under control. I'd love to actually feel rested those weeks instead of just scraping by on six hours.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Given your work, studies, or daily responsibilities, do you think getting the swing weeks under control is actually doable? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Doable, sure, but only within limits — I can't fix my body clock, just work around it. Best I've managed is shifting my bedtime earlier a few days before the swing week starts, but it's a losing battle since the schedule keeps rotating on me every three weeks.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. Now I have a few background questions, and you can skip anything you’d rather not share.\n\nYour age?"
+    },
+    {
+      "role": "participant",
+      "text": "\"47.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thank you. What’s your profession?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Quality-assurance inspector, over at an electronics plant. I check parts coming off the assembly line, make sure they meet spec before they ship out.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks. What’s your country of birth?"
+    },
+    {
+      "role": "participant",
+      "text": "\"United States, born and raised right here actually — never lived anywhere else.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks. What’s your current country of residence?"
+    },
+    {
+      "role": "participant",
+      "text": "\"United States as well, still local.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks. If different from where you were born, when did you move? If it’s the same, you can just say so.\n\nAfter that, is there anything else about your sleep or daily routine that you’d like to add before we wrap up?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T08:14:46.396688+00:00"
+}

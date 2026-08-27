@@ -1,0 +1,135 @@
+{
+  "run_id": "FULL-20260827070823",
+  "language": "en",
+  "index": 15,
+  "started_at": "2026-08-27T07:38:27.105774+00:00",
+  "participant_id": "P1787816294651",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Welcome to the interview."
+    },
+    {
+      "role": "participant",
+      "text": "Morning. Ready when you are."
+    },
+    {
+      "role": "interviewer",
+      "text": "What time did you go to bed last night?"
+    },
+    {
+      "role": "participant",
+      "text": "Around eleven. Fairly reliable for me."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks. Approximately how many hours did you sleep last night, and would you say you slept well? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "About seven hours, give or take. I'd call it decent — I was up around 3:30 like usual, but that's routine for me at this point, not something that ruins the night."
+    },
+    {
+      "role": "interviewer",
+      "text": "What was the last activity you engaged in before going to bed, and why did you choose to do that activity?"
+    },
+    {
+      "role": "participant",
+      "text": "Read on my phone, honestly — that crossword's mostly for the middle of the night. Before bed I just check the weather for whatever job's on tap next morning."
+    },
+    {
+      "role": "interviewer",
+      "text": "Got it, thanks for explaining. Over the past two weeks, what factors have most affected your sleep quality?"
+    },
+    {
+      "role": "participant",
+      "text": "Over the past two weeks? Not much has changed, honestly — same routine, same 3:30 wake-up. If anything, a couple of noisier nights when a neighbor's dog got going, but nothing that really moved the needle for me."
+    },
+    {
+      "role": "interviewer",
+      "text": "Is that pretty typical for you, or has something about your sleep or routine changed recently?"
+    },
+    {
+      "role": "participant",
+      "text": "Typical, yeah. Been like this for years now — my body just does its own thing at 3:30, and I've made my peace with it."
+    },
+    {
+      "role": "interviewer",
+      "text": "Overall, are you happy with how you are sleeping these days? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Yeah, more or less. It's not perfect sleep, but I get enough of it and I don't feel wrecked during the day, so I'm not going to lose sleep over losing sleep, so to speak."
+    },
+    {
+      "role": "interviewer",
+      "text": "You’ve probably heard the advice that adults should get 7–9 hours of sleep a night. Does that feel practical for you right now?"
+    },
+    {
+      "role": "participant",
+      "text": "(3-4 sentences, right? I hear it.) Sounds nice on paper. In practice I get about seven, with a break in the middle, and that's just how the math works out for me — I'm not going to lie awake chasing an extra hour to hit some number."
+    },
+    {
+      "role": "interviewer",
+      "text": "What makes it easy or difficult for you to actually get that much sleep?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Nothing fancy — same time every night helps, and not having to be anywhere at a set hour anymore takes the pressure off. What makes it harder is if a job runs late or the phone rings for an emergency call, that throws the whole evening off.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Many people check their mobile phones, tablets, or computers right before bed. Do you do this, too? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Nah, not really — my phone stays on the charger across the room once I'm winding down. Old habit, I guess, or maybe just not wanting one more screen after a day of squinting at lock mechanisms."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining. Do you regularly use social media? If yes, how do you typically use it, especially in the hours before bed?"
+    },
+    {
+      "role": "participant",
+      "text": "Not really, no — I look at it now and then during the day, but by evening I'd rather do the crossword than scroll through somebody's vacation photos."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that makes sense. Now a quick question about technology in general: Do you regularly use AI chatbots like ChatGPT, Gemini, Claude, or similar applications? If yes, what do you mainly use them for?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Nah, I've poked at one once or twice when my daughter showed me — mostly just to see what the fuss was about. Didn't stick, though. I'd rather call someone who actually knows locks than type at a screen about it.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that’s clear. Since you don’t really use social media or AI chatbots regularly, I’ll skip ahead a bit.\n\nIf you could improve one thing about your sleeping habits, what would it be?"
+    },
+    {
+      "role": "participant",
+      "text": "Something small — sleeping through the night without that 3:30 wake-up would be nice, but honestly, it's not costing me sleep, just costing me the crossword's cleanest section."
+    },
+    {
+      "role": "interviewer",
+      "text": "Given your work, studies, or daily responsibilities, do you think that kind of change—sleeping straight through without the 3:30 wake-up—would be doable? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Ah yeah, it'd be doable. No boss clocking me in, no fixed shift — if I wanted to chase a fix, I could try shifting bedtime or cutting something out. But truth is I've never really tried, because it doesn't bother me enough to bother with it."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that’s helpful to know.\n\nNow a few quick background questions. Feel free to skip anything you’d rather not share:\n\nWhat is your age, your profession, your country of birth, your current country of residence, and—if it’s different—when did you move?"
+    },
+    {
+      "role": "participant",
+      "text": "58, locksmith — semi-retired now, but still locksmith. Born and raised right here, never left, so no move to speak of."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thank you for sharing that. Those were all the main questions I had.\n\nBefore we wrap up, is there anything else about your sleep or bedtime routine that you think is important and hasn’t come up yet?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T07:40:01.702175+00:00"
+}

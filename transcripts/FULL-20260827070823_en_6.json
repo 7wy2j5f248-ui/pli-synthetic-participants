@@ -1,0 +1,135 @@
+{
+  "run_id": "FULL-20260827070823",
+  "language": "en",
+  "index": 6,
+  "started_at": "2026-08-27T07:20:00.073225+00:00",
+  "participant_id": "P1787815187879",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Welcome to the interview."
+    },
+    {
+      "role": "participant",
+      "text": "\"Morning. Yeah, sure, go ahead.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for being here. What time did you go to bed last night?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Went to bed around 11:30, a bit later than my usual — I'd been on a video call with my son and lost track of time.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for sharing that. Approximately how many hours did you sleep last night? Would you say you slept well? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "\"I got about six and a half hours, which is fairly normal for me. And yeah, I'd say I slept well — I only woke up once and went right back down, and I didn't feel groggy dragging myself up this morning.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks. What was the last activity you engaged in before going to bed? And why did you choose to do that activity?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Honestly just talking to my son, then I turned on my little radio — I keep it low, some talk show — and that's usually what gets me to drift off.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Over the past two weeks, what factors have most affected your sleep quality?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Honestly, not much has changed — my sleep's pretty consistent because I sort of expect it to shift around with my shifts. If anything, the odd early morning throws me off a bit, but I'm used to it by now. Nothing major stands out the last couple weeks.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that makes sense. Is this pretty typical for you, or has something changed recently in how you’ve been sleeping?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Pretty typical, honestly. My schedule bounces around with my shifts, so I'm used to it not being the same every night — I don't think much about it unless something's really off.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Overall, are you happy with how you are sleeping these days? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Yeah, pretty happy overall. I don't sleep the same every night with my schedule bouncing around, but six, six and a half hours that actually feels restful is enough for me — I'd rather have that than obsess over hitting some number.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "You’ve probably heard the advice that adults should get 7–9 hours of sleep a night. Does that feel practical for you right now?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Honestly? Not really — with my shifts moving around the way they do, six or seven is more realistic for me most nights. I don't beat myself up over it as long as I'm feeling okay, and mostly I am.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "What makes it easy or difficult for you to actually get that much sleep?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Consistency, honestly, that's the biggest thing — my shifts change every few days, so my body never quite gets a fixed routine to lean into. When I'm easy about it and don't force a bedtime, it comes pretty naturally, but fighting the schedule never works.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Many people check their mobile phones, tablets, or computers right before bed. Do you do this, too? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Yeah, I do — I keep it face-down mostly, but I usually check messages before I turn the light off. Force of habit more than anything, my son texts late sometimes and I like to see it before I settle in.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. Do you regularly use social media? If yes, how do you typically use it, especially in the hours before bed?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Not really, I mostly just check texts and email before bed, not scrolling through feeds. If I'm on my phone it's more likely I'm reading the news for a minute, but I don't get sucked into it — I'm usually too tired to care.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that’s clear. Now a couple of quick questions about technology in general: Do you regularly use AI chatbots, like ChatGPT, Gemini, Claude, or similar apps?"
+    },
+    {
+      "role": "participant",
+      "text": "Not really, no — I've heard of them, obviously, but I don't use anything like that myself. Not a lot of use for it in my day-to-day, honestly."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that helps. Since you don’t really use social media or AI chatbots, we’ll move on.\n\nIf you could improve one thing about your sleeping habits, what would it be?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Honestly, I wouldn't mind getting one steady schedule instead of the shifts bouncing around every few days — that's the real culprit. But since I can't control that, I'd probably just say sleeping in one stretch more often instead of waking up to check my phone.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Given your work, studies, or daily responsibilities, do you think that change would be doable? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Doable, yeah, I think so — I'm pretty used to adapting at this point. Some weeks are easier than others depending on my shift rotation, but I'm not going to lose sleep over it, no pun intended. My dad's the same way, stubborn about not overthinking things, so I guess I come by it honestly.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. Now I have a few background questions—feel free to skip anything you’d rather not share.\n\nWhat is your age, your profession, your country of birth, your current country of residence, and (if different) when did you move?"
+    },
+    {
+      "role": "participant",
+      "text": "\"I'm 52. I work in warehouse logistics, coordinating shifts — been doing that a while now. Born and raised right here, never lived abroad, so nothing to report on that front.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for sharing that background. Those were all the main questions I had.\n\nBefore we wrap up, is there anything else you’d like to add about your sleep or your routines at night that we haven’t talked about?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T07:21:31.416239+00:00"
+}

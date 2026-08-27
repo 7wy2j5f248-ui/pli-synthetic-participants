@@ -1,0 +1,143 @@
+{
+  "run_id": "FULL-20260827070823",
+  "language": "en",
+  "index": 11,
+  "started_at": "2026-08-27T07:29:58.505086+00:00",
+  "participant_id": "P1787815784205",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Welcome to the interview."
+    },
+    {
+      "role": "participant",
+      "text": "Welcome, thanks. Ready when you are."
+    },
+    {
+      "role": "interviewer",
+      "text": "What time did you go to bed last night?"
+    },
+    {
+      "role": "participant",
+      "text": "Went to bed around 10:30 last night."
+    },
+    {
+      "role": "interviewer",
+      "text": "Approximately how many hours did you sleep last night? Would you say you slept well? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Slept about six and a half hours, which is decent for me. Woke up briefly around 2am when the neighbor's dog was barking, but got back to sleep fine and made it to my alarm at 5. I'd call it a good night — nothing dramatic."
+    },
+    {
+      "role": "interviewer",
+      "text": "What was the last activity you engaged in before going to bed?\nWhy did you choose to do that activity?"
+    },
+    {
+      "role": "participant",
+      "text": "Went and checked the weather app, then phone on airplane mode — same routine no matter what shift I'm on. Keeps my body from getting too confused about which schedule it's supposed to be on."
+    },
+    {
+      "role": "interviewer",
+      "text": "Over the past two weeks, what factors have most affected your sleep quality?"
+    },
+    {
+      "role": "participant",
+      "text": "Over the past two weeks, honestly the biggest thing is the shift rotation itself — switching between early mornings and overnights every couple weeks throws my body clock around no matter what I do. Other than that, not much — the dog barking last night, a slightly rough transition night when I first flipped shifts, but nothing major."
+    },
+    {
+      "role": "interviewer",
+      "text": "Is that pattern pretty typical for you, or has something changed about your sleep or schedule recently?"
+    },
+    {
+      "role": "participant",
+      "text": "Same as always — early shift, wake before the alarm out of habit, deal with whatever comes up. Nothing's really changed lately, the rotation's the rotation."
+    },
+    {
+      "role": "interviewer",
+      "text": "Overall, are you happy with how you are sleeping these days? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Pretty much, yeah — I mean it's not exciting, but the routine works. I don't lose sleep over the occasional bad night, I just adjust and move on to the next shift."
+    },
+    {
+      "role": "interviewer",
+      "text": "You’ve probably heard the advice that adults should get 7–9 hours of sleep a night. Does that feel practical for you right now?"
+    },
+    {
+      "role": "participant",
+      "text": "Honestly, no, not really practical for me most of the time — with the rotation flipping every two weeks, 7 to 9 hours would mean everything else has to line up perfectly. I get close on early weeks, less on overnight weeks, and I've made my peace with that."
+    },
+    {
+      "role": "interviewer",
+      "text": "What makes it easy or difficult for you to actually get that much sleep?"
+    },
+    {
+      "role": "participant",
+      "text": "Easy or hard depends on which week it is — early weeks it's not too bad, I can get close to 7 if I'm disciplined about bedtime. Overnight weeks are the tough ones, sleeping in daylight hours never feels quite as solid even with the blackout curtains, so I usually top out around 6 no matter what I do."
+    },
+    {
+      "role": "interviewer",
+      "text": "Many people check their mobile phones, tablets, or computers right before bed. Do you do this, too? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Nah, not really — phone goes on airplane mode after my shower, that's just part of the routine no matter which shift I'm on. Figure looking at a screen right before trying to sleep is just asking for trouble, so I don't bother."
+    },
+    {
+      "role": "interviewer",
+      "text": "Do you regularly use social media? If yes, how do you typically use it, especially in the hours before bed?"
+    },
+    {
+      "role": "participant",
+      "text": "Nah, not much of a social media guy — I'll scroll through some sports stuff maybe once a day, but not before bed. Once the phone's on airplane mode after my shower, that's it, done for the night."
+    },
+    {
+      "role": "interviewer",
+      "text": "Now a couple of quick questions about technology in general: Do you regularly use AI chatbots, such as ChatGPT, Gemini, Claude, or similar applications?\n\nIf yes, what do you mainly use them for?"
+    },
+    {
+      "role": "participant",
+      "text": "Nah, I don't really use those — I've heard the names but it's not something I bother with, work stuff or otherwise."
+    },
+    {
+      "role": "interviewer",
+      "text": "Given everything you’ve described, do you feel like your sleeping habits have changed much in the past few years, or have they stayed mostly the same?"
+    },
+    {
+      "role": "participant",
+      "text": "Yeah, they've changed some — the rotation's the same as it's always been at this job, but I think in the last few years I've gotten better at just working with it instead of fighting it. Used to try to force the same bedtime every night regardless of shift, now I just plan around whatever week I'm in. Less about the sleep changing, more about me adjusting how I think about it."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. If you could improve one thing about your sleeping habits, what would it be?"
+    },
+    {
+      "role": "participant",
+      "text": "Honestly, probably nothing dramatic — if I had to pick something it'd be that it'd be nice if the switch-over week itself, the first couple days on a new shift, didn't take as much out of me as it does. But that's kind of built into the job, so I'm not losing sleep over it, so to speak."
+    },
+    {
+      "role": "interviewer",
+      "text": "Given your work schedule and other responsibilities, do you think that kind of change around the switch-over week would actually be doable, or not really? Why?"
+    },
+    {
+      "role": "participant",
+      "text": "Doable? Sure, guess so — if they gave us even a day of overlap before flipping to the new week, that'd help. Realistically though, staffing's tight enough that I don't see them building slack into the schedule just for that, so I just eat the rough couple days instead."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for walking through all of that. Just a couple of final background questions — feel free to skip anything you’d rather not share.\n\nCould you share your age, your profession, your country of birth, your current country of residence, and (if different) when you moved?"
+    },
+    {
+      "role": "participant",
+      "text": "Yeah, no problem. I'm 58, I coordinate logistics at a warehouse. Born back in my hometown, moved here about eight years ago after the plant I worked at closed down, and I've been in this city ever since."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for sharing that. Those were all the planned questions I had.\n\nBefore we wrap up, is there anything else about your sleep or your schedule that you think would be useful to add, or that we didn’t touch on but feels important to you?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T07:31:46.435937+00:00"
+}

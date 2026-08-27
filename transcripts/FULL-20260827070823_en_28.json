@@ -1,0 +1,151 @@
+{
+  "run_id": "FULL-20260827070823",
+  "language": "en",
+  "index": 28,
+  "started_at": "2026-08-27T08:06:21.713941+00:00",
+  "participant_id": "P1787817965718",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Welcome to the interview."
+    },
+    {
+      "role": "participant",
+      "text": "Just settling in, thanks. Rough night, actually — I was up late dealing with a work email thing, so I'm running on not much sleep."
+    },
+    {
+      "role": "interviewer",
+      "text": "What time did you go to bed last night?"
+    },
+    {
+      "role": "participant",
+      "text": "Went to bed around 11:30 like usual, but I didn't actually fall asleep till closer to 1 — was stuck answering an email from a supplier that turned into a whole back-and-forth."
+    },
+    {
+      "role": "interviewer",
+      "text": "Approximately how many hours did you sleep last night? Would you say you slept well? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Slept maybe four, four and a half hours, if that. Wouldn't call it a good night — kept getting woken up, once by a dog barking outside, and once for no real reason at all, so it wasn't exactly restful even for the little bit I got."
+    },
+    {
+      "role": "interviewer",
+      "text": "What was the last activity you engaged in before going to bed? Why did you choose to do that activity?"
+    },
+    {
+      "role": "participant",
+      "text": "Just going through hockey highlights, honestly — nothing dramatic. It's kind of my wind-down thing, easier than staring at a screen full of invoices right before trying to sleep."
+    },
+    {
+      "role": "interviewer",
+      "text": "Over the past two weeks, what factors have most affected your sleep quality?"
+    },
+    {
+      "role": "participant",
+      "text": "Over the past two weeks, honestly it's been the work stress — I've got a job winding down and the paperwork side of it just doesn't shut off in my head. My daughter's visits shake things up a bit too, in a good way, but the odd late night just from staying up finishing invoices has probably been the biggest thing."
+    },
+    {
+      "role": "interviewer",
+      "text": "Is this pretty typical for you, or has something changed recently with your sleep over the past couple of weeks?"
+    },
+    {
+      "role": "participant",
+      "text": "Pretty typical, yeah — the sleep's not much different than usual. What's actually changed is just this one job wrapping up, so my head's been stuck on the invoice and supplier stuff more than normal the last little while."
+    },
+    {
+      "role": "interviewer",
+      "text": "Overall, are you happy with how you are sleeping these days? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Not really, no — it's fine most nights, but the last couple weeks with this job winding down, my brain just doesn't switch off, and I end up short-changed on sleep more than I'd like.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. You’ve probably heard the advice that adults should get 7–9 hours of sleep a night. Does that feel practical for you right now?"
+    },
+    {
+      "role": "participant",
+      "text": "Yeah, honestly, 7 to 9 sounds nice in theory, but with my schedule it's more like a suggestion than something I actually hit most nights. Some jobs have me up at 6 for a commercial site, other nights I'm doing paperwork till midnight — so I just try to average it out over the week instead of hitting it every single night."
+    },
+    {
+      "role": "interviewer",
+      "text": "What makes it easy or difficult for you to actually get that much sleep?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Honestly, the days when nothing's on the schedule — no early jobsite call, no daughter over — those are the easy nights, I just crash. What makes it hard is when there's a deadline hanging over me, like invoices or a supplier waiting on an answer, my brain just keeps chewing on it even after I turn the lights off.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Many people check their mobile phones, tablets, or computers right before bed. Do you do this, too? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Not really — my phone stays on the nightstand but I'm usually too fried by that point to want to look at a screen. If I'm still up doing invoices that's already on the laptop, so I guess that counts, but it's work, not scrolling."
+    },
+    {
+      "role": "interviewer",
+      "text": "Do you regularly use social media? If yes, how do you typically use it, especially in the hours before bed?"
+    },
+    {
+      "role": "participant",
+      "text": "Not really — I've got a Facebook I barely touch, mostly to see photos my daughter posts. I'm not scrolling it at night, honestly by the time I'm winding down I'd rather just have the TV on with hockey highlights than be on a screen doing that."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. Now a couple of quick questions about technology in general: Do you regularly use AI chatbots, like ChatGPT, Gemini, Claude, or similar apps?"
+    },
+    {
+      "role": "participant",
+      "text": "Not really — I've used it a couple times when a customer wanted something drafted up nice, or to sanity-check a wording in a contract, but I'm not chatting with it or anything like that. Definitely not before bed, that's for sure."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that makes sense. \n\nSince you don’t really use social media or AI chatbots regularly, I’ll skip ahead a bit.\n\nIf you could improve one thing about your sleeping habits, what would it be?"
+    },
+    {
+      "role": "participant",
+      "text": "If I could change one thing, it'd probably be quitting that habit of letting my brain keep working past bedtime — like, actually shutting the laptop off instead of \"just finishing one more email\" that turns into three. I know that's on me, not really something a gadget's gonna fix."
+    },
+    {
+      "role": "interviewer",
+      "text": "Given your work, studies, or daily responsibilities, do you think that kind of change—shutting things down instead of doing “one more email”—would be doable for you? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Yeah, doable I think, but I won't pretend I'm great at it — it's more about catching myself before I open that third email than some big system change. Some nights it works, some nights the supplier thing's got me and I cave. Realistically probably an 80% fix, not a hundred."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that.\n\nNow I have a few background questions. Feel free to skip anything you’d rather not share:\n\nWhat is your age?"
+    },
+    {
+      "role": "participant",
+      "text": "52."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thank you. What is your profession?"
+    },
+    {
+      "role": "participant",
+      "text": "Electrician — I run a small two-person contracting outfit, mostly residential and light commercial work."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thank you. What is your country of birth?"
+    },
+    {
+      "role": "participant",
+      "text": "Canada — born and raised in Manitoba, actually, small farming town before I moved to Winnipeg for the trade."
+    },
+    {
+      "role": "interviewer",
+      "text": "And where do you currently live now? (If it’s different from your country of birth, when did you move there?)"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T08:08:18.065493+00:00"
+}

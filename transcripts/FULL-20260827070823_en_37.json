@@ -1,0 +1,159 @@
+{
+  "run_id": "FULL-20260827070823",
+  "language": "en",
+  "index": 37,
+  "started_at": "2026-08-27T08:24:18.036263+00:00",
+  "participant_id": "P1787819045525",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Welcome to the interview."
+    },
+    {
+      "role": "participant",
+      "text": "Good morning. Nothing eventful to report, really — pretty standard night for me."
+    },
+    {
+      "role": "interviewer",
+      "text": "What time did you go to bed last night?"
+    },
+    {
+      "role": "participant",
+      "text": "Around 10:30, like most nights. Woke up briefly around 1am but that wasn't from settling in, that was a callout text."
+    },
+    {
+      "role": "interviewer",
+      "text": "Approximately how many hours did you sleep last night? Would you say you slept well? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "About 6 and a half hours, give or take. I'd say decent, not great — the callout woke me up and I was stuck thinking for a while before I dropped off again, but the front end of the night was solid."
+    },
+    {
+      "role": "interviewer",
+      "text": "What was the last activity you engaged in before going to bed? Why did you choose to do that activity?"
+    },
+    {
+      "role": "participant",
+      "text": "Read a few more chapters of the thriller I've got going — same paperback I've been chipping away at for a while. It's just my wind-down routine, doesn't take much thought."
+    },
+    {
+      "role": "interviewer",
+      "text": "That sounds interesting. What’s the title of the thriller you’re reading?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Line of Fire\" — some ex-military guy chasing down a conspiracy. Nothing highbrow, just something to shut my brain off with."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for sharing that. \n\nWhat factors have most affected your sleep quality over the past two weeks?"
+    },
+    {
+      "role": "participant",
+      "text": "Two weeks of nights, one callout, no callout — over the past two weeks the callouts have probably had the biggest effect. Even when they're brief, getting yanked out of sleep and lying there thinking for a while afterward adds up. Otherwise it's been pretty routine — same bedtime, same wake-up."
+    },
+    {
+      "role": "interviewer",
+      "text": "Is this pretty typical for you, or has something changed recently with your sleep and callouts?"
+    },
+    {
+      "role": "participant",
+      "text": "Pretty typical, yeah. Callouts run maybe twice a month, so this wasn't out of the ordinary — just happened to land last night. Nothing's really changed on my end."
+    },
+    {
+      "role": "interviewer",
+      "text": "Overall, are you happy with how you are sleeping these days? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Yeah, mostly. Six and a half hours with one interruption isn't going to keep me up at night worrying about it — the routine's solid and I feel fine most days. The callouts are just part of the job, not something I need to fix."
+    },
+    {
+      "role": "interviewer",
+      "text": "You’ve probably heard the advice that adults should get 7–9 hours of sleep a night. Does that feel practical for you right now?"
+    },
+    {
+      "role": "participant",
+      "text": "7-9 hours would be nice, but it's just not realistic with a 7am start and callouts thrown in. I get by fine on six or six and a half, so I don't lose sleep over the number, if you'll pardon the pun."
+    },
+    {
+      "role": "interviewer",
+      "text": "What makes it easy or difficult for you to actually get that much sleep?"
+    },
+    {
+      "role": "participant",
+      "text": "Routine's the main thing — same bedtime, same wake time, doesn't leave much room for it to go wrong. What makes it hard is the job, honestly: fixed shift means I can't just sleep in to make up for a callout, so those nights I just eat the short sleep and move on."
+    },
+    {
+      "role": "interviewer",
+      "text": "Many people check their mobile phones, tablets, or computers right before bed. Do you do this, too? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Not really — I'll check it if there's a work call I'm expecting, but otherwise I leave it charging in the other room. Old habit more than anything, just makes it easier to actually fall asleep."
+    },
+    {
+      "role": "interviewer",
+      "text": "Do you regularly use social media? If yes, how do you typically use it, especially in the hours before bed?"
+    },
+    {
+      "role": "participant",
+      "text": "Not really, no — I'll scroll through it earlier in the evening sometimes, but I'm not the type to lie in bed with it going. It's not much of a habit for me, honestly."
+    },
+    {
+      "role": "interviewer",
+      "text": "Now a couple of quick questions about technology in general: Do you regularly use AI chatbots (such as ChatGPT, Gemini, Claude, or similar applications)?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Not really, no. I've poked around with one out of curiosity, but it's not something I use day to day.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that.\n\nIf you could improve one thing about your sleeping habits, what would it be?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Probably sleeping through those callout nights without the hour of lying there overthinking it. I can't do much about the phone going off, but the tossing and turning after is the part I'd cut if I could.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that’s clear.\n\nNow a few quick background questions. You can skip anything you’d rather not share.\n\nWhat is your age?"
+    },
+    {
+      "role": "participant",
+      "text": "52. Just turned it in June, if it matters."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thank you. What is your profession?"
+    },
+    {
+      "role": "participant",
+      "text": "Municipal water-utility technician. I deal with pipes, mains, that kind of thing — mostly day shifts, but I get called out at odd hours sometimes when something bursts."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks. What is your country of birth?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Here originally, actually — I've lived in this city eight years, but I'm not from around here. Grew up a few hundred miles away, still get the odd word wrong in local slang.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks. And your current country of residence?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Here, same as where I live and work.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thank you. And roughly how many years ago did you move to your current city, if you’re comfortable sharing?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T08:26:09.190705+00:00"
+}

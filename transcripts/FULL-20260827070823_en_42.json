@@ -1,0 +1,167 @@
+{
+  "run_id": "FULL-20260827070823",
+  "language": "en",
+  "index": 42,
+  "started_at": "2026-08-27T08:34:28.258127+00:00",
+  "participant_id": "P1787819648101",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Welcome to the interview."
+    },
+    {
+      "role": "participant",
+      "text": "Welcome, thank you."
+    },
+    {
+      "role": "interviewer",
+      "text": "What time did you go to bed last night?"
+    },
+    {
+      "role": "participant",
+      "text": "Around 11:30, and I fell asleep pretty quickly actually."
+    },
+    {
+      "role": "interviewer",
+      "text": "Approximately how many hours did you sleep last night? Would you say you slept well? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "About seven hours, I think — I fell asleep quick but I was up in the middle of the night for a bit, which is pretty normal for me. I'd say it was decent sleep, not great, not bad, just my usual."
+    },
+    {
+      "role": "interviewer",
+      "text": "What was the last activity you engaged in before going to bed? And why did you choose to do that activity?"
+    },
+    {
+      "role": "participant",
+      "text": "Probably paying some bills online, since it was a weeknight and I hadn't gotten to it earlier — nothing exciting, just clearing it off my plate before turning the light off."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thank you. What factors have most affected your sleep quality over the past two weeks?"
+    },
+    {
+      "role": "participant",
+      "text": "Well, my mother-in-law moved in with us about a year and a half ago after breaking her hip, and even though she's fine now, the house just has more going on in it than it used to — someone's always up doing something. That's probably part of it. Otherwise it's been my usual pattern, waking up around 3:30 or so with random work stuff on my mind, but that's not new, that's just how I sleep."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. Is this pretty typical for you, or has something changed recently?"
+    },
+    {
+      "role": "participant",
+      "text": "It's pretty typical, honestly. I've been waking up around that time for years — it's just usually paperwork or permit files on my mind instead of, I don't know, whatever a normal person thinks about at 3:30 in the morning."
+    },
+    {
+      "role": "interviewer",
+      "text": "Overall, are you happy with how you are sleeping these days? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Not really, no — it's not bad, but I wouldn't call it restful. That 3:30 wake-up eats into the part of the night that should just be sleep, even if I fall back asleep fine. It's more that I've made peace with it than that I'm actually happy with it, if that makes sense."
+    },
+    {
+      "role": "interviewer",
+      "text": "That makes sense. You’ve probably heard the advice that adults should get 7–9 hours of sleep a night. Does that feel practical for you right now?"
+    },
+    {
+      "role": "participant",
+      "text": "Honestly, not really — some nights I'm probably close to it, but with the bookkeeping in the evenings and then waking up at 3:30, I doubt I'm hitting seven most nights. It's a nice number on paper, but I don't lose sleep over not hitting it, if that's not too on the nose."
+    },
+    {
+      "role": "interviewer",
+      "text": "What makes it easy or difficult for you to actually get that much sleep?"
+    },
+    {
+      "role": "participant",
+      "text": "Honestly, the evenings are the hard part — when I've got the bookkeeping to do it just eats into that window, and even when I skip it I'm still up at 3:30 either way, so it's not like an earlier bedtime fixes the real issue. What makes it easier is when the house is quiet, which is more often now that my mother-in-law's settled in — she's not up rattling around like she was right after she moved in."
+    },
+    {
+      "role": "interviewer",
+      "text": "Many people check their mobile phones, tablets, or computers right before bed. Do you do this, too? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Not really before bed, no — I keep my phone downstairs charging in the kitchen at night, mostly out of habit from when the kids were younger. I might glance at emails earlier in the evening if I'm doing the bookkeeping, but that's different from actually being in bed scrolling."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. Do you regularly use social media? If yes, how do you typically use it, especially in the hours before bed?"
+    },
+    {
+      "role": "participant",
+      "text": "Not really, no — I've got Facebook mostly to keep up with my kids' photos and a couple of local groups, but I check it in the evening downstairs, not in bed. Honestly it doesn't hold my attention long enough to be a \"before bed\" thing."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thank you. Now a couple of quick questions about technology in general: Do you regularly use AI chatbots, such as ChatGPT, Gemini, Claude, or similar applications?\n\nIf yes, what do you mainly use them for?"
+    },
+    {
+      "role": "participant",
+      "text": "Not really, no — I've heard of ChatGPT and my sister mentioned Claude to me once, but I haven't gotten into using them myself. It's just not something that's come up in my day-to-day work."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for clarifying. If you think about your sleep over the time since social media and AI chatbots have been around, do you feel like your sleeping habits have changed at all during those years, or have they stayed mostly the same?"
+    },
+    {
+      "role": "participant",
+      "text": "Not too much, honestly — it's more the household changes that shifted things, like when my mother-in-law first moved in. The phones and apps side of things hasn't really moved the needle for me one way or another."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thank you for sharing that. If you could improve one thing about your sleeping habits, what would it be?"
+    },
+    {
+      "role": "participant",
+      "text": "If you could improve one thing, it'd be that middle-of-the-night wake-up — not that I need to sleep through, just wish my brain would hold onto those stray to-dos till morning instead of clocking in at 3:30."
+    },
+    {
+      "role": "interviewer",
+      "text": "Given your work, studies, or daily responsibilities, do you think changing that 3:30 wake-up pattern would be doable for you? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Doable, yeah — it's not like the wake-up itself is caused by an overload I can't shift. If I stopped doing the bookkeeping late at night I bet it'd ease off some, but with the business the way it is right now, moving that to earlier in the day just isn't realistic."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. Now, I have a few optional background questions. You can skip anything you’d rather not share.\n\nWhat is your age?"
+    },
+    {
+      "role": "participant",
+      "text": "51."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thank you. What is your profession?"
+    },
+    {
+      "role": "participant",
+      "text": "I'm in admin — I handle building permits for the town, so mostly paperwork, processing applications, that sort of thing."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thank you. What is your country of birth?"
+    },
+    {
+      "role": "participant",
+      "text": "France."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thank you. What is your current country of residence?"
+    },
+    {
+      "role": "participant",
+      "text": "France."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thank you. Is there anything else you’d like to share about your sleep or anything we’ve talked about today before we finish?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T08:36:34.253725+00:00"
+}

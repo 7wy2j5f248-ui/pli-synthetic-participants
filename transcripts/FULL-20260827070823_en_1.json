@@ -1,0 +1,143 @@
+{
+  "run_id": "FULL-20260827070823",
+  "language": "en",
+  "index": 1,
+  "started_at": "2026-08-27T07:08:45.230521+00:00",
+  "participant_id": "P1787814510207",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Welcome to the interview."
+    },
+    {
+      "role": "participant",
+      "text": "Hi there — happy to be here. Ready when you are."
+    },
+    {
+      "role": "interviewer",
+      "text": "What time did you go to bed last night?"
+    },
+    {
+      "role": "participant",
+      "text": "Went to bed around 11, I think — later than I usually do. Normally I'm down by 9:30 or so, but I was on a work call about the budget cuts that ran long and I was too wound up to head to bed right after."
+    },
+    {
+      "role": "interviewer",
+      "text": "Approximately how many hours did you sleep last night? Would you say you slept well? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Slept about six hours, maybe six and a half — hard to say exactly since I woke up a bit fuzzy. I wouldn't call it a good night, no. I lay there replaying that budget call for close to an hour before I actually fell asleep, and then it was one of those restless nights where you're technically asleep but not really resting, if that makes sense."
+    },
+    {
+      "role": "interviewer",
+      "text": "What was the last activity you engaged in before going to bed? Why did you choose to do that activity?"
+    },
+    {
+      "role": "participant",
+      "text": "Read a few pages of my novel, like I usually do — kind of a wind-down thing, though honestly last night my brain wasn't really absorbing the words, I just kept re-reading the same paragraph. Habit more than anything at that point."
+    },
+    {
+      "role": "interviewer",
+      "text": "That sounds interesting. What’s the title of the novel you’re reading, and what’s it about?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Oh — it's called *La Femme qui Fuyait*, this Quebec novel someone at work lent me. It's about a woman who abandons her kids in the sixties, kind of based on a true story. Bit heavy for bedtime reading, actually, now that I say it out loud.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for sharing that. Moving on: What factors have most affected your sleep quality over the past two weeks?"
+    },
+    {
+      "role": "participant",
+      "text": "Honestly? Probably the budget cut stress at work is the biggest one — I've had two or three nights like last night in the past couple weeks where my head just won't quiet down. My sister was also over one weekend, and even though I like having her, it throws off my routine a bit. And the dog hogging the bed doesn't help either, though that's more of a year-round complaint than a two-week thing."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks, that’s helpful to know. Is this pretty typical for you, or has something changed recently with your sleep compared to, say, a few months ago?"
+    },
+    {
+      "role": "participant",
+      "text": "Honestly, it's pretty typical for me — I'm not what you'd call an amazing sleeper even on a normal week, six-ish hours with a bathroom wake-up around 3am. What's changed is more the *frequency* of the bad nights, not the pattern itself. A few months ago this budget stuff wasn't hanging over me, so I wasn't lying there rehashing meetings — now that's happening a couple times a week instead of, I don't know, once a month."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. Overall, are you happy with how you are sleeping these days? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Honestly? Not thrilled, but not panicking about it either. It's not like a full-blown crisis, it's more like a low hum of \"meh\" — I'm functioning fine, I'm just tired more often than I'd like, and I know exactly why, it's the budget stuff sitting on my chest at night. If that settles down I'd bet the sleep goes back to normal on its own, so I'm not exactly losing sleep over losing sleep, if that makes sense."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for sharing that. You’ve probably heard the advice that adults should get 7–9 hours of sleep a night. Does that feel practical for you right now?"
+    },
+    {
+      "role": "participant",
+      "text": "That's honestly the funny part — 7-9 sounds like a nice fantasy from a magazine. Realistically, with my schedule, if I get 7 I feel like I won a raffle. Six to six-and-a-half is just... what my life looks like right now, and I've made my peace with that, mostly."
+    },
+    {
+      "role": "interviewer",
+      "text": "What makes it easy or difficult for you to actually get that much sleep?"
+    },
+    {
+      "role": "participant",
+      "text": "Honestly, the biggest thing that makes it *hard* is just — I can't control when the brain decides to file its complaints, you know? Like some nights I'm exhausted and I still lie there running numbers in my head. What makes it easy, when it is easy, is having a bit of a wind-down — the book, dog's settled, house is quiet. Summer's harder generally because I'm more wiped from being outside all day, so paradoxically I sleep a bit better then, it's just shorter because I'm up earlier for work."
+    },
+    {
+      "role": "interviewer",
+      "text": "Many people check their mobile phones, tablets, or computers right before bed. Do you do this too? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "Honestly, not really — I'm not much of a nighttime scroller. I'll maybe glance at my phone once to check if my son texted, but the book's my thing before bed, not the screen. Now, the phone's the first thing I grab at 3am when I'm up for the bathroom, though, which probably isn't the smartest habit either."
+    },
+    {
+      "role": "interviewer",
+      "text": "Do you regularly use social media? If yes, how do you typically use it, especially in the hours before bed?"
+    },
+    {
+      "role": "participant",
+      "text": "Honestly, not really — I've got Facebook mostly to keep up with my son's photos and a couple of cousins, but I'm not scrolling it at night. If anything I'll check it in the morning with coffee. Before bed my brain's already got enough going on without doom-scrolling adding to the pile."
+    },
+    {
+      "role": "interviewer",
+      "text": "Now a couple of quick questions about technology in general: Do you regularly use AI chatbots, such as ChatGPT, Gemini, Claude, or similar applications?\n\nIf yes, what do you mainly use them for?"
+    },
+    {
+      "role": "participant",
+      "text": "Not really, no — I've poked at ChatGPT a couple times when my son was showing it to me, mostly out of curiosity, but it's not something I use regularly. Not really my thing at this point in my life."
+    },
+    {
+      "role": "interviewer",
+      "text": "Thanks for explaining that. Since you don’t really use social media or AI chatbots regularly, I’ll skip ahead a bit.\n\nIf you could improve one thing about your sleeping habits, what would it be?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Honestly? I'd want a way to hit pause on my own head after a bad call day — like, physically be able to set the budget stuff down instead of replaying it for an hour. The book helps some, but it's not a real off switch.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Given your work, studies, or daily responsibilities, do you think making that kind of change—being able to “pause” your thoughts after a bad call—would be doable for you? Why or why not?"
+    },
+    {
+      "role": "participant",
+      "text": "\"Doable? Sort of. In theory I could — it's not like I don't have the evening free. But realistically, when it's budget season, my brain doesn't really ask my permission. I can try to put in more buffer, like not taking calls right before bed, that part's actually within my control. The 'pause the thoughts' part, though — that's the bit I haven't figured out how to make happen on demand.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "That makes sense, thank you for explaining it that way.\n\nNow, just a few background questions. (Feel free to skip anything you’d rather not share.)\n\nWhat is your age, your profession, your country of birth, your current country of residence, and—if it’s different from your birth country—when did you move there?"
+    },
+    {
+      "role": "participant",
+      "text": "\"I'm 52, and I supervise parks and grounds crews for the city. Born in Gabon, actually — came to Quebec back in... gosh, it'd be '96, so thirty years now, give or take a year. Been here long enough that I complain about the winters like a local.\""
+    },
+    {
+      "role": "interviewer",
+      "text": "Thank you for sharing that, and for answering all of the questions.\n\nBefore we wrap up, is there anything else you’d like to add about your sleep, your evenings before bed, or anything we didn’t ask about that feels relevant to you?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T07:10:52.421579+00:00"
+}
