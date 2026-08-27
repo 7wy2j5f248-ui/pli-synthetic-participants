@@ -419,5 +419,3 @@ if __name__ == "__main__":
 # Run one interview all the way to the end with --headless=False and update
 # that function with the real closing phrase before trusting max_turns /
 # completion detection for the full 900-interview run.
-
-
