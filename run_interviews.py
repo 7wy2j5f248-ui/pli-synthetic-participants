@@ -372,7 +372,7 @@ def main():
     parser.add_argument("--headless", action="store_true", default=True)
     args = parser.parse_args()
 
-    langs = args.languages.split(",") if args.languages else list(LANGUAGES.keys())
+    langs = [l.strip() for l in args.languages.split(",")] if args.languages else list(LANGUAGES.keys())
     count_per_lang = PILOT_COUNT if args.mode == "pilot" else FULL_COUNT_PER_LANGUAGE
     run_id = f"{'PILOT' if args.mode == 'pilot' else 'FULL'}-{datetime.now().strftime('%Y%m%d%H%M%S')}"
 
