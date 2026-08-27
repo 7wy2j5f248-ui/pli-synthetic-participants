@@ -1,0 +1,127 @@
+{
+  "run_id": "FULL-20260827193055",
+  "language": "tr",
+  "index": 4,
+  "started_at": "2026-08-27T19:34:03.247605+00:00",
+  "participant_id": "P1787859233262",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Bu görüşmeye hoş geldiniz."
+    },
+    {
+      "role": "participant",
+      "text": "Merhaba, hoş bulduk."
+    },
+    {
+      "role": "interviewer",
+      "text": "Dün gece saat kaçta yattınız?"
+    },
+    {
+      "role": "participant",
+      "text": "Dün gece pek \"yattım\" diyemem aslında — kanepede maç izlerken uyuya kalmışım, gece yarısı gibi tutuk uyandım, sonra yatağa geçtim."
+    },
+    {
+      "role": "interviewer",
+      "text": "Anladım, teşekkürler. Tahminen saat kaç gibi uykuya daldınız ve yatağa geçtiğinizde saat kaçtı?"
+    },
+    {
+      "role": "participant",
+      "text": "Uykum yaklaşık gece yarısı gibi geldi, tam saatini kestiremem ama bir 00:00 civarıydı. Yatağa da hemen o sırada geçtim, uyanır uyanmaz doğru yatak odasına gittim."
+    },
+    {
+      "role": "interviewer",
+      "text": "Teşekkürler, net oldu. Yaklaşık olarak dün gece kaç saat uyudunuz? Genel olarak iyi uyuduğunuzu söyler misiniz, neden?"
+    },
+    {
+      "role": "participant",
+      "text": "Yaklaşık dört buçuk saat kadar oldu, saymadım tam ama öyle bir şey. İyi mi kötü mü derseniz, fena değildi — kanepe kısmı hariç, o kısmı boyun tuttu biraz, ama yataktaki kısım rahattı."
+    },
+    {
+      "role": "interviewer",
+      "text": "Teşekkür ederim. Yatmaya geçmeden önce yaptığınız son şey tam olarak neydi? Neden özellikle o işi yapmayı seçtiniz?"
+    },
+    {
+      "role": "participant",
+      "text": "Yatmadan önce özellikle bir şey yapmadım ki, zaten uyanır uyanmaz sersem sersem yatağa geçtim. Belki ışığı kapatıp bir iki dakika telefona baktım o kadar, uyku zaten geliyordu."
+    },
+    {
+      "role": "interviewer",
+      "text": "Anladım, teşekkürler. Son iki haftadır uykunuzu en çok etkilediğini düşündüğünüz faktörler neler?"
+    },
+    {
+      "role": "participant",
+      "text": "Son iki haftaya bakarsam, en çok iş düzensizliği etkiliyor sanırım — bazen bir hafta hiç iş çıkmıyor, bazen aniden acil bir kontrol işi geliyor, o zaman saatler karışıyor. Onun dışında pek bir şey yok, hava sıcak olunca biraz daha geç dalıyorum ama önemli değil."
+    },
+    {
+      "role": "interviewer",
+      "text": "Bu anlattıklarınız sizin için genelde alışılmış bir durum mu, yoksa son zamanlarda bir değişiklik mi oldu?"
+    },
+    {
+      "role": "participant",
+      "text": "Bende alışılmış bir şey bu, yeni değil. İş düzeni zaten yıllardır böyle iniş çıkışlı — semi-emeklilikten beri hep böyle, alışkınım."
+    },
+    {
+      "role": "interviewer",
+      "text": "Genel olarak bu şekilde uyumaktan memnun musunuz, yoksa değiştirmek istediğiniz bir şey var mı? Neden?"
+    },
+    {
+      "role": "participant",
+      "text": "Genel olarak memnunum, alışkın olduğum bir düzen. Değiştirmek istediğim bir şey yok — belki iş programı biraz daha düzenli olsa iyi olurdu ama uyku kısmı beni rahatsız etmiyor."
+    },
+    {
+      "role": "interviewer",
+      "text": "Teşekkür ederim paylaştıklarınız için. Yetişkinler için önerilen 7–9 saat uykuyu duymuşsunuzdur muhtemelen. Şu anda sizin için günde 7–9 saat uyumak pratik görünüyor mu?"
+    },
+    {
+      "role": "participant",
+      "text": "7-9 saat mi? Vallahi zor, dört buçuk beş saatte gözüm açılıyor ben istesem de. Ama zaten o kadar uykuya ihtiyacım yokmuş gibi hissediyorum, dinç kalkıyorum genelde."
+    },
+    {
+      "role": "interviewer",
+      "text": "Anlıyorum, teşekkür ederim. Biraz da teknoloji tarafını soracağım: Yatmadan hemen önce genelde telefon, tablet ya da bilgisayar gibi cihazlara bakar mısınız? Neden böyle yapıyorsunuz ya da yapmıyorsunuz?"
+    },
+    {
+      "role": "participant",
+      "text": "Telefona bakmıyorum yatmadan önce, alışkanlık değil bende. Zaten göz kapayınca uyku geliyor, telefonla oyalanmaya gerek duymuyorum."
+    },
+    {
+      "role": "interviewer",
+      "text": "Anladım, teşekkürler. Genel olarak sosyal medyayı düzenli kullanıyor musunuz? Eğer kullanıyorsanız özellikle yatmadan önceki saatlerde nasıl kullanıyorsunuz?"
+    },
+    {
+      "role": "participant",
+      "text": "Sosyal medyada pek vakit geçirmem, çok da meraklısı değilim. Akşamları haber sitelerine bir göz atarım en fazla, o kadar."
+    },
+    {
+      "role": "interviewer",
+      "text": "Anladım, teşekkürler. Genel olarak yapay zeka sohbet botlarını (örneğin ChatGPT, Gemini, Claude gibi) düzenli kullanıyor musunuz?\n\nEğer kullanıyorsanız:\n– Ne zamandan beri kullanıyorsunuz?\n– Daha çok ne amaçla kullanıyorsunuz (iş, öğrenme, kişisel sorular gibi)?"
+    },
+    {
+      "role": "participant",
+      "text": "Hayır, kullanmıyorum ben o tür şeyleri. Oğlum uğraşıyor bilgisayarda öyle bir şeylerle ama ben pek ihtiyaç duymuyorum, işimi elimle telefonla hallediyorum genelde."
+    },
+    {
+      "role": "interviewer",
+      "text": "Anladım, teşekkür ederim paylaştığınız için. Eğer imkânınız olsaydı, uyku alışkanlıklarınızla ilgili sadece tek bir şeyi değiştirebilseydiniz, neyi değiştirmek isterdiniz?"
+    },
+    {
+      "role": "participant",
+      "text": "Değişecek pek bir şey yok gerçi, ama olsa şu iş programını daha düzgün bir şeye çevirirdim. Uyku benim için sorun değil ki değiştireyim."
+    },
+    {
+      "role": "interviewer",
+      "text": "Paylaştığınız için teşekkürler. Şimdi birkaç kısa demografik soru sormak istiyorum, cevaplamak istemediklerinizi atlayabilirsiniz.\n\nYaşınız kaç, şu an hangi işi yapıyorsunuz ya da en son hangi işi yaptınız?"
+    },
+    {
+      "role": "participant",
+      "text": "Yaşım 58, hâlâ zaman zaman iş alıyorum aslında — belediyede elektrikçiydim, şimdi emekliyim ama arada bir denetim işleri yapıyorum, serbest."
+    },
+    {
+      "role": "interviewer",
+      "text": "Teşekkür ederim. Hangi ülkede doğdunuz, şu anda hangi ülkede yaşıyorsunuz? Eğer farklıysa, ne zaman taşındınız? Buna cevap vermek istemezseniz atlayabilirsiniz.\n\n(İsterseniz en sonda eklemek istediğiniz başka bir şey, uyku düzeninizle ilgili aklınızda kalan bir nokta olursa da paylaşabilirsiniz.)"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T19:35:47.007873+00:00"
+}

@@ -1,0 +1,143 @@
+{
+  "run_id": "FULL-20260827193055",
+  "language": "tr",
+  "index": 7,
+  "started_at": "2026-08-27T19:40:36.674277+00:00",
+  "participant_id": "P1787859621325",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Bu görüşmeye hoş geldiniz."
+    },
+    {
+      "role": "participant",
+      "text": "Merhaba, hoş bulduk."
+    },
+    {
+      "role": "interviewer",
+      "text": "Dün gece saat kaçta yatağa gittiniz?"
+    },
+    {
+      "role": "participant",
+      "text": "Dün gece on birden biraz sonra yattım, on bir buçuk gibi."
+    },
+    {
+      "role": "interviewer",
+      "text": "Teşekkürler. Yaklaşık olarak kaç saat uyudunuz? Uykunuzu iyi almış sayılır mısınız, neden?"
+    },
+    {
+      "role": "participant",
+      "text": "Yaklaşık dört buçuk saat falan uyumuşumdur, sonra dört gibi uyandım yine, hep öyledir zaten. Fena sayılmaz, alıştım artık, yaşla beraber böyle oluyor herhalde."
+    },
+    {
+      "role": "interviewer",
+      "text": "Yatağa gitmeden önce yaptığınız son şey neydi? Bunu yapmayı neden tercih ettiniz?"
+    },
+    {
+      "role": "participant",
+      "text": "Yatmadan önce son olarak yatakta biraz telefondan haber falan karıştırdım, sonra ışığı söndürdüm. Alışkanlık işte, günü öyle kapatmayı seviyorum."
+    },
+    {
+      "role": "interviewer",
+      "text": "Paylaştığınız için teşekkürler. Son iki haftada uykunuzun kalitesini en çok etkileyen şeyler neler oldu?"
+    },
+    {
+      "role": "participant",
+      "text": "Son iki hafta biraz farklı oldu aslında, çocuklar evden ayrıldı, ev alışılmadık şekilde sessiz kaldı. Uykumu bozmadı tam olarak ama akşamları o sessizliğe alışmaya çalışıyorum diyelim, biraz garip geliyor hâlâ."
+    },
+    {
+      "role": "interviewer",
+      "text": "Bu anlattıklarınız sizin için yeni bir durum gibi görünüyor. Bu son iki haftadaki uyku düzeniniz sizin için genelde olan hâl mi, yoksa öncesine göre bir değişiklik mi var?"
+    },
+    {
+      "role": "participant",
+      "text": "Klasik böyle işte, çocuklardan önce de zaten dört gibi uyanırdım genelde, o kısım hep aynıydı. Değişen tarafı sessizlik daha çok, akşamları evin bu kadar sakin olmasına alışmaya çalışıyorum, uyku saatlerimde büyük bir fark yok."
+    },
+    {
+      "role": "interviewer",
+      "text": "Anladım, teşekkür ederim. Günde 7–9 saat uyumak gerektiğini sık sık duyarız. Sizin için şu anda günde 7–9 saat uyumak pratikte mümkün görünüyor mu?"
+    },
+    {
+      "role": "participant",
+      "text": "Yedi dokuz saat mi? Yok, benim için pek gerçekçi değil, öyle bir uyku düzenim yok zaten hiç olmadı. Dört buçuk beş saat gibi bir şey benim normalim, açıkçası dert de etmiyorum artık."
+    },
+    {
+      "role": "interviewer",
+      "text": "Bunun sizin için neden çok gerçekçi gelmediğini biraz açabilir misiniz? Sizin için bu kadar uyumayı zorlaştıran şeyler neler?"
+    },
+    {
+      "role": "participant",
+      "text": "Yok yani, ben zaten hiç öyle bir insan olmadım açıkçası. Beşten fazla uyudum mu ertesi gün daha yorgun kalkıyorum sanki, tuhaf ama öyle. Dükkanı sabah sekizde açıyorum, o yüzden zaten erken kalkmaya kafam ayarlı, uzun uyku benim için pek olmuyor."
+    },
+    {
+      "role": "interviewer",
+      "text": "Anladım, teşekkür ederim. Biraz da teknolojiyle ilişkinizden bahsedelim. Birçok kişi yatmadan hemen önce telefon, tablet ya da bilgisayara bakıyor. Siz de genelde yatmadan önce bunları kullanıyor musunuz? Neden kullanmayı tercih ediyorsunuz ya da neden kullanmıyorsunuz?"
+    },
+    {
+      "role": "participant",
+      "text": "Telefona pek bakmıyorum yatmadan önce, sadece haberlere göz atıyorum genelde, o kadar. Işığı söndürünce zaten uykuya dalmakta sorun yaşamıyorum, o yüzden fazla dert etmiyorum bu konuyu."
+    },
+    {
+      "role": "interviewer",
+      "text": "Teşekkürler. Sosyal medyayı düzenli olarak kullanıyor musunuz? Eğer kullanıyorsanız, özellikle yatmadan önceki saatlerde nasıl kullanıyorsunuz?"
+    },
+    {
+      "role": "participant",
+      "text": "Sosyal medyayı pek kullanmıyorum açıkçası, hesabım falan yok gibi bir şey, işle ilgili birkaç yerel grup dışında telefonda pek vaktim geçmiyor. Yatmadan önce hiç açtığım bir şey değil yani."
+    },
+    {
+      "role": "interviewer",
+      "text": "Anladım, teşekkür ederim. Genel olarak teknolojiden bahsetmişken, yapay zekâ sohbet botlarını (örneğin ChatGPT, Gemini, Claude gibi) düzenli olarak kullanıyor musunuz?"
+    },
+    {
+      "role": "participant",
+      "text": "Yapay zeka sohbet botlarını hiç kullanmam açıkçası, dükkanda çok vaktim de olmuyor öyle şeylere bakmaya. Duyuyorum tabii etraftan ama benim işim değil pek, elektronik aletlerle uğraşmayı severim ama o başka."
+    },
+    {
+      "role": "interviewer",
+      "text": "Paylaştığınız için teşekkürler. Sosyal medya ya da yapay zekâ sohbet botlarını düzenli kullanmadığınızı söylediniz, o yüzden bir sonraki soruya geçmek istiyorum.\n\nEğer uyku alışkanlıklarınızda tek bir şeyi değiştirebilseydiniz, neyi değiştirmek isterdiniz?"
+    },
+    {
+      "role": "participant",
+      "text": "Şu ana kadar uykumu falan değiştirme derdim yok, iyiyim böyle ama dört gibi uyanmayı istemezdim tabii, o saatte gözüm açılmasa daha iyi olurdu."
+    },
+    {
+      "role": "interviewer",
+      "text": "Anladım, teşekkür ederim. Şimdi birkaç arka plan sorusu sormak istiyorum, paylaşmak istemediklerinizi atlayabilirsiniz:\n\nYaşınız kaç?"
+    },
+    {
+      "role": "participant",
+      "text": "52 yaşındayım."
+    },
+    {
+      "role": "interviewer",
+      "text": "Teşekkür ederim. Mesleğiniz nedir, ne iş yapıyorsunuz?"
+    },
+    {
+      "role": "participant",
+      "text": "Mesleğim esnaflık, küçük bir hırdavat dükkanım var, kendim işletiyorum."
+    },
+    {
+      "role": "interviewer",
+      "text": "Teşekkürler. Hangi ülkede doğdunuz?"
+    },
+    {
+      "role": "participant",
+      "text": "Portekiz'de doğdum."
+    },
+    {
+      "role": "interviewer",
+      "text": "Paylaştığınız için sağ olun. Şu anda hangi ülkede yaşıyorsunuz?"
+    },
+    {
+      "role": "participant",
+      "text": "Portekiz'de yaşıyorum, aynı bölgeden hiç ayrılmadım aslında."
+    },
+    {
+      "role": "interviewer",
+      "text": "Paylaştıklarınız için teşekkür ederim, tüm sorularım bu kadardı.\n\nEklemek, düzeltmek ya da uyku düzeninizle ilgili özellikle vurgulamak istediğiniz başka bir şey var mı?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T19:42:47.498267+00:00"
+}

@@ -1,0 +1,127 @@
+{
+  "run_id": "FULL-20260827193055",
+  "language": "tr",
+  "index": 6,
+  "started_at": "2026-08-27T19:38:17.673352+00:00",
+  "participant_id": "P1787859484147",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Bu görüşmeye hoş geldiniz."
+    },
+    {
+      "role": "participant",
+      "text": "Teşekkür ederim, merhaba. Başlayalım o zaman, dinliyorum."
+    },
+    {
+      "role": "interviewer",
+      "text": "Dün gece saat kaçta uyumak için yatağa gittiniz?"
+    },
+    {
+      "role": "participant",
+      "text": "Dün gece biraz geç yattım aslında, saat 12'ye falan geldi — tedarikçi siparişiyle ilgili evrak işini bitirmeye çalışıyordum, öyle uzayıp gitti."
+    },
+    {
+      "role": "interviewer",
+      "text": "Anladım, yoğun bir akşammış. Yaklaşık olarak kaç saat uyudunuz dersiniz? Genel olarak iyi uyudunuz mu, yoksa pek dinlenmiş hissetmediniz mi? Nedenini biraz anlatır mısınız?"
+    },
+    {
+      "role": "participant",
+      "text": "Dün gece toplasam beş buçuk saat kadar oldu — eksik olduğunu biliyorum ama pek dert etmiyorum, sabah biraz sisli gibiydim öğlene kadar ama açıkçası \"kötü uyudum\" demem, sadece az uyudum. Zaten ara ara uyanıp saate bakmak bende alışkanlık, o yüzden asıl mesele süre, kalite değil bence."
+    },
+    {
+      "role": "interviewer",
+      "text": "Yatağa gitmeden hemen önce yaptığınız son şey neydi? O aktiviteyi yapmayı neden tercih ettiniz?"
+    },
+    {
+      "role": "participant",
+      "text": "Az önce şeyi kapattım, faturayı yazdırıp zarfa koydum, yarın erken açılış olduğu için sabah unutmayayım diye. Ondan sonra da radyoyu açtım hafif, dişlerimi fırçalayıp yattım — başka bir sebebi yok, öyle alışmışım artık."
+    },
+    {
+      "role": "interviewer",
+      "text": "Teşekkürler, net oldu. Son iki haftadır uyku kalitenizi en çok etkileyen şeyler neler sizce?"
+    },
+    {
+      "role": "participant",
+      "text": "Son iki haftadır uyku kalitesini en çok etkileyen şey, tedarik siparişleri geldiğinde geceleri kafanın toparlanamaması sanırım — biraz da mağazanın açılış saatinin gün gün değişmesi, bazen 7'ye ayarlıyorsun kafanı bazen değil. Bunun dışında pek bir şey yok, radyo falan hep aynı, alışkanlıklar duruyor."
+    },
+    {
+      "role": "interviewer",
+      "text": "Bu saydıklarınız sizin için son dönemin tipik hali mi, yoksa yakın zamanda bir değişiklik mi oldu? Genel olarak, bu aralar uyku düzeninizden memnun musunuz, neden?"
+    },
+    {
+      "role": "participant",
+      "text": "Son iki haftadır durum bu, evet, pek değişen bir şey yok aslında — açılış saatleri hep böyle gündelik değişiyordu zaten, yeni bir şey değil. Memnun muyum diye sorarsanız, orta karar diyeyim; ideal değil ama alışkın olduğum bir düzen, dert edip üstüne düşünmek daha çok yoruyor beni açıkçası."
+    },
+    {
+      "role": "interviewer",
+      "text": "Anladım, alıştığınız bir tempodan bahsediyorsunuz. Yedi–dokuz saat uyku önerisini sık sık duyuyoruz; sizce şu anda sizin için her gece 7–9 saat uyumak pratik görünüyor mu?"
+    },
+    {
+      "role": "participant",
+      "text": "7–9 saat mi? Doğrusu bu düzende hiç pratik görünmüyor açıkçası — mağaza sabah 7'de açılıyorsa ve ben gece 12'de yatıyorsam matematik zaten tutmuyor. Belki emekli olunca denerim ama şu an işim bu saatlere göre şekilleniyor, uyku ona göre ayarlanıyor, tersi değil."
+    },
+    {
+      "role": "interviewer",
+      "text": "Anlıyorum, iş saatleri ağır basıyor diyorsunuz. Biraz da teknoloji tarafını soracağım: Pek çok kişi yatmadan önce telefon, tablet ya da bilgisayara bakıyor. Siz de yatmadan önce genelde telefon ya da başka bir ekran kullanır mısınız, neden?"
+    },
+    {
+      "role": "participant",
+      "text": "Yatmadan önce telefona pek bakmam açıkçası, radyoyu açıp öyle yatıyorum. Belki siparişle ilgili son bir mesaj var mı diye şöyle bir göz atarım ama ekranda oyalanmam, açıp kapatıp bırakıyorum."
+    },
+    {
+      "role": "interviewer",
+      "text": "Anladım, kısa bir kontrolle bırakıyorsunuz. Sosyal medyayı düzenli kullanır mısınız? Özellikle yatmadan önceki saatlerde, kullanıyorsanız genelde nasıl kullanıyorsunuz?"
+    },
+    {
+      "role": "participant",
+      "text": "Sosyal medyayı çok da düzenli takip eden biri değilim, arada bir Facebook'a bakarım sadece, o da genelde gün içinde iş molası falan olduğunda. Yatmadan önce açtığım pek olmuyor, radyoyu açtım mı zaten o iş bitiyor benim için."
+    },
+    {
+      "role": "interviewer",
+      "text": "Anladım, daha çok gündüzleri bakıyorsunuz. Şimdi teknolojinin başka bir yönünü soracağım: Yapay zekâ sohbet botlarını (örneğin ChatGPT, Gemini, Claude gibi) düzenli olarak kullanıyor musunuz?\n\nEğer kullanıyorsanız:\n* Ne zamandır kullanıyorsunuz?\n* Daha çok ne için kullanıyorsunuz (iş, eğitim, kişisel sorular veya başka bir şey)?"
+    },
+    {
+      "role": "participant",
+      "text": "Yapay zeka sohbet botlarını pek kullanmam açıkçası, oğlum uğraşıyor öyle şeylerle, telefonuna bir uyku takip uygulaması da indirmiş onunla ilgileniyor. Ben bir iki kere denedim tedarikçi maili yazarken, \"şöyle bir metni düzelt\" falan dedim, ama alışkanlık haline getirmedim, kağıt kaleme daha yatkınım açıkçası."
+    },
+    {
+      "role": "interviewer",
+      "text": "Anladım, daha çok ara sıra iş için denemişsiniz. Sosyal medyayı da çok düzenli kullanmadığınızı söylemiştiniz. Bu durumda genel olarak sorayım: Sosyal medyayı ya da bu tür yapay zekâ araçlarını kullanmaya başladığınız dönemden bu yana, uyku alışkanlıklarınızda bir değişim hissettiniz mi, yoksa pek fark yok mu sizce?"
+    },
+    {
+      "role": "participant",
+      "text": "Yapay zeka botları için pek etkisi olmadı zaten, dediğim gibi bir iki denemeden öteye geçmedi. Sosyal medya için de bir değişiklik hissettiğimi söyleyemem, uyku düzenim daha çok işe göre şekilleniyor açıkçası, ekranlar falan çok belirleyici değil benim için — dükkanın açılış saati değişince uyku değişiyor, telefonla pek alakası yok."
+    },
+    {
+      "role": "interviewer",
+      "text": "Anladım, uyku düzeninizde asıl belirleyici olanın iş temposu olduğunu söylüyorsunuz. Eğer uyku alışkanlıklarınızda tek bir şeyi değiştirebilseydiniz, neyi değiştirmek isterdiniz?"
+    },
+    {
+      "role": "participant",
+      "text": "Bir gün açılış saatini sabit tutabilseydim iyi olurdu herhalde, o günden güne değişen mesai en çok o yoruyor beni. Uykuyu değil de aslında düzeni sabitlemek isterdim, saat kaçta yattığım çok da dert etmiyorum."
+    },
+    {
+      "role": "interviewer",
+      "text": "Günlük sorumluluklarınızı düşününce, böyle daha sabit bir düzen kurmak sizce ne kadar mümkün görünüyor? Neden?\n\n(Bu sorudan sonra sadece birkaç kısa sorumuz kalacak.)"
+    },
+    {
+      "role": "participant",
+      "text": "Böyle sabit tutmak... valla çok kolay değil açıkçası. İki elemanım da yarı zamanlı, biri okula gidiyor biri başka yerde de çalışıyor, onların müsaitliğine göre ben açılışı ayarlıyorum çoğu zaman, kendi keyfimden değil. Yani isteğim var ama elimde değil pek, tedarikçiyle randevu falan da araya girince zaten hepsi alt üst oluyor."
+    },
+    {
+      "role": "interviewer",
+      "text": "Paylaşımınız için teşekkür ederim, anladım. Şimdi son olarak, isterseniz birkaç kısa arka plan sorusu soracağım. Yanıtlamak istemediklerinizi atlayabilirsiniz:\n\nYaşınız kaç?\nMesleğiniz nedir?\nHangi ülkede doğdunuz?\nŞu anda hangi ülkede yaşıyorsunuz?\n(Eğer farklıysa) Ne zamandan beri şu an yaşadığınız ülkedesiniz?"
+    },
+    {
+      "role": "participant",
+      "text": "58 yaşındayım. Alet-edevat, ekipman kiralayan küçük bir dükkânım var, onu işletiyorum. Doğduğum yer de yaşadığım yer de aynı, hep burada, bu şehirde yaşadım."
+    },
+    {
+      "role": "interviewer",
+      "text": "Paylaştıklarınız için teşekkür ederim. Benim sormayı unuttuğum, sizin uyku düzeninizle veya günlük temponuzla ilgili eklemek, özellikle vurgulamak istediğiniz başka bir şey var mı?\n\nEklemek istemediğiniz bir şey yoksa, görüşmeyi burada sonlandırabiliriz. Katılımınız için teşekkür ederim."
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T19:40:17.261617+00:00"
+}

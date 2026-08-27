@@ -1,0 +1,143 @@
+{
+  "run_id": "FULL-20260827193055",
+  "language": "tr",
+  "index": 16,
+  "started_at": "2026-08-27T20:02:56.689242+00:00",
+  "participant_id": "P1787860959855",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Bu görüşmeye hoş geldiniz."
+    },
+    {
+      "role": "participant",
+      "text": "Merhaba, teşekkür ederim. Görüşmeye başlayabiliriz."
+    },
+    {
+      "role": "interviewer",
+      "text": "Dün gece saat kaçta yatağa gittiniz?"
+    },
+    {
+      "role": "participant",
+      "text": "Dün gece biraz normalden geç yattım aslında, saat gece yarısına yakındı — bir rapor bitirmem gerekiyordu ondan."
+    },
+    {
+      "role": "interviewer",
+      "text": "Anladım, teşekkürler. Yaklaşık kaç saat uyudunuz dün gece? Uykunuz sizce iyiydi mi, değil miydi? Neden?"
+    },
+    {
+      "role": "participant",
+      "text": "Yaklaşık altı buçuk saat kadar uyudum sanırım. Genel olarak iyiydi diyebilirim, sadece uykuya dalmam biraz uzun sürdü çünkü zihnim hâlâ o raporla meşguldü — ama bir kere daldıktan sonra pek sorun yaşamadım."
+    },
+    {
+      "role": "interviewer",
+      "text": "Teşekkür ederim. Yatmadan önce yaptığınız son şey neydi? Bunu yapmayı neden tercih ettiniz?"
+    },
+    {
+      "role": "participant",
+      "text": "Yatmadan önce tablette biraz okudum, on beş yirmi dakika kadar — kafamı raporun etkisinden kurtarmak için iyi bir yöntem bu benim için."
+    },
+    {
+      "role": "interviewer",
+      "text": "Tablette ne okudunuz, biraz daha anlatır mısınız? Örneğin bir kitap mıydı, haber mi, başka bir şey mi?"
+    },
+    {
+      "role": "participant",
+      "text": "Kısa bir kurgu kitabıydı, birkaç haftadır yavaş yavaş okuduğum bir roman — o an belli bir bölümü bitirmek gibi bir hedefim yoktu, sadece zihnimi dağıtmak için birkaç sayfa çevirdim."
+    },
+    {
+      "role": "interviewer",
+      "text": "Paylaştığınız için teşekkürler. Son iki haftadır uykunuzun kalitesini en çok hangi faktörler etkiliyor sizce?"
+    },
+    {
+      "role": "participant",
+      "text": "Son iki haftadır... sanırım en çok işteki yoğunluk etkiliyor, bazı akşamlar aklımdan raporlar geçip duruyor. Bir de zaman zaman akşam yemeğinde bir kadeh şarap içiyorum, o gecelerde uykumun biraz daha hafif olduğunu fark ediyorum."
+    },
+    {
+      "role": "interviewer",
+      "text": "Bu saydıklarınız sizin için genelde her zaman böyle midir, yoksa son zamanlarda bir değişiklik mi oldu?"
+    },
+    {
+      "role": "participant",
+      "text": "Genelde böyle sanırım, biraz değişmedi desem yalan olur ama köklü bir değişiklik de değil — rapor dönemleri sıklaştıkça bu tür geceler biraz daha sık oluyor. Şarap meselesi de eskiden beri hep aynı, yeni bir şey değil."
+    },
+    {
+      "role": "interviewer",
+      "text": "Paylaştığınız için teşekkür ederim. Genel olarak şu anda uykunuzdan memnun musunuz, yoksa daha farklı olmasını ister miydiniz? Neden?"
+    },
+    {
+      "role": "participant",
+      "text": "Genel olarak memnunum diyebilirim, çok şikayetim yok — arkadaşlarımdan bazıları uykuyla gerçekten mücadele ediyor, ben o kadar şanslı hissediyorum kendimi. Ama öğleden sonraları enerjimin düştüğünü fark ediyorum bazen, keşke o saatlerde biraz daha dinç olsam derim."
+    },
+    {
+      "role": "interviewer",
+      "text": "Paylaşımınız için teşekkürler. Yetişkinler için önerilen 7–9 saat uyku tavsiyesi var, muhtemelen duymuşsunuzdur. Sizce şu anki yaşamınızda bu tavsiyeye uymak sizin için pratik görünüyor mu?"
+    },
+    {
+      "role": "participant",
+      "text": "7-9 saat tavsiyesi çoğu zaman benim için zaten pratikte de karşılanıyor, yani onbirbuçuk civarı yatıp altıkırkbeşte kalktığımda o aralığa yakın oluyor. Yani zorlanarak uyduğum bir şey değil, hayat ritmim zaten o civarda oturmuş durumda diyebilirim."
+    },
+    {
+      "role": "interviewer",
+      "text": "Bunu sürdürmenizi kolaylaştıran ya da bazen zorlaştıran şeyler neler oluyor sizce? Yani 7–9 saat aralığında uyumanızı ne kolaylaştırıyor, ne zorlaştırıyor?"
+    },
+    {
+      "role": "participant",
+      "text": "Kolaylaştıran taraf, rutinimin oturmuş olması — saatler hep aşağı yukarı aynı, bu yüzden vücut kendiliğinden ayarlıyor kendini. Zorlaştıran ise rapor teslimleri gibi işten kaynaklı gerilim, o zamanlarda yatağa geç kalıyorum ya da kafam biraz meşgul oluyor; şarap içtiğim akşamlar da uykuyu biraz daha yüzeysel yapıyor sanırım."
+    },
+    {
+      "role": "interviewer",
+      "text": "Şimdi teknolojiyle ilgili birkaç soru sormak istiyorum. Yatmadan hemen önce sık sık telefon, tablet ya da bilgisayarınıza bakar mısınız? Neden böyle yapıyorsunuz ya da neden yapmamayı tercih ediyorsunuz?"
+    },
+    {
+      "role": "participant",
+      "text": "Aslında pek fazla bakmam, tablet elimde oluyor ama sadece 15-20 dakika kadar kitap okumak için, mesaj falan kontrol etmiyorum o an. Telefonu genelde başucuna değil biraz uzağa koyuyorum, boşuna bildirimlerle uğraşmak istemiyorum yatmadan önce."
+    },
+    {
+      "role": "interviewer",
+      "text": "Sosyal medyayı düzenli kullandığınızı söyleyebilir misiniz? Eğer evet ise, özellikle yatmadan önceki saatlerde sosyal medyayı nasıl kullanıyorsunuz?"
+    },
+    {
+      "role": "participant",
+      "text": "Sosyal medyayı kullanıyorum ama yatmadan önce değil, daha çok öğle arasında ya da akşam yemeği sırasında şöyle bir bakıyorum. Yatmadan önceki o 15-20 dakikalık vakit tamamen kitaba ayrılmış durumda, sosyal medya o saatlere pek girmiyor."
+    },
+    {
+      "role": "interviewer",
+      "text": "Anladım, teşekkür ederim. Şimdi teknolojiyle ilgili son bir noktaya geçmek istiyorum: Yapay zekâ sohbet botlarını (ChatGPT, Gemini, Claude ya da benzeri uygulamalar) düzenli olarak kullanıyor musunuz?\n\nEğer evet ise:\n* Ne zamandan beri kullanıyorsunuz?\n* Daha çok hangi amaçlarla kullanıyorsunuz (örneğin iş, eğitim, kişisel sorular ya da başka şeyler)?"
+    },
+    {
+      "role": "participant",
+      "text": "Yapay zeka sohbet botlarını kullanıyorum ama \"düzenli\" desem abartmış olurum belki — daha çok işle ilgili, mesela bir rapor yazarken bir cümleyi toparlamak ya da bir konuyu hızlıca özetletmek için başvuruyorum. Yaklaşık bir buçuk iki yıldır kullanıyorum sanırım, çok da meraklı bir kullanıcı değilim açıkçası, ihtiyaç olduğunda araç gibi kullanıyorum. Kişisel sorular için pek kullanmıyorum, daha çok pratik iş meselelerinde."
+    },
+    {
+      "role": "interviewer",
+      "text": "Teşekkür ederim paylaştıklarınız için. Sosyal medyayı ya da yapay zekâ sohbet botlarını bu şekilde kullanmaya başladıktan sonra, uyku alışkanlıklarınızda herhangi bir değişim fark ettiniz mi?\n\nEğer evet ise:\n* Sizce buna en çok neler katkıda bulundu?\n* Uykunuzu geçmişe kıyasla şimdi mi, yoksa eskiden mi daha çok tercih ederdiniz? Neden?"
+    },
+    {
+      "role": "participant",
+      "text": "Öyle büyük bir değişim demem, açıkçası pek fark etmedim. Belki tek şey, o rapor işleri için asistanı kullandığım akşamlar kafam biraz daha meşgul kalıyor yatmadan önce, ama bu sosyal medyadan çok işin kendisiyle ilgili sanırım. Genel olarak şimdiki halimi tercih ederim, çünkü rutinim eskisinden daha oturmuş durumda."
+    },
+    {
+      "role": "interviewer",
+      "text": "Teşekkür ederim. Eğer uyku alışkanlıklarınızla ilgili tek bir şeyi iyileştirebilseydiniz, bu ne olurdu?\n\nGünlük işiniz, eğitiminiz ya da diğer sorumluluklarınızı düşününce, sizce bu değişikliği yapmak mümkün mü olur, yoksa zor mu? Neden?"
+    },
+    {
+      "role": "participant",
+      "text": "Şey, tek bir şey seçmem gerekirse, öğleden sonraki o enerji düşüklüğünü iyileştirmek isterdim — uykum aslında fena değil ama akşamüstü saatlerinde kendimi biraz bitkin hissediyorum. Bunun uykuyla mı yoksa sadece iş temposuyla mı ilgili olduğunu tam kestiremiyorum açıkçası. Değiştirmek zor sanırım, çünkü toplantı saatlerim ve rapor teslimleri benim kontrolümde değil, o yüzden büyük bir düzenleme yapmak yerine küçük ayarlarla idare ediyorum."
+    },
+    {
+      "role": "interviewer",
+      "text": "Paylaşımınız için teşekkürler. Şimdi birkaç demografik soru sormak istiyorum, yanıtlamak istemediklerinizi atlayabilirsiniz:\n\nYaşınız;\nMesleğiniz;\nDoğduğunuz ülke;\nŞu anda yaşadığınız ülke;\n(Eğer farklıysa) ne zaman taşındınız?\n\nBu bilgileri dilediğiniz kadar ayrıntılı ya da yüzeysel şekilde paylaşabilirsiniz."
+    },
+    {
+      "role": "participant",
+      "text": "52 yaşındayım. Şehir plancısı olarak belediyede çalışıyorum. Cape Verde'de doğdum, yirmili yaşlarımda Portekiz'e taşındım ve o zamandan beri Porto'da yaşıyorum."
+    },
+    {
+      "role": "interviewer",
+      "text": "Paylaştığınız bilgiler için teşekkür ederim.\n\nBenim size soracaklarım bu kadardı. Eklemek istediğiniz, uykunuz veya günlük rutininizle ilgili önemli olduğunu düşündüğünüz başka bir şey var mı? Ya da bu görüşmeyle ilgili paylaşmak istediğiniz son bir yorumunuz?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T20:05:33.421916+00:00"
+}

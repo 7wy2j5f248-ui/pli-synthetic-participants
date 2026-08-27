@@ -1,0 +1,135 @@
+{
+  "run_id": "FULL-20260827193055",
+  "language": "tr",
+  "index": 5,
+  "started_at": "2026-08-27T19:36:03.787803+00:00",
+  "participant_id": "P1787859351819",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Bu görüşmeye hoş geldiniz."
+    },
+    {
+      "role": "participant",
+      "text": "Merhaba! Hoş bulduk."
+    },
+    {
+      "role": "interviewer",
+      "text": "Dün gece saat kaçta yatmaya gittiniz?"
+    },
+    {
+      "role": "participant",
+      "text": "Dün gece saat on bir buçuk gibi yattım, biraz maç izledikten sonra."
+    },
+    {
+      "role": "interviewer",
+      "text": "Teşekkürler. Yaklaşık olarak kaç saat uyudunuz? Uykunuzu iyi aldığınızı düşünüyor musunuz, neden?"
+    },
+    {
+      "role": "participant",
+      "text": "Yaklaşık altı buçuk saat kadar uyudum sanırım. Fena değildi, hızlı daldım ama iki kere uyandım — biri susamışlıktan, diğeri sebepsiz gibiydi. Altı gibi kalktım, yeterince dinlenmiş sayılırım, \"harika\" demem ama idare eder."
+    },
+    {
+      "role": "interviewer",
+      "text": "Yatmadan önce yaptığınız son şey neydi? Bunu yapmayı neden tercih ettiniz?"
+    },
+    {
+      "role": "participant",
+      "text": "Son işim ya, kanepede maçı izlemekti zaten dedim. Kalkmadan önce curtain'ı çektim, biraz da telefona baktım ama uzun sürmedi."
+    },
+    {
+      "role": "interviewer",
+      "text": "Anladım, teşekkürler. Son iki hafta içinde uykunuzun kalitesini en çok etkileyen şeyler neler oldu?"
+    },
+    {
+      "role": "participant",
+      "text": "Vardiyam değişken de ondan, iki hafta gündüz iki hafta gece falan derken vücut tam oturamıyor bir düzene. Gece vardiyasındayken uyku parça parça oluyor, gündüzleri de tren sesleri bazen rahatsız ediyor ama ona artık pek takılmıyorum, alışmışım."
+    },
+    {
+      "role": "interviewer",
+      "text": "Bu durum sizin için genelde hep böyle miydi, yoksa son zamanlarda bir değişiklik mi oldu?"
+    },
+    {
+      "role": "participant",
+      "text": "Bu bende hep böyleydi, on beş yıl falan oldu vardiyaya girdiğim. İlk zamanlar daha kötüydü tabii, şimdi artık idare ediyorum diyeyim, ama tam düzelmedi hiç, öyle bir şey de yok zaten sanırım vardiyalı işte."
+    },
+    {
+      "role": "interviewer",
+      "text": "Genel olarak şu anki uyku düzeninizden memnun musunuz, yoksa memnun olmadığınız yanları daha mı baskın? Neden?"
+    },
+    {
+      "role": "participant",
+      "text": "Genelde şikayetçi değilim yani, yeterince uyuyorum bir şekilde. Sadece gece haftalarında o parçalı uyku biraz yoruyor, ona alışamadım tam. Ama vardiyalı işte bu böyle, fazla dert etmiyorum."
+    },
+    {
+      "role": "interviewer",
+      "text": "Teşekkür ederim paylaştıklarınız için. Yetişkinler için önerilen 7–9 saat uyku tavsiyesi var, muhtemelen duymuşsunuzdur. Şu anki hayatınızda bu kadar uyumak size pratik ve uygulanabilir geliyor mu?"
+    },
+    {
+      "role": "participant",
+      "text": "7-9 saat mi, valla bazı gündüz haftalarında olabilir belki ama gece vardiyasındayken imkansız gibi bir şey bu. On beş yıldır bu düzende çalışıyorum, o sayıya takılmıyorum artık açıkçası, vücut kendine göre bir denge buluyor, yeter ki iş çıksın diye düşünüyorum."
+    },
+    {
+      "role": "interviewer",
+      "text": "Anlıyorum, teşekkürler. Biraz da teknoloji tarafını soracağım: Yatmadan hemen önce genelde telefon, tablet veya bilgisayara bakar mısınız? Neden böyle yapmayı tercih ediyorsunuz ya da tercih etmiyorsunuz?"
+    },
+    {
+      "role": "participant",
+      "text": "Yatarken pek bakmıyorum aslında, maçı falan izlerken elimde olur ama yatağa geçince telefonu kenara bırakıyorum. Alışkanlık öyle oluştu, çok bilinçli bir seçim değil, sadece uyumak istediğimde ekranla uğraşmak canımı sıkıyor biraz."
+    },
+    {
+      "role": "interviewer",
+      "text": "Anladım, teşekkürler. Sosyal medyayı düzenli kullanıyor musunuz? Eğer kullanıyorsanız, özellikle yatmadan önceki saatlerde nasıl kullanırsınız?"
+    },
+    {
+      "role": "participant",
+      "text": "Sosyal medyayı çok da düzenli takip etmiyorum, arada bir açarım öyle. Yatmadan önce özellikle değil, daha çok maç falan izlerken şöyle bir bakarım, uyumadan hemen önce ekranla uğraşmayı sevmiyorum zaten dediğim gibi."
+    },
+    {
+      "role": "interviewer",
+      "text": "Teşekkür ederim. Genel olarak teknolojiyle ilgili bir iki şey daha sormak istiyorum: AI sohbet botlarını (örneğin ChatGPT, Gemini, Claude gibi) düzenli olarak kullanıyor musunuz?\n\nEğer kullanıyorsanız,\n* Ne zamandır kullanıyorsunuz?\n* Daha çok ne için kullanıyorsunuz (iş, okul, kişisel sorular ya da başka bir şey)?"
+    },
+    {
+      "role": "participant",
+      "text": "ChatGPT falan mı diyorsunuz, hayır pek kullanmıyorum açıkçası. Bir iki kere merak edip denedim, bir şey sormuştum galiba motorun bir parçası için, ama alışkanlık yapmadı bende. Genelde iş yerinde de evde de öyle karmaşık bir şeye ihtiyacım olmuyor, kendi başımın çaresine bakıyorum."
+    },
+    {
+      "role": "interviewer",
+      "text": "Teşekkürler, anladım. Sosyal medyayı ya da bu tarz AI sohbet botlarını çok düzenli kullanmadığınızı söylediniz. Buna göre sorayım: Sizce son yıllarda teknoloji kullanımınızın (telefon, internet vb.) uyku alışkanlıklarınızı değiştirdiği bir durum oldu mu, yoksa uyku düzeniniz teknolojiyle pek bağlantılı değil mi?"
+    },
+    {
+      "role": "participant",
+      "text": "Telefon konusunda pek büyük bir değişim olduğunu söyleyemem, en azından benim hayatımda. Belki gençken daha çok internetle uğraşırdım ama şimdi maçı izlerim, telefona bakarım biraz, sonra bırakırım gider yatarım. Benim uykumu asıl etkileyen şey vardiya, teknoloji değil açıkçası."
+    },
+    {
+      "role": "interviewer",
+      "text": "Paylaştığınız için teşekkürler. Eğer uyku alışkanlıklarınızda tek bir şeyi iyileştirebilme şansınız olsa, neyi değiştirmek isterdiniz?"
+    },
+    {
+      "role": "participant",
+      "text": "Tek bir şeyi değiştirebilseydim, gece vardiyası haftalarındaki o iki parçalı uyumayı düzeltirdim, tek seferde toplu uyumak isterdim ama iş öyle gerektirmiyor. Onun dışında ciddi bir şikayetim yok valla, alışmış durumdayım."
+    },
+    {
+      "role": "interviewer",
+      "text": "Anlıyorum, teşekkür ederim. İşiniz, aileniz ya da diğer günlük sorumluluklarınızı düşündüğünüzde, o tek seferde, toplu uyuma isteğinizi hayata geçirmek sizce mümkün olur muydu, yoksa şu anki koşullarda pek gerçekçi değil mi? Neden?"
+    },
+    {
+      "role": "participant",
+      "text": "Vardiya değişmediği sürece pek gerçekçi görmüyorum açıkçası. İşveren gece haftasında da toplu sekiz saat verecek değil, orada belli saatlerde iş var, ben o saatlere göre uyanık olmak zorundayım. Kızım da hafta sonları gelince ona vakit ayırıyorum, o yüzden gündüz uyuyup tamamen kapanmak da olmuyor bazen."
+    },
+    {
+      "role": "interviewer",
+      "text": "Paylaştığınız için sağ olun. Biraz da sizi tanımaya yönelik birkaç kısa soru soracağım, geçmek istemediklerinizi atlayabilirsiniz:\n\nYaşınız kaç, ne iş yapıyorsunuz ve hangi ülkede doğup şu an hangi ülkede yaşıyorsunuz? Eğer farklıysa, ne zaman taşındığınızı da paylaşmak ister misiniz?"
+    },
+    {
+      "role": "participant",
+      "text": "52 yaşındayım, depoda envanter koordinatörlüğü yapıyorum, dediğim gibi dönüşümlü vardiya. Almanya'da doğdum, Ruhr bölgesinde bir şehirde, hâlâ orada yaşıyorum, taşınma falan söz konusu değil benim için."
+    },
+    {
+      "role": "interviewer",
+      "text": "Paylaştığınız bilgiler için teşekkür ederim. Benim sorularım bu kadardı.\n\nEklemek istediğiniz, uykunuzla ya da günlük hayatınızla ilgili özellikle vurgulamak istediğiniz başka bir şey var mı? Yoksa burada sonlandırabiliriz."
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T19:38:00.146663+00:00"
+}

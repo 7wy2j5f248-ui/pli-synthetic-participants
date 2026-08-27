@@ -1,0 +1,143 @@
+{
+  "run_id": "FULL-20260827193055",
+  "language": "tr",
+  "index": 14,
+  "started_at": "2026-08-27T19:57:18.142600+00:00",
+  "participant_id": "P1787860619885",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Bu görüşmeye hoş geldiniz."
+    },
+    {
+      "role": "participant",
+      "text": "Hoş bulduk. Buyurun, başlayabiliriz."
+    },
+    {
+      "role": "interviewer",
+      "text": "Dün gece saat kaçta yattınız?"
+    },
+    {
+      "role": "participant",
+      "text": "Dün gece saat on birde falan yattım, on bir buçuk civarı."
+    },
+    {
+      "role": "interviewer",
+      "text": "Yaklaşık kaç saat uyudunuz? Uykunuzu iyi almış gibi hissediyor musunuz, neden?"
+    },
+    {
+      "role": "participant",
+      "text": "Yaklaşık dört buçuk saat kadar sürekli uyudum diyebilirim, sonra saat dörtte falan gözümü açtım. İyi almış mıyım, tam öyle sayılmaz ama bu bende alışıldık bir şey artık, o yüzden çok da rahatsız olmuyorum."
+    },
+    {
+      "role": "interviewer",
+      "text": "Yatmadan önce yaptığınız son şey neydi? Bunu yapmayı neden tercih ettiniz?"
+    },
+    {
+      "role": "participant",
+      "text": "Yatmadan önce telefonda biraz okudum, öyle vaktin nasıl geçtiğini pek anlamıyorsun ama en azından kafamı boşaltmış oluyorum."
+    },
+    {
+      "role": "interviewer",
+      "text": "Telefonda ne tür şeyler okudunuz? Haber, sosyal medya, makale, kitap gibi biraz daha detaylandırabilir misiniz?"
+    },
+    {
+      "role": "participant",
+      "text": "Sadece internet haberleri okudum, güncel neler olmuş diye bakıyorum genelde, sosyal medyayı fazla açmıyorum artık."
+    },
+    {
+      "role": "interviewer",
+      "text": "Teşekkürler paylaştığınız için. Son iki haftadır uykunuzun kalitesini en çok etkileyen şeyler neler oldu sizce?"
+    },
+    {
+      "role": "participant",
+      "text": "Son iki hafta içinde saat dörtte uyanma alışkanlığı en çok etkileyen şey oldu bende, bir de ayda bir nöbet için gece açık tutmam gereken günler oluyor, onlar da uykuyu biraz karıştırıyor tabii."
+    },
+    {
+      "role": "interviewer",
+      "text": "Bu anlattıklarınız sizin için hep böyle miydi, yoksa son zamanlarda bir değişiklik mi oldu uykunuzda?"
+    },
+    {
+      "role": "participant",
+      "text": "Bende bu dört civarı uyanma alışkanlığı yıllardır böyle, yeni bir şey değil. Değişen tek şey ayda bir nöbet günü, o da son birkaç aydır eklendi."
+    },
+    {
+      "role": "interviewer",
+      "text": "Genel olarak şu anda uykunuzdan memnun musunuz, yoksa değiştirmek istediğiniz şeyler var mı? Neden?"
+    },
+    {
+      "role": "participant",
+      "text": "Genel olarak fena değilim yani, alışkın olunca insan bunu normal karşılıyor. Değiştirmek isteyeceğim bir şey varsa o da sabah dörtte uyanmadan tek seferde sabaha kadar uyuyabilmek olurdu ama bunun için bir şey yapmıyorum açıkçası, olduğu gibi kabul ediyorum."
+    },
+    {
+      "role": "interviewer",
+      "text": "Peki, yetişkinler için önerilen 7–9 saat uyku sizce şu anki hayatınızda uygulanabilir görünüyor mu?"
+    },
+    {
+      "role": "participant",
+      "text": "7-9 saat mi? (gülüyor) Şu an değil işte, ben en fazla 4 buçuk-5 saat kesintisiz uyuyabiliyorum, sonrası zaten dört gibi bölünüyor. Yapabilirsem güzel olurdu tabii ama gerçekçi olarak şu anki hayatımda pek mümkün görünmüyor bana."
+    },
+    {
+      "role": "interviewer",
+      "text": "Bu kadarını mümkün kılmayı zorlaştıran şeyler neler sizce? İş, sorumluluklar, alışkanlıklar… neler aklınıza geliyor?"
+    },
+    {
+      "role": "participant",
+      "text": "Bence en çok işim zorlaştırıyor açıkçası, özellikle nöbet günleri gece uyanık kalmam gerekiyor. Bir de yalnız yaşayınca kimseye göre ayarlamak zorunda değilim ama tam tersi, geceleri erken yatmaya zorlayan da olmuyor yani, kendi başıma bıraktığımda saat böyle akıp gidiyor."
+    },
+    {
+      "role": "interviewer",
+      "text": "Biraz da teknoloji kullanımınızdan bahsedelim. Yatmadan hemen önce genelde telefon, tablet ya da bilgisayar kullanır mısınız? Neden kullanmayı tercih ediyorsunuz ya da neden kullanmıyorsunuz?"
+    },
+    {
+      "role": "participant",
+      "text": "Yatmadan önce genelde telefonu elimde tutuyorum, açıkçası, alışkanlık gibi oldu. Haberlere bakıyorum ya da öyle amaçsızca gezişiyorum, uyku için tercih etmiyorum yani ama elimden bırakmıyorum da."
+    },
+    {
+      "role": "interviewer",
+      "text": "Sosyal medyayı düzenli kullanıyor musunuz? Eğer kullanıyorsanız, özellikle yatmadan önceki saatlerde nasıl kullanıyorsunuz, biraz anlatır mısınız?"
+    },
+    {
+      "role": "participant",
+      "text": "Sosyal medyayı fazla takip etmiyorum aslında, Instagram'da ara sıra bakınıyorum ama yatmadan önce özellikle değil, daha çok o telefon elimdeyken karışıyor işte, haberle sosyal medya arası gidip geliyorum bazen."
+    },
+    {
+      "role": "interviewer",
+      "text": "Şimdi de genel olarak teknolojiden devam edeyim: Yapay zeka sohbet botlarını (örneğin ChatGPT, Gemini, Claude gibi) düzenli kullanıyor musunuz?\n\nEvet diyorsanız:\n* Ne zamandan beri kullanıyorsunuz?\n* Daha çok hangi amaçla kullanıyorsunuz (iş, eğitim, kişisel sorular ya da başka şeyler gibi)?"
+    },
+    {
+      "role": "participant",
+      "text": "Yapay zeka sohbet botu falan kullanmıyorum düzenli olarak, hayır. Bir iki kere merak edip denedim ama alışkanlık haline getirmedim."
+    },
+    {
+      "role": "interviewer",
+      "text": "Sosyal medyayı ya da yapay zeka botlarını düzenli kullanmadığınızı söylemiştiniz. Bu durumda, son yıllarda teknoloji kullanımınız genel olarak (örneğin telefonda daha çok zaman geçirmek gibi) uyku düzeninizi etkiledi mi sizce, yoksa pek bir fark yaratmadı mı?"
+    },
+    {
+      "role": "participant",
+      "text": "Sanırım pek fark etmedi, çünkü zaten sorun benim uykumda değil, gecenin ortasında öyle uyanmam işte, telefon olmasa da aynı şekilde uyanırdım herhalde. Telefon daha çok o uyandığım vakti nasıl geçirdiğimi değiştirdi, önceden belki ışığı açıp kitap falan okurdum, şimdi telefona bakıyorum."
+    },
+    {
+      "role": "interviewer",
+      "text": "Anladım, teşekkür ederim açıkladığınız için. Eğer bir şeyi değiştirebilseydiniz, uyku alışkanlıklarınızla ilgili tek bir şeyi iyileştirme şansınız olsa, neyi değiştirmek isterdiniz?"
+    },
+    {
+      "role": "participant",
+      "text": "Değiştirebilseydim, sanırım o gece 4'te uyanma meselesini değiştirirdim, sabaha kadar tek parça uyuyabilmeyi isterdim. Ama gerçekçi konuşmak gerekirse bunun değişeceğini de pek beklemiyorum artık, öyle alıştım gitti."
+    },
+    {
+      "role": "interviewer",
+      "text": "Paylaştığınız için teşekkür ederim. Şimdi birkaç kısa arka plan sorum olacak, yanıtlamak istemediklerinizi atlayabilirsiniz:\n\nYaşınız, mesleğiniz, doğduğunuz ülke, şu an yaşadığınız ülke ve (farklıysa) ne zamandır orada yaşadığınızı paylaşmak ister misiniz?"
+    },
+    {
+      "role": "participant",
+      "text": "52 yaşındayım, belediye su idaresinde büro işlerinde çalışıyorum, koordinatörlük gibi bir şey. Portekiz'de doğdum, hep burada yaşadım, hiç yurt dışında bulunmadım."
+    },
+    {
+      "role": "interviewer",
+      "text": "Paylaştığınız bilgiler için teşekkür ederim. Görüşmenin sonuna geldik. Eklemek ya da özellikle vurgulamak istediğiniz başka bir şey var mı uykunuzla veya günlük düzeninizle ilgili?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T19:59:41.295234+00:00"
+}

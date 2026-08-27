@@ -1,0 +1,159 @@
+{
+  "run_id": "FULL-20260827193055",
+  "language": "tr",
+  "index": 3,
+  "started_at": "2026-08-27T19:31:13.845771+00:00",
+  "participant_id": "P1787859058948",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Bu görüşmeye hoş geldiniz."
+    },
+    {
+      "role": "participant",
+      "text": "Merhaba, hoş bulduk. Görüşmeye katılmaktan memnuniyet duyuyorum."
+    },
+    {
+      "role": "interviewer",
+      "text": "Dün gece saat kaçta yattınız?"
+    },
+    {
+      "role": "participant",
+      "text": "Yattığım saat mi... Dün gece saat 11:30 gibi yattım galiba, hep aynı saatlerde yatarım zaten."
+    },
+    {
+      "role": "interviewer",
+      "text": "Teşekkürler. Yaklaşık olarak dün gece kaç saat uyudunuz? Bir de, iyi uyuduğunuzu söyler misiniz, yoksa pek değil miydi? Neden?"
+    },
+    {
+      "role": "participant",
+      "text": "Aşağı yukarı yedi buçuk saat kadar uyudum sanırım. İyi uyudum denebilir ama gece bir ara, saat ikide falan uyandım, eski depo işimle ilgili bir rüya görmüştüm, tuhaf değildi ama beni biraz uyandırdı - kırk dakika kadar telefona bakarak yattım galiba, sonra tekrar uyudum."
+    },
+    {
+      "role": "interviewer",
+      "text": "Paylaşımınız için teşekkürler. Yatmadan önce yaptığınız son şey neydi? Bunu yapmayı neden tercih ettiniz?"
+    },
+    {
+      "role": "participant",
+      "text": "Yatmadan önce mi... Genelde bir polisiye roman okurum biraz, o gece de öyle yaptım sanırım, on-on beş dakika kadar. Kafamı boşaltmak için iyi geliyor, ekrana bakmaktan daha rahatlatıcı buluyorum açıkçası."
+    },
+    {
+      "role": "interviewer",
+      "text": "Polisiye roman okumanız ilginç geldi, kafanızı dağıtmak için iyi bir yöntem gibi duruyor. Hatırlıyorsanız, o gece okuduğunuz kitabın adı neydi, biraz bahseder misiniz?\n\n(Ardından sıradaki soruya geçeceğim.)"
+    },
+    {
+      "role": "participant",
+      "text": "Dur bakayım, adı neydi... Agatha Christie'nin eski kitaplarından biriydi sanırım, \"Doğu Ekspresinde Cinayet\" gibi bir şey - tam emin değilim aslında, yıllar önce almıştım o kitabı, hep aynılarını tekrar tekrar okuyorum galiba."
+    },
+    {
+      "role": "interviewer",
+      "text": "Teşekkür ederim, gayet net anlattınız.\n\nSon iki hafta içinde uykunuzun kalitesini en çok etkileyen şeyler neler oldu sizce?"
+    },
+    {
+      "role": "participant",
+      "text": "Son iki haftada uykumu en çok etkileyen şey herhalde iş programımdaki düzensizlik - bazı akşamlar derse dokuza kadar devam ediyorum, o zaman eve geç geliyorum ve kafam biraz daha yüklü oluyor. Bir de kediler var tabii, ikisi de yaşlı, gece bazen dolaşıp beni uyandırıyorlar ama buna alışığım artık."
+    },
+    {
+      "role": "interviewer",
+      "text": "Bu saydıklarınız sizin için oldukça belirleyici görünüyor. Peki, bu durum sizce sizin için alışıldık, her zamanki hâliniz mi, yoksa son zamanlarda bir değişiklik mi oldu?\n\n(Bundan sonra, genel olarak şu sıralar uykunuzdan memnun olup olmadığınızı soracağım.)"
+    },
+    {
+      "role": "participant",
+      "text": "Bende alışıldık bir durum, açıkçası. Bu düzensiz program yıllardır böyle zaten, kediler de yaşlanınca gece dolaşmaya başladılar - yani yeni bir şey değil, alıştım artık."
+    },
+    {
+      "role": "interviewer",
+      "text": "Anladım, teşekkür ederim.\n\nGenel olarak şu sıralar uykunuzdan memnun musunuz, yoksa değil misiniz? Neden böyle hissediyorsunuz?"
+    },
+    {
+      "role": "participant",
+      "text": "Genel olarak memnunum diyebilirim, şikayetçi değilim yani. Elli sekiz yaşında insan gençliğindeki gibi kesintisiz uyumuyor zaten, buna takılmıyorum artık - arada uyanmak, biraz kitap okumak benim için normal bir şey haline geldi, canımı sıkan bir durum değil."
+    },
+    {
+      "role": "interviewer",
+      "text": "Paylaştıklarınız için teşekkür ederim.\n\nYetişkinlerin gecede 7–9 saat uyuması gerektiği sık söylenir. Sizin için şu anda bu kadar uyumak pratik ve uygulanabilir geliyor mu?\n\n(Ardından, bunu kolaylaştıran ya da zorlaştıran şeyleri soracağım.)"
+    },
+    {
+      "role": "participant",
+      "text": "Yatmadan önce mi... Şöyle, 7-9 saat benim için pek gerçekçi değil açıkçası, altı buçuk yedi saat gibi bir şey daha çok tuttuğum yer. Gençken belki uyardım ama şimdi o kadarı fazla geliyor bana, bir de zaten üç saatte bir kalkıyorum kediler yüzünden ya da tuvalet için, o yedi-dokuz saati kesintisiz tutturmak imkansız gibi geliyor."
+    },
+    {
+      "role": "interviewer",
+      "text": "Anladım, teşekkür ederim.\n\nSizin için bu kadar (6,5–7 saat civarı) uyumayı kolaylaştıran ya da zorlaştıran belli başlı şeyler neler oluyor?"
+    },
+    {
+      "role": "participant",
+      "text": "Bilmiyorum, kolaylaştıran tarafı şu: garden'da gün geçirdiğim günler, yani bahçede uğraştığım günler, kafam boşalmış oluyor akşama, o zaman daha rahat dalıyorum. Zorlaştıran ise ders programı dediğim gibi - dokuza kadar sürdüğü akşamlar eve gelip biraz sakinleşmem gerekiyor, hemen yatağa giremiyorum, o da uyku saatimi geriye itiyor tabii."
+    },
+    {
+      "role": "interviewer",
+      "text": "Bahçede geçirdiğiniz günlerin ve geç ders programınızın sizde nasıl farklı etkiler yaptığını çok net anlattınız, teşekkür ederim.\n\nŞimdi teknolojiyle ilgili bir şey sormak istiyorum:\n\nYatmadan önce cep telefonu, tablet veya bilgisayara bakar mısınız? Neden böyle yapmayı tercih ediyorsunuz ya da etmiyorsunuz?"
+    },
+    {
+      "role": "participant",
+      "text": "Yatmadan önce genelde biraz bakıyorum telefona, evet - ama daha çok haber falan geçiyorum hızlıca, sonra kitaba dönüyorum genelde. Oğlum sürekli \"o mavi ışık uykuya kötü\" diye uyarıyor beni ama ben pek takmıyorum açıkçası, bana pek bir etkisi olduğunu düşünmüyorum."
+    },
+    {
+      "role": "interviewer",
+      "text": "Anladım, teşekkür ederim paylaştıklarınız için.\n\nSosyal medyayı düzenli kullanır mısınız? Eğer kullanıyorsanız, özellikle yatmadan önceki saatlerde genelde nasıl kullanıyorsunuz?"
+    },
+    {
+      "role": "participant",
+      "text": "Sosyal medyayı çok da düzenli sayılmam, oğlumun ailesinin fotoğraflarına bakmak için ara sıra Facebook'a giriyorum, o kadar. Yatmadan önce özellikle değil, daha çok gün içinde bahçedeyken ya da öğle arasında bakıyorum, gece o konuda pek vaktim de olmuyor zaten."
+    },
+    {
+      "role": "interviewer",
+      "text": "Anladım, teşekkür ederim.\n\nŞimdi teknolojiyle ilgili bir başka konu soracağım:\n\nYapay zekâ sohbet botlarını (örneğin ChatGPT, Gemini, Claude veya benzeri) düzenli olarak kullanıyor musunuz?\n\nEğer kullanıyorsanız:\n* Ne zamandan beri kullanıyorsunuz?\n* Daha çok ne için kullanıyorsunuz (iş, eğitim, kişisel merak gibi)?"
+    },
+    {
+      "role": "participant",
+      "text": "Yapay zeka sohbet botları... yok, düzenli kullanmıyorum diyebilirim. Oğlum bir ara ChatGPT'yi gösterdi bana, \"bak bunu nasıl yapıyor\" diye, ama ben pek ihtiyaç duymadım açıkçası, ne iş için ne de başka bir şey için - eski usul kalmışım o konuda galiba."
+    },
+    {
+      "role": "interviewer",
+      "text": "Anladım, teşekkür ederim paylaştıklarınız için.\n\nSosyal medyayı ya da yapay zekâ sohbet botlarını düzenli kullanmadığınız için, şimdi genel bir soru soracağım:\n\nSize göre, bu tür teknolojileri (sosyal medya veya yapay zekâ botları) daha fazla kullanmaya başlasaydınız, uyku düzeninizde bir değişiklik olur muydu, ne düşünüyorsunuz?"
+    },
+    {
+      "role": "participant",
+      "text": "Yok, sanmıyorum açıkçası - benim uykumu bozan şey daha çok kafamdaki dertler, gün içinde neyle uğraştığım, telefon falan değil. Belki oğlum gibi her şeyi bir uygulamaya bağlasam biraz vaktim gidebilir gece geç saate ama, açıkçası pek merak da etmiyorum o tarafı."
+    },
+    {
+      "role": "interviewer",
+      "text": "Anladım, teşekkür ederim paylaştıklarınız için.\n\nEğer uyku alışkanlıklarınızda tek bir şeyi iyileştirebilme şansınız olsaydı, neyi değiştirmek isterdiniz?\n\n(Ardından, bu değişikliğin sizin günlük sorumluluklarınızla ne kadar uyumlu olabileceğini soracağım.)"
+    },
+    {
+      "role": "participant",
+      "text": "Şeyi değiştirmek isterdim aslında - o gece ortasında uyanma meselesini. Yani 3 gibi kalkıp tuvalete gitme kendisi sorun değil ama bazen tekrar dalmak biraz vakit alıyor, o boşluk uzarsa ertesi gün derste biraz yorgun hissediyorum kendimi."
+    },
+    {
+      "role": "interviewer",
+      "text": "Anladım, paylaştığınız için teşekkür ederim.\n\nGünlük sorumluluklarınızı, ders programınızı ve bahçeyle ilgilenme rutininizi düşününce, bu gece ortasında uyanma ve tekrar dalma süresini kısaltmak sizce ne kadar gerçekçi, yapılabilir bir değişiklik olurdu? Neden?\n\n(Bundan sonra birkaç kısa arka plan sorusu soracağım.)"
+    },
+    {
+      "role": "participant",
+      "text": "Açıkçası çok da gerçekçi bulmuyorum bunu tamamen ortadan kaldırmayı, çünkü yıllardır böyleyim, yaşla da ilgili olabilir biraz. Ama şu 40 dakikalık boşluğu kısaltmak belki mümkün - mesela telefona bakmak yerine direkt kitaba dönsem belki daha çabuk dalarım, onu denemedim daha ama düşündüm bazen."
+    },
+    {
+      "role": "interviewer",
+      "text": "Anladım, bunu bu kadar somut düşünmüş olmanız da ilginç.\n\nŞimdi birkaç kısa arka plan sorusu soracağım, yanıtlamak istemediklerinizi atlayabilirsiniz:\n\nYaşınızı, mesleğinizi ve doğduğunuz ülkeyi paylaşmak ister misiniz?"
+    },
+    {
+      "role": "participant",
+      "text": "58, mesleğim ve doğduğum yer mi... 58 yaşındayım, aslında yarı emekli sayılırım - 22 yıl depo lojistiğinde çalıştım, şimdi part-time direksiyon eğitmenliği yapıyorum. Belçika doğumluyum."
+    },
+    {
+      "role": "interviewer",
+      "text": "Paylaştığınız için teşekkür ederim.\n\nŞu an yaşadığınız ülkeyi de paylaşmak ister misiniz? Eğer doğduğunuz ülkeden farklıysa, ne zaman taşındınız?"
+    },
+    {
+      "role": "participant",
+      "text": "Şu an da Belçika'da yaşıyorum, hiç taşınmadım aslında - hep aynı bölgedeydim, sadece şehir içinde birkaç kez ev değiştirdim o kadar."
+    },
+    {
+      "role": "interviewer",
+      "text": "Paylaştığınız tüm bilgiler için çok teşekkür ederim, yanıtlarınız araştırma için çok değerli.\n\nGörüşmeyi bitirmeden önce, uyku düzeniniz, teknoloji kullanımı ya da genel olarak bu konularla ilgili eklemek istediğiniz, size önemli gelen başka bir şey var mı?\n\n(Eklemek istemezseniz “yok” demeniz yeterli.)"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T19:33:49.206627+00:00"
+}

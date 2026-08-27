@@ -1,0 +1,119 @@
+{
+  "run_id": "FULL-20260827193055",
+  "language": "tr",
+  "index": 17,
+  "started_at": "2026-08-27T20:05:54.375947+00:00",
+  "participant_id": "P1787861137414",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Bu görüşmeye hoş geldiniz."
+    },
+    {
+      "role": "participant",
+      "text": "Merhaba, hoş bulduk."
+    },
+    {
+      "role": "interviewer",
+      "text": "Dün gece saat kaçta yattınız?"
+    },
+    {
+      "role": "participant",
+      "text": "Dün gece saat on gibi yattım. Gündüz vardiyasındaydım bu hafta, o yüzden biraz geç sayılır benim için."
+    },
+    {
+      "role": "interviewer",
+      "text": "Anladım, teşekkür ederim. Yaklaşık kaç saat uyudunuz dün gece? Genel olarak iyi uyuduğunuzu söyler misiniz, neden?"
+    },
+    {
+      "role": "participant",
+      "text": "Yaklaşık altı saat kadar uyudum sanırım. Fena değildi, yeterince dinlenmiş kalktım ama gündüz vardiyası haftalarında zaten uykum biraz düzensizleşiyor, arada bir uyanıyorum sonra tekrar dalıyorum."
+    },
+    {
+      "role": "interviewer",
+      "text": "Yatmadan önce yaptığınız son şey neydi? Bunu yapmayı neden tercih ettiniz?"
+    },
+    {
+      "role": "participant",
+      "text": "Yatmadan önce radyoyu açıp bir süre dinledim, telefon çekmedim genelde. Ekran yerine sesli bir şey olması kafamı daha çabuk dağıtıyor, iş gündemi falan zihnimde kalmıyor."
+    },
+    {
+      "role": "interviewer",
+      "text": "Teşekkürler, net anlattınız. Son iki haftadır uykunuzun kalitesini en çok hangi faktörlerin etkilediğini düşünüyorsunuz?"
+    },
+    {
+      "role": "participant",
+      "text": "Son iki hafta gündüz vardiyasındaydım, o yüzden düzensiz oldu biraz — bazen gece yarısını geçip yatıyordum. Yükleme planlamasıyla ilgili işler kafamda kalıyor bazen, onu bir kenara koyup uyumak biraz zaman alıyor. Ama genelde ciddi bir sorun görmüyorum, vardiya değişimi işte, alışkınım artık."
+    },
+    {
+      "role": "interviewer",
+      "text": "Bu anlattıklarınız sizin için alışıldık bir durum mu, yoksa son zamanlarda değişen bir şeyler oldu mu? Genel olarak bu aralar uykunuzdan memnun musunuz, neden?"
+    },
+    {
+      "role": "participant",
+      "text": "Bu benim için oldukça alışıldık bir durum, yeni bir şey değil. Vardiyalar bu şekilde döndüğü sürece hep böyle oluyor, ona göre ayarlamışım kendimi zaten. Genel olarak memnunum diyebilirim, mükemmel değil ama yeterince dinleniyorum, dert edecek bir şey görmüyorum."
+    },
+    {
+      "role": "interviewer",
+      "text": "Teşekkür ederim paylaştığınız için. Yetişkinler için önerilen 7–9 saat uykuyu duymuşsunuzdur muhtemelen. Şu anki hayat düzeninizde bu kadar uyumak size pratik/gerçekçi geliyor mu?"
+    },
+    {
+      "role": "participant",
+      "text": "Yaklaşık altı saat çıkıyor benim için çoğu zaman, tam yedi-dokuza uymuyorum yani. Gerçekçi mi diye sorarsanız, vardiyalarım bu şekilde döndüğü sürece pek mümkün görünmüyor açıkçası, sabah beşe kalkacaksam dokuzdan uzatamıyorum yatağı."
+    },
+    {
+      "role": "interviewer",
+      "text": "Anladım, sağ olun paylaştığınız için. Birçok kişi yatmadan önce telefon, tablet ya da bilgisayarına bakıyor. Siz de genelde yatmadan hemen önce böyle cihazları kullanıyor musunuz, neden kullanmayı tercih ediyorsunuz ya da neden kullanmamayı seçiyorsunuz?"
+    },
+    {
+      "role": "participant",
+      "text": "Yatmadan önce telefona pek bakmıyorum, doğrusu. Bilerek uzak duruyorum, ekran açınca kafam daha çok uyanık kalıyor, radyo daha sakin geliyor bana."
+    },
+    {
+      "role": "interviewer",
+      "text": "Anladım, teşekkür ederim. Sosyal medyayı düzenli olarak kullanıyor musunuz? Kullanıyorsanız özellikle yatmadan önceki saatlerde nasıl kullanıyorsunuz?"
+    },
+    {
+      "role": "participant",
+      "text": "Sosyal medyayı kullanıyorum ama fazla değil, Facebook'ta ailemle falan bağlantı kurmak için daha çok. Yatmadan önceki saatlerde pek açmıyorum, dediğim gibi radyoyu tercih ediyorum o vakitte, telefon zaten elimin altında değil o sırada."
+    },
+    {
+      "role": "interviewer",
+      "text": "Paylaştığınız için teşekkürler. Genel olarak teknolojiyle ilgili bir soru daha sormak istiyorum: Düzenli olarak yapay zeka sohbet botları (örneğin ChatGPT, Gemini, Claude ya da benzeri uygulamalar) kullanıyor musunuz?\n\nEvetse:\n* Ne zamandan beri kullanıyorsunuz?\n* Daha çok ne amaçla kullanıyorsunuz (iş, eğitim, kişisel sorular ya da başka bir şey)?"
+    },
+    {
+      "role": "participant",
+      "text": "Açıkçası pek kullanmıyorum, hayır. Bir iki kere denemiştim, oğlum göstermişti bana ChatGPT'yi, ama düzenli bir alışkanlık haline gelmedi. İşte pratik bir şeye ihtiyacım olunca bakıyorum belki, mesela bir yazışma için, ama günlük hayatımda pek yeri yok benim için."
+    },
+    {
+      "role": "interviewer",
+      "text": "Anladım, teşekkür ederim paylaştığınız için. Sosyal medya veya yapay zekâ sohbet botlarını çok yoğun kullanmadığınızı söylediniz. Bu durumda genel olarak baktığınızda, bu tür teknolojileri kullanmaya başladıktan sonra uyku düzeninizde herhangi bir değişiklik fark ettiniz mi, yoksa teknolojiyle ilgili pek bir etkisi olmadı diyebilir misiniz?"
+    },
+    {
+      "role": "participant",
+      "text": "Fark ettiğim bir şey yok açıkçası, çünkü zaten fazla kullanmıyorum bunları. Uykumu esas belirleyen vardiya saatleri, teknolojinin bu konuda bir etkisi olduğunu söyleyemem."
+    },
+    {
+      "role": "interviewer",
+      "text": "Paylaştığınız için teşekkür ederim. Eğer uyku alışkanlıklarınızda tek bir şeyi iyileştirebilme şansınız olsaydı, neyi değiştirmek isterdiniz?"
+    },
+    {
+      "role": "participant",
+      "text": "Bir şey değiştirebilseydim, standart hafta içi düzenimi biraz daha oturtmak isterdim. Vardiya değişince uyku vaktim kayıyor, gece yarısını geçebiliyor, işte onu daha sabit tutabilseydim iyi olurdu."
+    },
+    {
+      "role": "interviewer",
+      "text": "Paylaştığınız için teşekkürler. Son olarak, eğer paylaşmak isterseniz:\n\n* Yaşınız;\n* Mesleğiniz;\n* Doğduğunuz ülke;\n* Şu an yaşadığınız ülke;\n* (Farklıysa) ne zaman taşındınız?\n\nbunları kısaca söyleyebilir misiniz? İstemediklerinizi atlayabilirsiniz."
+    },
+    {
+      "role": "participant",
+      "text": "Yaşım 52, Rennes'te yaşıyorum, Fransa'da. Meslek olarak lojistik sektöründe, bir dağıtım merkezinde depo operasyon sorumlusuyum. Togo'da, Lome'de doğdum, buraya iş transferiyle geldim, on dokuz yıl önce falan."
+    },
+    {
+      "role": "interviewer",
+      "text": "Paylaştığınız bilgiler için teşekkür ederim, çok yardımcı oldunuz.\n\nKapatmadan önce, uyku düzeniniz, vardiya çalışma hayatınız veya teknoloji kullanımıyla ilgili eklemek istediğiniz, size önemli görünen başka bir şey var mı?\n\nEkleyeceğiniz başka bir şey yoksa da söyleyebilirsiniz, böylece görüşmeyi sonlandırabiliriz."
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T20:07:38.786568+00:00"
+}

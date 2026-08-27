@@ -1,0 +1,111 @@
+{
+  "run_id": "FULL-20260827193055",
+  "language": "tr",
+  "index": 10,
+  "started_at": "2026-08-27T19:47:54.734253+00:00",
+  "participant_id": "P1787860062974",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Bu görüşmeye hoş geldiniz."
+    },
+    {
+      "role": "participant",
+      "text": "Merhaba, hoş bulduk. Başlayalım o zaman."
+    },
+    {
+      "role": "interviewer",
+      "text": "Dün gece saat kaçta uyumaya gittiniz?"
+    },
+    {
+      "role": "participant",
+      "text": "Dün gece biraz geç yattım, saat birden sonra oldu. Bir müşteri buzdolabı bozuldu diye mesaj attı, kafamda tamiri planlarken vakit geçmiş."
+    },
+    {
+      "role": "interviewer",
+      "text": "Yaklaşık olarak saat kaç gibi uyumuş olabilirsiniz, bir buçuk, iki civarı mı?\n\nDün gece toplamda yaklaşık kaç saat uyudunuz? Uyku size iyi geldi mi, yoksa dinlenmemiş mi hissettiniz? Nedenini biraz anlatır mısınız?"
+    },
+    {
+      "role": "participant",
+      "text": "Uykuya bir buçuk gibi dalmışımdır herhalde, tam saat tutmuyorum ama öyle bir yer. Toplamda beş buçuk altı saat kadar olmuştur, uyanınca alışıp yediyi kırk beşi geçmedim yine. Kendimi çok da yorgun hissetmedim açıkçası, sadece kısa geldi — uyku kalitesi iyiydi de süresi azdı, öyle diyeyim."
+    },
+    {
+      "role": "interviewer",
+      "text": "Teşekkür ederim, anladım.\n\nYatmadan önce yaptığınız son şey neydi? Neden özellikle o işi yapmayı tercih ettiniz?"
+    },
+    {
+      "role": "participant",
+      "text": "Yatmadan önce telefonda biraz haber falan karıştırdım, sonra o buzdolabı meselesini bir de not alayım dedim, yarın unutmayayım diye — parça sipariş etmem gerekiyor mu diye aklımdan geçirdim. Alışkanlık yani, kafada iş bitmeden pek rahat uyuyamıyorum."
+    },
+    {
+      "role": "interviewer",
+      "text": "Son iki haftadır uyku kalitenizi en çok etkileyen şeyler neler oldu?\n\nBu sizin için genelde her zaman böyle midir, yoksa son zamanlarda bir değişiklik mi oldu?"
+    },
+    {
+      "role": "participant",
+      "text": "Genelde böyle sayılır aslında, benim işim düzenli değil ki — bir gün sabah sekizde dükkan açık, bir gün öğlene kadar müşteriye gidiyorum, kafa hep bir şeyle meşgul. Son iki haftada değişen bir şey yok yani, hep böyleydi; ara sıra böyle bir iş telefonu geç saatte gelince kısa geceler oluyor, o kadar."
+    },
+    {
+      "role": "interviewer",
+      "text": "Genel olarak uyku düzeninizden memnun musunuz, yoksa keşke farklı olsa dediğiniz yönleri var mı?\n\nYaygın tavsiye, yetişkinlerin gecede 7–9 saat uyuması yönünde. Sizin için şu anda bu kadar uyumak pratik görünüyor mu?\n\nBu kadar uyumayı sizin için kolaylaştıran ya da zorlaştıran neler var?"
+    },
+    {
+      "role": "participant",
+      "text": "Genel olarak memnunum diyeyim, alışmışım böyle — dert etmiyorum çok. Yedi dokuz saat mi, valla bana biraz lüks geliyor açıkçası, işim öyle bir düzen tanımıyor ki. Zorlaştıran şey net: telefon sürekli açık, müşteri istediği an yazabiliyor; kolaylaştıran bir şey yok pek, sadece işler bitince kafam rahatlıyor o kadar."
+    },
+    {
+      "role": "interviewer",
+      "text": "Yatmadan önce cep telefonu, tablet ya da bilgisayara bakma alışkanlığınız var mı? Varsa, neden kullanıyorsunuz, yoksa neden kullanmamayı tercih ediyorsunuz?"
+    },
+    {
+      "role": "participant",
+      "text": "Evet, yatmadan hemen önce biraz haberlere bakıyorum genelde, alışkanlık oldu artık. Bir de müşteri işi varsa aklımda kalmasın diye telefona not düşüyorum bazen — tam uyku öncesi ideal değil biliyorum ama pek de takmıyorum açıkçası."
+    },
+    {
+      "role": "interviewer",
+      "text": "Sosyal medyayı düzenli kullanır mısınız? Eğer kullanıyorsanız, özellikle yatmadan önceki saatlerde genelde nasıl kullanıyorsunuz, neler yapıyorsunuz?"
+    },
+    {
+      "role": "participant",
+      "text": "Sosyal medya pek değil açıkçası, WhatsApp'tan müşteri mesajları geliyor onu saymazsak. Instagram falan var telefonda ama yatmadan önce açıp da kaydırdığım filan yok, o vaktimi haberlerle ya da iş notuyla geçiriyorum daha çok."
+    },
+    {
+      "role": "interviewer",
+      "text": "Şimdi de yapay zekâ sohbet botlarıyla ilgili sorayım: ChatGPT, Gemini, Claude gibi sohbet botlarını düzenli olarak kullanıyor musunuz?\n\nEğer kullanıyorsanız:\n– Yaklaşık ne zamandır kullanıyorsunuz?\n– Daha çok hangi amaçlarla kullanıyorsunuz (iş, günlük hayat, merak ettiğiniz şeyler vb.)?"
+    },
+    {
+      "role": "participant",
+      "text": "Yapay zekâ botlarını iş için pek kullanmıyorum açıkçası, benim işim daha çok elle, parçayla uğraşmak — pek oturup sohbet edecek vaktim de olmuyor. Bir iki kere kızım gösterdi telefonda, bir şeyin garanti süresi falan sorayım diye denedim ama alışkanlık haline gelmedi."
+    },
+    {
+      "role": "interviewer",
+      "text": "Anladım, teşekkür ederim.\n\nSosyal medyayı veya bu tür yapay zekâ botlarını ara ara da olsa kullanmaya başladıktan sonra, uyku düzeninizde ya da yatma saatinizde herhangi bir değişiklik fark ettiniz mi?\n\nSizce buna neler etki etmiş olabilir?"
+    },
+    {
+      "role": "participant",
+      "text": "Vallahi çok bir değişiklik olduğunu söyleyemem, zaten alışkanlık zamanla oluşmuş, bir gecede fark ettiğim bir şey yok. Belki tek şu var: haberlere bakayım derken beş dakika sanıp yarım saat geçiyor bazen, o kadarını itiraf edeyim — ama onun uykumu bozduğunu düşünmüyorum, işim zaten değişken."
+    },
+    {
+      "role": "interviewer",
+      "text": "Teşekkür ederim, çok net anlattınız.\n\nEğer uyku alışkanlıklarınızla ilgili tek bir şeyi iyileştirebilseydiniz, neyi değiştirmek isterdiniz?\n\nGünlük işleriniz, işinizin temposu düşünülünce, sizce bu değişiklik sizin için ne kadar yapılabilir, neden?"
+    },
+    {
+      "role": "participant",
+      "text": "Tek şey mi... valla yatma saatimi biraz daha sabitlemek isterdim, saat on birde de olsa on ikide de olsa ama hep aynı saat olsun, öyle bir düzen kurabilsem iyi olur. Ama dürüst olayım, pek mümkün görünmüyor — telefon çaldığı an iş öncelik oluyor benim için, müşteriyi bekletemem, o yüzden bunu tam anlamıyla değiştirmek zor, biraz da kabullenmişim durumu açıkçası."
+    },
+    {
+      "role": "interviewer",
+      "text": "Paylaşımınız için teşekkür ederim, çok açıklayıcı oldu.\n\nŞimdi birkaç kısa arka plan sorum var, isterseniz yanıtlamadığınız kısımları geçebilirsiniz:\n\n– Yaşınız;\n– Mesleğiniz;\n– Doğduğunuz ülke;\n– Şu an yaşadığınız ülke;\n– (Eğer farklıysa) Ne zaman taşındınız?"
+    },
+    {
+      "role": "participant",
+      "text": "58 yaşındayım. Küçük bir beyaz eşya tamir dükkânı işletiyorum, kendi işim yani. Burada doğdum, hâlâ burada yaşıyorum, hiç yurt dışına falan taşınmadım — o yüzden son soru bende geçerli değil."
+    },
+    {
+      "role": "interviewer",
+      "text": "Paylaştığınız tüm bilgiler için teşekkür ederim, çok yardımcı oldunuz.\n\nGörüşmeyi bitirmeden önce, uyku düzeniniz, işinizin temposu ya da teknoloji kullanımızla ilgili eklemek istediğiniz, aklınızda kalan başka bir şey var mı?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T19:49:40.629515+00:00"
+}

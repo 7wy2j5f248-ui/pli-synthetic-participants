@@ -1,0 +1,135 @@
+{
+  "run_id": "FULL-20260827193055",
+  "language": "tr",
+  "index": 13,
+  "started_at": "2026-08-27T19:54:53.162756+00:00",
+  "participant_id": "P1787860482508",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Bu görüşmeye hoş geldiniz."
+    },
+    {
+      "role": "participant",
+      "text": "Merhaba, hoş bulduk."
+    },
+    {
+      "role": "interviewer",
+      "text": "Dün gece saat kaçta yattınız?"
+    },
+    {
+      "role": "participant",
+      "text": "Dün gece biraz gecikti aslında, kız kardeşimle görüntülü konuştuk uzun uzun, o yüzden normalden geç yattım, saat on bire falan gelmiştir herhalde."
+    },
+    {
+      "role": "interviewer",
+      "text": "Anladım, teşekkür ederim. Yaklaşık kaç saat uyudunuz dün gece? Genel olarak iyi uyuduğunuzu söyler misiniz, neden?"
+    },
+    {
+      "role": "participant",
+      "text": "Yaklaşık altı buçuk saat kadar uyudum sanırım. Genel olarak iyi sayılırdı aslında, sadece gece bir ara üç gibi uyanıp telefona bakmışım yine alışkanlıktan, ama sonra hemen dalmışım tekrar."
+    },
+    {
+      "role": "interviewer",
+      "text": "Yatmadan önce yaptığınız son şey neydi? Bunu yapmayı neden tercih ettiniz?"
+    },
+    {
+      "role": "participant",
+      "text": "Yatmadan önce genelde bulmaca çözüyorum, kroki bulmacası gibi bir şey - kafamı boşaltıyor, ekrandan uzaklaştırıyor beni. Alışkanlık oldu artık, bir tür sakinleşme ritüelim diyebilirim."
+    },
+    {
+      "role": "interviewer",
+      "text": "Son iki haftadır uykunuzu en çok etkileyen faktörler neler oldu?"
+    },
+    {
+      "role": "participant",
+      "text": "Son iki haftadır uykumu en çok etkileyen şey vardiyaların değişken olması - bazen sabah altıda başlıyorum bazen akşama kayıyor, vücudum bir türlü sabit bir düzene alışamıyor gibi. Tek başına erken kalkmak ya da geç kalmak sorun değil aslında, ama sürekli değişmesi beni yoruyor."
+    },
+    {
+      "role": "interviewer",
+      "text": "Bu durum sizin için ne kadar tipik? Yoksa son zamanlarda vardiya düzeninizde yeni bir değişiklik mi oldu?"
+    },
+    {
+      "role": "participant",
+      "text": "Yatağa gecikmem tamamen o telefon görüşmesi yüzündendi, yoksa böyle olmuyor genelde. Ama vardiya değişkenliği yeni değil, aylardır böyle - son iki haftada özel bir değişiklik yok, sadece bu hafta biraz daha sık geçişli oldu diyebilirim."
+    },
+    {
+      "role": "interviewer",
+      "text": "Genel olarak bu son iki haftadaki uykunuzdan memnun musunuz, değil misiniz? Neden böyle hissediyorsunuz?"
+    },
+    {
+      "role": "participant",
+      "text": "Genel olarak memnunum sayılır, çünkü kalitesi fena değildi - çabuk uyuyorum, gece uyanmam da kısa sürüyor. Beni asıl rahatsız eden uyku kalitesinden çok bu vardiya değişkenliği, ona bir türlü alışamıyorum ama uykunun kendisinden şikayetçi değilim."
+    },
+    {
+      "role": "interviewer",
+      "text": "Teşekkür ederim paylaştığınız için. Yetişkinler için önerilen 7–9 saat uyku tavsiyesi var, muhtemelen duymuşsunuzdur. Şu anki hayat düzeninizde sizce bu kadar uyumak sizin için pratik görünüyor mu?"
+    },
+    {
+      "role": "participant",
+      "text": "Yedi dokuz saat mi... valla pek pratik değil benim düzenimde, vardiyalar bu kadar değişkenken. Altı buçuk saat bile bazen zor oluyor, hele erken başlayacaksam. Ama dediğim gibi ben süreye çok da takılmıyorum, kendimi nasıl hissettiğime bakıyorum daha çok."
+    },
+    {
+      "role": "interviewer",
+      "text": "Anladım, teşekkür ederim. Birçok insan yatmadan önce telefon, tablet ya da bilgisayarına bakıyor. Siz de yatmadan hemen önce bu tür cihazları kullanıyor musunuz, neden?"
+    },
+    {
+      "role": "participant",
+      "text": "Hayır, ben bunu yapmıyorum aslında - yatakta değil, daha çok kroki bulmacamı çözerken telefonu kenara bırakıyorum. Bir kere ekrandan uzaklaşayım diyorum, yoksa uyku vaktim daha da gecikiyor."
+    },
+    {
+      "role": "interviewer",
+      "text": "Anladım, teşekkürler. Düzenli olarak sosyal medya kullanıyor musunuz?"
+    },
+    {
+      "role": "participant",
+      "text": "Sosyal medyayı ara sıra kullanıyorum ama yatmadan önce değil, genelde gündüz molalarımda şöyle bir bakıyorum. Akşamları pek elimi sürmüyorum açıkçası, o zamanı daha çok bulmacaya ayırıyorum."
+    },
+    {
+      "role": "interviewer",
+      "text": "Şimdi teknolojiyle ilgili genel bir soru sormak istiyorum: Düzenli olarak yapay zekâ sohbet botları (örneğin ChatGPT, Gemini, Claude vb.) kullanıyor musunuz?"
+    },
+    {
+      "role": "participant",
+      "text": "Yapay zekâ sohbet botlarını pek düzenli kullanmıyorum açıkçası, ara sıra iş yerinde bir şey ararken denedim ama alışkanlık haline gelmedi. Yani hayatımda büyük bir yer tutmuyor, öyle diyeyim."
+    },
+    {
+      "role": "interviewer",
+      "text": "Teşekkürler. Sosyal medyayı ya da bu tür teknolojileri ara sıra da olsa kullanmaya başladıktan sonra, uyku düzeninizde herhangi bir değişiklik fark ettiniz mi, yoksa pek bir etkisi olmadı diyebilir misiniz?"
+    },
+    {
+      "role": "participant",
+      "text": "Doğrusu pek bir değişiklik fark etmedim, çünkü zaten çoğunlukla gündüz kullanıyorum bunları, yatmadan önceki rutinim hep aynı kaldı. Belki telefona hiç bakmadan da uyuyabilirdim ama şu an bir sorun yaratmıyor benim için."
+    },
+    {
+      "role": "interviewer",
+      "text": "Anladım, teşekkür ederim. Eğer uyku alışkanlıklarınızda tek bir şeyi iyileştirebilme şansınız olsaydı, neyi değiştirmek isterdiniz?"
+    },
+    {
+      "role": "participant",
+      "text": "Açıkçası tek bir şey seçmem gerekirse, o üç civarı uyanmayı azaltmak isterdim - telefona bakma alışkanlığını değil de, uyanmanın kendisini yani. Ama işim vardiyalı olduğu sürece bunun tam düzelmeyeceğini de biliyorum, o yüzden fazla hayal kurmuyorum bu konuda."
+    },
+    {
+      "role": "interviewer",
+      "text": "Günlük sorumluluklarınız, işiniz veya vardiya düzeniniz düşünüldüğünde, bu bahsettiğiniz değişikliğin (gece üç gibi uyanmaların azalması) sizin için ne kadar yapılabilir olduğunu düşünüyorsunuz? Neden?"
+    },
+    {
+      "role": "participant",
+      "text": "Vardiya düzeni tam olarak değişmediği sürece bunu çok da düzeltebileceğimi sanmıyorum açıkçası - saat kaça yatarsam yatayım, vücudum hâlâ o saatte uyanmaya alışmış gibi. Belki biraz daha düzenli bir rutin tutturursam yardımcı olur ama tamamen ortadan kalkacağını beklemiyorum, o yüzden fazla umutlanmıyorum."
+    },
+    {
+      "role": "interviewer",
+      "text": "Paylaştığınız için teşekkür ederim. Şimdi birkaç arka plan sorusu soracağım; isterseniz atlayabilirsiniz.\n\nYaşınız kaç, ne iş yapıyorsunuz ve hangi ülkede doğdunuz?"
+    },
+    {
+      "role": "participant",
+      "text": "52 yaşındayım, depo lojistik koordinatörlüğü yapıyorum bir gıda dağıtım firmasında, ve Almanya'da doğdum, buradan pek uzaklaşmadım açıkçası - hep bu bölgede yaşadım."
+    },
+    {
+      "role": "interviewer",
+      "text": "Teşekkür ederim. Şu anda hangi ülkede yaşıyorsunuz? Eğer doğduğunuz ülkeden farklıysa, ne zaman taşındınız? (İsterseniz bu soruyu atlayabilirsiniz.)"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T19:56:55.881865+00:00"
+}

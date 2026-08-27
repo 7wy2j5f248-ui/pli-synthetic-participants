@@ -1,0 +1,111 @@
+{
+  "run_id": "FULL-20260827193055",
+  "language": "tr",
+  "index": 11,
+  "started_at": "2026-08-27T19:50:00.749619+00:00",
+  "participant_id": "P1787860184686",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Bu görüşmeye hoş geldiniz."
+    },
+    {
+      "role": "participant",
+      "text": "Merhaba, teşekkür ederim. Başlayabiliriz."
+    },
+    {
+      "role": "interviewer",
+      "text": "Dün gece saat kaçta yattınız?"
+    },
+    {
+      "role": "participant",
+      "text": "Dün gece saat on buçuk gibi yattım, hep aynı saate denk gelir bende."
+    },
+    {
+      "role": "interviewer",
+      "text": "Teşekkürler. Yaklaşık olarak kaç saat uyudunuz? Genel olarak iyi uyuduğunuzu söyler miydiniz, neden?"
+    },
+    {
+      "role": "participant",
+      "text": "Yaklaşık beş buçuk saat kadar sürmüştür herhalde, sabah dört gibi uyandım yine. İyi mi, fena mı bilemiyorum, benim vücudum artık böyle çalışıyor sanki, alıştım bir nevi."
+    },
+    {
+      "role": "interviewer",
+      "text": "Paylaştığınız için teşekkürler. Yatmadan önce yaptığınız son şey neydi? Bu aktiviteyi neden seçtiniz?"
+    },
+    {
+      "role": "participant",
+      "text": "Son yaptığım şey, kocamla haberleri izledikten sonra bulmaca çözmekti, hep öyle yaparım — kafamı biraz meşgul edip zihni günden koparıyor bir bakıma, sonra da uyku öyle geliyor zaten."
+    },
+    {
+      "role": "interviewer",
+      "text": "Teşekkür ederim, net anlattınız. Son iki haftadır uykunuzu en çok etkilediğini düşündüğünüz etkenler neler oldu?"
+    },
+    {
+      "role": "participant",
+      "text": "Son iki haftaya bakarsam, aslında değişen bir şey yok gibi — hep aynı saatte uyanıyorum zaten. Belki iş yerinde biraz yoğunluk vardı, hafta sonu fazla mesaiye kaldım, o yorgunluk üstüme biniyor ama uykuyu değiştirdiğini söyleyemem, sabah yine dört gibi gözüm açılıyor."
+    },
+    {
+      "role": "interviewer",
+      "text": "Bu anlattıklarınız sizin için genelde alışılmış bir durum gibi görünüyor. Bu son iki haftadaki haliniz, sizin için tipik olan uyku düzeninizle aynı mı, yoksa son zamanlarda bir değişiklik hissettiniz mi?"
+    },
+    {
+      "role": "participant",
+      "text": "Bende değişen bir şey yok gerçekten, hep böyleyim zaten — dört gibi gözüm açılıyor, buna alışkanlık desem yeridir artık. Değişiklik olarak sayılacak tek şey belki şu fazla mesai yorgunluğu ama uykumun kendisini etkilemiyor, ben yine aynı saatte uyanıp aynı şekilde devam ediyorum."
+    },
+    {
+      "role": "interviewer",
+      "text": "Paylaştığınız için sağ olun. Yetişkinlerin gecede 7–9 saat uyuması gerektiği sık söylenir. Sizin için şu anda bu kadar uyumak pratik görünüyor mu?"
+    },
+    {
+      "role": "participant",
+      "text": "7-9 saat mi, valla açıkçası hiç aklıma gelmiyor öyle bir şey — dört gibi gözüm açılıyorsa açılıyor, on saat de yatsam yine öyle olur herhalde. Pratiklik meselesi değil bende, vücut ne veriyorsa onu alıyorum artık."
+    },
+    {
+      "role": "interviewer",
+      "text": "Anlıyorum, böyle tarif ediyorsunuz. Yatmadan hemen önce veya yatakta telefon, tablet ya da bilgisayar kullanır mısınız? Neden kullanmayı tercih ediyorsunuz ya da neden kullanmıyorsunuz?"
+    },
+    {
+      "role": "participant",
+      "text": "Yatakta telefona pek bakmam, hemen bulmacadan sonra ışığı söndürüyorum zaten — kocam bazen haberlere bakıyor telefonundan ama ben o parlak ekranla gözümü daha da açmak istemiyorum, öyle bir alışkanlığım yok."
+    },
+    {
+      "role": "interviewer",
+      "text": "Anladım, teşekkür ederim. Sosyal medyayı düzenli kullanır mısınız? Eğer kullanıyorsanız, özellikle yatmadan önceki saatlerde genelde nasıl kullanıyorsunuz?"
+    },
+    {
+      "role": "participant",
+      "text": "Sosyal medyayı pek kullanmam açıkçası, bazı akrabalarımın paylaştıklarına bakarım Facebook'tan ama o da gündüz olur, akşam yatmadan önce hiç açmam telefonu o amaçla — zaten bulmacadan sonra direkt ışığı söndürüyorum, oyalanacak vaktim de olmuyor pek."
+    },
+    {
+      "role": "interviewer",
+      "text": "Teşekkür ederim. Genel olarak teknolojiyi düşündüğümüzde, yapay zekâ sohbet botlarını (örneğin ChatGPT, Gemini, Claude ya da benzeri uygulamalar) düzenli olarak kullanıyor musunuz?"
+    },
+    {
+      "role": "participant",
+      "text": "Hayır, öyle şeyleri hiç kullanmadım açıkçası, adını duyduğum oluyor ama telefonumda öyle bir uygulama falan yok. Benim işim daha çok elle, gözle kontrol, bilgisayarla pek haşır neşir değilim zaten."
+    },
+    {
+      "role": "interviewer",
+      "text": "Anladım, teşekkür ederim. Eğer imkânınız olsaydı, uyku düzeninizle veya uyuma alışkanlıklarınızla ilgili tek bir şeyi değiştirebilseydiniz, neyi değiştirmek isterdiniz?"
+    },
+    {
+      "role": "participant",
+      "text": "Aslında değişmesini istediğim tek şey şu ara uyanma değil, ona alıştım artık — mesaiden sonraki o yorgunluğu biraz azaltabilseydim keşke, işten eve gelince kendimi daha dinlenmiş hissetmek isterdim."
+    },
+    {
+      "role": "interviewer",
+      "text": "Paylaştığınız için teşekkürler. Son olarak birkaç kısa, isteğe bağlı soru soracağım. Yanıtlamak istemediklerinizi atlayabilirsiniz.\n\nYaşınız, mesleğiniz, doğduğunuz ülke, şu an yaşadığınız ülke ve (eğer farklıysa) ne zaman taşındığınız nedir?"
+    },
+    {
+      "role": "participant",
+      "text": "Yaşım 52, kalite kontrol elemanıyım tekstil fabrikasında, Polonya'da doğdum ve hâlâ burada, hiç taşınmadım."
+    },
+    {
+      "role": "interviewer",
+      "text": "Paylaştığınız bilgiler için teşekkür ederim.\n\nGörüşmeyi bitirmeden önce, uyku düzeniniz, teknoloji kullanımı ya da genel olarak bugün konuştuklarımızla ilgili eklemek istediğiniz, size önemli görünen başka bir şey var mı?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T19:52:05.120376+00:00"
+}
