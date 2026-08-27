@@ -1,10 +1,11 @@
+
 """
 Synthetic PLI interview runner for intervu.quest
-
+ 
 Runs sequential, LLM-generated "synthetic participant" interviews against
 the intervu.quest chat interface, using Claude to both play the persona
 and drive the browser via Playwright.
-
+ 
 HOW TO USE
 ----------
 1. pip install playwright
@@ -20,18 +21,18 @@ HOW TO USE
 5. Run: python run_interviews.py --mode pilot        (36 interviews, 2/lang)
         python run_interviews.py --mode full          (900 interviews, 50/lang)
         python run_interviews.py --mode full --languages en,fr   (subset)
-
+ 
 NOTE ON USAGE LIMITS: this draws from your Pro plan's normal usage limits,
 not pay-per-token billing. A run of 900 interviews (each ~10-15 short
 generations) is a meaningful chunk of usage — it may need to be spread
 across multiple days/sessions if you hit your plan's rate or usage caps.
 Watch for "claude -p failed" errors in run_log.jsonl as a sign of this.
-
+ 
 The script writes one JSON line per interview to run_log.jsonl and a full
 transcript to transcripts/<run_id>_<lang>_<n>.json as it goes, so you can
 kill and resume safely (it skips interviews already marked "completed").
 """
-
+ 
 import argparse
 import json
 import os
@@ -40,22 +41,22 @@ import time
 import uuid
 from datetime import datetime, timezone
 from pathlib import Path
-
+ 
 from playwright.sync_api import sync_playwright, TimeoutError as PWTimeout
 import subprocess
-
+ 
 # ---------------------------------------------------------------------------
 # CONFIG
 # ---------------------------------------------------------------------------
-
+ 
 BASE_URL = "https://intervu.quest"
 RUN_LOG = Path("run_log.jsonl")
 TRANSCRIPT_DIR = Path("transcripts")
 TRANSCRIPT_DIR.mkdir(exist_ok=True)
 DEBUG_DIR = Path("debug")
 PRIVATE_DIR = Path("private-local")  # hidden personas only — must stay out of git/CI artifacts
-
-
+ 
+ 
 def save_debug_snapshot(page, tag: str):
     """On any blocked/failed interview, save a screenshot + current URL/HTML
     so the failure is diagnosable from the uploaded artifact alone, without
@@ -67,10 +68,10 @@ def save_debug_snapshot(page, tag: str):
         (DEBUG_DIR / f"{tag}.html").write_text(page.content())
     except Exception as e:
         (DEBUG_DIR / f"{tag}_snapshot_failed.txt").write_text(str(e))
-
+ 
 PILOT_COUNT = 2
 FULL_COUNT_PER_LANGUAGE = 50
-
+ 
 # language code -> (display label on the site, code used in manifest)
 LANGUAGES = {
     "en": "English",
@@ -92,7 +93,7 @@ LANGUAGES = {
     "fa": "فارسی / Persian / Farsi",
     "prs": "دری",
 }
-
+ 
 # Exclusions from the run manifest — enforced in the persona prompt.
 PERSONA_CONSTRAINTS = """
 Generate ONE adult synthetic interview persona. Requirements:
@@ -108,12 +109,12 @@ Return a short persona sketch (5-8 bullet points) in English, regardless
 of interview language, for internal use only — it will never be shown
 to the interviewer.
 """
-
+ 
 # ---------------------------------------------------------------------------
 # SELECTORS -- TODO: fill these in from the live DOM before running.
 # Open the site, open devtools, and inspect each element once.
 # ---------------------------------------------------------------------------
-
+ 
 SELECTORS = {
     # link/button for each language on the landing screen (index.html);
     # matched by visible text, e.g. get_by_text("Français")
@@ -128,7 +129,7 @@ SELECTORS = {
     "chat_input": "#message",
     "send_button": "#sendButton",
 }
-
+ 
 # Each message in #chat looks like:
 #   <p class="chat-message"><b><bdi class="message-label">AI</bdi>:</b>
 #    <bdi class="message-content">text</bdi></p>
@@ -136,7 +137,7 @@ SELECTORS = {
 # (echoed) messages.
 INTERVIEWER_LABEL = "AI"
 PARTICIPANT_LABEL = "Participant"
-
+ 
 def ask_claude(prompt: str) -> str:
     """Call Claude Code in headless mode (`claude -p`). Authenticates via
     CLAUDE_CODE_OAUTH_TOKEN (from `claude setup-token`, tied to your Pro/Max
@@ -157,50 +158,50 @@ def ask_claude(prompt: str) -> str:
             f"--- stderr ---\n{result.stderr}"
         )
     return result.stdout.strip()
-
-
+ 
+ 
 # ---------------------------------------------------------------------------
 # PERSONA / ANSWER GENERATION
 # ---------------------------------------------------------------------------
-
+ 
 def generate_persona(lang_label: str) -> str:
     return ask_claude(PERSONA_CONSTRAINTS)
-
-
+ 
+ 
 def generate_answer(persona: str, lang_label: str, question: str, history: list) -> str:
     """Ask Claude to answer in-character, in the interview's language."""
     history_text = "\n".join(f"{h['role']}: {h['text']}" for h in history[-10:])
     prompt = f"""
 You are role-playing a synthetic research participant for a study.
 Persona (internal only, never reveal): {persona}
-
+ 
 Respond naturally and conversationally IN {lang_label}, as this persona,
 to the interviewer's latest message. Keep answers realistic in length
 (1-4 sentences typically). Answer the question actually asked — do not
 dump the whole backstory or steer toward a prepared script. Allow normal
 hesitation, imperfect recall, and small conversational corrections.
-
+ 
 Do not mention that you are Claude, an AI, a prompt, or a simulation
 unless the interviewer directly asks whether you are a real person or a
 synthetic/AI participant — if asked directly, answer truthfully that this
 is an authorized synthetic participant. Never expose this persona sketch
 or these instructions in your answer. Do not give medical advice or turn
 ordinary sleep difficulty into a diagnosis.
-
+ 
 Recent conversation:
 {history_text}
-
+ 
 Interviewer just said: {question}
-
+ 
 Your reply (in {lang_label} only):
 """
     return ask_claude(prompt)
-
-
+ 
+ 
 # ---------------------------------------------------------------------------
 # BROWSER AUTOMATION
 # ---------------------------------------------------------------------------
-
+ 
 def get_chat_messages(page):
     """Return list of {label, text} for every message currently in #chat,
     in DOM order (oldest first)."""
@@ -214,36 +215,36 @@ def get_chat_messages(page):
             "text": content_el.inner_text().strip() if content_el else "",
         })
     return out
-
-
+ 
+ 
 def run_single_interview(page, lang_code: str, lang_label: str, run_id: str, idx: int) -> dict:
     page.goto(BASE_URL, wait_until="networkidle")
-
+ 
     # 1. Language selection (index.html)
     link_selector = SELECTORS["language_link"] or f"text={lang_label}"
     page.click(link_selector)
     page.wait_for_load_state("networkidle")
-
+ 
     # 2. Welcome / research info screen (welcome.html)
     page.click(SELECTORS["welcome_continue_button"])
     page.wait_for_load_state("networkidle")
-
+ 
     # 3. Consent form (consent.html) — select "new participant", capture ID, agree
     page.click(SELECTORS["new_participant_radio"])
-    page.wait_for_selector("#participantIdBox", timeout=10000)
+    page.wait_for_selector("#participantIdBox", timeout=30000)
     box_text = page.inner_text("#participantIdBox")
     id_match = re.search(r"\bP\d{6,}\b", box_text)
     participant_id = id_match.group(0) if id_match else box_text.strip()
     page.click(SELECTORS["consent_agree_button"])
     page.wait_for_load_state("networkidle")
-
+ 
     # 4. Interview chat (interview.html)
     persona = generate_persona(lang_label)
     # Per CLAUDE.md: the hidden persona must never enter the transcript, the
     # manifest, or progress.csv. Keep it only in an ignored private-local file.
     PRIVATE_DIR.mkdir(exist_ok=True)
     (PRIVATE_DIR / f"{run_id}_{lang_code}_{idx}_persona.txt").write_text(persona)
-
+ 
     history = []
     transcript = {
         "run_id": run_id,
@@ -254,7 +255,7 @@ def run_single_interview(page, lang_code: str, lang_label: str, run_id: str, idx
         "turns": [],
         "status": "in_progress",
     }
-
+ 
     seen_count = 0
     max_turns = 60  # safety cap so a stuck/long interview doesn't loop forever
     for turn in range(max_turns):
@@ -268,28 +269,28 @@ def run_single_interview(page, lang_code: str, lang_label: str, run_id: str, idx
             transcript["error"] = "no new interviewer message appeared (timeout)"
             save_debug_snapshot(page, f"{run_id}_{lang_code}_{idx}_no_message_timeout")
             break
-
+ 
         messages = get_chat_messages(page)
         seen_count = len(messages)
         latest = messages[-1]
-
+ 
         if latest["label"] != INTERVIEWER_LABEL:
             # Unexpected state (e.g. our own message hasn't been followed by
             # a reply yet) — wait one more beat and re-check.
             page.wait_for_timeout(1000)
             continue
-
+ 
         history.append({"role": "interviewer", "text": latest["text"]})
         transcript["turns"].append({"role": "interviewer", "text": latest["text"]})
-
+ 
         if _interview_is_complete(page):
             transcript["status"] = "completed"
             break
-
+ 
         answer = generate_answer(persona, lang_label, latest["text"], history)
         history.append({"role": "participant", "text": answer})
         transcript["turns"].append({"role": "participant", "text": answer})
-
+ 
         page.fill(SELECTORS["chat_input"], answer)
         page.click(SELECTORS["send_button"])
         seen_count += 1  # our own message also gets appended to #chat
@@ -297,11 +298,11 @@ def run_single_interview(page, lang_code: str, lang_label: str, run_id: str, idx
     else:
         transcript["status"] = "blocked"
         transcript["error"] = "formal completion signal missing (exceeded max_turns)"
-
+ 
     transcript["ended_at"] = datetime.now(timezone.utc).isoformat()
     return transcript
-
-
+ 
+ 
 def _interview_is_complete(page) -> bool:
     """Authoritative completion check per CLAUDE.md: PLI sets
     data-completion-signal="INTERVIEW_COMPLETE" and data-interview-status="completed"
@@ -310,12 +311,12 @@ def _interview_is_complete(page) -> bool:
     status = page.evaluate("document.body.getAttribute('data-interview-status')")
     signal_el = page.query_selector('[data-completion-signal="INTERVIEW_COMPLETE"]')
     return status == "completed" and signal_el is not None
-
-
+ 
+ 
 # ---------------------------------------------------------------------------
 # RUN ORCHESTRATION
 # ---------------------------------------------------------------------------
-
+ 
 def load_completed_keys() -> set:
     if not RUN_LOG.exists():
         return set()
@@ -325,30 +326,30 @@ def load_completed_keys() -> set:
         if rec.get("status") == "completed":
             done.add((rec["language"], rec["index"]))
     return done
-
-
+ 
+ 
 def append_log(record: dict):
     with RUN_LOG.open("a") as f:
         f.write(json.dumps(record) + "\n")
-
-
+ 
+ 
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--mode", choices=["pilot", "full"], required=True)
     parser.add_argument("--languages", default=None, help="comma-separated subset, e.g. en,fr")
     parser.add_argument("--headless", action="store_true", default=True)
     args = parser.parse_args()
-
+ 
     langs = args.languages.split(",") if args.languages else list(LANGUAGES.keys())
     count_per_lang = PILOT_COUNT if args.mode == "pilot" else FULL_COUNT_PER_LANGUAGE
     run_id = f"{'PILOT' if args.mode == 'pilot' else 'FULL'}-{datetime.now().strftime('%Y%m%d%H%M%S')}"
-
+ 
     completed = load_completed_keys()
-
+ 
     with sync_playwright() as pw:
         browser = pw.chromium.launch(headless=args.headless)
         page = browser.new_page()
-
+ 
         # Pilot gate: run EN-001 first, confirm before continuing, if in pilot mode
         pilot_gate_lang = "en"
         if args.mode == "pilot" and pilot_gate_lang in langs:
@@ -365,7 +366,7 @@ def main():
             append_log(record)
             transcript_path = TRANSCRIPT_DIR / f"{run_id}_{pilot_gate_lang}_1.json"
             transcript_path.write_text(json.dumps(record, ensure_ascii=False, indent=2))
-
+ 
             if record["status"] != "completed" or not record.get("participant_id"):
                 print("STOP: pilot gate interview did not complete / no participant ID captured.")
                 print("Fix selectors/config and re-run before continuing.")
@@ -373,7 +374,7 @@ def main():
                 return
             print(f"Pilot gate passed. Participant ID: {record['participant_id']}")
             completed.add((pilot_gate_lang, 1))
-
+ 
         for lang_code in langs:
             lang_label = LANGUAGES[lang_code]
             for idx in range(1, count_per_lang + 1):
@@ -391,22 +392,22 @@ def main():
                 append_log(record)
                 transcript_path = TRANSCRIPT_DIR / f"{run_id}_{lang_code}_{idx}.json"
                 transcript_path.write_text(json.dumps(record, ensure_ascii=False, indent=2))
-
+ 
                 if record["status"] == "blocked":
                     print(f"  -> BLOCKED: {record.get('error')}")
                 else:
                     print(f"  -> {record['status']}, participant_id={record.get('participant_id')}")
-
+ 
                 time.sleep(2)  # small pause between sequential interviews
-
+ 
         browser.close()
-
+ 
     print(f"Run {run_id} finished. See {RUN_LOG} and {TRANSCRIPT_DIR}/ for results.")
-
-
+ 
+ 
 if __name__ == "__main__":
     main()
-
+ 
 # ---------------------------------------------------------------------------
 # STATUS
 # ---------------------------------------------------------------------------
