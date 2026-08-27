@@ -1,41 +1,43 @@
 # .github/workflows/run-interviews.yml
 #
 # Runs the synthetic PLI interview script entirely on GitHub's servers.
-# You trigger it manually (or on a schedule) and walk away — no local
-# machine needs to stay on, and nobody has to sit through interviews.
+# No local machine needs to stay on, and nobody has to sit through
+# interviews or manually re-trigger anything.
 #
 # This uses your existing Claude Pro/Max subscription via Claude Code's
 # headless mode — NOT the API console — so there is no separate developer
 # account, credit card, or identity verification required.
 #
+# IMPORTANT — GitHub-hosted runners have a HARD 6-hour limit per job that
+# cannot be raised (this is a GitHub platform limit, not something this
+# file controls). Trigger this workflow once per language-pair batch (see
+# the batch table you were given) rather than for all 18 languages at
+# once, so each run comfortably fits in that window.
+#
+# Progress (run_log.jsonl + transcripts/) is committed back to the repo
+# after each run. This means if any single batch happens to run long and
+# gets cut off, simply re-running that SAME batch (same --languages value)
+# will skip everything already completed and only finish the remainder —
+# no need to track exactly how far it got.
+#
 # SETUP (one-time):
-# 1. Put run_interviews.py in the repo root (or update `working-directory`
-#    below to match wherever you place it).
-# 2. On your own computer (anywhere with a browser), run:
+# 1. Put run_interviews.py in the repo root.
+# 2. On your own computer, run:
 #      npm install -g @anthropic-ai/claude-code
 #      claude setup-token
-#    This opens a normal login in your browser (same login as claude.ai —
-#    no ID upload for this flow) and prints a long-lived OAuth token
-#    starting with sk-ant-oat...  Copy it.
+#    Log in with your normal Claude account (no ID upload for this flow),
+#    then copy the printed token (starts with sk-ant-oat...).
 # 3. Add a repo secret: Settings -> Secrets and variables -> Actions ->
-#    New repository secret -> name it CLAUDE_CODE_OAUTH_TOKEN -> paste the
-#    token from step 2.
+#    New repository secret -> name it CLAUDE_CODE_OAUTH_TOKEN -> paste it.
 # 4. Commit this file to .github/workflows/run-interviews.yml
-# 5. Go to the "Actions" tab on GitHub -> "Run interviews" workflow ->
-#    "Run workflow" -> choose mode (pilot/full) -> Run.
-# 6. Watch progress live in the Actions tab, or just close the tab and
-#    check back later. When it finishes, run_log.jsonl and transcripts/
-#    are uploaded as a downloadable artifact on that run's summary page.
+# 5. Actions tab -> "Run interviews" -> "Run workflow" -> mode: full,
+#    languages: <one pair from your batch table, e.g. "en,zh"> -> Run.
+#    Repeat once per batch (9 total), whenever convenient — no need to
+#    trigger them all at once, and no fixed order required.
 #
-# NOTE: this draws from your Pro plan's normal usage limits, not
-# pay-per-token billing. The full 900-interview run is a meaningful chunk
-# of usage and may need to be split across multiple days if you hit your
-# plan's caps — rerun with the same mode and it skips already-completed
-# interviews (see load_completed_keys() in the script).
-#
-# private-local/ (hidden personas) is deliberately NOT uploaded as an
-# artifact and NOT committed — it stays out of anything you or anyone
-# else can see, per CLAUDE.md's non-negotiable privacy rule.
+# private-local/ (hidden personas) is deliberately NEVER committed and
+# NEVER uploaded as an artifact — it stays out of the repo and out of
+# anything downloadable, per CLAUDE.md's non-negotiable privacy rule.
 
 name: Run interviews
 
@@ -49,14 +51,20 @@ on:
         type: choice
         options: [pilot, full]
       languages:
-        description: "Optional comma-separated subset, e.g. en,fr (leave blank for all 18)"
+        description: "Comma-separated subset for this batch, e.g. en,zh (leave blank for all 18 at once — not recommended for 'full')"
         required: false
         default: ""
+
+permissions:
+  contents: write  # needed to commit progress (run_log.jsonl, transcripts/) back to the repo
 
 jobs:
   run-interviews:
     runs-on: ubuntu-latest
-    timeout-minutes: 2880  # up to 48h; the full 900-interview run is long and sequential
+    # Deliberately under GitHub's hard 360-minute cap, so OUR timeout fires
+    # first and the progress-saving steps below still get to run, rather
+    # than being abruptly killed with no chance to save partial progress.
+    timeout-minutes: 340
 
     steps:
       - name: Check out repo
@@ -89,22 +97,34 @@ jobs:
         env:
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
         run: |
-          ARGS="--mode ${{ inputs.mode }}"
-          if [ -n "${{ inputs.languages }}" ]; then
-            ARGS="$ARGS --languages ${{ inputs.languages }}"
+          MODE="${{ inputs.mode }}"
+          LANGS="${{ inputs.languages }}"
+          if [ -n "$LANGS" ]; then
+            python run_interviews.py --mode "$MODE" --languages "$LANGS"
+          else
+            python run_interviews.py --mode "$MODE"
           fi
-          python run_interviews.py $ARGS
 
-      - name: Upload results (transcripts + log)
-        if: always()  # upload whatever we have even if the run was stopped/blocked partway
+      - name: Persist progress back to the repo
+        if: always()  # save whatever progress exists even if this chunk was cut short
+        run: |
+          git config user.name "pli-runner-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add run_log.jsonl transcripts/ 2>/dev/null || true
+          if git diff --cached --quiet; then
+            echo "No new progress to commit."
+          else
+            git commit -m "Update interview progress [skip ci]"
+            git push
+          fi
+
+      - name: Upload results (transcripts + log + debug)
+        if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: interview-results-${{ inputs.mode }}-${{ github.run_id }}
+          name: interview-results-${{ github.run_id }}
           path: |
             run_log.jsonl
             transcripts/
             debug/
           retention-days: 90
-          # NOTE: private-local/ is intentionally excluded — hidden personas
-          # never leave the runner.
-
