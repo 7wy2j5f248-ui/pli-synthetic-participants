@@ -1,0 +1,143 @@
+{
+  "run_id": "FULL-20260827171237",
+  "language": "fr",
+  "index": 29,
+  "started_at": "2026-08-27T17:58:27.834693+00:00",
+  "participant_id": "P1787853496949",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Bienvenue dans cet entretien."
+    },
+    {
+      "role": "participant",
+      "text": "Bonjour. Oui, je suis là, on peut commencer."
+    },
+    {
+      "role": "interviewer",
+      "text": "À quelle heure êtes-vous allé(e) vous coucher hier soir ?"
+    },
+    {
+      "role": "participant",
+      "text": "Hier soir, j'ai dû me coucher vers minuit et demi, quelque chose comme ça — ça dépend des jours, là c'était un jour où le magasin a fermé tard."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Environ combien d'heures avez-vous dormi cette nuit-là, et diriez-vous que vous avez bien dormi ? Pourquoi ou pourquoi pas ?"
+    },
+    {
+      "role": "participant",
+      "text": "Environ six heures, je dirais, peut-être un peu moins. Je me suis réveillé vers 4h en pensant à une facture pas payée, et après ça j'ai somnolé par bouts jusqu'à 6h30, donc pas vraiment une nuit complète. Bof, sans plus — pas horrible non plus, juste une nuit où la tête tourne un peu trop."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour ces précisions. Quelle a été la dernière activité que vous avez faite juste avant d’aller vous coucher hier soir ? Et pourquoi aviez-vous choisi de faire cette activité-là à ce moment-là ?"
+    },
+    {
+      "role": "participant",
+      "text": "Dernière chose avant de dormir, j'écoutais la radio, une émission de libre antenne — j'ai ça en fond sonore quasiment tous les soirs, ça m'occupe l'esprit sans trop me réveiller, c'est plus facile que de rester avec mes pensées qui tournent."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Au cours des deux dernières semaines, quels sont les facteurs qui ont le plus influencé la qualité de votre sommeil ?"
+    },
+    {
+      "role": "participant",
+      "text": "Deux semaines assez rythmées par le magasin, en fait. Les jours où je ferme tard, je me couche plus tard et je dors moins, et sinon il y a toujours un peu de paperasse ou des factures qui me trottent dans la tête au moment de m'endormir. À part ça, rien de spécial, la radio le soir ça aide un peu à décrocher."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour ces détails. Est-ce que ce que vous décrivez est plutôt habituel pour vous, ou bien quelque chose a changé récemment dans votre sommeil ?"
+    },
+    {
+      "role": "participant",
+      "text": "Bof, pas vraiment nouveau, c'est plutôt classique chez moi — dès qu'il y a un jour de fermeture tardive au magasin, la nuit d'après c'est un peu ce schéma-là, tête qui tourne, réveil vers 4h. Rien de changé récemment, ça fait un moment que ça fonctionne comme ça."
+    },
+    {
+      "role": "interviewer",
+      "text": "Globalement, est-ce que vous êtes satisfait(e) de la façon dont vous dormez en ce moment, ou pas vraiment ? Pourquoi ?"
+    },
+    {
+      "role": "participant",
+      "text": "Bof, satisfait c'est un grand mot — ça me convient, quoi. Je dors ce qu'il me faut la plupart du temps, c'est juste que les nuits comme cette nuit-là, où la tête tourne, ça arrive régulièrement, mais je ne me prends pas trop la tête avec ça, c'est comme ça avec le magasin."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour votre réponse. On entend souvent dire que les adultes devraient dormir 7 à 9 heures par nuit. Est-ce que ça vous paraît réaliste dans votre situation actuelle, ou pas vraiment ?"
+    },
+    {
+      "role": "participant",
+      "text": "Bof, 7 à 9 heures, franchement non, ça n'arriverait jamais avec mes horaires — avec le magasin qui ferme pas à heure fixe, viser un truc comme ça c'est pas réaliste pour moi. Six heures et quelques, c'est plutôt ma réalité, et je m'en accommode."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Beaucoup de personnes regardent leur téléphone, leur tablette ou leur ordinateur juste avant de dormir. Est-ce que c’est votre cas aussi ? Pourquoi ou pourquoi pas ?"
+    },
+    {
+      "role": "participant",
+      "text": "Non, honnêtement pas trop — je garde le téléphone sur la table de nuit mais je regarde plus l'écran une fois couché, c'est plutôt la radio qui tourne. Je crois que si je me mets à consulter des messages ou des trucs comme ça juste avant de dormir, ça me relance dans la tête, donc j'évite plutôt naturellement."
+    },
+    {
+      "role": "interviewer",
+      "text": "D’accord, merci. Est-ce que vous utilisez régulièrement les réseaux sociaux, même si ce n’est pas forcément juste avant de dormir ?"
+    },
+    {
+      "role": "participant",
+      "text": "Non, pas vraiment, les réseaux sociaux c'est pas trop mon truc, je vais jeter un œil de temps en temps dans la journée mais c'est pas une habitude régulière. Le soir en tout cas, jamais, c'est vraiment la radio qui prend le relais."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour ces précisions. Et concernant les outils comme les chatbots d’IA (par exemple ChatGPT, Gemini, Claude ou autres), est-ce que vous en utilisez régulièrement, ou pas du tout ?"
+    },
+    {
+      "role": "participant",
+      "text": "Non, franchement, jamais utilisé ces trucs-là. Pour dormir en tout cas, ça me viendrait même pas à l'idée, c'est pas mon monde ça."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour votre réponse. Si vous pouviez améliorer une seule chose dans vos habitudes de sommeil, ce serait quoi ?"
+    },
+    {
+      "role": "participant",
+      "text": "Ah, bonne question. Sûrement les réveils au milieu de la nuit, genre cette histoire de facture qui m'a trotté dans la tête à 4 heures — si je pouvais couper ça, laisser les soucis du magasin de côté une fois couché, je pense que je dormirais plus d'une traite."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Compte tenu de votre travail au magasin et de vos autres responsabilités au quotidien, pensez-vous que ce changement — réussir à laisser les soucis de côté la nuit — serait faisable pour vous, ou plutôt difficile ? Pourquoi ?"
+    },
+    {
+      "role": "participant",
+      "text": "Bof, plutôt difficile si je suis honnête. Le magasin, c'est le genre de boulot où les soucis arrivent pas sur commande entre 9h et 17h, ça continue de tourner dans la tête même une fois rentré. Après je me connais un peu, avec l'âge j'arrive quand même mieux à relativiser qu'avant, mais couper complètement le robinet à minuit, non, je crois pas que ce soit réaliste pour moi."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour votre réponse. Pour finir, je vais vous poser quelques questions un peu plus générales, mais n’hésitez pas à ne répondre qu’à ce que vous êtes à l’aise de partager.\n\nQuel est votre âge ?"
+    },
+    {
+      "role": "participant",
+      "text": "52 ans."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Quelle est votre profession ?"
+    },
+    {
+      "role": "participant",
+      "text": "Réparateur d'appareils électroménagers, j'ai mon petit magasin en centre-ville, je fais ça depuis un bon moment maintenant."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Dans quel pays êtes-vous né, et dans quel pays vivez-vous actuellement ?"
+    },
+    {
+      "role": "participant",
+      "text": "Né en France, et j'y vis toujours — j'ai jamais bougé du pays, juste changé de ville il y a une quinzaine d'années."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour ces informations. Il n’y a plus d’autres questions prévues dans ce guide d’entretien.\n\nY a-t-il quelque chose que vous aimeriez ajouter à propos de votre sommeil ou de vos soirées avant de dormir, ou est-ce que cela vous semble complet pour vous ?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T18:00:23.308337+00:00"
+}

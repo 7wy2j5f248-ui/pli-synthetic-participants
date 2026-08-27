@@ -1,0 +1,159 @@
+{
+  "run_id": "FULL-20260827171237",
+  "language": "fr",
+  "index": 30,
+  "started_at": "2026-08-27T18:00:38.811712+00:00",
+  "participant_id": "P1787853627660",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Bienvenue dans cet entretien."
+    },
+    {
+      "role": "participant",
+      "text": "Ah, bonjour. Oui, je suis là."
+    },
+    {
+      "role": "interviewer",
+      "text": "À quelle heure vous êtes-vous couché hier soir ?"
+    },
+    {
+      "role": "participant",
+      "text": "Hier soir j'ai fermé la boutique un peu tard, donc je me suis couché vers minuit. Mais j'ai mis du temps à m'endormir, j'avais une discussion avec mon associé qui me trottait dans la tête."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour ces précisions. En gros, vous diriez que vous avez dormi combien d’heures cette nuit ? Et est‑ce que vous diriez que vous avez bien dormi, ou plutôt mal ? Pourquoi ?"
+    },
+    {
+      "role": "participant",
+      "text": "Cette nuit, franchement, ça doit faire six heures, six heures et demie peut-être. Je dirais que j'ai plutôt bien dormi, malgré les quarante minutes à ruminer — une fois que je suis parti, je n'ai pas bougé jusqu'au réveil. C'est pas huit heures pile comme on nous dit qu'il faut, mais moi je me fie à comment je me sens le matin, et ce matin ça allait."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Quelle a été la dernière activité que vous avez faite juste avant d’aller au lit hier soir ? Et pourquoi avez-vous choisi de faire ça à ce moment-là ?"
+    },
+    {
+      "role": "participant",
+      "text": "Après avoir fermé, je suis rentré, et j'ai bu un petit verre de lait chaud avec du miel — un truc que ma grand-mère faisait, ça m'aide à décrocher un peu de la tête. Ensuite j'ai lu quelques pages d'un vieux western, sous la lampe de chevet, jusqu'à ce que les yeux commencent à piquer."
+    },
+    {
+      "role": "interviewer",
+      "text": "Ce western a l’air important dans votre petit rituel du soir. Vous vous souvenez du titre du livre, ou de ce que vous étiez en train de lire exactement hier soir ?"
+    },
+    {
+      "role": "participant",
+      "text": "Un vieux roman de Louis L'Amour, je crois — j'en ai toute une pile, honnêtement je mélange un peu les titres. Celui-là parlait d'un convoi de chariots, mais j'étais fatigué, j'ai dû lire trois pages avant de m'endormir dessus."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci, c’est très clair. Passons à quelque chose d’un peu plus large : quels sont, selon vous, les facteurs qui ont le plus influencé la qualité de votre sommeil au cours des deux dernières semaines ?"
+    },
+    {
+      "role": "participant",
+      "text": "Franchement, l'été et l'hiver, c'est le jour et la nuit — quand la boutique tourne à fond, je me couche tard et je récupère moins, alors qu'en hiver je dors comme un bébé. Sinon, les soucis avec mon associé, ça pèse pas mal aussi — quand y'a une tension, mon cerveau adore la ressasser au lit."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci, c’est parlant. Ce que vous décrivez pour ces deux dernières semaines, c’est quelque chose de plutôt habituel pour vous, ou bien il y a quelque chose qui a changé récemment dans votre rythme ou vos soucis ?"
+    },
+    {
+      "role": "participant",
+      "text": "Ça a un peu changé, oui. D'habitude quand la boutique tourne à fond je dors mal mais je m'y attends, c'est prévisible. Là ce qui pèse en plus c'est cette histoire avec mon associé, ça traîne depuis quelques jours et normalement ça se règle plus vite entre nous. Donc c'est surtout ça qui s'ajoute au rythme d'été habituel, plutôt qu'un vrai bouleversement."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour cette précision. Globalement, en ce moment, est‑ce que vous diriez que vous êtes satisfait de votre sommeil, ou plutôt pas vraiment ? Pourquoi ?"
+    },
+    {
+      "role": "participant",
+      "text": "Bof, plutôt satisfait, oui, dans l'ensemble. Je dors pas des masses en ce moment avec tout ça, mais c'est du connu, ça revient chaque été. Ce qui me chiffonne un peu plus c'est cette histoire avec mon associé qui traîne en tête le soir, mais bon, question sommeil pur, je m'en sors pas trop mal."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour ces éléments. Vous avez sûrement déjà entendu dire que les adultes « devraient » dormir 7 à 9 heures par nuit. Est‑ce que ça vous semble praticable pour vous, en ce moment ?"
+    },
+    {
+      "role": "participant",
+      "text": "Ah, sept à neuf heures, ouais j'ai entendu ça mille fois. En hiver ça me pose aucun souci, je suis même large. Mais l'été, avec la boutique, viser ça tous les soirs c'est juste pas réaliste — je préfère me dire que le corps se rattrape après la saison plutôt que de culpabiliser chaque nuit où j'en fais que six."
+    },
+    {
+      "role": "interviewer",
+      "text": "Je comprends. Beaucoup de gens parlent aussi de leurs habitudes avec le téléphone ou l’ordinateur le soir. Vous, est‑ce que vous regardez souvent votre téléphone, une tablette ou un ordinateur juste avant de dormir ? Pourquoi ou pourquoi pas ?"
+    },
+    {
+      "role": "participant",
+      "text": "Ah non, plutôt pas — après la fermeture j'ai déjà eu l'écran de la caisse toute la journée, alors le soir je fuis plutôt mon téléphone. Je préfère un bouquin sous la lampe, c'est plus reposant pour les yeux et ça m'occupe l'esprit sans me donner envie de vérifier les mails de la boutique."
+    },
+    {
+      "role": "interviewer",
+      "text": "D’accord. Et de manière générale, est‑ce que vous utilisez régulièrement les réseaux sociaux, ou pas tellement ?"
+    },
+    {
+      "role": "participant",
+      "text": "Pas trop, non, plutôt spectateur — je regarde un peu ce que fait ma fille parfois, mais moi j'ai pas vraiment le réflexe de scroller le soir, entre la boutique et tout, j'ai autre chose à faire."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Et concernant les outils comme les chatbots d’IA (par exemple ChatGPT, Gemini, Claude ou d’autres), est‑ce que vous en utilisez régulièrement, ou pas vraiment ?"
+    },
+    {
+      "role": "participant",
+      "text": "Ah, les IA comme ça, non, pas vraiment. J'ai bien vu ma fille en parler ou ma vendeuse au comptoir qui utilise ça pour rédiger des trucs, mais moi j'ai pas trop l'usage — question boutique je gère avec mes fiches et mon carnet, et le soir c'est plutôt bouquin, j'ai pas le réflexe d'aller demander à un robot."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour la précision. Si vous pouviez améliorer une chose dans vos habitudes de sommeil en ce moment, ce serait quoi ?"
+    },
+    {
+      "role": "participant",
+      "text": "Ah, si je pouvais changer un truc... probablement arriver à décrocher plus vite le soir en été, à pas ruminer la boutique pendant quarante minutes avant de m'endormir. Le reste, franchement, ça me va comme c'est."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Vu votre travail et vos responsabilités avec la boutique, est‑ce que vous pensez que réussir à « décrocher plus vite » le soir serait faisable pour vous, ou plutôt difficile ? Pourquoi ?"
+    },
+    {
+      "role": "participant",
+      "text": "Ah, décrocher plus vite, c'est faisable je pense — mais dur, pas facile, hein. C'est surtout une histoire de discipline, genre me forcer à pas remonter dans les comptes une fois la porte fermée. Après quarante ans à gérer des trucs, on apprend un peu à lâcher, mais l'été c'est plus fort que moi parfois."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour ce que vous venez de partager. Pour finir, j’ai quelques questions factuelles, que vous pouvez bien sûr sauter si vous préférez ne pas répondre.\n\nQuel âge avez-vous ?"
+    },
+    {
+      "role": "participant",
+      "text": "J'ai 52 ans."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Quelle est votre profession ou votre activité principale en ce moment ?"
+    },
+    {
+      "role": "participant",
+      "text": "Alors, professionnellement, je gère une boutique de vélos avec un ami — réparation et location, on est en ville côtière. C'est saisonnier, plutôt calme l'hiver, mais l'été c'est l'effervescence totale avec les touristes."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Dans quel pays êtes-vous né ?"
+    },
+    {
+      "role": "participant",
+      "text": "Né en France, dans une ville de l'intérieur des terres — pas sur la côte, ça c'est venu plus tard avec la boutique."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Et actuellement, dans quel pays vivez-vous ?"
+    },
+    {
+      "role": "participant",
+      "text": "Je vis en France, toujours dans la même ville côtière où j'ai ma boutique."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci beaucoup, c’est noté. Si ce n’est pas indiscret : avez-vous déjà vécu dans un autre pays que la France, ou bien vous avez toujours résidé en France ?\n\n(Et si vous préférez ne pas répondre, vous pouvez simplement le dire.)"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T18:03:26.855334+00:00"
+}

@@ -1,0 +1,127 @@
+{
+  "run_id": "FULL-20260827171237",
+  "language": "fr",
+  "index": 4,
+  "started_at": "2026-08-27T17:14:50.526056+00:00",
+  "participant_id": "P1787850873754",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Bienvenue dans cet entretien."
+    },
+    {
+      "role": "participant",
+      "text": "Bonjour, oui, je suis là. On peut commencer."
+    },
+    {
+      "role": "interviewer",
+      "text": "À quelle heure es-tu allé(e) te coucher hier soir ?"
+    },
+    {
+      "role": "participant",
+      "text": "Bonne question... hier soir j'ai fini par m'endormir dans le canapé avec la télé allumée, vers minuit je dirais, peut-être un peu avant."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour ta réponse. En gros, tu dirais plutôt minuit, ou plutôt genre 23h30 ?\n\nEt au total, tu dirais que tu as dormi combien d’heures cette nuit ? Est-ce que tu dirais que tu as bien dormi ? Pourquoi ou pourquoi pas ?"
+    },
+    {
+      "role": "participant",
+      "text": "Ah, minuit, disons, peut-être 23h45 en vrai, j'suis pas à la minute près. Bon, cette nuit j'ai eu un appel à 2h du mat', dépannage serrure, donc au final j'ai pas fait beaucoup plus de 5-6h de sommeil, coupé en deux morceaux. Bien dormi... bof, c'est pas la nuit la plus reposante mais bon, c'est le métier, je fonctionne comme ça depuis des années."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci, c’est clair.\n\nQuelle a été la dernière activité que tu faisais juste avant de t’endormir sur le canapé ? Et pourquoi tu as choisi de faire ça à ce moment-là ?"
+    },
+    {
+      "role": "participant",
+      "text": "Ah, avant de m'endormir, j'écoutais les infos à la télé, en fond sonore. Je laisse toujours un truc allumé, ça m'aide à décrocher plus vite, sinon je tourne en rond dans ma tête à penser au boulot."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour ces précisions.\n\nSur les deux dernières semaines, qu’est-ce qui a le plus influencé la qualité de ton sommeil ?"
+    },
+    {
+      "role": "participant",
+      "text": "Ce qui joue le plus, c'est les appels de nuit, clairement — quand ça sonne à 2h du mat', c'est fini pour la nuit tranquille. Et sinon la sieste l'après-midi dans mon fauteuil à l'atelier, ça aide un peu à compenser, mais c'est jamais pareil qu'une vraie nuit."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci, ça donne bien le contexte.\n\nEst‑ce que ce rythme avec les appels de nuit et les siestes, c’est plutôt ton fonctionnement habituel depuis longtemps, ou il y a quelque chose qui a changé récemment ?"
+    },
+    {
+      "role": "participant",
+      "text": "Bon, honnêtement, ça fait des années que ça marche comme ça, c'est pas nouveau. Les appels de nuit, les siestes pour compenser, c'est le rythme depuis que je me suis mis à mon compte, quoi. Après, c'est vrai que je prends un peu plus de gardes qu'avant, mais globalement rien de neuf, je suis habitué."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour ces précisions.\n\nGlobalement, en ce moment, est‑ce que tu te dirais plutôt satisfait de ton sommeil, ou pas vraiment ? Pourquoi ?"
+    },
+    {
+      "role": "participant",
+      "text": "Bof, pas vraiment satisfait, mais bon, j'suis pas non plus du genre à m'en plaindre. C'est plutôt \"j'fais avec\" — le boulot dicte le rythme, pas moi. Après j'dis pas que c'est l'idéal, mais je tiens le coup, j'ai jamais eu de vrai souci avec ça."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour ta réponse.\n\nTu as probablement déjà entendu qu’on recommande aux adultes de dormir 7 à 9 heures par nuit. Est‑ce que ça te paraît réaliste pour toi en ce moment, avec ton rythme de travail ?"
+    },
+    {
+      "role": "participant",
+      "text": "Bof, honnêtement, 7-9h ça me paraît un peu théorique pour ma situation. Avec le téléphone qui peut sonner à 2h du mat', j'vois pas comment je fais ça — faut que je sois joignable, c'est ça ou j'perds des clients. Après je dis pas que c'est faux, mais c'est pas fait pour un mec qui bosse à son compte comme moi."
+    },
+    {
+      "role": "interviewer",
+      "text": "Je comprends.\n\nQu’est‑ce qui rend le plus difficile, concrètement, le fait d’atteindre ces 7–9 heures pour toi : les horaires imprévisibles, le stress du téléphone qui peut sonner, ou autre chose encore ?"
+    },
+    {
+      "role": "participant",
+      "text": "Ce qui joue le plus, c'est le stress du téléphone, franchement — même quand il sonne pas, j'suis genre \"en veille\", j'dors jamais à fond parce qu'il pourrait sonner. Les horaires imprévisibles c'est lié, mais c'est surtout ça, cette tension à rester joignable, qui m'empêche de vraiment lâcher prise."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci, c’est très clair.\n\nBeaucoup de gens regardent leur téléphone, leur tablette ou leur ordi juste avant de dormir. Toi, tu le fais aussi ou pas vraiment ? Pourquoi ?"
+    },
+    {
+      "role": "participant",
+      "text": "Ah, non, moi c'est plutôt la télé ou la radio que je laisse allumée en fond, pas trop le téléphone à part vérifier s'il y a un appel raté. J'suis pas du genre à scroller, j'ai pas le temps ni l'envie franchement, je m'endors avec le bruit de fond, c'est tout."
+    },
+    {
+      "role": "interviewer",
+      "text": "D’accord, merci.\n\nTu utilises quand même un peu les réseaux sociaux, de temps en temps, ou quasiment jamais ? Si oui, c’est plutôt comment et à quels moments de la journée ?"
+    },
+    {
+      "role": "participant",
+      "text": "Non, franchement, les réseaux sociaux c'est pas trop mon truc — j'ai un compte Facebook mais j'y vais deux fois par mois, surtout pour voir des photos que ma fille poste. J'ai pas le réflexe de scroller comme ça, j'préfère la radio ou zapper les chaînes."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour ta réponse.\n\nMaintenant, quelques questions rapides sur la technologie en général : est‑ce que tu utilises régulièrement des chatbots d’IA (par exemple ChatGPT, Gemini, Claude ou d’autres applications du même genre), ou quasiment pas du tout ?"
+    },
+    {
+      "role": "participant",
+      "text": "Non, franchement, j'ai jamais touché à ça. J'ai entendu parler de ChatGPT à la télé mais moi, pour mon boulot, j'ai pas besoin de ça — un client il m'appelle, je vais lui ouvrir sa porte, y'a pas d'ordinateur qui va faire ça à ma place."
+    },
+    {
+      "role": "interviewer",
+      "text": "D’accord, merci pour ta réponse.\n\nSi tu pouvais améliorer une chose dans tes habitudes de sommeil, ce serait quoi en priorité ?"
+    },
+    {
+      "role": "participant",
+      "text": "Ah, si je pouvais changer un truc... j'dirais dormir d'une traite sans me réveiller pour checker le téléphone. Mais bon, tant que je suis à mon compte, je vois pas comment faire autrement, c'est le prix à payer."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour ta réponse.\n\nMaintenant, quelques questions plus générales sur toi. Si tu es d’accord de partager :\n\n• ton âge ;\n• ta profession (ou ton activité principale) ;\n• ton pays de naissance ;\n• ton pays de résidence actuel ;\n• et, si ce n’est pas le même pays, depuis quand tu as déménagé ?"
+    },
+    {
+      "role": "participant",
+      "text": "Il a 58 ans, serrurier semi-retraité, né et vit dans la même région en France, donc pas de déménagement à signaler."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci beaucoup pour ces informations, et pour toutes tes réponses tout au long de l’entretien.\n\nAvant de terminer, est‑ce qu’il y a quelque chose que tu aimerais ajouter sur ton sommeil, ton rythme de travail, ou autre chose qui te semble important et dont on n’a pas parlé ?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T17:16:57.116777+00:00"
+}

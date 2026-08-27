@@ -1,0 +1,159 @@
+{
+  "run_id": "FULL-20260827171237",
+  "language": "fr",
+  "index": 27,
+  "started_at": "2026-08-27T17:53:40.377837+00:00",
+  "participant_id": "P1787853204077",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Bienvenue dans cet entretien."
+    },
+    {
+      "role": "participant",
+      "text": "Bonjour. Oui, je suis prêt, allez-y."
+    },
+    {
+      "role": "interviewer",
+      "text": "À quelle heure es-tu allé te coucher hier soir ?"
+    },
+    {
+      "role": "participant",
+      "text": "Hier soir, je me suis couché plus tard que prévu — un voisin est passé pour parler d'une réparation de bateau, alors ça a retardé les choses un peu."
+    },
+    {
+      "role": "interviewer",
+      "text": "D’accord, et au final, vers quelle heure environ t’es-tu couché ?"
+    },
+    {
+      "role": "participant",
+      "text": "Vers 23h30, à peu près — j'ai pas regardé l'heure exacte, mais c'était plus tard que ma routine habituelle."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. En gros, tu dirais que tu as dormi combien d’heures cette nuit ? Et est‑ce que tu as l’impression d’avoir bien dormi, ou pas vraiment ? Pourquoi ?"
+    },
+    {
+      "role": "participant",
+      "text": "Environ six heures et demie, sept heures — dur à dire exactement, j'ai pas compté. Ça allait, honnêtement, malgré les deux réveils avec le chien qui bougeait. Rien pour m'inquiéter, je me sens correct ce matin."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour ces précisions. Quelle a été la dernière activité que tu as faite juste avant d’aller te coucher hier soir ? Et pourquoi tu as choisi de faire ça à ce moment‑là ?"
+    },
+    {
+      "role": "participant",
+      "text": "Vers 23h, j'ai fini le café avec mon voisin — après ça j'ai juste vérifié que la porte du garage était bien fermée et j'ai laissé sortir le chien une dernière fois avant de me coucher. Rien de spécial, ma routine habituelle quoi."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci, c’est clair. \n\nSur les deux dernières semaines, qu’est‑ce qui a le plus influencé la qualité de ton sommeil, d’après toi ?"
+    },
+    {
+      "role": "participant",
+      "text": "Vers 23h30, à peu près — j'ai pas regardé l'heure exacte, mais c'était plus tard que ma routine habituelle."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour la précision. \n\nSur les deux dernières semaines, qu’est‑ce qui a le plus influencé la qualité de ton sommeil, d’après toi ?"
+    },
+    {
+      "role": "participant",
+      "text": "Vers 23h30, à peu près — j'ai pas regardé l'heure exacte, mais c'était plus tard que ma routine habituelle."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci, j’ai bien en tête l’heure du coucher. \n\nSur les deux dernières semaines, qu’est‑ce qui a le plus influencé la qualité de ton sommeil, d’après toi ?"
+    },
+    {
+      "role": "participant",
+      "text": "Vers 23h30, à peu près — j'ai pas regardé l'heure exacte, mais c'était plus tard que ma routine habituelle."
+    },
+    {
+      "role": "interviewer",
+      "text": "Je note bien l’heure, merci. \n\nSur les deux dernières semaines, en dehors de l’horaire de coucher, qu’est‑ce qui a le plus influencé la qualité de ton sommeil, d’après toi ? (par exemple le stress, la météo, le travail, la famille, autre chose…)"
+    },
+    {
+      "role": "participant",
+      "text": "Ce qui a le plus joué, c'est vraiment mon horaire de travail — la semaine où j'ai des départs à 5h, ça décale tout, mon corps ne s'habitue jamais complètement. Le chien qui bouge la nuit, ça compte aussi un peu, mais c'est mineur comparé au rythme du travail."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour ces détails. Est‑ce que ce genre de rythme et de qualité de sommeil, c’est plutôt habituel pour toi, ou bien quelque chose a changé récemment ?"
+    },
+    {
+      "role": "participant",
+      "text": "Vers 23h30, à peu près — j'ai pas regardé l'heure exacte, mais c'était plus tard que ma routine habituelle."
+    },
+    {
+      "role": "interviewer",
+      "text": "D’accord, je garde l’info pour l’heure du coucher. \n\nGlobalement, ce rythme de sommeil un peu décalé à cause du travail, c’est quelque chose que tu connais depuis longtemps, ou bien c’est plus récent ?"
+    },
+    {
+      "role": "participant",
+      "text": "Ah, ça fait des années que ça dure, c'est pas nouveau. Le boulot sur le traversier, c'est comme ça depuis que j'ai commencé — les horaires tournent selon les traversées, alors une semaine sur quatre à peu près, je pars à 5h. Je me suis jamais vraiment habitué, mais je gère."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci, c’est noté.\n\nGlobalement, en ce moment, est‑ce que tu te dirais plutôt satisfait de ton sommeil, ou pas tellement ? Pourquoi ?"
+    },
+    {
+      "role": "participant",
+      "text": "Ah, satisfait, je dirais... oui, plutôt, dans l'ensemble. Je dors assez pour faire mon travail correctement et en sécurité, c'est ça qui compte pour moi. C'est pas parfait avec les horaires qui changent, mais je m'en fais pas trop avec ça."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour ta réponse. \n\nOn entend souvent dire que les adultes devraient dormir 7 à 9 heures par nuit. Pour toi, en ce moment, ça te semble réaliste ou pas vraiment ?"
+    },
+    {
+      "role": "participant",
+      "text": "Vraiment 7 à 9 heures ? Non, pas très réaliste pour moi, avec les horaires qui changent. Je fonctionne bien avec 6h30, 7h la plupart du temps, alors ces chiffres-là, c'est plus une moyenne générale qu'une règle qui s'applique à ma vie."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour ta réponse. \n\nBeaucoup de gens regardent leur téléphone, leur tablette ou leur ordinateur juste avant de dormir. Est‑ce que toi aussi tu fais ça, ou pas vraiment ? Pourquoi ?"
+    },
+    {
+      "role": "participant",
+      "text": "Non, pas vraiment, ce truc-là c'est pas mon habitude. Je regarde peut-être un peu de météo ou des affaires de bateau sur ma tablette en soirée, mais pas juste avant de me coucher — j'éteins tout ça un bon bout avant de dormir."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour la précision. Est‑ce que tu utilises régulièrement les réseaux sociaux, ou presque pas du tout ?"
+    },
+    {
+      "role": "participant",
+      "text": "Pas vraiment, non — j'ai un compte Facebook mais je regarde ça une fois de temps en temps, c'est pas quelque chose que je fais tous les jours."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci, c’est noté.\n\nMaintenant, quelques questions rapides sur la technologie en général : est‑ce que tu utilises régulièrement des chatbots d’IA (comme ChatGPT, Gemini, Claude ou d’autres applications du même genre), ou presque pas du tout ?"
+    },
+    {
+      "role": "participant",
+      "text": "Non, pas vraiment — j'en ai jamais eu besoin dans mon travail, et honnêtement ça m'intéresse pas trop, ce genre de truc. Je préfère régler mes affaires moi-même."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour ta réponse, c’est noté.\n\nSi tu pouvais améliorer une seule chose dans tes habitudes de sommeil, ce serait quoi en priorité ?"
+    },
+    {
+      "role": "participant",
+      "text": "Ce serait de pas avoir à réajuster mon horloge interne à chaque fois que le rotation change. Le manque de sommeil, ça me dérange pas tant, c'est plutôt cette adaptation constante — mais bon, ça vient avec le métier, j'ai pas vraiment de solution magique pour ça."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour ta réponse, je comprends.\n\nMaintenant, quelques petites questions plus générales. Tu peux répondre seulement à ce que tu te sens à l’aise de partager :\n\n* Ton âge ;\n* Ton métier (tu as mentionné le traversier, mais comme tu veux le formuler) ;\n* Ton pays de naissance ;\n* Ton pays de résidence actuel ;\n* Et, si c’est différent, à peu près quand tu as déménagé."
+    },
+    {
+      "role": "participant",
+      "text": "Warrick, 52 ans, technicien en mécanique marine sur les traversiers — je m'occupe des moteurs. Né et je réside toujours au Canada, en Nouvelle-Écosse, alors pas de déménagement à signaler de ce côté-là."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci beaucoup pour toutes tes réponses, Warrick, et pour le temps que tu as pris pour l’entretien.\n\nAvant de conclure, est‑ce qu’il y a autre chose que tu aimerais ajouter à propos de ton sommeil ou de tes habitudes du soir, ou bien on s’arrête là pour toi ?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T17:56:04.336493+00:00"
+}

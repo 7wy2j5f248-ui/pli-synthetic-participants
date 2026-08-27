@@ -1,0 +1,44 @@
+{
+  "run_id": "FULL-20260827171237",
+  "language": "fr",
+  "index": 5,
+  "started_at": "2026-08-27T17:17:21.623537+00:00",
+  "participant_id": "P1787851021298",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Bienvenue dans cet entretien."
+    },
+    {
+      "role": "participant",
+      "text": "Bonjour. Oui, je suis prêt."
+    },
+    {
+      "role": "interviewer",
+      "text": "À quelle heure es-tu allé te coucher hier soir ?"
+    },
+    {
+      "role": "participant",
+      "text": "Vers 22h30, comme d'habitude."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Environ combien d’heures penses-tu avoir dormi cette nuit-là ? Et dirais-tu que tu as bien dormi ? Pourquoi ou pourquoi pas ?"
+    },
+    {
+      "role": "participant",
+      "text": "Environ six ou sept heures, je pense. J'ai bien dormi dans l'ensemble, oui — je me suis réveillé une fois vers 2h mais c'est normal chez moi, ça ne compte pas comme mal dormir."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour ces précisions. Quelle a été la dernière activité que tu as faite juste avant d’aller te coucher hier soir ?"
+    },
+    {
+      "role": "participant",
+      "text": "Vers 22h, j'écoutais un peu la radio dans le salon, et puis j'ai fait sortir le chien une dernière fois avant de monter me coucher."
+    }
+  ],
+  "status": "blocked",
+  "error": "no new interviewer message appeared (timeout)",
+  "ended_at": "2026-08-27T17:18:14.003308+00:00"
+}

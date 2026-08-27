@@ -1,0 +1,143 @@
+{
+  "run_id": "FULL-20260827171237",
+  "language": "fr",
+  "index": 25,
+  "started_at": "2026-08-27T17:48:23.877813+00:00",
+  "participant_id": "P1787852890156",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Bienvenue dans cet entretien."
+    },
+    {
+      "role": "participant",
+      "text": "Bonjour. Oui, je suis prêt, on peut commencer."
+    },
+    {
+      "role": "interviewer",
+      "text": "À quelle heure êtes-vous allé(e) vous coucher hier soir ?"
+    },
+    {
+      "role": "participant",
+      "text": "Hier soir, je me suis couché tôt, vers 21h30, parce que j'étais en transition entre mes deux rythmes d'équipe. Mais j'ai mis plus d'une heure à m'endormir, j'avais la check-list de passation de poste qui tournait dans la tête."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour ces précisions. Environ combien d’heures avez-vous dormi cette nuit-là au total ? Diriez-vous que vous avez bien dormi ? Pourquoi ou pourquoi pas ?"
+    },
+    {
+      "role": "participant",
+      "text": "Environ six heures, je dirais, peut-être un peu moins. Bien dormi... non, pas vraiment — le sommeil en lui-même était correct une fois parti, mais j'ai perdu plus d'une heure au début à ressasser la passation, donc au final ça fait une nuit courte pour un jour de transition. Rien de dramatique, ça arrive à chaque changement de rythme."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour cette description. Quelle a été la dernière activité que vous avez faite juste avant d’aller vous coucher hier soir ? Et pourquoi aviez-vous choisi de faire cette activité-là en particulier ?"
+    },
+    {
+      "role": "participant",
+      "text": "Dernière chose avant d'éteindre : j'ai écouté un podcast sur l'histoire locale, un truc sur le patrimoine industriel du coin je crois. Ça m'aide à décrocher la tête, plus efficace que de tourner en rond avec la checklist du boulot."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Selon vous, quels sont les facteurs qui ont le plus influencé la qualité de votre sommeil au cours des deux dernières semaines ?"
+    },
+    {
+      "role": "participant",
+      "text": "Environ six heures, un peu de caféine mal placée sur les semaines d'équipe tardive, et surtout le changement de rythme lui-même — chaque bascule entre le matin et l'après-midi me coûte une nuit ou deux le temps que le corps s'adapte. Sinon les week-ends où je peux rattraper un peu de sommeil en plus, ça compense pas mal."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Ce que vous décrivez sur les changements de rythme et la caféine, est-ce que c’est quelque chose de plutôt habituel pour vous, ou bien il y a eu un changement récent ?"
+    },
+    {
+      "role": "participant",
+      "text": "Ça arrive à chaque fois qu'on change de rythme, ça fait quatorze ans que je fais ça, donc rien de nouveau. La caféine, je gère à peu près pareil depuis le début — c'est plutôt le corps qui encaisse un peu moins bien qu'avant, disons."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour ces précisions. Globalement, est-ce que vous diriez que vous êtes satisfait(e) de votre sommeil en ce moment, ou plutôt non ? Pourquoi ?"
+    },
+    {
+      "role": "participant",
+      "text": "Je dirais plutôt non, sans être dramatique non plus. Le sommeil en lui-même, quand il vient, il est correct — c'est plus la répartition qui pèche, surtout les semaines d'après-midi où je traîne trop tard, et les nuits de transition comme hier. Mais bon, je fais avec, ça compense avec les week-ends et les quatre jours de repos."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour cette réponse. On entend souvent dire que les adultes devraient dormir 7 à 9 heures par nuit. Est-ce que cela vous semble pratique ou réaliste pour vous en ce moment ?"
+    },
+    {
+      "role": "participant",
+      "text": "Sept heures ? Pfff, si seulement. Réaliste pour moi, non, franchement — avec un rythme qui bascule toutes les semaines, viser un chiffre fixe comme ça n'a pas beaucoup de sens. Je me contente de faire au mieux selon la semaine, quitte à compenser après."
+    },
+    {
+      "role": "interviewer",
+      "text": "Qu’est-ce qui rend le plus difficile, pour vous, le fait d’atteindre ces 7 à 9 heures de sommeil ?"
+    },
+    {
+      "role": "participant",
+      "text": "Aucune n'est vraiment la difficulté principale, c'est plutôt l'accumulation : la bascule de rythme chaque semaine, et sur les semaines d'après-midi, l'habitude de traîner tard alors que je pourrais dormir plus tôt. Le corps ne sait jamais trop sur quel pied danser, du coup viser un nombre d'heures fixe, c'est compliqué."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Beaucoup de personnes regardent leur téléphone, leur tablette ou leur ordinateur juste avant de dormir. Est-ce que c’est votre cas aussi ? Pourquoi ou pourquoi pas ?"
+    },
+    {
+      "role": "participant",
+      "text": "Non, pas vraiment de téléphone au lit chez moi — quand je descends, c'est plutôt un podcast d'histoire locale, casque posé sur la table de nuit, écran éteint. J'ai vu ce que ça donnait avec l'équipe d'après-midi si je traîne sur l'écran, ça retarde encore plus l'endormissement, donc j'évite."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour ces précisions. Est-ce que vous utilisez régulièrement les réseaux sociaux ? Si oui, comment les utilisez-vous en général, surtout dans les heures qui précèdent le coucher ?"
+    },
+    {
+      "role": "participant",
+      "text": "Non, pas trop les réseaux sociaux le soir en fait — je regarde un peu Facebook dans la journée, pour prendre des nouvelles, mais au moment du coucher j'ai déjà tout laissé de côté avec le téléphone. Ce n'est pas vraiment mon truc pour m'endormir."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Maintenant, une question plus générale sur la technologie : est-ce que vous utilisez régulièrement des chatbots d’IA (par exemple ChatGPT, Gemini, Claude ou d’autres applications similaires) ?"
+    },
+    {
+      "role": "participant",
+      "text": "Non, je n'utilise pas trop ce genre de trucs — j'ai testé une fois ou deux sur le téléphone d'un de mes fils, mais perso ça reste étranger à mon quotidien. Pour tout ce qui est logistique, planning, je fais avec mes outils habituels au boulot."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour ces précisions. Du coup, est-ce que vous avez l’impression que vos habitudes de sommeil ont changé au fil des années, même si ce n’est pas lié aux réseaux sociaux ou aux chatbots ? Si oui, en quoi ?"
+    },
+    {
+      "role": "participant",
+      "text": "Ah oui, franchement, ça a changé. Il y a dix ou quinze ans, même en horaires décalés, je récupérais en deux nuits, pas de problème. Maintenant, le corps encaisse moins bien les changements de rythme — quand je bascule de matin à après-midi, ça met plus de temps à se remettre, et la nuit blanche ou presque, comme hier, ça arrivait moins souvent avant. Disons que l'horloge interne d'un gars de 58 ans, elle est moins souple qu'à 40."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour cette description. Si vous pouviez améliorer une chose dans vos habitudes de sommeil actuelles, ce serait quoi en priorité ?"
+    },
+    {
+      "role": "participant",
+      "text": "Priorité, ce serait sans doute de retrouver un vrai rythme fixe, mais bon, avec les rotations ça reste impossible — donc de manière plus réaliste, je dirais éviter de trop ressasser le boulot en me couchant, genre hier soir. Si j'arrivais à couper ce truc-là, l'endormissement serait plus rapide, même en semaine de transition."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Compte tenu de votre travail, de vos horaires et de vos responsabilités au quotidien, est-ce que vous pensez que ce changement (réussir à moins ressasser le boulot au moment du coucher) serait faisable ? Pourquoi ou pourquoi pas ?"
+    },
+    {
+      "role": "participant",
+      "text": "Franchement, faisable, oui, mais pas magique. Je pense que oui, avec un peu de discipline — genre se fixer une règle simple, \"le boulot reste au vestiaire\", et peut-être écrire deux mots sur un carnet avant de partir plutôt que de tout garder en tête. Après, les nuits de transition comme hier, je serai réaliste, ça reviendra de temps en temps, mais si j'arrive à le faire six fois sur dix c'est déjà mieux qu'aujourd'hui."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour ces précisions. Pour finir, si vous êtes à l’aise de le partager :\n\n• Votre âge ;\n• Votre profession ;\n• Votre pays de naissance ;\n• Votre pays de résidence actuel ;\n• Et, si c’est différent, à quel moment vous avez déménagé ?"
+    },
+    {
+      "role": "participant",
+      "text": "Cinquante-huit ans, coordinateur logistique dans un entrepôt. Je suis né en France et j'y vis toujours, donc pas de déménagement à signaler."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci beaucoup d’avoir partagé tout cela.\n\nAvant de conclure, y a-t-il quelque chose que vous aimeriez ajouter sur votre sommeil, vos horaires ou quoi que ce soit en lien avec ce qu’on vient d’aborder ?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T17:50:29.237278+00:00"
+}

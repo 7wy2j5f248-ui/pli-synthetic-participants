@@ -1,0 +1,8 @@
+{
+  "run_id": "FULL-20260827171237",
+  "language": "pt",
+  "index": 37,
+  "status": "blocked",
+  "error": "claude -p failed (exit 1)\n--- stdout ---\nYou've hit your session limit · resets 6:40pm (UTC)\n\n--- stderr ---\n",
+  "ended_at": "2026-08-27T18:18:53.449510+00:00"
+}

@@ -1,0 +1,84 @@
+{
+  "run_id": "FULL-20260827171237",
+  "language": "fr",
+  "index": 31,
+  "started_at": "2026-08-27T18:03:47.302987+00:00",
+  "participant_id": "P1787853811069",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Bienvenue dans cet entretien."
+    },
+    {
+      "role": "participant",
+      "text": "Bonjour. Oui, on peut commencer."
+    },
+    {
+      "role": "interviewer",
+      "text": "À quelle heure êtes-vous allé vous coucher hier soir ?"
+    },
+    {
+      "role": "participant",
+      "text": "Vers minuit et demi, un peu plus tard que d'habitude parce que j'avais fini un service tard."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Environ combien d’heures avez-vous dormi cette nuit ? Diriez-vous que vous avez bien dormi ? Pourquoi ou pourquoi pas ?"
+    },
+    {
+      "role": "participant",
+      "text": "Vers six heures, à peu près. Ça va, c'est correct — pas génial mais correct. J'ai été réveillé deux fois, un camion de livraison et un truc de boulot qui m'a traversé l'esprit, un rapport que j'avais oublié de remplir, mais je me suis rendormi vite les deux fois donc ça ne compte pas vraiment."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour ces précisions. Quelle a été la dernière activité que vous avez faite juste avant d’aller vous coucher ? Et pourquoi avez-vous choisi de faire cette activité-là ?"
+    },
+    {
+      "role": "participant",
+      "text": "Vers 23h30, j'ai lu un peu — un manuel de réparation, moteur diesel je crois. Une vingtaine de minutes. C'est machinal chez moi, ça occupe la tête avant d'éteindre."
+    },
+    {
+      "role": "interviewer",
+      "text": "D’accord, merci. Quels sont les facteurs qui ont le plus influencé la qualité de votre sommeil au cours des deux dernières semaines ?"
+    },
+    {
+      "role": "participant",
+      "text": "Vers 23h30, j'ai lu un peu — un manuel de réparation, moteur diesel je crois. Une vingtaine de minutes. C'est machinal chez moi, ça occupe la tête avant d'éteindre.\n\nPour les deux dernières semaines... surtout les horaires, franchement. Mon planning bouge tout le temps avec les bateaux — une semaine je commence à 5h, l'autre en milieu d'après-midi, donc mon coucher saute d'avance en arrière sans arrêt. À part ça, une bonne marche avec le chien après un service tardif m'aide à décrocher, mieux que de me coucher direct."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci, c’est très clair. Est‑ce que ce genre de planning changeant et ces nuits « correctes mais pas géniales » sont assez typiques pour vous, ou bien quelque chose a changé récemment dans vos horaires ou votre sommeil ?"
+    },
+    {
+      "role": "participant",
+      "text": "Franchement, oui, c'est assez typique chez moi. Depuis huit ans que je fais ce boulot, les horaires n'ont jamais été fixes, donc mon corps est habitué à ce genre de flottement. Rien de particulier n'a changé récemment."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour cette précision. Vous avez sans doute déjà entendu le conseil comme quoi les adultes devraient dormir 7 à 9 heures par nuit. Est‑ce que ça vous semble praticable pour vous en ce moment ?"
+    },
+    {
+      "role": "participant",
+      "text": "Sept heures, franchement, ça me semble long pour moi en ce moment — avec les horaires de bateaux qui bougent tout le temps, viser une plage fixe comme ça c'est pas réaliste. Six, six heures et demie, ça a toujours suffi, tant que la journée est physiquement active."
+    },
+    {
+      "role": "interviewer",
+      "text": "Qu’est‑ce qui rend le plus difficile, pour vous, le fait d’atteindre ces 7 à 9 heures, ou même simplement de garder un horaire de sommeil plus régulier ?"
+    },
+    {
+      "role": "participant",
+      "text": "Ce qui rend ça difficile, c'est surtout que je ne contrôle pas les horaires de départ des bateaux — quand on commence à 5h, il faut se coucher tôt, mais le corps n'est pas toujours d'accord. C'est plus un problème de synchronisation que de sommeil lui-même."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Beaucoup de personnes regardent leur téléphone, leur tablette ou leur ordinateur juste avant de dormir. Est‑ce que c’est aussi votre cas ? Pourquoi ou pourquoi pas ?"
+    },
+    {
+      "role": "participant",
+      "text": "Franchement, non, pas trop — je regarde l'heure sur le téléphone et c'est tout, je le laisse sur la table de nuit après. La lecture papier ça me suffit pour décrocher, l'écran ça garde l'esprit allumé je trouve."
+    }
+  ],
+  "status": "blocked",
+  "error": "no new interviewer message appeared (timeout)",
+  "ended_at": "2026-08-27T18:05:49.636450+00:00"
+}

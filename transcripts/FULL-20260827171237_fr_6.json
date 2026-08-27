@@ -1,0 +1,127 @@
+{
+  "run_id": "FULL-20260827171237",
+  "language": "fr",
+  "index": 6,
+  "started_at": "2026-08-27T17:18:34.990292+00:00",
+  "participant_id": "P1787851098812",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Bienvenue dans cet entretien."
+    },
+    {
+      "role": "participant",
+      "text": "Ah, bonjour. Oui, allez-y, je vous écoute."
+    },
+    {
+      "role": "interviewer",
+      "text": "À quelle heure vous êtes-vous couché hier soir ?"
+    },
+    {
+      "role": "participant",
+      "text": "Hier soir... eh bien, techniquement c'était plutôt ce matin. Je suis rentré vers 7h après mon quart de nuit, j'ai mangé un morceau, et je me suis couché autour de 8h30."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour cette précision. Environ combien d’heures avez-vous dormi, et diriez-vous que vous avez bien dormi ? Pourquoi ou pourquoi pas ?"
+    },
+    {
+      "role": "participant",
+      "text": "J'ai dormi environ quatre heures et demie, ce qui est à peu près la norme pour moi en semaine de nuit. Bien dormi, c'est pas vraiment le mot — c'était correct, mais je me suis réveillé un peu dans le brouillard vers 13h, comme d'habitude quand le corps pense que c'est l'après-midi et pas l'heure de dormir."
+    },
+    {
+      "role": "interviewer",
+      "text": "Quelle a été la dernière activité que vous avez faite juste avant de vous coucher vers 8h30, et pourquoi avez-vous choisi de faire ça ?"
+    },
+    {
+      "role": "participant",
+      "text": "Écoutez de la radio de sport, ou je vais me coucher directement après avoir mangé ?\n\nBof, la routine habituelle : j'ai écouté un peu de radio sportive, quelques minutes, le temps de décompresser. C'est ce que je fais peu importe l'heure qu'il est, jour ou nuit, ça aide le cerveau à comprendre que c'est fini pour l'instant."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour ces précisions. Selon vous, quels sont les facteurs qui ont le plus influencé la qualité de votre sommeil au cours des deux dernières semaines ?"
+    },
+    {
+      "role": "participant",
+      "text": "Deux semaines de nuits qui alternent avec des semaines de jour, ça reste le gros facteur — le corps ne sait jamais trop où il en est. Sinon, la chaleur dans la maison en après-midi joue pas mal, et les fois où je dors moins bien c'est souvent parce que j'ai pas fait la sieste du milieu de journée comme il faut."
+    },
+    {
+      "role": "interviewer",
+      "text": "Est-ce que ce rythme-là (alternance jour/nuit, siestes, etc.) est assez habituel pour vous, ou bien il y a eu un changement récent ?"
+    },
+    {
+      "role": "participant",
+      "text": "Habituel, oui — après dix-neuf ans là-dedans, mon corps connaît la routine par cœur. Ce qui a changé, c'est juste que je vis seul depuis que le plus jeune est parti au collège il y a deux ans, ça fait que j'ai plus personne pour me dire \"t'as pas l'air en forme\" quand la rotation me tombe dessus."
+    },
+    {
+      "role": "interviewer",
+      "text": "Globalement, est-ce que vous êtes satisfait de votre sommeil en ce moment, ou plutôt insatisfait ? Pourquoi ?"
+    },
+    {
+      "role": "participant",
+      "text": "Satisfait, plutôt, oui. C'est pas un sommeil de rêve les semaines de nuit, mais ça fait dix-neuf ans que ça marche comme ça, je récupère toujours mes heures d'une manière ou d'une autre, alors je vois pas de raison de m'en faire."
+    },
+    {
+      "role": "interviewer",
+      "text": "On entend que vous avez trouvé un certain équilibre dans ce rythme. Vous avez probablement déjà entendu qu’on conseille aux adultes de dormir 7 à 9 heures par nuit. Est‑ce que ça vous paraît réaliste pour vous en ce moment ?"
+    },
+    {
+      "role": "participant",
+      "text": "Ouais, sept à neuf heures, dans un monde parfait, sûr. Mais avec mon horaire, c'est pas vraiment applicable de la même façon — les semaines de jour j'y arrive facilement, sept heures et demie solide, mais les semaines de nuit c'est fragmenté, alors je compte plus en heures totales sur la journée qu'en un seul bloc de sept-neuf."
+    },
+    {
+      "role": "interviewer",
+      "text": "Qu’est‑ce qui rend ça plus facile les semaines de jour, et plus difficile les semaines de nuit, pour atteindre ces 7 à 9 heures au total ?"
+    },
+    {
+      "role": "participant",
+      "text": "Les semaines de jour, mon horaire de sommeil colle à peu près à un cycle normal, alors je dors une seule fois, la nuit, sans interruption. Les semaines de nuit, je dors le jour, contre l'horloge naturelle, dans une maison plus chaude, avec le téléphone ou le facteur qui peuvent me réveiller — ça fait que je fractionne en deux ou trois blocs au lieu d'un seul, pis c'est jamais aussi réparateur."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour ces explications. Beaucoup de personnes regardent leur téléphone, leur tablette ou leur ordinateur juste avant de dormir.\n\nEst‑ce que vous faites ça vous aussi ? Pourquoi ou pourquoi pas ?"
+    },
+    {
+      "role": "participant",
+      "text": "Non, je le fais pas — surtout les semaines de nuit. Le fan et le masque, ça suffit déjà comme rituel, pis j'ai remarqué qu'après un shift de douze heures à regarder des écrans de contrôle, la dernière chose que je veux c'est encore un écran. J'écoute plutôt la radio de sport en revenant, ça, c'est mon vrai \"wind-down\"."
+    },
+    {
+      "role": "interviewer",
+      "text": "D’accord, merci. Est‑ce que vous utilisez régulièrement les réseaux sociaux ? Si oui, comment vous les utilisez en général, surtout dans les heures avant de dormir ?"
+    },
+    {
+      "role": "participant",
+      "text": "Non, pas vraiment — j'ai un compte Facebook pour suivre mes anciens collègues pis ma famille, mais je regarde ça plutôt dans la journée, en pause au travail. Avant de dormir, j'ai pas vraiment le réflexe, c'est plus la radio de sport qui prend cette place-là."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Maintenant, quelques questions sur la technologie en général : est‑ce que vous utilisez régulièrement des chatbots d’IA (comme ChatGPT, Gemini, Claude ou autres) ?"
+    },
+    {
+      "role": "participant",
+      "text": "Non, j'utilise pas ça régulièrement. J'ai déjà essayé une fois ou deux au boulot pour chercher de l'information technique, mais dans le quotidien, non, c'est pas un réflexe chez moi."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour votre réponse. Comme vous n’utilisez pas vraiment les réseaux sociaux ni les chatbots d’IA régulièrement, on va passer à autre chose.\n\nSi vous pouviez améliorer une seule chose dans vos habitudes de sommeil, ce serait quoi ?"
+    },
+    {
+      "role": "participant",
+      "text": "Ce serait de couper le fractionnement pendant les semaines de nuit — dormir mon quota en un seul bloc au lieu de deux ou trois retours. Mais bon, tant que je fais ce métier-là avec cet horaire-là, je pense pas que ça soit vraiment réglable, alors j'ai fait la paix avec ça."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour ce partage. Maintenant, quelques petites questions générales, auxquelles vous ne répondez que dans la mesure où vous êtes à l’aise :\n\n• Votre âge ;\n• Votre profession ;\n• Votre pays de naissance ;\n• Votre pays de résidence actuel ;\n• Et, si c’est différent, à quel moment vous avez déménagé ?"
+    },
+    {
+      "role": "participant",
+      "text": "Vingt-deux, dix-huit ans, née à Thunder Bay, réside toujours à Thunder Bay. Pas de déménagement, j'ai jamais quitté la région."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci beaucoup. Avant de conclure, y a‑t‑il autre chose que vous aimeriez ajouter à propos de votre sommeil ou de votre rythme de travail, quelque chose qu’on n’a pas abordé mais qui vous semble important ?\n\nSi non, vous pouvez simplement me le dire et on s’arrêtera là."
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T17:20:56.604659+00:00"
+}

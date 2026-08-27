@@ -1,0 +1,127 @@
+{
+  "run_id": "FULL-20260827171237",
+  "language": "fr",
+  "index": 28,
+  "started_at": "2026-08-27T17:56:20.692603+00:00",
+  "participant_id": "P1787853368636",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Bienvenue dans cet entretien."
+    },
+    {
+      "role": "participant",
+      "text": "Bonjour. Ça va, on peut commencer."
+    },
+    {
+      "role": "interviewer",
+      "text": "À quelle heure es-tu allé(e) te coucher hier soir ?"
+    },
+    {
+      "role": "participant",
+      "text": "Ah, hier soir... je devais dormir chez moi cette fois, alors couché vers 22h30, à peu près. J'essaie de viser ça les soirs à la maison, mais bon, le corps suit pas toujours le plan."
+    },
+    {
+      "role": "interviewer",
+      "text": "En gros, tu dirais que tu as dormi combien d’heures cette nuit-là ? Et est‑ce que tu dirais que tu as bien dormi, ou pas trop ? Pourquoi ?"
+    },
+    {
+      "role": "participant",
+      "text": "Hier soir, j'ai dû dormir dans les... six heures, six heures et demie, quelque chose comme ça, avec deux réveils dans le lot. Alors bien dormi, pas vraiment, mais c'est classique les deux premiers soirs après une tournée, mon corps pense encore qu'il doit se lever à 3h du mat' pour partir sur la route."
+    },
+    {
+      "role": "interviewer",
+      "text": "Quelle a été la dernière activité que tu as faite juste avant de te coucher hier soir ? Et pourquoi tu as choisi de faire ça à ce moment‑là ?"
+    },
+    {
+      "role": "participant",
+      "text": "Dernière chose... j'ai fermé les rideaux occultants et allumé le petit ventilateur, celui qui fait du bruit blanc. C'est presque un réflexe maintenant, ça calme le cerveau, ça lui dit \"bon, cette fois on reste au lit\"."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour ces précisions. Sur les deux dernières semaines, qu’est‑ce qui a le plus influencé la qualité de ton sommeil ?"
+    },
+    {
+      "role": "participant",
+      "text": "Deux dernières semaines... franchement, ce qui joue le plus, c'est le rythme des tournées. Quatre jours sur la route où je carbure aux petits sommes de deux-trois heures dans la cabine, puis je rentre et je mets deux jours à réapprendre à dormir d'une traite. C'est ce va-et-vient qui fait le plus de dégâts, plus que n'importe quelle nuit en particulier."
+    },
+    {
+      "role": "interviewer",
+      "text": "Est‑ce que ce genre de rythme est assez habituel pour toi, ou bien il y a quelque chose qui a changé récemment dans ton travail ou ta vie ?"
+    },
+    {
+      "role": "participant",
+      "text": "Ah oui, c'est le rythme habituel du métier, ça — quatre jours, trois jours, ça fait des années que je roule comme ça. Rien de nouveau récemment, c'est juste le boulot, faut faire avec."
+    },
+    {
+      "role": "interviewer",
+      "text": "Et d’une manière générale, en ce moment, est‑ce que tu es plutôt satisfait(e) de la façon dont tu dors, ou pas trop ? Pourquoi ?"
+    },
+    {
+      "role": "participant",
+      "text": "Franchement, ni l'un ni l'autre, je dirais — c'est pas terrible mais je vais pas me plaindre non plus, c'est le prix à payer pour ce métier. Le vrai souci c'est pas une nuit en particulier, c'est que je ne dors jamais assez longtemps sur un rythme régulier pour vraiment récupérer, alors je fais avec, quoi."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour ce que tu partages. Tu as l’impression que c’est “comme ça” à cause du boulot, même si ce n’est pas vraiment satisfaisant.\n\nOn entend souvent dire qu’un adulte devrait dormir 7 à 9 heures par nuit. Est‑ce que ça te semble réaliste pour toi en ce moment, avec ton rythme de tournées ?"
+    },
+    {
+      "role": "participant",
+      "text": "Ça me semble pas très réaliste, non, pas avec le métier que je fais. Sept-neuf heures d'affilée, moi j'appelle ça un rêve de bureau, pas de la route — sur mes quatre jours de tournée c'est impossible, et même de retour à la maison j'y arrive pas toujours les deux premiers soirs. Après j'me dis, l'important c'est pas le chiffre magique, c'est de recaser le corps sur un rythme, même si c'est un peu moins que ce qu'on raconte dans les magazines."
+    },
+    {
+      "role": "interviewer",
+      "text": "Je comprends. Pour rester sur tes soirées justement : est‑ce que tu as tendance à regarder ton téléphone, une tablette ou l’ordi juste avant de dormir ? Pourquoi ou pourquoi pas ?"
+    },
+    {
+      "role": "participant",
+      "text": "Non, jamais — surtout pas ces derniers temps. Après une tournée, la dernière chose dont j'ai besoin c'est l'écran qui te réveille l'œil. Quand je rentre je pose le téléphone dans la cuisine, pas dans la chambre, et sur la route c'est plutôt la radio, des voix qui parlent tranquillement, ça marche mieux pour moi qu'un écran allumé."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour ces détails. Est‑ce que tu utilises quand même les réseaux sociaux de façon assez régulière, même si ce n’est pas juste avant de dormir ? Si oui, comment tu t’en sers en général dans la journée ?"
+    },
+    {
+      "role": "participant",
+      "text": "Non, réseaux sociaux, c'est très limité pour moi, franchement. Je regarde vite fait quand je suis à un arrêt, un café, entre deux étapes — genre cinq minutes, je vois les messages de mes enfants, c'est tout. Pas du tout un truc que je fais soir ou matin de façon régulière, la route ça laisse pas trop le temps pour ça de toute façon."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour la précision. Et côté technologie en général : est‑ce que tu utilises régulièrement des chatbots d’IA (comme ChatGPT, Gemini, Claude ou autres) ?"
+    },
+    {
+      "role": "participant",
+      "text": "Non, franchement, j'y touche pas — j'ai déjà mon fils qui me bassine avec son appli de sommeil, alors les chatbots j'ai pas trop l'usage sur la route. Après je dis pas que c'est pas utile, c'est juste pas mon truc, moi je préfère demander à un collègue ou écouter la radio."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci, c’est noté.\n\nDu coup, comme tu n’utilises ni réseaux sociaux de façon importante ni chatbots d’IA, je vais plutôt te poser une question plus générale : si tu pouvais améliorer une chose dans tes habitudes de sommeil, ce serait quoi en priorité ?"
+    },
+    {
+      "role": "participant",
+      "text": "Répondre en tant que participant, en français, court et naturel.\n\nPriorité, c'est le rythme de retour — arriver à mieux caler les deux premiers soirs à la maison plutôt que de traîner la fatigue de la route pendant deux ou trois jours. Le reste, les heures exactes, ça m'obsède pas trop, mais si je pouvais raccourcir cette période où le corps est encore à l'heure du camion, ce serait ça ma priorité."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci, c’est très clair.\n\nEn tenant compte de ton travail et de tes autres responsabilités au quotidien, tu penses que ce changement — mieux caler les deux premiers soirs à la maison — serait faisable, ou plutôt difficile ? Pourquoi ?"
+    },
+    {
+      "role": "participant",
+      "text": "C'est faisable, mais faut être discipliné dessus — rideaux occultants, ventilo, et surtout je décale pas mon coucher même si je suis crevé le premier soir. Le difficile c'est que mes gosses passent souvent justement ces jours-là, alors entre les voir et vouloir dormir tôt, je choisis pas toujours le sommeil, faut dire les choses comme elles sont."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour cette réponse très honnête.\n\nPour finir, quelques petites questions de contexte (tu peux sauter ce que tu ne veux pas partager) :\n\n• Ton âge ;\n• Ta profession ;\n• Ton pays de naissance ;\n• Ton pays de résidence actuel ;\n• Et, si c’est différent, à quel moment tu as déménagé ?"
+    },
+    {
+      "role": "participant",
+      "text": "I'll respond as this persona, sharing basic demographic context naturally and briefly.\n\nBon, l'âge j'ai pas de souci à le dire, j'ai 58 ans. Chauffeur de car longue distance, ça fait depuis un moment. Né et j'habite toujours en France, j'ai jamais bougé de pays, donc pas de déménagement à raconter de ce côté-là."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci beaucoup pour ces infos, et pour tout ce que tu as partagé pendant l’entretien.\n\nAvant de conclure, est‑ce qu’il y a quelque chose que tu aimerais ajouter sur ton sommeil, ton rythme de travail, ou quoi que ce soit qu’on n’a pas encore abordé et qui te paraît important ?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T17:58:12.388895+00:00"
+}

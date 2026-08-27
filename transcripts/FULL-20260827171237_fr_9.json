@@ -1,0 +1,100 @@
+{
+  "run_id": "FULL-20260827171237",
+  "language": "fr",
+  "index": 9,
+  "started_at": "2026-08-27T17:26:33.061436+00:00",
+  "participant_id": "P1787851574308",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Bienvenue dans cet entretien."
+    },
+    {
+      "role": "participant",
+      "text": "Bonjour. Oui, je suis là."
+    },
+    {
+      "role": "interviewer",
+      "text": "À quelle heure vous êtes-vous couché hier soir ?"
+    },
+    {
+      "role": "participant",
+      "text": "Hier soir, je me suis couchée vers 23h, comme d'habitude. Le magasin ferme tard alors on n'a pas trop le choix, on ne traîne pas longtemps après."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour cette précision. Environ combien d'heures avez-vous dormi cette nuit-là ? Diriez-vous que vous avez bien dormi ? Pourquoi ou pourquoi pas ?"
+    },
+    {
+      "role": "participant",
+      "text": "Hier soir j'ai dormi environ six heures, mais avec une coupure au milieu — je me réveille vers 4h et je reste éveillée un bon moment avant de me rendormir. Je dirais que ça va, ce n'est pas ma pire nuit, c'est juste comme ça depuis quelques années maintenant."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Quelle a été la dernière activité que vous avez faite juste avant d’aller vous coucher hier soir ? Et pourquoi avoir choisi de faire ça à ce moment-là ?"
+    },
+    {
+      "role": "participant",
+      "text": "Hier soir, j'ai fermé la caisse, vérifié les comptes de la journée sur le carnet, et puis je suis montée. Rien de spécial, c'est la routine — le magasin ferme, on range un peu, et on monte se coucher, il n'y a pas vraiment de \"rituel\" avant de dormir chez moi."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour ces précisions. Depuis deux semaines environ, quels sont les facteurs qui ont le plus influencé la qualité de votre sommeil ?"
+    },
+    {
+      "role": "participant",
+      "text": "Depuis quinze jours, ce qui joue le plus, c'est le rythme du magasin — les jours où on a beaucoup de monde ou une grosse livraison, je suis debout toute la journée et je dors un peu mieux. Sinon il y a le verre de vin au dîner, je me demande parfois si ça n'est pas pour quelque chose dans mes réveils de 4h, mais je n'en suis pas certaine."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Est-ce que ce que vous décrivez là est plutôt habituel pour vous, ou bien il y a quelque chose qui a changé récemment dans votre sommeil ?"
+    },
+    {
+      "role": "participant",
+      "text": "Non, ça n'a pas vraiment changé, c'est comme ça depuis quelques années maintenant. Depuis la cinquantaine à peu près, je me réveille à 4h, c'est devenu mon rythme normal, quoi."
+    },
+    {
+      "role": "interviewer",
+      "text": "D’accord, merci. Globalement, est-ce que vous êtes satisfaite de la façon dont vous dormez en ce moment, ou pas vraiment ? Pourquoi ?"
+    },
+    {
+      "role": "participant",
+      "text": "Je dirais que ça va, c'est pas parfait mais je m'en accommode. Je dors mes six heures avec la coupure, je fonctionne bien au magasin, donc je ne vais pas me plaindre — c'est mon rythme maintenant, à mon âge je pense que c'est normal."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour ces précisions. On entend souvent dire que les adultes devraient dormir 7 à 9 heures par nuit. Est-ce que ça vous paraît réaliste pour vous en ce moment, ou pas vraiment ?"
+    },
+    {
+      "role": "participant",
+      "text": "Ça me paraît pas très réaliste pour moi en ce moment, honnêtement. Six heures, avec la coupure, c'est mon rythme depuis un bon moment, alors viser 8 heures d'affilée, je n'y crois pas trop — même si je me repose bien, ce serait un autre corps qu'il me faudrait, je pense."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Beaucoup de personnes regardent leur téléphone, leur tablette ou leur ordinateur juste avant de se coucher. Est-ce que vous faites ça vous aussi ? Pourquoi ou pourquoi pas ?"
+    },
+    {
+      "role": "participant",
+      "text": "Non, pas trop en fait — le soir, quand je monte, je pose mon téléphone et je lis un peu, plutôt un livre, papier. C'est le matin, vers 4h, quand je suis réveillée, que je regarde mon téléphone, un peu d'actualités ou des messages, en attendant de me rendormir."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Est-ce que vous utilisez régulièrement les réseaux sociaux ? Si oui, comment vous les utilisez en général, surtout dans les heures avant de vous coucher ou pendant vos réveils de 4h ?"
+    },
+    {
+      "role": "participant",
+      "text": "Non, je ne suis pas trop réseaux sociaux, à vrai dire. J'ai Facebook pour suivre un peu les infos du quartier et le groupe des commerçants, mais je n'y passe pas des heures, ni le soir ni à 4h — c'est plutôt les infos que je regarde quand je suis réveillée."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Et de façon plus générale, est-ce que vous utilisez régulièrement des chatbots d’IA (comme ChatGPT, Gemini, Claude ou autres) ? Si oui, depuis quand et pour quel type de choses vous les utilisez surtout ?"
+    },
+    {
+      "role": "participant",
+      "text": "Non, je n'utilise pas vraiment ça, ChatGPT et compagnie, je n'ai jamais pris le temps de m'y mettre. Mon mari en parle parfois pour des trucs de gestion au magasin, mais moi, non, pas vraiment mon truc."
+    }
+  ],
+  "status": "blocked",
+  "error": "no new interviewer message appeared (timeout)",
+  "ended_at": "2026-08-27T17:28:34.239914+00:00"
+}

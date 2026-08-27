@@ -1,0 +1,143 @@
+{
+  "run_id": "FULL-20260827171237",
+  "language": "fr",
+  "index": 26,
+  "started_at": "2026-08-27T17:50:52.503584+00:00",
+  "participant_id": "P1787853033333",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Bienvenue dans cet entretien."
+    },
+    {
+      "role": "participant",
+      "text": "Bonjour. Oui, bonjour."
+    },
+    {
+      "role": "interviewer",
+      "text": "À quelle heure êtes-vous allé vous coucher hier soir ?"
+    },
+    {
+      "role": "participant",
+      "text": "Vers 23h30, comme d'habitude quand je suis sur les journées."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Environ combien d’heures avez-vous dormi cette nuit-là, et diriez-vous que vous avez bien dormi ? Pourquoi ou pourquoi pas ?"
+    },
+    {
+      "role": "participant",
+      "text": "Vers 5h30, à peu près. Pas terrible pour être honnête — le chien du voisin m'a réveillé deux fois, et après ça j'ai tourné dans ma tête une engueulade avec un collègue au boulot, alors le sommeil a mis du temps à revenir. Bon, ça arrive, c'est pas dramatique non plus."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour ces précisions. Quelle a été la dernière activité que vous avez faite juste avant d’aller vous coucher ?"
+    },
+    {
+      "role": "participant",
+      "text": "Vers 22h30, j'ai regardé un peu la télé — les infos, un truc comme ça — puis je me suis brossé les dents et je me suis couché."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Pourquoi aviez-vous choisi de regarder la télé, les infos, juste avant d’aller vous coucher ?"
+    },
+    {
+      "role": "participant",
+      "text": "Vers 22h30, j'ai regardé un peu la télé — les infos, un truc comme ça\n\nFranchement, c'est surtout l'habitude — je fais ça presque tous les soirs, ça m'occupe le temps de me poser un peu avant d'aller me coucher. Pas pour une raison particulière, hein, c'est juste devenu un rituel."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Qu’est-ce qui a le plus influencé la qualité de votre sommeil au cours des deux dernières semaines ?"
+    },
+    {
+      "role": "participant",
+      "text": "Franchement, c'est surtout les nuits de poste de nuit qui pèsent le plus — le sommeil coupé le matin, avec les volets scotchés. Sinon en semaine de jour, c'est surtout des trucs ponctuels comme le chien du voisin ou des soucis au boulot qui me trottent dans la tête, mais ça reste occasionnel."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour ces éléments. Est‑ce que ce que vous décrivez est plutôt habituel pour vous, ou bien quelque chose a changé récemment dans votre sommeil ?"
+    },
+    {
+      "role": "participant",
+      "text": "Habituel, franchement. C'est le même schéma depuis des années — les semaines de nuit c'est toujours plus dur, et le reste c'est du ponctuel. Rien de nouveau à signaler de mon côté."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Globalement, est‑ce que vous êtes satisfait de votre sommeil en ce moment, ou pas vraiment ? Pourquoi ?"
+    },
+    {
+      "role": "participant",
+      "text": "Franchement, plutôt content oui. Ça reste régulier, je sais à quoi m'attendre, même les semaines de nuit c'est du connu, pas une surprise. Après c'est pas parfait, y'a des nuits comme celle-là avec le chien et compagnie, mais globalement ça tient la route."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Vous avez sans doute déjà entendu dire que les adultes devraient dormir 7 à 9 heures par nuit. Est‑ce que ça vous paraît réaliste pour vous en ce moment ?"
+    },
+    {
+      "role": "participant",
+      "text": "Ah, sept à neuf heures... franchement, non, avec mon rythme c'est pas vraiment réaliste toutes les semaines. Les semaines de jour, je m'en approche, sept heures à peu près. Mais les semaines de nuit, avec le sommeil coupé, je suis plutôt à cinq heures, et ça, ça fait quatorze ans que c'est comme ça — c'est le métier qui veut ça."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour ces précisions. Qu’est‑ce qui rend les 7 à 9 heures plus faciles à atteindre en semaine de jour, et qu’est‑ce qui les rend difficiles en semaine de nuit, pour vous ?"
+    },
+    {
+      "role": "participant",
+      "text": "Les semaines de jour, j'ai un horaire fixe, je me couche à peu près à la même heure, et surtout le rythme du corps il s'y retrouve, quoi. Les semaines de nuit, c'est le contraire — je dors en plein jour avec les volets scotchés, y'a du bruit dehors, la lumière qui filtre quand même un peu, et le corps il sait bien que c'est pas l'heure normale de dormir, donc le sommeil il est coupé, moins profond."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Beaucoup de personnes regardent leur téléphone, leur tablette ou leur ordinateur juste avant de dormir. Est‑ce que c’est votre cas aussi ? Pourquoi ou pourquoi pas ?"
+    },
+    {
+      "role": "participant",
+      "text": "Non, pas trop mon truc en fait. Le soir, avant de m'endormir, j'ai plutôt la radio locale — les infos du sport — en fond sonore, et le téléphone je le laisse de côté, sinon ça m'énerve avec les mails du boulot et compagnie."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Est‑ce que vous utilisez quand même les réseaux sociaux de manière régulière, même si ce n’est pas forcément le soir ?"
+    },
+    {
+      "role": "participant",
+      "text": "Non, franchement, pas trop les réseaux sociaux non plus. J'ai un compte Facebook mais j'y vais rarement, plutôt pour voir des photos des petits-enfants ou des trucs comme ça, pas de scroll le soir ou quoi."
+    },
+    {
+      "role": "interviewer",
+      "text": "D’accord, merci. Et de façon plus générale, est‑ce que vous utilisez régulièrement des chatbots d’IA (comme ChatGPT, Gemini, Claude ou autres), ou quasiment pas du tout ?"
+    },
+    {
+      "role": "participant",
+      "text": "Non, quasiment pas. J'ai déjà touché à ChatGPT une fois ou deux au boulot, pour un mail un peu chiant à rédiger, mais sinon c'est pas dans mes habitudes — je suis plutôt vieille école là-dessus."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour ces précisions. Si vous pouviez améliorer une chose dans vos habitudes de sommeil, ce serait quoi ?"
+    },
+    {
+      "role": "participant",
+      "text": "Ah, franchement, ce serait de trouver un truc pour mieux dormir pendant les semaines de nuit — le sommeil coupé, les volets scotchés, tout ça, ça reste le point faible depuis quatorze ans. Sinon les semaines de jour, ça me va, j'y toucherais pas trop."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Étant donné vos horaires de travail et vos autres responsabilités au quotidien, est‑ce que vous pensez que ce serait faisable de changer quelque chose pour mieux dormir pendant les semaines de nuit ? Pourquoi ou pourquoi pas ?"
+    },
+    {
+      "role": "participant",
+      "text": "Ah, faisable, oui, mais bon, avec le boulot en trois-huit et les horaires fixes de l'entrepôt, j'ai pas trop de marge de manœuvre. Ce que je pourrais peut-être améliorer, c'est mieux isoler la chambre du bruit — genre de vraies protections plutôt que le scotch sur les volets, parce que ça, ça reste du bricolage."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Pour finir, si vous êtes d’accord, pourriez-vous me dire :\n\n• Votre âge ;\n• Votre profession ;\n• Votre pays de naissance ;\n• Votre pays de résidence actuel ;\n• Et, si ce n’est pas le même pays, quand vous avez déménagé ?"
+    },
+    {
+      "role": "participant",
+      "text": "Merci. J'ai 52 ans, je suis coordinateur logistique dans un entrepôt, né en Allemagne, et j'habite toujours dans la région de la Ruhr, donc pas de déménagement à signaler."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci beaucoup pour ces informations et pour tout ce que vous avez partagé pendant l’entretien.\n\nAvant de conclure, y a‑t‑il autre chose que vous aimeriez ajouter à propos de votre sommeil ou de vos habitudes au quotidien ?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T17:53:19.970219+00:00"
+}

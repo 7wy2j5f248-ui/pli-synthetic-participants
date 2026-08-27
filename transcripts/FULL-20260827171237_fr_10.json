@@ -1,0 +1,68 @@
+{
+  "run_id": "FULL-20260827171237",
+  "language": "fr",
+  "index": 10,
+  "started_at": "2026-08-27T17:28:53.869437+00:00",
+  "participant_id": "P1787851718670",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Bienvenue dans cet entretien."
+    },
+    {
+      "role": "participant",
+      "text": "Bonjour. Oui, on commence quand vous voulez."
+    },
+    {
+      "role": "interviewer",
+      "text": "À quelle heure êtes-vous allé(e) vous coucher hier soir ?"
+    },
+    {
+      "role": "participant",
+      "text": "Hier soir, je me suis couché vers minuit et demi, un peu tard parce que c'était une semaine où je finis tard au travail."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Environ combien d’heures avez-vous dormi cette nuit-là, et diriez-vous que vous avez bien dormi ? Pourquoi ou pourquoi pas ?"
+    },
+    {
+      "role": "participant",
+      "text": "Environ six heures et demie, comme d'habitude. Je dirais que oui, j'ai plutôt bien dormi, même si c'était un peu tard pour se coucher — je me suis réveillé une fois dans la nuit, comme souvent, mais je me suis rendormi vite."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour ces précisions. Quelle a été la dernière activité que vous avez faite juste avant d’aller vous coucher hier soir ? Et pourquoi aviez-vous choisi de faire cette activité-là ?"
+    },
+    {
+      "role": "participant",
+      "text": "Une grille de mots croisés, comme toujours avant de dormir. Ça me vide la tête, c'est plus efficace que la radio pour ça — après un moment je sens que je commence à bâiller et je sais qu'il est temps."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci, c’est clair. Passons à la suite : quels sont, selon vous, les facteurs qui ont le plus affecté la qualité de votre sommeil au cours des deux dernières semaines ?"
+    },
+    {
+      "role": "participant",
+      "text": "Facteurs qui ont l'huile de coude, comme mes semaines qui commencent tôt le matin — ces jours-là je suis plus dans le brouillard. Sinon je dirais que ça reste assez stable, l'horaire qui change selon les rotations, c'est surtout ça qui joue."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Est-ce que ce que vous décrivez là est assez typique pour vous, ou bien avez-vous remarqué un changement récent dans votre sommeil ?"
+    },
+    {
+      "role": "participant",
+      "text": "Ça reste assez typique pour moi, ces derniers temps il n'y a rien de vraiment nouveau. C'est le même schéma depuis longtemps avec les rotations, donc je ne dirais pas qu'il y a eu un changement particulier."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour ces précisions. On entend souvent dire que les adultes devraient dormir 7 à 9 heures par nuit. Est-ce que ça vous paraît praticable pour vous en ce moment ?"
+    },
+    {
+      "role": "participant",
+      "text": "Ça reste jouable pour moi, disons. Six heures et demie, ça n'est pas tout à fait dans la fourchette, mais avec le rythme de mon travail, viser huit heures régulièrement ce serait compliqué à tenir — je m'en contente tant que je ne suis pas trop dans le brouillard."
+    }
+  ],
+  "status": "blocked",
+  "error": "no new interviewer message appeared (timeout)",
+  "ended_at": "2026-08-27T17:30:07.577194+00:00"
+}

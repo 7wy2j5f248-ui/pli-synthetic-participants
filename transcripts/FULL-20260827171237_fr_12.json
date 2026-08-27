@@ -1,0 +1,20 @@
+{
+  "run_id": "FULL-20260827171237",
+  "language": "fr",
+  "index": 12,
+  "started_at": "2026-08-27T17:33:03.466153+00:00",
+  "participant_id": "P1787851970910",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Bienvenue dans cet entretien."
+    },
+    {
+      "role": "participant",
+      "text": "Bonjour. Oui, je suis prêt."
+    }
+  ],
+  "status": "blocked",
+  "error": "no new interviewer message appeared (timeout)",
+  "ended_at": "2026-08-27T17:33:37.311419+00:00"
+}

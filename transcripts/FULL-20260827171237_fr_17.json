@@ -1,0 +1,60 @@
+{
+  "run_id": "FULL-20260827171237",
+  "language": "fr",
+  "index": 17,
+  "started_at": "2026-08-27T17:38:15.987248+00:00",
+  "participant_id": "P1787852284630",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Bienvenue dans cet entretien."
+    },
+    {
+      "role": "participant",
+      "text": "Bonjour ! Oui, je suis là."
+    },
+    {
+      "role": "interviewer",
+      "text": "À quelle heure es-tu allé(e) te coucher hier soir ?"
+    },
+    {
+      "role": "participant",
+      "text": "Vers 23h30, comme d'habitude. Je m'endors plutôt vite en général."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour ta réponse. Environ combien d’heures as-tu dormi cette nuit ? Et dirais-tu que tu as bien dormi ? Pourquoi ou pourquoi pas ?"
+    },
+    {
+      "role": "participant",
+      "text": "Environ sept heures, je dirais, mais bon, je ne regarde pas trop l'heure exacte ! Oui plutôt bien dormi, je me suis réveillée une fois vers 4h30 à cause du chien du voisin qui aboyait, mais je me suis rendormie assez vite, en un quart d'heure à peu près."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour ces précisions. Quelle a été la dernière activité que tu as faite juste avant d’aller te coucher hier soir ?"
+    },
+    {
+      "role": "participant",
+      "text": "Avant de me coucher, j'ai lu une vingtaine de minutes, un roman, dans mon lit, ça m'aide à décrocher tranquillement."
+    },
+    {
+      "role": "interviewer",
+      "text": "Ça a l’air agréable. Tu te souviens du titre du roman que tu lis en ce moment, ou du type d’histoire que c’est ?"
+    },
+    {
+      "role": "participant",
+      "text": "Non, en fait je n'ai pas retenu le titre exact, ça m'arrive souvent d'oublier ces choses-là ! C'est un roman policier, une histoire d'enquête dans un petit village français, rien de trop angoissant avant de dormir, j'aime bien ça le soir."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour les détails. Qu’est-ce qui t’a donné envie de lire ce genre de roman-là avant de te coucher, plutôt qu’une autre activité ?"
+    },
+    {
+      "role": "participant",
+      "text": "Ce genre de policier tranquille, style enquête de village, ça me change les idées sans trop m'exciter l'esprit, contrairement à un thriller plus violent. Et puis j'aime bien retrouver un peu la campagne dans ces histoires, ça me détend avant de dormir."
+    }
+  ],
+  "status": "blocked",
+  "error": "no new interviewer message appeared (timeout)",
+  "ended_at": "2026-08-27T17:39:21.705778+00:00"
+}

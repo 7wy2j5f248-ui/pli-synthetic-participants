@@ -1,0 +1,116 @@
+{
+  "run_id": "FULL-20260827171237",
+  "language": "fr",
+  "index": 11,
+  "started_at": "2026-08-27T17:30:24.062715+00:00",
+  "participant_id": "P1787851812166",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Bienvenue dans cet entretien."
+    },
+    {
+      "role": "participant",
+      "text": "Bonjour ! Oui, je suis là, on peut commencer."
+    },
+    {
+      "role": "interviewer",
+      "text": "À quelle heure es-tu allé(e) te coucher hier soir ?"
+    },
+    {
+      "role": "participant",
+      "text": "Bah, assez tard en fait — vers 23h40, y avait un match de foot qui a traîné plus longtemps que prévu."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Environ combien d'heures penses-tu avoir dormi cette nuit-là ? Et dirais-tu que tu as bien dormi, ou pas trop ? Pourquoi ?"
+    },
+    {
+      "role": "participant",
+      "text": "Environ six heures, je dirais — je me suis endormi assez vite après m'être couché, mais un train m'a réveillé vers 4h, comme souvent ici. Je me suis rendormi assez facilement remarque, donc ça va, c'était pas une mauvaise nuit, juste un peu courte avec le réveil à 6h15."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour ces précisions. Quelle a été la dernière activité que tu as faite juste avant d’aller te coucher hier soir ? Et pourquoi avais-tu choisi de faire ça à ce moment-là ?"
+    },
+    {
+      "role": "participant",
+      "text": "Bah, j'ai juste fini de regarder le match jusqu'au bout, je pouvais pas aller me coucher en plein milieu quoi. Après ça je me suis brossé les dents vite fait et au lit."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Selon toi, quels sont les facteurs qui ont le plus influencé la qualité de ton sommeil au cours des deux dernières semaines ?"
+    },
+    {
+      "role": "participant",
+      "text": "Je dirais que c'est surtout le rythme d'équipe — quand je suis en semaine de soir, je me couche tard parce que je traîne devant la télé, du coup je dors moins, genre cinq heures au lieu de six et demie. Et puis les trains la nuit, ça revient souvent aussi, même si je m'y suis habitué avec le temps."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Est-ce que ce que tu décris là est assez typique pour toi sur une longue période, ou bien il y a quelque chose qui a changé récemment dans ton sommeil ?"
+    },
+    {
+      "role": "participant",
+      "text": "Bah, c'est assez typique en fait, ça fait des années que ça marche comme ça avec les rotations d'équipe. Après là, la nuit d'hier c'était pas spécial, juste un peu courte à cause du match, mais sinon rien de nouveau dans mon sommeil dernièrement."
+    },
+    {
+      "role": "interviewer",
+      "text": "D’accord. Globalement, est-ce que tu es satisfait de la façon dont tu dors en ce moment, ou pas tellement ? Et pourquoi ?"
+    },
+    {
+      "role": "participant",
+      "text": "Bah, plutôt satisfait dans l'ensemble, je dors pas des masses mais c'est suffisant pour tenir le coup, j'suis pas du genre à me plaindre. Le seul truc qui m'embête un peu c'est la semaine de soir où je dors vraiment court, mais bon, ça fait partie du boulot."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour ta réponse. On entend souvent dire que les adultes devraient dormir 7 à 9 heures par nuit. Est‑ce que ça te paraît réaliste pour toi en ce moment, ou pas vraiment ?"
+    },
+    {
+      "role": "participant",
+      "text": "Bah, honnêtement non, pas vraiment réaliste pour moi avec mon rythme. Y'a des semaines où je fais peut-être six heures et demie et d'autres où je descends à cinq, alors les huit heures c'est un peu la théorie contre la pratique, quoi. Après je m'en sors, donc je vais pas me mettre martel en tête pour ça."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour ta réponse. Beaucoup de gens regardent leur téléphone, leur tablette ou leur ordinateur juste avant de dormir. Est‑ce que toi aussi tu fais ça ? Pourquoi ou pourquoi pas ?"
+    },
+    {
+      "role": "participant",
+      "text": "Bof, pas trop en fait. Je regarde la télé jusqu'à tard, mais une fois que j'éteins et que je vais au lit, je touche pas au téléphone — je pose une alarme et c'est tout. J'ai jamais eu l'habitude de scroller au lit, ça m'intéresse pas plus que ça."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci, c’est clair. Est‑ce que tu utilises régulièrement les réseaux sociaux ? Si oui, comment tu t’en sers en général, surtout dans les heures avant d’aller dormir ?"
+    },
+    {
+      "role": "participant",
+      "text": "Bof, pas vraiment. J'ai un compte Facebook mais je l'ouvre genre une fois par semaine pour voir des photos que mon fils poste, sinon j'y touche pas trop. Et surtout pas le soir, une fois que je suis couché je fais rien du tout sur mon téléphone."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour ces précisions. Maintenant, quelques questions rapides sur la technologie en général : est‑ce que tu utilises régulièrement des chatbots d’IA (comme ChatGPT, Gemini, Claude ou d’autres applications du même genre) ?"
+    },
+    {
+      "role": "participant",
+      "text": "Bof, non, j'utilise pas trop ces trucs. Mon fils a essayé de me montrer une fois, mais moi et les nouvelles technologies, on n'est pas les meilleurs amis du monde. Je préfère chercher moi-même quand j'ai besoin de quelque chose."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour ta réponse. Si tu pouvais améliorer une chose dans tes habitudes de sommeil, ce serait quoi ?"
+    },
+    {
+      "role": "participant",
+      "text": "Bof, si je devais changer un truc, ce serait sûrement la semaine de soir — arriver à dormir un peu plus ces nuits-là au lieu de traîner devant la télé jusqu'à pas d'heure. Mais bon, faut vouloir se coucher plus tôt, et c'est pas gagné après six ans d'habitude."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour ta réponse. Justement, en tenant compte de ton travail, de tes horaires et de tes autres responsabilités au quotidien, tu penses que ce serait faisable de te coucher plus tôt pendant la semaine de soir, ou tu trouves que c’est plutôt difficile ? Pourquoi ?"
+    },
+    {
+      "role": "participant",
+      "text": "Bof, honnêtement c'est difficile. Le foot fini tard, la télé qui traîne, c'est plus une habitude qu'un vrai obstacle logistique — j'ai pas d'excuse valable, c'est juste que six ans à faire pareil, ça se change pas du jour au lendemain."
+    }
+  ],
+  "status": "blocked",
+  "error": "no new interviewer message appeared (timeout)",
+  "ended_at": "2026-08-27T17:32:45.483809+00:00"
+}

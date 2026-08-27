@@ -1,0 +1,127 @@
+{
+  "run_id": "FULL-20260827171237",
+  "language": "fr",
+  "index": 3,
+  "started_at": "2026-08-27T17:12:53.635488+00:00",
+  "participant_id": "P1787850762125",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Bienvenue dans cet entretien."
+    },
+    {
+      "role": "participant",
+      "text": "Bonjour. Oui, je suis prêt, allez-y."
+    },
+    {
+      "role": "interviewer",
+      "text": "À quelle heure êtes-vous allé vous coucher hier soir ?"
+    },
+    {
+      "role": "participant",
+      "text": "Hier soir, vers une heure du matin. Comme d'habitude."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Environ combien d’heures avez-vous dormi cette nuit ? Diriez-vous que vous avez bien dormi ? Pourquoi ou pourquoi pas ?"
+    },
+    {
+      "role": "participant",
+      "text": "Environ sept heures, je dirais. Ça m'a suffi, oui — pas une nuit exceptionnelle avec le chien du voisin, mais rien d'inhabituel non plus."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Quelle a été la dernière activité que vous avez faite juste avant d’aller vous coucher ? Et pourquoi aviez-vous choisi de faire cette activité-là avant de dormir ?"
+    },
+    {
+      "role": "participant",
+      "text": "Après ça, je vérifiais la fermeture du magasin, deux minutes, pour être sûr que tout est en ordre. Et je mettais la radio, toujours la même émission — ça m'aide à décrocher, quoi."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Globalement, ces deux dernières semaines, quels sont les facteurs qui ont le plus influencé la qualité de votre sommeil ?"
+    },
+    {
+      "role": "participant",
+      "text": "Vers une heure du matin, sept heures de sommeil, rien de particulier — comme d'habitude, quoi."
+    },
+    {
+      "role": "interviewer",
+      "text": "D’accord. Est‑ce que, ces deux dernières semaines, il y a des choses particulières qui ont surtout influencé votre sommeil ? Par exemple, le travail, le bruit, le stress, la santé, ou autre chose ?"
+    },
+    {
+      "role": "participant",
+      "text": "Vers une heure du matin, sept heures de sommeil, rien de particulier — comme d'habitude, quoi."
+    },
+    {
+      "role": "interviewer",
+      "text": "D’accord, donc rien de spécial qui se démarque récemment.\n\nVous avez sans doute déjà entendu dire que les adultes devraient dormir 7 à 9 heures par nuit. Est‑ce que ça vous paraît pratique ou réaliste pour vous en ce moment ?"
+    },
+    {
+      "role": "participant",
+      "text": "Sept heures, ça me va très bien. Neuf, franchement, je vois pas quand — avec la sieste en plus, ce serait bizarre."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Beaucoup de personnes regardent leur téléphone, leur tablette ou leur ordinateur juste avant de se coucher.\n\nEst‑ce que vous faites ça vous aussi avant de dormir ? Pourquoi ou pourquoi pas ?"
+    },
+    {
+      "role": "participant",
+      "text": "Non, pas trop en fait. Une fois la radio allumée, je pose le téléphone, je ne le reprends pas. C'est plutôt un réflexe qu'un principe — j'ai jamais pris cette habitude, voilà tout."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Est‑ce que vous utilisez régulièrement les réseaux sociaux, d’une manière générale ? Si oui, comment vous les utilisez surtout dans les heures avant de dormir ?"
+    },
+    {
+      "role": "participant",
+      "text": "Non, je fais pas beaucoup ça, franchement. J'ai un compte, je regarde deux trois trucs de temps en temps dans la journée, mais le soir c'est plutôt la radio qui prend le relais."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Et de façon plus générale, est‑ce que vous utilisez régulièrement des chatbots d’IA (comme ChatGPT, Gemini, Claude ou autres) ? Si oui, depuis quand et pour quoi faire surtout ?"
+    },
+    {
+      "role": "participant",
+      "text": "Non, j'utilise pas ça. J'ai un vieux téléphone qui suffit pour la radio et les commandes de pièces, je vais pas plus loin."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour cette précision.\n\nEst‑ce que vous avez l’impression que vos habitudes de sommeil ont changé au fil des années, ou bien que c’est resté à peu près pareil (heure du coucher, durée, qualité du sommeil) ?"
+    },
+    {
+      "role": "participant",
+      "text": "Il a évolué un peu — avant j'avais des horaires plus classiques, mais depuis que je gère la boutique tout seul, avec les soirées à faire les comptes, je me suis décalé plus tard. La sieste, ça, c'est resté pareil depuis toujours par contre."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Si vous pouviez améliorer une seule chose dans vos habitudes de sommeil, ce serait quoi ?"
+    },
+    {
+      "role": "participant",
+      "text": "Ce serait de me coucher un peu plus tôt, tiens. Pas énormément, juste une heure — mais avec les comptes le soir, j'ai du mal à m'y tenir."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Compte tenu de votre travail, de la gestion de la boutique et des comptes le soir, est‑ce que vous pensez que vous pourriez concrètement réussir à vous coucher une heure plus tôt, ou est‑ce que ça vous semble difficile ? Pourquoi ?"
+    },
+    {
+      "role": "participant",
+      "text": "Ça me semble difficile, honnêtement. Tant que je ferai les comptes le soir, ça repoussera l'heure du coucher — c'est mécanique, si je peux dire. Faudrait que je change l'ordre des choses, genre faire les comptes plus tôt dans la journée, mais avec la boutique ce n'est pas toujours possible."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour ces explications.\n\nPour terminer, quelques questions factuelles (vous pouvez passer celles que vous préférez ne pas partager) :\n\n* Votre âge ;\n* Votre profession ;\n* Votre pays de naissance ;\n* Votre pays de résidence actuel ;\n* Et, si ce n’est pas le même pays, quand avez‑vous déménagé ?"
+    },
+    {
+      "role": "participant",
+      "text": "Merci — alors, j'ai 58 ans, je suis réparateur de vélos, j'ai mon petit atelier. Né et toujours vécu dans le même pays, je n'ai pas déménagé."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci beaucoup pour vos réponses et le temps que vous avez consacré à cet entretien.\n\nY a‑t‑il autre chose que vous aimeriez ajouter à propos de votre sommeil ou de vos habitudes du soir avant que l’on termine ?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T17:14:29.562553+00:00"
+}
