@@ -35,6 +35,7 @@ kill and resume safely (it skips interviews already marked "completed").
 import argparse
 import json
 import os
+import re
 import time
 import uuid
 from datetime import datetime, timezone
@@ -51,7 +52,21 @@ BASE_URL = "https://intervu.quest"
 RUN_LOG = Path("run_log.jsonl")
 TRANSCRIPT_DIR = Path("transcripts")
 TRANSCRIPT_DIR.mkdir(exist_ok=True)
+DEBUG_DIR = Path("debug")
 PRIVATE_DIR = Path("private-local")  # hidden personas only — must stay out of git/CI artifacts
+
+
+def save_debug_snapshot(page, tag: str):
+    """On any blocked/failed interview, save a screenshot + current URL/HTML
+    so the failure is diagnosable from the uploaded artifact alone, without
+    needing a live/manual run to see what the page actually showed."""
+    try:
+        DEBUG_DIR.mkdir(exist_ok=True)
+        page.screenshot(path=str(DEBUG_DIR / f"{tag}.png"))
+        (DEBUG_DIR / f"{tag}_url.txt").write_text(page.url)
+        (DEBUG_DIR / f"{tag}.html").write_text(page.content())
+    except Exception as e:
+        (DEBUG_DIR / f"{tag}_snapshot_failed.txt").write_text(str(e))
 
 PILOT_COUNT = 2
 FULL_COUNT_PER_LANGUAGE = 50
@@ -215,8 +230,10 @@ def run_single_interview(page, lang_code: str, lang_label: str, run_id: str, idx
 
     # 3. Consent form (consent.html) — select "new participant", capture ID, agree
     page.click(SELECTORS["new_participant_radio"])
-    page.wait_for_selector(SELECTORS["participant_id_label"], timeout=10000)
-    participant_id = page.inner_text(SELECTORS["participant_id_label"]).strip()
+    page.wait_for_selector("#participantIdBox", timeout=10000)
+    box_text = page.inner_text("#participantIdBox")
+    id_match = re.search(r"\bP\d{6,}\b", box_text)
+    participant_id = id_match.group(0) if id_match else box_text.strip()
     page.click(SELECTORS["consent_agree_button"])
     page.wait_for_load_state("networkidle")
 
@@ -244,11 +261,12 @@ def run_single_interview(page, lang_code: str, lang_label: str, run_id: str, idx
         try:
             page.wait_for_function(
                 f"document.querySelectorAll('{SELECTORS['chat_message']}').length > {seen_count}",
-                timeout=20000,
+                timeout=30000,
             )
         except PWTimeout:
             transcript["status"] = "blocked"
             transcript["error"] = "no new interviewer message appeared (timeout)"
+            save_debug_snapshot(page, f"{run_id}_{lang_code}_{idx}_no_message_timeout")
             break
 
         messages = get_chat_messages(page)
@@ -335,7 +353,15 @@ def main():
         pilot_gate_lang = "en"
         if args.mode == "pilot" and pilot_gate_lang in langs:
             print("Running pilot gate interview R001-EN-001 ...")
-            record = run_single_interview(page, pilot_gate_lang, LANGUAGES[pilot_gate_lang], run_id, 1)
+            try:
+                record = run_single_interview(page, pilot_gate_lang, LANGUAGES[pilot_gate_lang], run_id, 1)
+            except Exception as e:
+                save_debug_snapshot(page, f"{run_id}_{pilot_gate_lang}_1_exception")
+                record = {
+                    "run_id": run_id, "language": pilot_gate_lang, "index": 1,
+                    "status": "blocked", "error": str(e),
+                    "ended_at": datetime.now(timezone.utc).isoformat(),
+                }
             append_log(record)
             transcript_path = TRANSCRIPT_DIR / f"{run_id}_{pilot_gate_lang}_1.json"
             transcript_path.write_text(json.dumps(record, ensure_ascii=False, indent=2))
@@ -393,4 +419,5 @@ if __name__ == "__main__":
 # Run one interview all the way to the end with --headless=False and update
 # that function with the real closing phrase before trusting max_turns /
 # completion detection for the full 900-interview run.
+
 
