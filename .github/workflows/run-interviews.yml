@@ -103,6 +103,8 @@ jobs:
           path: |
             run_log.jsonl
             transcripts/
+            debug/
           retention-days: 90
           # NOTE: private-local/ is intentionally excluded — hidden personas
           # never leave the runner.
+
