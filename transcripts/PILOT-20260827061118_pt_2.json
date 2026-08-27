@@ -1,0 +1,127 @@
+{
+  "run_id": "PILOT-20260827061118",
+  "language": "pt",
+  "index": 2,
+  "started_at": "2026-08-27T06:22:55.010606+00:00",
+  "participant_id": "P1787811758784",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Boas-vindas a esta entrevista."
+    },
+    {
+      "role": "participant",
+      "text": "Boa tarde. Sim, estou pronta para começar."
+    },
+    {
+      "role": "interviewer",
+      "text": "Que horas você foi dormir ontem à noite?"
+    },
+    {
+      "role": "participant",
+      "text": "Foi por volta das onze e meia, mais ou menos a hora habitual."
+    },
+    {
+      "role": "interviewer",
+      "text": "Obrigado por compartilhar. Aproximadamente quantas horas você dormiu na última noite? Você diria que dormiu bem? Por quê?"
+    },
+    {
+      "role": "participant",
+      "text": "Dormi umas seis horas, talvez seis e meia. Diria que dormi mais ou menos bem, dentro do que é normal para mim — acordei lá pelas quatro da manhã, como costuma acontecer, mas depois lá consegui adormecer outra vez passado uns bons vinte minutos."
+    },
+    {
+      "role": "interviewer",
+      "text": "Obrigado por explicar tão detalhadamente. Qual foi a última atividade que você fez antes de ir para a cama ontem?\n\n(Se puder, me conte também por que escolheu fazer essa atividade antes de dormir.)"
+    },
+    {
+      "role": "participant",
+      "text": "Última coisa foi mesmo ver as notícias e depois fazer as palavras cruzadas, é praticamente um ritual — ajuda-me a desligar da cabeça antes de ir para a cama."
+    },
+    {
+      "role": "interviewer",
+      "text": "Entendi. E, pensando nas últimas duas semanas, quais foram os fatores que mais afetaram a qualidade do seu sono?"
+    },
+    {
+      "role": "participant",
+      "text": "Nas últimas duas semanas, olhe, é mais ou menos sempre a mesma coisa: costumo acordar por volta das quatro e depois demoro um bocado a voltar a adormecer. Ultimamente tem sido mais por causa do calor, esta onda de calor tem estado bastante incómoda à noite, de resto nada de especial mudou."
+    },
+    {
+      "role": "interviewer",
+      "text": "Isso que descreve é algo que costuma acontecer com frequência, então. Diria que esse padrão de sono (acordar por volta das quatro e demorar a adormecer) é o seu “normal” já há bastante tempo, ou notou alguma mudança mais recente?\n\n(Depois respondo à sua explicação e passo à próxima pergunta.)"
+    },
+    {
+      "role": "participant",
+      "text": "Diria que é o meu \"normal\" já há bastante tempo, sim — isto de acordar às quatro da manhã não é coisa de agora, já acontece há anos. Ultimamente é que se calhar demoro um bocadinho mais a voltar a adormecer por causa do calor, mas o padrão em si já não é novidade nenhuma para mim."
+    },
+    {
+      "role": "interviewer",
+      "text": "Obrigado por esclarecer isso. No geral, diria que está satisfeita com a forma como tem dormido ultimamente, ou não muito? Por quê?"
+    },
+    {
+      "role": "participant",
+      "text": "Diria que sim, estou satisfeita, dentro do razoável — não é um sono perfeito, mas já é assim há tantos anos que já nem penso muito nisso. Acordar às quatro é normal para mim, já não vejo grande sentido em andar à procura do sono \"perfeito\", isso com a idade vai ficando mais leve, acho eu."
+    },
+    {
+      "role": "interviewer",
+      "text": "Obrigado por partilhar isso. Agora, pensando naquele conselho de que adultos devem dormir entre 7 e 9 horas por noite: isso lhe parece prático na sua rotina atual, ou não tanto?"
+    },
+    {
+      "role": "participant",
+      "text": "Não, não muito prático, sinceramente — na minha vida com sete, sete e meia já me dou por satisfeita. Nove horas é quase impossível de encaixar com o trabalho e a rotina normal, e depois, com os despertares às quatro, nem sei se conseguiria lá chegar mesmo que tentasse."
+    },
+    {
+      "role": "interviewer",
+      "text": "Entendo. Muitas pessoas também sentem isso. Pensando agora na hora de dormir: você costuma usar telemóvel, tablet ou computador mesmo antes de ir para a cama? Por que sim ou por que não?"
+    },
+    {
+      "role": "participant",
+      "text": "Sinceramente, quase nunca — costumo deixar o telemóvel na sala a carregar e não o levo para o quarto. Já o rádio ligado baixinho, isso sim, é hábito antigo meu desde miúda, ajuda-me mais do que qualquer ecrã."
+    },
+    {
+      "role": "interviewer",
+      "text": "Perfeito, obrigada por explicar. E em relação às redes sociais: você usa com frequência ao longo do dia, ou nem por isso?"
+    },
+    {
+      "role": "participant",
+      "text": "Nem por isso, sinceramente — vou vendo qualquer coisa de vez em quando, mas não sou muito de estar sempre a mexer no telemóvel ao longo do dia, mais por hábito de trabalho do que outra coisa."
+    },
+    {
+      "role": "interviewer",
+      "text": "Certo, obrigada. E agora, falando de tecnologia em geral: você usa com regularidade chatbots de IA (como ChatGPT, Gemini, Claude ou semelhantes)?"
+    },
+    {
+      "role": "participant",
+      "text": "Não, não costumo usar esses chatbots de IA, sinceramente. Uso o computador mais para o trabalho mesmo, coisas da repartição, e por casa não sinto necessidade disso — sou capaz de ser um bocado desconfiada dessas coisas mais tecnológicas, tal como sou com as aplicações de monitorizar o sono."
+    },
+    {
+      "role": "interviewer",
+      "text": "Entendo, obrigada por explicar. \n\nSe pudesse melhorar uma coisa nos seus hábitos de sono, o que escolheria mudar?"
+    },
+    {
+      "role": "participant",
+      "text": "Se pudesse mudar uma coisa, acho que seria mesmo esses despertares às quatro da manhã — não é que me incomode assim tanto, mas se voltasse a adormecer logo em vez de ficar ali meia hora, quarenta minutos a dar voltas, era capaz de acordar menos cansada. De resto, sinceramente, não mexia em muito mais, já me habituei ao resto da rotina."
+    },
+    {
+      "role": "interviewer",
+      "text": "Obrigada, ficou claro. Pensando na sua rotina de trabalho, estudos ou outras responsabilidades do dia a dia: acha que seria viável fazer alguma mudança para reduzir esses despertares das quatro da manhã, ou para voltar a adormecer mais rápido? Por que acha que sim ou que não?"
+    },
+    {
+      "role": "participant",
+      "text": "Sinceramente, acho que a rotina em si não tem muito a ver com isso — o meu trabalho é sempre às mesmas horas, sem stress de última hora, por isso não vejo bem onde mudar aí. Talvez pudesse experimentar não ligar logo o rádio quando acordo e tentar ficar mais quieta na escuridão, mas confesso que nunca tentei a sério, já é tão automático que nem penso nisso."
+    },
+    {
+      "role": "interviewer",
+      "text": "Percebo, obrigada por explicar. \n\nAgora, só umas perguntas mais factuais, e fique à vontade para responder apenas ao que quiser:\n\n– A sua idade;\n– A sua profissão;\n– O seu país de nascimento;\n– O país onde vive atualmente;\n– E, se for diferente, em que ano se mudou para o país onde vive hoje?"
+    },
+    {
+      "role": "participant",
+      "text": "Idade, tenho 52 anos. Trabalho como funcionária na conservatória, na parte do registo predial. Nasci aqui em Portugal e vivo cá sempre, nunca me mudei para outro país."
+    },
+    {
+      "role": "interviewer",
+      "text": "Obrigada por partilhar esses dados. \n\nEstamos a chegar ao fim da entrevista. Há mais alguma coisa sobre o seu sono ou os seus hábitos na hora de deitar que ache importante acrescentar e que ainda não tenha mencionado?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T06:24:36.766709+00:00"
+}

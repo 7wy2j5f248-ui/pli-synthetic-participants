@@ -1,0 +1,143 @@
+{
+  "run_id": "PILOT-20260827061118",
+  "language": "fr",
+  "index": 1,
+  "started_at": "2026-08-27T06:16:12.693787+00:00",
+  "participant_id": "P1787811359284",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Bienvenue dans cet entretien."
+    },
+    {
+      "role": "participant",
+      "text": "Merci. Oui, je suis prêt, on peut commencer."
+    },
+    {
+      "role": "interviewer",
+      "text": "À quelle heure êtes-vous allé vous coucher hier soir ?"
+    },
+    {
+      "role": "participant",
+      "text": "Vers 22h30, comme d'habitude. Je n'ai pas vraiment besoin d'un réveil, je me couche à peu près à la même heure tous les soirs."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Environ combien d’heures avez-vous dormi cette nuit ? Diriez-vous que vous avez bien dormi ? Pourquoi ou pourquoi pas ?"
+    },
+    {
+      "role": "participant",
+      "text": "Vers 6h30, donc à peu près 8 heures. Bien dormi, oui — pas parfaitement, un possum sur le toit m'a réveillé une fois, et je me suis levé deux fois pour aller aux toilettes, mais je me suis rendormi vite à chaque fois. Rien de bien grave."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci pour ces précisions. Quelle a été la dernière activité que vous avez faite juste avant d’aller vous coucher ? Et pourquoi aviez-vous choisi de faire cette activité-là ?"
+    },
+    {
+      "role": "participant",
+      "text": "Vers 22h15, j'écoute un peu la radio, et je fais les mots croisés du journal si j'ai pas fini dans la journée. Ça calme l'esprit, rien de spécial."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Quels sont, selon vous, les principaux facteurs qui ont le plus influencé la qualité de votre sommeil au cours des deux dernières semaines ?"
+    },
+    {
+      "role": "participant",
+      "text": "Vers dix heures et demie, comme d'habitude. Je n'ai pas trop besoin d'un réveil, je me couche à peu près à la même heure tous les soirs."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Environ combien d’heures avez-vous dormi cette nuit ? Diriez-vous que vous avez bien dormi ? Pourquoi ou pourquoi pas ?"
+    },
+    {
+      "role": "participant",
+      "text": "Vers 6h30, donc à peu près huit heures. Ouais, correct dans l'ensemble — le possum sur le toit m'a réveillé une fois, et je me suis levé deux fois pour les toilettes, mais rendormi vite chaque fois. Rien de grave, juste un peu fatigué ce matin."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Pour revenir à la question précédente : quels sont, selon vous, les principaux facteurs qui ont le plus influencé la qualité de votre sommeil au cours des deux dernières semaines ?"
+    },
+    {
+      "role": "participant",
+      "text": "Facteurs — routine régulière, une nuit un peu perturbée par le possum et deux passages aux toilettes, mais rien qui casse vraiment le rythme. C'est surtout la constance des horaires qui compte, je crois."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Est-ce que ce que vous décrivez là est assez typique pour vous, ou bien avez-vous remarqué un changement récent dans votre sommeil ?"
+    },
+    {
+      "role": "participant",
+      "text": "Ouais, c'est assez typique en fait. Le possum et les toilettes, ça arrive de temps en temps mais pas tous les soirs — dans l'ensemble mon sommeil reste pareil depuis des années, pas de gros changement récent."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Globalement, est-ce que vous êtes satisfait de votre sommeil en ce moment, ou pas vraiment ? Pourquoi ?"
+    },
+    {
+      "role": "participant",
+      "text": "Ouais, plutôt satisfait dans l'ensemble. Je dors mes huit heures, je me réveille pas trop groggy — c'est pas parfait, mais je vois pas de quoi me plaindre franchement."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Vous avez peut‑être déjà entendu dire que les adultes devraient dormir 7 à 9 heures par nuit. Est‑ce que ça vous paraît pratique ou réaliste pour vous en ce moment ?"
+    },
+    {
+      "role": "participant",
+      "text": "Ouais, ça me semble à peu près juste — je dors mes huit heures en général, donc je suis déjà dans la fourchette. Pas besoin de changer grand-chose de mon côté."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Beaucoup de personnes regardent leur téléphone, leur tablette ou leur ordinateur juste avant de se coucher. Est‑ce que c’est aussi votre cas ? Pourquoi ou pourquoi pas ?"
+    },
+    {
+      "role": "participant",
+      "text": "Non, pas trop mon genre — j'ai la radio à côté du lit mais pas d'écran. Une fois couché, je préfère éteindre les lumières, pas envie d'avoir un truc lumineux devant les yeux à ce moment-là."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Est‑ce que vous utilisez régulièrement les réseaux sociaux, même si ce n’est pas juste avant de dormir ? Si oui, comment les utilisez‑vous en général ?"
+    },
+    {
+      "role": "participant",
+      "text": "Non, pas vraiment mon truc les réseaux sociaux. Ma fille m'a montré Facebook une fois mais j'y vais peut-être une fois par semaine, juste pour voir des photos, rien de plus."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Utilisez‑vous régulièrement des chatbots d’IA (comme ChatGPT, Gemini, Claude ou des applications similaires) ? Si oui, depuis quand et pour quoi les utilisez‑vous surtout ?"
+    },
+    {
+      "role": "participant",
+      "text": "Non, je n'utilise pas ces trucs-là. J'ai jamais vraiment eu l'occasion — ma comptabilité, je la fais à l'ancienne, et pour le reste je m'en sors très bien sans."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Si vous repensez à votre sommeil au fil des années, avez‑vous l’impression que vos habitudes de sommeil ont changé, ou bien qu’elles sont restées à peu près les mêmes ?"
+    },
+    {
+      "role": "participant",
+      "text": "Ouais, ça a pas mal changé au fil des années. Avant, à la ferme, je me levais bien plus tôt, genre 5h, et là maintenant c'est plutôt naturel vers 5h30 sans réveil. Sinon la routine du soir, ça a toujours été à peu près pareil, je suis pas du genre à chambouler ça."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Si vous pouviez améliorer une seule chose dans vos habitudes de sommeil, ce serait quoi ?"
+    },
+    {
+      "role": "participant",
+      "text": "Si je pouvais changer une chose... probablement arrêter de me réveiller pour aller aux toilettes la nuit. C'est pas dramatique, je me rendors vite, mais ce serait bien de faire ma nuit sans interruption pour une fois."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci. Maintenant, quelques questions plus générales sur vous (vous pouvez sauter ce que vous préférez ne pas partager) :\n\n• Votre âge ;\n• Votre profession ;\n• Votre pays de naissance ;\n• Votre pays de résidence actuel ;\n• Si ce n’est pas le même pays, quand avez‑vous déménagé ?"
+    },
+    {
+      "role": "participant",
+      "text": "Non, pas de souci. Alors, j'ai 58 ans, je fais de la comptabilité à temps partiel et je conduis un mini-bus scolaire. Je suis né en Nouvelle-Zélande et j'y vis toujours, jamais parti d'ici en fait."
+    },
+    {
+      "role": "interviewer",
+      "text": "Merci beaucoup pour toutes vos réponses, c’est la fin des questions prévues pour cet entretien.\n\nY a‑t‑il autre chose que vous aimeriez ajouter à propos de votre sommeil ou de vos habitudes du soir avant qu’on termine ?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T06:18:05.286261+00:00"
+}

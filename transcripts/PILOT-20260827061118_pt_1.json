@@ -1,0 +1,135 @@
+{
+  "run_id": "PILOT-20260827061118",
+  "language": "pt",
+  "index": 1,
+  "started_at": "2026-08-27T06:20:53.975275+00:00",
+  "participant_id": "P1787811632323",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Boas-vindas a esta entrevista."
+    },
+    {
+      "role": "participant",
+      "text": "Boa tarde. Sim, estou pronto para começar."
+    },
+    {
+      "role": "interviewer",
+      "text": "Que horas você foi dormir ontem à noite?"
+    },
+    {
+      "role": "participant",
+      "text": "Ontem fui deitar-me lá pelas 23h30, mais ou menos como o habitual."
+    },
+    {
+      "role": "interviewer",
+      "text": "Obrigado por compartilhar. Aproximadamente quantas horas você dormiu essa noite? Você diria que dormiu bem? Por quê?"
+    },
+    {
+      "role": "participant",
+      "text": "Dormi umas seis horas e meia, talvez sete. Não diria que dormi mal, mas também não foi das melhores — acordei uma ou duas vezes a meio da noite, provavelmente por causa das obras aqui perto que começam cedo. Nada de especial, já é mais ou menos a rotina destas últimas semanas."
+    },
+    {
+      "role": "interviewer",
+      "text": "Entendi. Qual foi a última atividade que você fez antes de ir para a cama ontem? E por que você escolheu fazer essa atividade?"
+    },
+    {
+      "role": "participant",
+      "text": "Ontem à noite, antes de deitar, fiz um palavras cruzadas — é mais ou menos o que costumo fazer, ajuda a desligar da cabeça do trabalho sem ficar colado a um ecrã."
+    },
+    {
+      "role": "interviewer",
+      "text": "Obrigado por explicar. Pensando nas últimas duas semanas, quais fatores você diria que mais afetaram a qualidade do seu sono?"
+    },
+    {
+      "role": "participant",
+      "text": "Bacon, acho que o principal fator tem sido mesmo o ruído da obra ao início da manhã — acorda-me umas vezes, embora não demore a voltar a adormecer. Fora isso, talvez o filho tocar trombone à noite às vezes atrase um bocadinho a hora de deitar, mas isso é menos importante."
+    },
+    {
+      "role": "interviewer",
+      "text": "Isso que descreve é algo típico para você, ou é uma mudança recente em relação a como costumava dormir antes?"
+    },
+    {
+      "role": "participant",
+      "text": "Típico, sim — já lá vão umas boas semanas assim, desde que começaram as obras. Antes disso dormia mais direito, sem interrupções a meio da noite."
+    },
+    {
+      "role": "interviewer",
+      "text": "Entendi. De modo geral, você diria que está satisfeito com a forma como tem dormido atualmente? Por quê?"
+    },
+    {
+      "role": "participant",
+      "text": "Sim, de forma geral estou satisfeito — não é o sono perfeito que tinha antes das obras, mas também não é assim tão grave. Acorda-me umas vezes, mas volto a adormecer sem grande drama, e sei que é uma coisa temporária."
+    },
+    {
+      "role": "interviewer",
+      "text": "Agora uma pergunta um pouco diferente: você já ouviu aquele conselho de que adultos deveriam dormir entre 7 e 9 horas por noite. Isso lhe parece prático, viável, na sua rotina atual?"
+    },
+    {
+      "role": "participant",
+      "text": "Bem, na teoria até é um número razoável, mas na prática sete horas certinhas raramente acontecem cá em casa — entre as obras e às vezes o trabalho, fico mais perto das seis e meia, sete. Não me obsessivo com isso, desde que funcione bem no dia a dia."
+    },
+    {
+      "role": "interviewer",
+      "text": "Certo. Muitas pessoas mexem no telemóvel, tablet ou computador mesmo antes de dormir. Você também faz isso? Por que sim ou por que não?"
+    },
+    {
+      "role": "participant",
+      "text": "Não, sinceramente evito — chego a fechar o telemóvel bem antes, uso mais o resto do serão para o palavras cruzadas ou uma série. Talvez uma última olhadela aos emails, mais por hábito do que por necessidade, mas nada de scroll sem fim."
+    },
+    {
+      "role": "interviewer",
+      "text": "Entendi. E no geral, você usa redes sociais com frequência? Se sim, como costuma usá-las, especialmente nas horas antes de dormir?"
+    },
+    {
+      "role": "participant",
+      "text": "Não uso muito, sinceramente — tenho lá conta, olho de vez em quando durante o dia, mas à noite raramente. Prefiro mesmo o crossword ou a série antes de dormir."
+    },
+    {
+      "role": "interviewer",
+      "text": "Obrigado. E agora, sobre tecnologia em geral: você usa com alguma regularidade chatbots de IA (como ChatGPT, Gemini, Claude ou semelhantes)?"
+    },
+    {
+      "role": "participant",
+      "text": "Não, sinceramente não uso muito esse tipo de coisa — nem no trabalho, nem em casa. Já experimentei uma vez ou outra por curiosidade, mas não faz parte da minha rotina."
+    },
+    {
+      "role": "interviewer",
+      "text": "Certo, obrigado. Pensando então de forma geral: você sente que seus hábitos de sono mudaram nos últimos anos, por algum motivo em particular?"
+    },
+    {
+      "role": "participant",
+      "text": "Bem, mudaram um pouco, mas mais por coisas à volta do que por mim próprio — as obras aqui perto começaram a acordar-me mais cedo há uns meses, e os miúdos também já não têm horários tão fixos como quando eram pequenos, por isso a casa nunca está mesmo em silêncio. Fora isso, o essencial mantém-se parecido há anos."
+    },
+    {
+      "role": "interviewer",
+      "text": "Obrigado por explicar. Se você pudesse melhorar uma coisa nos seus hábitos de sono atualmente, o que você gostaria de mudar?"
+    },
+    {
+      "role": "participant",
+      "text": "Se pudesse mudar uma coisa, era acabar com o barulho da obra de manhã cedo — mais nada, o resto está tudo bem como está."
+    },
+    {
+      "role": "interviewer",
+      "text": "Faz sentido. Pensando na sua rotina de trabalho, estudos ou outras responsabilidades, você acha que essa mudança (menos barulho de manhã cedo, ou talvez começar as obras mais tarde) seria algo viável na prática? Por que sim ou por que não?"
+    },
+    {
+      "role": "participant",
+      "text": "Bem, na prática acho que é complicado — obras têm prazos e licenças, não vão mudar o horário só porque um vizinho se queixa. Já pensei em ligar para a câmara a perguntar, mas conhecendo a burocracia, duvido que valha o esforço para umas semanas que faltam. Prefiro só aguentar com os tampões e esperar que acabe."
+    },
+    {
+      "role": "interviewer",
+      "text": "Obrigado por detalhar isso. Agora, passando para algumas perguntas rápidas sobre você (sinta-se à vontade para pular qualquer coisa que não queira responder):\n\nQual é a sua idade, a sua profissão, o seu país de nascimento, o país onde mora atualmente e, se forem diferentes, quando você se mudou?"
+    },
+    {
+      "role": "participant",
+      "text": "Idade 47 anos, sou urbanista municipal — trabalho no departamento de planeamento urbano da câmara. Nasci aqui na Polónia e sempre vivi por perto, nunca me mudei de país."
+    },
+    {
+      "role": "interviewer",
+      "text": "Perfeito, muito obrigado por ter respondido a tudo.\n\nAntes de terminarmos, há mais alguma coisa sobre o seu sono, a sua rotina à noite ou o impacto das obras/ruídos que você ache importante acrescentar e que não tenha aparecido nas perguntas?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T06:22:34.503646+00:00"
+}

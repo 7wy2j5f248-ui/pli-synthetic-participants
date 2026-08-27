@@ -1,0 +1,127 @@
+{
+  "run_id": "PILOT-20260827061118",
+  "language": "es",
+  "index": 1,
+  "started_at": "2026-08-27T06:11:34.466126+00:00",
+  "participant_id": "P1787811082961",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Le damos la bienvenida a esta entrevista."
+    },
+    {
+      "role": "participant",
+      "text": "Hola, buenas. Sí, aquí estoy, listo cuando quiera empezar."
+    },
+    {
+      "role": "interviewer",
+      "text": "¿A qué hora te fuiste a la cama anoche?"
+    },
+    {
+      "role": "participant",
+      "text": "Anoche me acosté sobre medianoche, después de un turno tarde que termina a las once. Nada especial, la rutina de siempre."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por contarlo. Aproximadamente, ¿cuántas horas dormiste anoche? ¿Dirías que dormiste bien? ¿Por qué sí o por qué no?"
+    },
+    {
+      "role": "participant",
+      "text": "Como unas seis horas más o menos, pero no muy bien. Me desperté sobre las tres pensando en un lío de horarios en el trabajo y ya no volví a dormir de corrido, dando vueltas hasta que sonó la alarma a las cinco y media."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por la explicación. ¿Cuál fue la última actividad que hiciste justo antes de irte a la cama anoche? ¿Por qué elegiste hacer esa actividad?"
+    },
+    {
+      "role": "participant",
+      "text": "Anoche, antes de acostarme, lo último fue apagar el teléfono con la alarma puesta y revisar rápido el turno de mañana por si había algún cambio. Lo hago casi siempre así antes de un turno temprano, para no tener sorpresas al despertar."
+    },
+    {
+      "role": "interviewer",
+      "text": "Entiendo. Pensando no solo en anoche, sino en las últimas dos semanas, ¿qué factores dirías que han afectado más la calidad de tu sueño?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues las últimas dos semanas han sido más de lo mismo, la verdad. Lo que más me machaca es el turno rotativo: cuando paso de tarde a temprano, esas noches duermo peor, con cortes. Y luego está el estrés del trabajo, algún lío con horarios de otros conductores que se me mete en la cabeza a las tres de la mañana y ya no hay quien me duerma otra vez."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por explicarlo con tanto detalle. ¿Dirías que esto es bastante típico para ti desde hace tiempo, o ha cambiado algo recientemente en cómo duermes?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues sí, es bastante típico, la verdad. Llevo así años con los turnos rotativos, no es que haya empeorado mucho últimamente. Simplemente es lo que hay cuando cambias de turno, ya me lo sé de memoria."
+    },
+    {
+      "role": "interviewer",
+      "text": "Y en general, ¿dirías que estás contento con cómo duermes estos días, o más bien no? ¿Por qué?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues no, sinceramente no puedo decir que esté contento, pero tampoco es que me quite el sueño pensarlo, con perdón del chiste malo. Es lo que hay con este trabajo, llevo tantos años así que ya ni me planteo si está bien o mal, simplemente tiro para adelante con el café y la rutina."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por contarlo así. Has oído eso de que los adultos deberían dormir entre 7 y 9 horas por noche: ¿te parece algo práctico para ti ahora mismo, con tu situación actual?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues no, la verdad es que suena bien en la teoría, pero para mí eso es como pedirle peras al olmo con este horario. Con turnos que cambian de tarde a madrugada, sacar siete u ocho horas seguidas casi nunca cuadra, así que intento sobrevivir con lo que puedo y ya está."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por explicarlo. Mucha gente mira el móvil, la tablet o el ordenador justo antes de dormir. ¿Tú también lo haces? ¿Por qué sí o por qué no?"
+    },
+    {
+      "role": "participant",
+      "text": "No, la verdad casi nunca. Con el móvil ya trato bastante todo el día por lo de los turnos y avisos de otros conductores, así que por la noche prefiero dejarlo aparcado y punto, que si no me pongo a mirar tonterías y se me va el sueño más todavía."
+    },
+    {
+      "role": "interviewer",
+      "text": "Tiene sentido lo que comentas. ¿Sueles usar redes sociales de forma regular, aunque no sea justo antes de dormir? Si es así, ¿cómo las usas normalmente, sobre todo en las horas previas a acostarte?"
+    },
+    {
+      "role": "participant",
+      "text": "No, la verdad no mucho. Alguna vez le echo un ojo a Facebook para ver fotos de mi hija o algo de deportes, pero no soy de estar todo el rato con eso, y menos por la noche."
+    },
+    {
+      "role": "interviewer",
+      "text": "Perfecto, gracias. Ahora, una pregunta sobre tecnología en general: ¿sueles usar chatbots de inteligencia artificial, como ChatGPT, Gemini, Claude u otros parecidos? ¿Por qué sí o por qué no?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues no, la verdad casi nunca los uso. Alguna vez he trasteado un poco por curiosidad, pero no es algo que meta en mi rutina, con los horarios que tengo bastante tengo con estar al día con la logística y los partes de los camioneros."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por aclararlo. Si pudieras mejorar una sola cosa de tus hábitos de sueño, ¿qué te gustaría cambiar?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues si pudiera cambiar una cosa, sería no despertarme a media noche dándole vueltas al trabajo, como anoche que me desvelé a las tres pensando en un lío de horarios. El resto ya lo tengo asumido, pero esos despertares por preocuparme de curro sí que me fastidian más de lo que quisiera admitir."
+    },
+    {
+      "role": "interviewer",
+      "text": "Tiene mucho sentido lo que dices. Ahora, pensando en tu trabajo, tus turnos y tus responsabilidades diarias: ¿crees que ese cambio que te gustaría (no despertarte a medianoche por preocupaciones del trabajo) sería realista para ti? ¿Por qué sí o por qué no?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues sí, es realista si acepto que el objetivo no es dejar de preocuparme, sino cambiar cómo lo hago antes de acostarme. Al final el problema de anoche fue que dejé el lío del horario para pensarlo en la cama, así que si lo dejo más resuelto antes de apagar la luz, o al menos anotado para no dármele vueltas, seguramente duermo mejor. No sé si lo voy a conseguir siempre, pero algo se puede hacer, no es solo aguantarse."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por explicarlo así. Ahora, si te parece bien, unas últimas preguntas algo más generales (puedes saltarte cualquier dato que no quieras compartir):\n\n¿Cuál es tu edad, tu profesión, tu país de nacimiento, tu país de residencia actual y, si son distintos, cuándo te mudaste?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues tengo 52 años, soy despachador de logística para transporte de camiones de larga distancia. Nací en España, en un pueblo, y ahora vivo en una ciudad del interior, aquí mismo, no me he movido del país. Me mudé del pueblo a la ciudad hace ya bastantes años, cuando tenía unos veintitantos, por el tema del trabajo en logística."
+    },
+    {
+      "role": "interviewer",
+      "text": "Muchas gracias por compartir toda esta información y por el tiempo que has dedicado a la entrevista.\n\nAntes de cerrar, ¿hay algo más sobre tu sueño, tus turnos de trabajo o tu relación con la tecnología que te gustaría añadir o comentar, aunque sea algo pequeño?\n\nSi no, por mi parte ya habríamos terminado. Gracias de nuevo por participar."
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T06:13:49.580629+00:00"
+}

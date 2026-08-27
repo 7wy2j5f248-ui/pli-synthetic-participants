@@ -1,0 +1,135 @@
+{
+  "run_id": "PILOT-20260827061118",
+  "language": "es",
+  "index": 2,
+  "started_at": "2026-08-27T06:14:04.346831+00:00",
+  "participant_id": "P1787811233822",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Le damos la bienvenida a esta entrevista."
+    },
+    {
+      "role": "participant",
+      "text": "Buenas. Sí, aquí estoy, listo cuando quieran empezar."
+    },
+    {
+      "role": "interviewer",
+      "text": "¿A qué hora te fuiste a la cama anoche?"
+    },
+    {
+      "role": "participant",
+      "text": "Anoche me acosté sobre las once y media, después de ver un rato la tele."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias. Aproximadamente, ¿cuántas horas dormiste anoche? ¿Dirías que dormiste bien? ¿Por qué sí o por qué no?"
+    },
+    {
+      "role": "participant",
+      "text": "Anoche dormí unas seis horas y media, más o menos. Diría que bien, nada especial que reportar: me desperté una vez para ir al baño sobre las tres, pero me volví a dormir rápido, en un cuarto de hora. Para ser semana de turno temprano, es lo normal en mí."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por detallarlo. ¿Cuál fue la última actividad que hiciste justo antes de irte a la cama? ¿Por qué elegiste hacer esa actividad?"
+    },
+    {
+      "role": "participant",
+      "text": "Última actividad justo antes de acostarme fue ver la tele, un rato en el sofá para desconectar del turno, nada especial. Suelo hacer eso porque me ayuda a bajar revoluciones, no porque tenga un plan pensado."
+    },
+    {
+      "role": "interviewer",
+      "text": "Entiendo. En las últimas dos semanas, ¿qué factores dirías que han afectado más la calidad de tu sueño?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues sobre todo el tema de los turnos, que va alternando entre mañanas tempranas y tardes cada dos semanas, eso es lo que más me descoloca. Fuera de eso no diría que hay mucho más, duermo razonable la mayoría de las noches."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias, tiene sentido lo que comentas. ¿Dirías que esto es bastante típico para ti o ha cambiado algo recientemente en cómo duermes?"
+    },
+    {
+      "role": "participant",
+      "text": "Sí, es bastante típico, la verdad. Cuando toca semana de mañanas duermo un poco menos, seis y media más o menos, y en semana de tardes se me estira a siete y media. No diría que ha cambiado nada últimamente, es el patrón de siempre desde que llevo con estos turnos."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por explicarlo. En general, ¿estás contento con cómo duermes estos días, o te gustaría que fuera diferente? ¿Por qué?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues sí, contento en general, no me quejo. Con los turnos que tengo asumo que va a haber semanas mejores y peores, y mientras duerma mis seis y media o siete horas y no me pase el día hecho polvo, para mí ya está bien. Si pudiera elegir, dormiría siempre las siete y media de la semana de tardes, pero tampoco le doy más vueltas."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por compartir eso. Has mencionado antes la recomendación de dormir unas seis y media o siete horas en tu caso; mucha gente oye que lo ideal son 7–9 horas para adultos. ¿Esa recomendación te parece práctica para ti ahora mismo, con tus turnos?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues sí, la verdad es que sí, para mí es práctica. Yo no me guío por lo de las 7-9 horas, eso me parece más una media general, pero con mis turnos ya sé que hay semanas de seis y media y semanas de siete y media, y mientras funcione y no acabe reventado, me vale."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por aclararlo. Muchas personas usan el móvil, la tablet o el ordenador justo antes de dormir. ¿Tú también lo haces? ¿Por qué sí o por qué no?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues no mucho, la verdad, prefiero la tele para relajarme antes de dormir. El móvil lo suelto bastante antes, no me gusta meterme con eso justo antes de acostarme, me parece que me despeja más que me relaja."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por explicarlo. ¿Sueles usar redes sociales de forma regular? Si es así, ¿cómo las usas normalmente, especialmente en las horas antes de acostarte?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues no mucho, la verdad, no soy muy de redes. Alguna vez miro el móvil un rato antes de cenar, pero por la noche prefiero desconectar con la tele, no me pongo con eso justo antes de dormir."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por comentarlo. Ahora, sobre tecnología en general: ¿usas con regularidad chatbots de IA (como ChatGPT, Gemini, Claude u otras aplicaciones parecidas)?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues no, la verdad es que no uso esas cosas. Alguna vez he trasteado un poco con el móvil pero no es algo que use de forma habitual, no me hace falta para el día a día."
+    },
+    {
+      "role": "interviewer",
+      "text": "Entendido, gracias. ¿Dirías entonces que tus hábitos de sueño han cambiado en los últimos años por algún otro motivo (por ejemplo, trabajo, edad, rutina), o dirías que duermes más o menos igual que siempre?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues sí, con la edad noto que me cuesta un poco más recuperarme cuando cambio de turno que hace unos años. Antes el cambio de mañana a tarde casi ni lo notaba y ahora los primeros dos o tres días de cada rotación los llevo más flojo. Fuera de eso duermo parecido a siempre, no diría que ha cambiado mucho más."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por explicarlo tan claro. Si pudieras mejorar una sola cosa de tus hábitos de sueño, ¿qué te gustaría cambiar?\n\n(Después te preguntaré si crees que ese cambio sería viable con tus turnos y tu día a día.)"
+    },
+    {
+      "role": "participant",
+      "text": "Pues nada raro, la verdad: si pudiera cambiar una cosa sería recuperarme más rápido cuando cambia el turno, esos dos o tres primeros días de cada rotación. El resto lo llevo bien."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias. Teniendo en cuenta tus turnos y tus responsabilidades diarias, ¿crees que ese cambio —recuperarte más rápido cuando cambias de turno— sería viable? ¿Por qué sí o por qué no?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues sí, creo que sí sería viable, no es nada del otro mundo: sería cosa de dormir un poco más esos primeros días o cuidar mejor el horario antes del cambio. No necesito nada especial, solo un poco más de disciplina por mi parte."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por explicarlo. Para terminar, unas preguntas breves (puedes saltarte cualquier cosa que no quieras responder):\n\n¿Cuál es tu edad, tu profesión, tu país de nacimiento, tu país de residencia actual y, si es distinto, cuándo te mudaste?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues tengo 52 años, trabajo de coordinador logístico en un almacén, y nací y vivo aquí en la misma ciudad, no me he movido nunca."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por compartir esos datos. Con esto hemos llegado al final de las preguntas principales de la entrevista.\n\nAntes de cerrar, ¿hay algo más sobre tu sueño, tus turnos o tu rutina diaria que te gustaría añadir o comentar?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T06:15:54.761125+00:00"
+}
