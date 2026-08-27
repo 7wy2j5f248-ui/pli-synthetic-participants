@@ -1,0 +1,76 @@
+{
+  "run_id": "FULL-20260827134359",
+  "language": "es",
+  "index": 30,
+  "started_at": "2026-08-27T16:37:18.856354+00:00",
+  "participant_id": "P1787848626694",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Le damos la bienvenida a esta entrevista."
+    },
+    {
+      "role": "participant",
+      "text": "¡Hola! Buenos días. Aquí estoy, lista para la entrevista."
+    },
+    {
+      "role": "interviewer",
+      "text": "Buenos días, gracias por estar aquí.\n\nEmpecemos:\n\n¿Qué hora te fuiste a la cama anoche?"
+    },
+    {
+      "role": "participant",
+      "text": "Buenos días. Pues me acosté pasada la medianoche, sobre las doce y cuarto, más tarde de lo que suelo porque me quedé terminando unas facturas de un cliente."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por compartirlo.\n\nAproximadamente, ¿cuántas horas dormiste anoche? ¿Dirías que dormiste bien? ¿Por qué sí o por qué no?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues dormí unas cinco horas y media, más o menos, porque me acosté tarde y encima me desperté sola sobre las cinco y cuarenta, antes de lo que quería. Diría que dormí \"normal\", ni bien ni mal, aunque con menos horas de las que me gustan — al final decidí levantarme directamente en vez de darle más vueltas a la cama."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias, tiene sentido lo que comentas.\n\nPasando a otra cosa: ¿cuál fue la última actividad que hiciste antes de irte a la cama anoche? ¿Por qué elegiste hacer esa actividad?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues nada, leí un rato mi novela de misterio, unos veinte minutos, como hago casi siempre — me ayuda a desconectar la cabeza antes de apagar la luz."
+    },
+    {
+      "role": "interviewer",
+      "text": "Suena a una rutina muy agradable.\n\n¿Qué factores dirías que han afectado más a la calidad de tu sueño en las últimas dos semanas?"
+    },
+    {
+      "role": "participant",
+      "text": "Necesito responder como esta participante a la pregunta sobre factores que han afectado la calidad del sueño en las últimas dos semanas.\n\nPues mira, sobre todo lo activa que tenga la cabeza antes de acostarme — si ando con las cuentas de algún cliente pendientes, como anoche, me cuesta un poco más apagar el interruptor mental. Físicamente no diría que nada en especial, alguna noche las piernas me piden moverse un poco, pero nada que me quite el sueño de verdad."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias, se entiende muy bien lo que comentas.\n\n¿Dirías que esto es bastante típico para ti o ha cambiado algo recientemente en cómo duermes?"
+    },
+    {
+      "role": "participant",
+      "text": "Típico, sí, en general. Alguna que otra noche floja como la de anoche pasa de vez en cuando, sobre todo si me quedo con la cabeza dándole vueltas al trabajo, pero no diría que ha cambiado nada de fondo últimamente — más bien lo achaco a la edad, que una ya no duerme como a los treinta."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por explicarlo con tanto detalle.\n\nEn general, ¿dirías que estás contenta con cómo duermes estos días, o no tanto? ¿Por qué?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues sí, contenta en general. No espero dormir como una veinteañera, así que mientras me levante con energía suficiente para hacer mis cosas, me doy por satisfecha. Alguna noche corta como la de hoy no me quita el sueño, nunca mejor dicho."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por compartirlo así.\n\nHas oído seguramente eso de que las personas adultas deberían dormir entre 7 y 9 horas cada noche. ¿Sientes que eso es práctico para ti en este momento?"
+    },
+    {
+      "role": "participant",
+      "text": "Sí, la verdad es que no mucho, jeje. Con las siete o siete y media que suelo dormir voy tirando bien, así que ese rango de siete a nueve me parece más una recomendación general que algo que tenga que cumplir al pie de la letra. Si me obligara a estar en la cama más tiempo del que mi cuerpo pide, creo que me pasaría el rato dando vueltas sin más."
+    }
+  ],
+  "status": "blocked",
+  "error": "no new interviewer message appeared (timeout)",
+  "ended_at": "2026-08-27T16:38:50.322664+00:00"
+}

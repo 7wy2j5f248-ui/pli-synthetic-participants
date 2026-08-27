@@ -1,0 +1,127 @@
+{
+  "run_id": "FULL-20260827134359",
+  "language": "es",
+  "index": 23,
+  "started_at": "2026-08-27T16:23:11.234929+00:00",
+  "participant_id": "P1787847772278",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Le damos la bienvenida a esta entrevista."
+    },
+    {
+      "role": "participant",
+      "text": "Buenas, encantado. Sí, aquí estoy."
+    },
+    {
+      "role": "interviewer",
+      "text": "¿A qué hora te fuiste a la cama anoche?"
+    },
+    {
+      "role": "participant",
+      "text": "Anoche me acosté sobre la una, la una y cuarto quizás. Tuve algo de lío en el taller hasta tarde y luego me entretuve un rato viendo repeticiones de ciclismo antes de meterme en la cama."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias. Aproximadamente, ¿cuántas horas dormiste anoche? ¿Dirías que dormiste bien? ¿Por qué sí o por qué no?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues... unas seis horas, más o menos. No puedo decir que fue mala, me quedé dormido enseguida, pero me desperté un par de veces en medio de la noche, cambiando de postura, nada grave. Diría que \"bien\" para lo que es normal en mí, aunque me hubiera venido bien una hora más."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por explicarlo. ¿Cuál fue la última actividad que hiciste justo antes de irte a la cama? ¿Por qué elegiste hacer esa actividad?"
+    },
+    {
+      "role": "participant",
+      "text": "Anoche solo estuve trasteando un poco con unas piezas en el taller, nada importante, más bien para despejarme. Lo hago casi siempre antes de acostarme, me relaja más que quedarme mirando el móvil."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por contarlo. Pensando en las últimas dos semanas, ¿qué factores dirías que han afectado más a la calidad de tu sueño?"
+    },
+    {
+      "role": "participant",
+      "text": "Anteayer no dormí demasiado, la verdad, y la operación de rodilla que tengo el mes que viene a veces me da vueltas por la cabeza cuando ya estoy acostado. Y bueno, el fin de semana tuve mucho trabajo en el taller, eso también cansa aunque físicamente, no sé si afecta al sueño en sí."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por compartirlo. ¿Dirías que esto que comentas es bastante típico en ti, o ha cambiado algo últimamente en cómo duermes?"
+    },
+    {
+      "role": "participant",
+      "text": "Sí, es bastante típico. La verdad es que llevo así años, no es algo nuevo. Lo único diferente ahora es el tema de la rodilla, que a veces se me mete en la cabeza por la noche, pero de resto duermo como siempre he dormido."
+    },
+    {
+      "role": "interviewer",
+      "text": "Entendido. En general, ¿dirías que estás contento con cómo duermes estos días, o te gustaría que fuera diferente? ¿Por qué?"
+    },
+    {
+      "role": "participant",
+      "text": "Estoy contento, la verdad. No es un sueño perfecto ni nada de eso, pero llevo así toda la vida y funciono bien. Si tuviera que cambiar algo sería lo de la rodilla, que se me quite de la cabeza de una vez, más que el sueño en sí."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por la claridad. Has mencionado antes lo de dormir unas seis horas y que te vendría bien una más. Has oído eso de que los adultos deberían dormir entre 7 y 9 horas por noche; ¿eso te resulta práctico en tu situación actual, o no lo ves muy realista?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues... a mí eso de las 7-9 horas me suena más a lo que dicen las revistas que a algo que vaya a cumplir yo. Con el taller y los horarios que llevo, no lo veo nada realista, la verdad. Prefiero funcionar bien con lo que duermo que obsesionarme con un número."
+    },
+    {
+      "role": "interviewer",
+      "text": "Tiene sentido lo que comentas. Mucha gente mira el móvil, la tablet o el ordenador justo antes de acostarse. ¿Tú también lo haces, o más bien intentas evitarlo? ¿Por qué?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues no, la verdad, intento evitarlo. Es más por costumbre que otra cosa, prefiero estar un rato con las manos ocupadas en algo del taller que con la pantalla delante de la cara antes de dormir."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por explicarlo. Te pregunto ahora por redes sociales: ¿usas redes sociales de forma habitual? Si es que sí, ¿cómo sueles usarlas, sobre todo en las horas antes de acostarte?"
+    },
+    {
+      "role": "participant",
+      "text": "No lo hago mucho, la verdad, tengo Facebook pero lo miro más bien de día, para el taller y algún grupo de aficionados a la bici. Antes de dormir casi no lo toco, ya te digo, prefiero las manos ocupadas con algo del taller que con el móvil."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias, queda claro. Ahora una pregunta rápida sobre tecnología en general: ¿sueles usar chatbots de inteligencia artificial (como ChatGPT, Gemini, Claude u otros) de manera regular?"
+    },
+    {
+      "role": "participant",
+      "text": "No, no uso ese tipo de programas de forma regular. Alguna vez he cotilleado por curiosidad, pero para el día a día del taller uso lo de siempre, nada de inteligencia artificial."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por aclararlo. Pasando a otra cosa: si pudieras mejorar una sola cosa de tus hábitos de sueño, ¿qué te gustaría cambiar?"
+    },
+    {
+      "role": "participant",
+      "text": "Necesitaría dejar la mente tranquila con lo de la rodilla, la verdad, ya que eso es lo único que me despierta con algo más que un cambio de postura. El resto lo llevo bien, no cambiaría gran cosa más."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por compartirlo así. Pensando en tu trabajo en el taller, tus responsabilidades diarias y todo lo demás, ¿crees que lograr esa “mente más tranquila” por la noche sería algo viable para ti ahora mismo? ¿Por qué sí o por qué no?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues... viable del todo, no sé si lo llamaría así. Es más bien que tengo que esperar a que pase la operación, un mes de espera se hace largo cuando la cabeza le da vueltas a algo por su cuenta. Con el taller no puedo hacer mucho, pero bueno, mientras tenga las manos ocupadas con algo se me pasa un poco."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por explicarlo tan bien. Para ir cerrando, y solo si te apetece compartirlo: \n\n- tu edad,\n- tu profesión,\n- tu país de nacimiento,\n- tu país de residencia actual,\n- y, si es distinto, ¿cuándo te mudaste?\n\nSi prefieres saltarte algún punto, no hay problema, puedes omitirlo."
+    },
+    {
+      "role": "participant",
+      "text": "Edad, cincuenta y dos años. De profesión, mecánico de bicicletas, tengo mi propio taller. Nacido y viviendo siempre aquí en Polonia, en Breslavia, nunca me he mudado a otro sitio."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por compartir todos esos datos y por todo lo que has contado durante la entrevista.\n\nAntes de terminar, ¿hay algo más sobre tu sueño o tus noches que te gustaría añadir, algo que no haya salido y te parezca importante?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T16:24:51.469603+00:00"
+}

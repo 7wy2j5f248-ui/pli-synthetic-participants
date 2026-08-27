@@ -1,0 +1,119 @@
+{
+  "run_id": "FULL-20260827134359",
+  "language": "es",
+  "index": 10,
+  "started_at": "2026-08-27T15:56:06.184569+00:00",
+  "participant_id": "P1787846154443",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Le damos la bienvenida a esta entrevista."
+    },
+    {
+      "role": "participant",
+      "text": "Buenas. Sí, aquí estamos."
+    },
+    {
+      "role": "interviewer",
+      "text": "¿A qué hora te fuiste a dormir anoche?"
+    },
+    {
+      "role": "participant",
+      "text": "A la 1 de la mañana, más o menos. Aunque bueno, no miro mucho el reloj, ya sabes cómo va esto."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias. Aproximadamente, ¿cuántas horas dirías que dormiste anoche? ¿Y dirías que dormiste bien? ¿Por qué sí o por qué no?"
+    },
+    {
+      "role": "participant",
+      "text": "Dormí unas seis horas y media, más o menos. Diría que bien, sí... me desperté una vez a eso de las cuatro por la alarma del coche de un vecino, pero volví a dormirme rápido, en veinte minutos. No es como para quejarse."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por contarlo con tanto detalle. ¿Cuál fue la última actividad que hiciste antes de irte a la cama? ¿Y por qué elegiste hacer esa actividad en ese momento?"
+    },
+    {
+      "role": "participant",
+      "text": "Estuve viendo un partido resumido en la radio, con el volumen bajito, mientras cerraba un poco los ojos. Es lo que hago siempre antes de dormir, me relaja más que el móvil, que eso sí que te espabila."
+    },
+    {
+      "role": "interviewer",
+      "text": "Tiene sentido lo que comentas. Pensando ya no solo en anoche sino en las últimas dos semanas, ¿qué factores dirías que han afectado más a la calidad de tu sueño?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues sobre todo el ruido de la calle, esas noches sueltas de algún coche o gente volviendo tarde. Y el trabajo, cuando tengo algún cliente urgente y cierro tarde, pues acuesto más tarde también, pero vamos, no es que me quite mucho sueño."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias, lo explicas muy claro. ¿Dirías que esto es lo típico para ti desde hace tiempo, o ha cambiado algo recientemente en cómo duermes?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues casi siempre ha sido así, la verdad, no ha cambiado gran cosa. Soy de dormir tarde de toda la vida, no es cosa de ahora. Lo único, cuando hay algún cliente que me lía por la tarde, retraso un poco más, pero es lo de siempre, nada nuevo."
+    },
+    {
+      "role": "interviewer",
+      "text": "Entiendo. En general, ¿dirías que estás contento con cómo duermes estos días, o te gustaría que fuera distinto? ¿Por qué?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues sí, contento en general. Duermo lo que necesito, y si algún día se acorta un poco por trabajo o por ruido, tampoco es el fin del mundo. No busco cambiar nada, la verdad, esto lleva funcionándome así toda la vida."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por compartirlo así. Has oído eso de que los adultos deberían dormir entre 7 y 9 horas por noche. ¿Te parece algo práctico para ti ahora mismo, o no tanto?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues no mucho, la verdad. Eso está bien para quien madruga y se acuesta pronto, pero yo llevo otro ritmo desde siempre y me funciona. Yo hago mis seis y media, siete horas, y voy tirando bien, como un motor que ya está ajustado a su voltaje, no hace falta forzarlo a otro."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por la metáfora del motor, se entiende muy bien. Mucha gente mira el móvil, la tablet o el ordenador justo antes de dormir. ¿Tú también lo haces, o prefieres evitarlo? ¿Por qué?"
+    },
+    {
+      "role": "participant",
+      "text": "No, no lo hago. Si me quedo despierto miro el móvil me espabila más, prefiero la radio bajita, que eso sí que me relaja."
+    },
+    {
+      "role": "interviewer",
+      "text": "Entendido. ¿Sueles usar redes sociales de forma regular? Si es así, ¿cómo las usas normalmente, sobre todo en las horas antes de dormir?"
+    },
+    {
+      "role": "participant",
+      "text": "No, no uso mucho las redes antes de dormir, la verdad. A veces echo un vistazo rápido a algún grupo de WhatsApp de clientes o del barrio, pero poco más, no me engancho con eso por la noche."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por aclararlo. Ahora, una pregunta rápida sobre tecnología en general: ¿sueles usar chatbots de inteligencia artificial, como ChatGPT, Gemini, Claude u otras aplicaciones parecidas?\n\nSi es así:\n* ¿Cuándo empezaste a usarlos?\n* ¿Para qué los utilizas principalmente (trabajo, estudios, dudas personales, otras cosas)?"
+    },
+    {
+      "role": "participant",
+      "text": "No, no suelo usar esas cosas. Alguna vez algún cliente me ha dicho \"pregúntale al chat ese\" para buscar una pieza rara, y lo he probado un par de veces, pero no es algo mío, la verdad. Para el trabajo confío más en el catálogo del proveedor o en llamar directamente."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por contarlo. Como no usas mucho redes sociales ni chatbots, esta parte ya la tendríamos.\n\nSi pudieras mejorar una sola cosa de tus hábitos de sueño, ¿qué te gustaría cambiar?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues no sé, quizás dormir un par de horas más los días que cierro tarde, que ahí sí que se me acumula un poco. Pero tampoco es algo que me quite el sueño, nunca mejor dicho."
+    },
+    {
+      "role": "interviewer",
+      "text": "Tiene sentido lo que comentas. Ahora, si te parece bien, unas preguntas breves sobre ti (puedes saltarte lo que no quieras compartir):\n\n* Tu edad;\n* Tu profesión;\n* Tu país de nacimiento;\n* Tu país de residencia actual;\n* Y, si es distinto del de nacimiento, ¿cuándo te mudaste?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues nada, 52 años, reparador de electrodomésticos, tengo mi propio taller. Nacido y vivido siempre aquí, no me he movido de mi país."
+    },
+    {
+      "role": "interviewer",
+      "text": "Muchas gracias, está todo respondido.\n\nAntes de cerrar, ¿hay algo más sobre tu sueño o tus hábitos antes de dormir que te gustaría añadir o comentar?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T15:57:37.572525+00:00"
+}

@@ -1,0 +1,127 @@
+{
+  "run_id": "FULL-20260827134359",
+  "language": "es",
+  "index": 18,
+  "started_at": "2026-08-27T16:12:43.239358+00:00",
+  "participant_id": "P1787847141721",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Le damos la bienvenida a esta entrevista."
+    },
+    {
+      "role": "participant",
+      "text": "Buenas tardes. Sí, aquí estoy, listo para empezar."
+    },
+    {
+      "role": "interviewer",
+      "text": "¿A qué hora te fuiste a dormir anoche?"
+    },
+    {
+      "role": "participant",
+      "text": "Anoche no dormí de noche, venía saliendo de un turno nocturno. Me acosté como a las nueve de la mañana y me levanté cerca de las dos de la tarde."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por contarlo. Aproximadamente, ¿cuántas horas dirías que dormiste en ese tramo? ¿Dirías que dormiste bien? ¿Por qué sí o por qué no?"
+    },
+    {
+      "role": "participant",
+      "text": "Aproximadamente cinco horas, con esa cabeceada previa en el sofá. No diría que dormí mal, pero tampoco fue de las mejores — desperté medio atontado, como pasa siempre después de un turno de noche. Ya es costumbre, el cuerpo tarda un rato en asentarse."
+    },
+    {
+      "role": "interviewer",
+      "text": "Entiendo. ¿Qué fue lo último que hiciste antes de acostarte a dormir después de tu turno? ¿Por qué elegiste hacer esa actividad?"
+    },
+    {
+      "role": "participant",
+      "text": "Última cosa antes de acostarme fue apagar la tele y dar una vuelta rápida por la huerta del balcón, regar un poco las plantas. Lo hago casi siempre después del turno de noche, me ayuda a bajar un poco antes de meterme a la cama."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por explicarlo. Pensando ya más en estos últimos catorce días, ¿qué factores sientes que han afectado más la calidad de tu sueño?"
+    },
+    {
+      "role": "participant",
+      "text": "Esos días trabajo turno noche, la verdad. Aunque duermo mis siestas divididas, nunca es igual de sólido que cuando estoy en turno día, y a veces se me acumula un poco el cansancio hacia el tercer o cuarto día seguido de nocturno."
+    },
+    {
+      "role": "interviewer",
+      "text": "¿Dirías que este patrón con los turnos de noche es lo típico para ti desde hace tiempo, o ha cambiado algo recientemente en cómo duermes?"
+    },
+    {
+      "role": "participant",
+      "text": "Como mucho tiempo ya, la verdad — llevo así unos veinte años entre turnos, esto es más o menos lo de siempre. No diría que cambió nada reciente, solo que con la edad uno nota un poco más el bajón después de las noches, pero el patrón en sí es el mismo de siempre."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por contarlo. En general, ¿dirías que estás conforme con cómo estás durmiendo estos días, o no tanto? ¿Por qué?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues, en general sí estoy conforme, la verdad. No espero dormir ocho horas seguidas ni nada de eso, ya sé que con este trabajo no es realista — mientras el cuerpo aguante y me sienta funcional para el turno, lo tomo como normal. Lo que sí, de vez en cuando extraño dormir de corrido como en los días de turno diurno, pero no es algo que me quite el sueño, valga la redundancia."
+    },
+    {
+      "role": "interviewer",
+      "text": "Has mencionado antes que no ves muy realista dormir ocho horas seguidas con tu trabajo. Has oído esa recomendación típica de que las personas adultas deberían dormir entre 7 y 9 horas por noche, ¿sientes que eso es práctico para ti en este momento?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues no, la verdad — siete a nueve horas seguidas suena bien en teoría, pero con este trabajo no es algo que uno se pueda proponer como meta. Uno se acomoda a lo que da el turno, y ya está."
+    },
+    {
+      "role": "interviewer",
+      "text": "Entiendo. Pensando en tu día a día, ¿qué es lo que te hace más difícil o más fácil llegar a esas 7–9 horas en total, aunque sea sumando siestas y tramos de sueño?"
+    },
+    {
+      "role": "participant",
+      "text": "Bueno, lo que más me juega en contra es acumular varias noches seguidas, tipo la tercera o cuarta noche del bloque, ahí sí que cuesta más juntar las horas aunque sume las siestas. Y lo que ayuda es cuando puedo dormir de un tirón sin que nada me interrumpa, ahí sí recupero más rápido, aunque sea menos tiempo total."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por explicarlo. Cambiando un poco de tema: muchas personas miran el móvil, la tablet o el computador justo antes de acostarse.\n\n¿Tú también haces esto? ¿Por qué sí o por qué no?"
+    },
+    {
+      "role": "participant",
+      "text": "No, la verdad, esos días no. Cuando salgo del turno ando cansado, así que si tengo la tele prendida un rato en el sofá, sí, pero el celular lo dejo de lado antes de irme a la cama — no me interesa mucho estar mirando pantalla justo antes de dormir, prefiero dejar la cabeza tranquila."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por contarlo. ¿Sueles usar redes sociales con regularidad, aunque no justo antes de dormir? Si es así, ¿cómo las usas normalmente, especialmente en las horas previas a acostarte cuando te toca dormir de noche o de día?"
+    },
+    {
+      "role": "participant",
+      "text": "No, la verdad, redes sociales casi no reviso — un poco de mañana, tomando café, o si estoy en el trabajo en algún rato tranquilo, pero antes de acostarme no me pongo con eso. Prefiero dejarlo para cuando ya ando despierto y activo, no justo cuando quiero apagar la cabeza."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por aclararlo. Ahora, una pregunta rápida sobre tecnología en general: ¿usas con regularidad chatbots de inteligencia artificial (como ChatGPT, Gemini, Claude u otras aplicaciones parecidas)?"
+    },
+    {
+      "role": "participant",
+      "text": "No, la verdad, chatbots así casi no uso — alguna vez probé para buscar algo rápido, pero no es parte de mi rutina, no."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por aclararlo. Pasando a otra cosa: si pudieras mejorar una sola cosa de tus hábitos de sueño, ¿qué te gustaría cambiar?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues, si pudiera cambiar algo... creo que sería no depender tanto de la siesta partida en los días de turno de noche, poder dormir de un tirón más largo aunque sea mismo total de horas. Pero tampoco es que me quite el sueño pensarlo, uno ya sabe que viene con el trabajo."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por compartirlo. Ahora unas preguntas más generales sobre ti; responde solo lo que te sientas cómodo compartiendo.\n\n¿Cuál es tu edad, tu profesión, tu país de nacimiento, tu país de residencia actual y, si aplica, en qué año te mudaste?"
+    },
+    {
+      "role": "participant",
+      "text": "Tengo 52 años, soy operador en una planta de tratamiento de agua acá en Curitiba. Nací en el interior de Paraná, en un pueblo chico, y me vine para acá como a los veintipico buscando trabajo — o sea, todo dentro de Brasil, nunca me fui afuera."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por compartir esos datos. Con esto hemos llegado al final de las preguntas principales de la entrevista.\n\nAntes de cerrar, ¿hay algo más sobre tu sueño, tus turnos de trabajo o tus rutinas antes de dormir que te gustaría agregar o que sientas que no haya quedado reflejado en lo que hablamos?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T16:14:26.629773+00:00"
+}

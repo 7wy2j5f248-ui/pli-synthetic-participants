@@ -1,0 +1,127 @@
+{
+  "run_id": "FULL-20260827134359",
+  "language": "es",
+  "index": 9,
+  "started_at": "2026-08-27T15:54:03.023958+00:00",
+  "participant_id": "P1787846029648",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Le damos la bienvenida a esta entrevista."
+    },
+    {
+      "role": "participant",
+      "text": "Buenos días, encantada de participar. Adelante, dígame qué necesita preguntarme."
+    },
+    {
+      "role": "interviewer",
+      "text": "¿A qué hora te fuiste a la cama anoche?"
+    },
+    {
+      "role": "participant",
+      "text": "Anoche me acosté sobre las once, como siempre, y me dormí bastante rápido la verdad."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias. Aproximadamente, ¿cuántas horas dormiste anoche? ¿Dirías que dormiste bien? ¿Por qué sí o por qué no?"
+    },
+    {
+      "role": "participant",
+      "text": "Anoche dormí unas cinco horas, más o menos, contando la parte en que me desperté. Yo diría que dormí bien, sí, porque me costó poco conciliar el sueño... aunque luego me despierto sobre las cuatro de la madrugada con la cabeza dándole vueltas a las cuentas de la tienda, eso es casi todos los días, ya lo tengo asumido."
+    },
+    {
+      "role": "interviewer",
+      "text": "Entiendo. ¿Cuál fue la última actividad que hiciste justo antes de irte a la cama anoche? ¿Por qué elegiste hacer esa actividad?"
+    },
+    {
+      "role": "participant",
+      "text": "Un vaso de leche tibia con miel, como hacía mi madre, casi por costumbre más que porque piense que me vaya a ayudar mucho a dormir. Lo tomé mientras escuchaba un rato la radio, y luego ya me fui a la cama."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por compartirlo. Pensando ahora en las últimas dos semanas, ¿qué factores dirías que han afectado más la calidad de tu sueño?"
+    },
+    {
+      "role": "participant",
+      "text": "Últimamente diría que lo que más me quita calidad al sueño son los números de la tienda, que se me meten en la cabeza a las cuatro de la mañana sin que yo los llame. Y luego está la perra, que ya es mayor y algunas noches me despierta para sacarla, aunque eso lo llevo mejor."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias, es muy claro lo que comentas. ¿Dirías que esto es lo habitual para ti desde hace tiempo, o ha cambiado algo recientemente en cómo duermes?"
+    },
+    {
+      "role": "participant",
+      "text": "Habitual desde hace tiempo, la verdad, esto de despertarme a las cuatro no es nada nuevo para mí. Llevo así muchos años, con la tienda ya me pasaba antes también, así que no diría que ha cambiado nada últimamente."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por aclararlo. En general, ¿dirías que estás contenta con cómo duermes estos días, o te gustaría que fuera distinto? ¿Por qué?"
+    },
+    {
+      "role": "participant",
+      "text": "Estoy contenta con cómo duermo, la verdad, no me quejo. Sé que no son muchas horas, pero me funciona bien para el día a día en la tienda, y tampoco le doy más vueltas."
+    },
+    {
+      "role": "interviewer",
+      "text": "De acuerdo, gracias. Has oído eso de que las personas adultas deberían dormir entre 7 y 9 horas por noche. ¿Te parece que eso es práctico para ti en este momento?"
+    },
+    {
+      "role": "participant",
+      "text": "Bueno, en teoría suena bien, pero para mí eso de las siete a nueve horas es un poco de laboratorio, ¿no? Con la tienda a las ocho y la cabeza que se me pone a las cuatro, no sé cómo iba a conseguir eso, y tampoco es que me sienta mal, así que no le doy mucha importancia."
+    },
+    {
+      "role": "interviewer",
+      "text": "Entiendo. Mucha gente siente algo parecido. Muchas personas miran el móvil, la tablet o el ordenador justo antes de irse a dormir. ¿Tú también lo haces, o no sueles usar pantallas antes de acostarte? ¿Por qué?"
+    },
+    {
+      "role": "participant",
+      "text": "No sé, la verdad prefiero no mirar el móvil antes de dormirme, más que nada porque si me pongo a ver algo del negocio o correos me despejo más de la cuenta. Con la radio ya tengo suficiente ruido de fondo, así que el teléfono lo dejo aparte casi siempre."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por contarlo. ¿Sueles usar redes sociales de manera regular? Si es así, ¿cómo las usas normalmente, sobre todo en las horas antes de irte a la cama?"
+    },
+    {
+      "role": "participant",
+      "text": "No sigo redes sociales así en plan constante, la verdad, no tengo mucho tiempo entre la tienda y la casa. Alguna vez miro el móvil un rato antes de dormir, pero no es algo que haga todas las noches."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por explicarlo. Ahora, una pregunta rápida sobre tecnología en general: ¿sueles usar chatbots de inteligencia artificial, como ChatGPT, Gemini, Claude u otras aplicaciones parecidas?"
+    },
+    {
+      "role": "participant",
+      "text": "No, la verdad no uso mucho eso de los chatbots de inteligencia artificial. En la tienda a veces mi hijo me habla de esas cosas, pero yo entre el negocio y la casa no me pongo a trastear con eso, no me hace mucha falta."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias, entendido. Dado que no usas redes sociales ni chatbots de forma regular, paso a la siguiente cuestión: si pudieras mejorar una sola cosa de tus hábitos de sueño, ¿qué te gustaría cambiar?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues... si pudiera cambiar algo, quizás sería no despertarme tan de golpe a las cuatro con la cabeza dándole vueltas a las cuentas de la tienda. Pero bueno, tampoco me quita el sueño pensarlo mucho, con perdón del chiste."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias, se entiende muy bien. Pensando en tu día a día con la tienda y las demás responsabilidades, ¿crees que sería viable cambiar eso de despertarte tan pronto, o lo ves difícil? ¿Por qué?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues no sé, la verdad lo veo difícil de cambiar del todo, porque las cuentas de la tienda no dejan de existir aunque yo quiera dormir mejor. A lo mejor podría intentar no darle tantas vueltas antes de dormirme, pero cambiar la hora en que me despierto no depende mucho de mí."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por explicarlo. Para ir terminando, si te sientes cómoda compartiéndolo, ¿podrías decirme:\n\n- Tu edad,\n- Tu profesión,\n- Tu país de nacimiento,\n- Tu país de residencia actual,\n- Y, si es distinto, cuándo te mudaste al país donde vives ahora?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues tengo 58 años, soy comerciante, tengo una tienda de ferretería con mi marido. Nací aquí en Portugal y sigo viviendo aquí toda mi vida, así que no me he mudado a ningún otro sitio."
+    },
+    {
+      "role": "interviewer",
+      "text": "Muchas gracias por compartir toda esta información y por el tiempo que has dedicado a la entrevista.\n\nAntes de cerrar, ¿hay algo más sobre tu sueño o tus rutinas antes de dormir que te gustaría añadir, algo que no haya salido todavía y que te parezca importante?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T15:55:50.429695+00:00"
+}

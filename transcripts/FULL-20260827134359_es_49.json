@@ -1,0 +1,44 @@
+{
+  "run_id": "FULL-20260827134359",
+  "language": "es",
+  "index": 49,
+  "started_at": "2026-08-27T16:55:42.783141+00:00",
+  "participant_id": "P1787849729234",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Le damos la bienvenida a esta entrevista."
+    },
+    {
+      "role": "participant",
+      "text": "Buenos días. Adelante, pregunte lo que necesite."
+    },
+    {
+      "role": "interviewer",
+      "text": "¿A qué hora te fuiste a la cama anoche?"
+    },
+    {
+      "role": "participant",
+      "text": "Buenos días. Pues... me acosté sobre las once, once y media, pero eso no significa mucho, ¿eh? A la una y cuarenta me llamaron por una cerradura que no abría, así que digamos que \"acostado\" y \"durmiendo\" son dos cosas distintas."
+    },
+    {
+      "role": "interviewer",
+      "text": "Vaya, una noche movidita. Aproximadamente, ¿cuántas horas dirías que dormiste en total anoche? ¿Y dirías que dormiste bien, o no tanto? ¿Por qué?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues... calculo que habré dormido unas cinco horas, quizás cinco y media, contando los trozos. No diría que bien, pero tampoco es la primera vez, así que uno se acostumbra. Al final es el precio de tener el negocio, ¿no? Alguien tiene que abrirle la puerta a la gente a las dos de la mañana."
+    },
+    {
+      "role": "interviewer",
+      "text": "Entiendo. Y antes de irte a la cama anoche, ¿cuál fue la última actividad que hiciste? ¿Por qué elegiste hacer eso justo antes de acostarte?"
+    },
+    {
+      "role": "participant",
+      "text": "Anoche, antes de acostarme... hice el crucigrama que tenía a medias, la verdad, más por costumbre que otra cosa. Ayuda a que la cabeza se vaya asentando en vez de andar pensando en pedidos o en llaves que faltan por cortar."
+    }
+  ],
+  "status": "blocked",
+  "error": "no new interviewer message appeared (timeout)",
+  "ended_at": "2026-08-27T16:57:00.329876+00:00"
+}

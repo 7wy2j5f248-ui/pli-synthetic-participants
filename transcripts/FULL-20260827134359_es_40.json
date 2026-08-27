@@ -1,0 +1,20 @@
+{
+  "run_id": "FULL-20260827134359",
+  "language": "es",
+  "index": 40,
+  "started_at": "2026-08-27T16:46:40.886288+00:00",
+  "participant_id": "P1787849188689",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Le damos la bienvenida a esta entrevista."
+    },
+    {
+      "role": "participant",
+      "text": "Buenas. Sí, aquí estamos."
+    }
+  ],
+  "status": "blocked",
+  "error": "no new interviewer message appeared (timeout)",
+  "ended_at": "2026-08-27T16:47:14.555106+00:00"
+}

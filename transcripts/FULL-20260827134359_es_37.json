@@ -1,0 +1,92 @@
+{
+  "run_id": "FULL-20260827134359",
+  "language": "es",
+  "index": 37,
+  "started_at": "2026-08-27T16:42:59.777003+00:00",
+  "participant_id": "P1787848965014",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Le damos la bienvenida a esta entrevista."
+    },
+    {
+      "role": "participant",
+      "text": "Buenos días. Sí, aquí estoy, listo cuando quiera."
+    },
+    {
+      "role": "interviewer",
+      "text": "¿A qué hora te fuiste a la cama anoche?"
+    },
+    {
+      "role": "participant",
+      "text": "Anoche me acosté como sobre las once y media, la hora de siempre. Aunque luego el sueño no fue tan bueno, la verdad, con eso del préstamo de la reforma del taller dándome vueltas en la cabeza."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por contarlo. Aproximadamente, ¿cuántas horas dirías que dormiste anoche?\n¿Dirías que dormiste bien o mal? ¿Por qué?"
+    },
+    {
+      "role": "participant",
+      "text": "Anoche calculo que dormí unas cinco horas, quizás cinco y media, con esos dos despertares de por medio. Diría que dormí mal, sí, pero no es lo normal en mí — fue por la cabeza dándole vueltas al préstamo del taller, que en cuanto me puse a hacer cuentas mentales ya se me fue el sueño."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por explicarlo con tanto detalle. \n\nPasando a otra cosa: ¿cuál fue la última actividad que hiciste justo antes de irte a la cama anoche?\n¿Por qué elegiste hacer esa actividad en ese momento?"
+    },
+    {
+      "role": "participant",
+      "text": "Voy a responder como el participante, manteniendo la persona interna oculta.\n\nAnoche justo antes de acostarme estuve partiendo un poco de leña afuera, un rato tranquilo, casi mecánico. Lo hago casi siempre por las noches, me ayuda a despejar la cabeza antes de meterme en la cama, aunque anoche la verdad es que no sirvió de mucho."
+    },
+    {
+      "role": "interviewer",
+      "text": "Entiendo. En las últimas dos semanas, ¿qué factores dirías que han afectado más la calidad de tu sueño?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues sobre todo el tema del préstamo del taller, esa ha sido la novedad de estas dos semanas. El resto del año duermo bastante bien, pero desde que firmé lo de la reforma del tejado se me ha metido la cabeza en modo cuentas por las noches, y eso sí que me quita el sueño más que cualquier otra cosa."
+    },
+    {
+      "role": "interviewer",
+      "text": "¿Dirías que esto que te está pasando estas dos semanas es bastante típico en ti cuando tienes una preocupación grande, o sientes que es algo más excepcional esta vez?\n\nY en general, pensando más allá de estas dos semanas, ¿estás contento con cómo sueles dormir en esta época de tu vida? ¿Por qué sí o por qué no?"
+    },
+    {
+      "role": "participant",
+      "text": "Mira, cuando tengo una preocupación gorda sí que me suele pasar esto, no es la primera vez que un problema me quita el sueño un par de noches. Pero lo de ahora es un poco más intenso de lo habitual, quizás porque es dinero y encima recién firmado, así que le doy más vueltas de lo normal. En general sí, estoy contento con cómo duermo la mayor parte del año — soy de los que se acuesta y se despierta solo, sin despertador, salvo cuando tengo alguna cocción del horno de madrugada, que ahí ya es otra historia."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por compartir todo eso.\n\nHas mencionado el préstamo y las preocupaciones económicas como algo que te está afectando ahora. Pensando en estas dos últimas semanas en concreto, ¿dirías que, en conjunto, te parece práctico para ti eso de dormir entre 7 y 9 horas cada noche, o lo ves poco realista en tu situación actual?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues normalmente sí, esas siete u ocho horas las hago sin problema, ni me lo planteo. Pero estas dos semanas con el tema del préstamo, la verdad, verlo poco realista — algunas noches con suerte llego a las cinco o seis, y no es que no quiera dormir más, es que la cabeza no me deja. Supongo que en cuanto se me pase esto de las cuentas volveré a mi ritmo normal, no le doy más importancia."
+    },
+    {
+      "role": "interviewer",
+      "text": "Entiendo. Muchas personas usan el móvil, la tablet o el ordenador justo antes de acostarse.\n\nEn tu caso, ¿sueles mirar el teléfono u otros dispositivos justo antes de irte a la cama? ¿Por qué sí o por qué no?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues la verdad es que no mucho, casi nunca miro el móvil ya en la cama. No es que tenga una norma pensada ni nada, es más costumbre — después de tantos años solo, el teléfono se queda cargando en la cocina y ya está. Anoche tampoco lo miré, aunque con las vueltas que le daba a la cabeza casi hubiera dado igual."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por aclararlo.\n\n¿Sueles usar redes sociales de forma regular, aunque no sea justo antes de dormir? Si es que sí, ¿cómo las sueles usar sobre todo en las horas previas a acostarte?"
+    },
+    {
+      "role": "participant",
+      "text": "No suelo usar mucho las redes sociales, la verdad, y menos por la noche. Alguna vez miro cosas del taller, fotos de piezas terminadas o algún grupo de artesanos, pero eso lo hago más de día, cuando estoy en el taller esperando a que algo se seque o se enfríe. Por la noche ya te digo, con el teléfono en la cocina, ni me acuerdo de que existe."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por explicarlo así.\n\nAhora, sobre tecnología en general: ¿sueles usar de forma regular chatbots de inteligencia artificial (como ChatGPT, Gemini, Claude u otros parecidos)?"
+    },
+    {
+      "role": "participant",
+      "text": "No, I no la uso con regularidad, la verdad. Alguna vez, si mi hijo me lo enseña o algo, pero yo no me pongo a hablar con eso por mi cuenta, ni de día ni de noche."
+    }
+  ],
+  "status": "blocked",
+  "error": "no new interviewer message appeared (timeout)",
+  "ended_at": "2026-08-27T16:44:59.191245+00:00"
+}

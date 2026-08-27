@@ -1,0 +1,127 @@
+{
+  "run_id": "FULL-20260827134359",
+  "language": "es",
+  "index": 16,
+  "started_at": "2026-08-27T16:08:42.956788+00:00",
+  "participant_id": "P1787846906729",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Le damos la bienvenida a esta entrevista."
+    },
+    {
+      "role": "participant",
+      "text": "Buenos días. Sí, adelante, aquí estoy."
+    },
+    {
+      "role": "interviewer",
+      "text": "¿A qué hora te fuiste a la cama anoche?"
+    },
+    {
+      "role": "participant",
+      "text": "Anoche a eso de las once, como siempre."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias. Aproximadamente, ¿cuántas horas dormiste anoche? ¿Dirías que dormiste bien? ¿Por qué sí o por qué no?"
+    },
+    {
+      "role": "participant",
+      "text": "Anoche calculo unas seis horas, más o menos. No, no diría que dormí bien — estaba de guardia y me despertaron sobre las dos de la mañana por una alarma de un edificio, nada grave, pero después me costó volver a dormirme, estuve despierto hasta pasadas las tres mirando resultados deportivos en el móvil."
+    },
+    {
+      "role": "interviewer",
+      "text": "Entiendo. ¿Cuál fue la última actividad que hiciste justo antes de irte a la cama anoche? ¿Por qué elegiste hacer eso en ese momento?"
+    },
+    {
+      "role": "participant",
+      "text": "Última actividad justo antes de acostarme fue revisar que tuviera el teléfono cargado y con el volumen bien alto por si me llamaban de guardia. Es más costumbre que otra cosa, ya casi ni lo pienso, lo hago automático."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por explicarlo. Pensando ahora en las últimas dos semanas, ¿qué factores dirías que han afectado más la calidad de tu sueño?"
+    },
+    {
+      "role": "participant",
+      "text": "Últimas dos semanas... sobre todo las semanas de guardia, sinceramente. Cuando me toca estar de guardia duermo más ligero de por sí, y si encima me llaman como anoche, ya se rompe la noche entera. Fuera de eso no hay mucho más, el resto de noches duermo razonablemente normal."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por contarlo. ¿Dirías que esto es lo típico para ti desde hace tiempo, o ha cambiado algo recientemente en cómo duermes?"
+    },
+    {
+      "role": "participant",
+      "text": "Sí, es lo típico, esto no es nada nuevo. Llevo así desde hace años, desde que empecé con las guardias — duermo ligero de fondo y si me llaman ya se acabó la noche. No diría que ha cambiado nada últimamente, es más bien el patrón de siempre."
+    },
+    {
+      "role": "interviewer",
+      "text": "Y en general, ¿dirías que estás contento con cómo duermes estos días, o no tanto? ¿Por qué?"
+    },
+    {
+      "role": "participant",
+      "text": "Sí, la verdad es que sí, más o menos contento. No es que duerma como un tronco todas las noches, pero para mí lo importante es sumar horas, no que sea perfecto. Las semanas normales duermo bien, y las de guardia ya sé que van a ser así, no me quita el sueño pensarlo, es solo parte del trabajo."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por compartirlo. Has mencionado que algunas noches te despiertas a mirar resultados deportivos en el móvil. ¿Sueles usar el teléfono, la tablet o el ordenador justo antes de dormir en general? ¿Por qué sí o por qué no?"
+    },
+    {
+      "role": "participant",
+      "text": "No, la verdad es que no suelo usarlo antes de dormir, salvo esas noches de guardia que se me corta el sueño y ya me quedo mirando el móvil un rato porque estoy despierto de todas formas. Normalmente cuando me acuesto es para dormir, no me pongo con pantallas antes."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por aclararlo. ¿Sueles usar redes sociales de forma regular? Si es que sí, ¿cómo las sueles usar, especialmente en las horas antes de acostarte?"
+    },
+    {
+      "role": "participant",
+      "text": "No, la verdad, no soy muy de redes sociales. Tengo alguna cuenta pero no la reviso mucho, y menos por la noche, la uso más bien de día si acaso."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias. Ahora, sobre tecnología en general: ¿sueles usar chatbots de IA con regularidad (por ejemplo, ChatGPT, Gemini, Claude u otros similares)?"
+    },
+    {
+      "role": "participant",
+      "text": "No, la verdad no los uso, no me llaman mucho la atención esas cosas. Alguna vez he trasteado con alguno por curiosidad, pero no es algo que use con regularidad ni para nada en particular."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por explicarlo. Ahora, cambiando un poco de tema: has oído que se recomienda que las personas adultas duerman entre 7 y 9 horas por noche. ¿Te parece algo práctico para ti en este momento?"
+    },
+    {
+      "role": "participant",
+      "text": "Sí, teóricamente sí, pero para mí en la práctica no siempre es fácil de mantener con las guardias — hay semanas que sí llego, y semanas de guardia que ya sé que voy a estar un poco por debajo. No le doy muchas vueltas, intento acercarme lo más posible pero no me obsesiono con el número exacto."
+    },
+    {
+      "role": "interviewer",
+      "text": "Entiendo. ¿Qué dirías que es lo que más te facilita o te dificulta llegar realmente a esas 7–9 horas de sueño con tu rutina y las guardias?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues lo que más me facilita es tener un ritmo fijo entre semana, acostarme siempre a la misma hora más o menos, eso ayuda aunque haya una noche mala de por medio. Lo que más me lo dificulta son las guardias, claro, porque un aviso a las dos o tres de la mañana te corta el sueño y luego cuesta volver a coger el sueño, aunque sea algo corto."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por detallarlo. Si pudieras mejorar una sola cosa de tus hábitos de sueño, ¿qué te gustaría cambiar?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues si pudiera cambiar una sola cosa, sería no dar tantas vueltas cuando me despiertan a media noche por un aviso. Volver a dormirme rápido, sin quedarme enganchado con el móvil hasta las tres viendo resultados de deporte. Eso es lo que más me quita horas, más que la guardia en sí."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por explicarlo tan claro. Para terminar, me gustaría hacerte unas preguntas más generales (puedes saltarte cualquier cosa que no quieras compartir):\n\n¿Cuál es tu edad, tu profesión, tu país de nacimiento, tu país de residencia actual y, si son distintos, cuándo te mudaste?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues tengo 51 años, soy supervisor de mantenimiento de instalaciones en una red hospitalaria de la zona. Nací aquí, en esta misma ciudad, y sigo viviendo en ella, así que no ha habido ningún traslado de país ni nada de eso."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por compartir todos estos detalles, han sido muy útiles para la entrevista.\n\nAntes de cerrar, ¿hay algo más sobre tu sueño o tus hábitos antes de dormir que te gustaría añadir que no hayamos comentado?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T16:10:26.352417+00:00"
+}

@@ -1,0 +1,135 @@
+{
+  "run_id": "FULL-20260827134359",
+  "language": "es",
+  "index": 21,
+  "started_at": "2026-08-27T16:18:31.463223+00:00",
+  "participant_id": "P1787847495073",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Le damos la bienvenida a esta entrevista."
+    },
+    {
+      "role": "participant",
+      "text": "Buenos días, encantada."
+    },
+    {
+      "role": "interviewer",
+      "text": "Buenos días, gracias por estar aquí.\n\n¿Qué hora era aproximadamente cuando te fuiste a la cama anoche?"
+    },
+    {
+      "role": "participant",
+      "text": "Bueno... pues me acosté sobre las once, como siempre."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por compartirlo.\n\nAproximadamente, ¿cuántas horas dormiste anoche? ¿Dirías que dormiste bien? ¿Por qué sí o por qué no?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues dormí unas seis horas, más o menos. No diría que dormí \"bien\" exactamente, pero tampoco mal — es lo normal para mí, la verdad. Me desperté sobre las cuatro, estuve un rato despierta, y luego me volví a dormir hasta la alarma."
+    },
+    {
+      "role": "interviewer",
+      "text": "Entiendo, gracias por la explicación.\n\n¿Cuál fue la última actividad que hiciste antes de irte a la cama anoche? ¿Por qué elegiste hacer esa actividad?"
+    },
+    {
+      "role": "participant",
+      "text": "La verdad, leí un rato en la cama, con la lamparita esa pequeña que tengo en la mesilla. Es lo que hago siempre antes de dormir, me relaja más que mirar el móvil."
+    },
+    {
+      "role": "interviewer",
+      "text": "Suena muy agradable.\n\n¿Qué estabas leyendo anoche? Si te apetece, ¿podrías contarme el título del libro y de qué trata más o menos?"
+    },
+    {
+      "role": "participant",
+      "text": "Anoche estaba con una novela, \"La casa de los espíritus\", de Isabel Allende. La he leído hace años, pero la retomé porque me apetecía releerla — va de varias generaciones de una familia, con ese toque un poco mágico. La verdad es que anoche solo leí un par de páginas antes de que se me cerraran los ojos."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por compartirlo con tanto detalle.\n\nPasando un poco a un periodo más amplio: en las últimas dos semanas, ¿qué factores dirías que han afectado más la calidad de tu sueño?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues sobre todo el cambio de horario de mi marido, que trabaja de noche un par de veces por semana, así que a veces no coincidimos bien en la cama. Y luego, con el calor que ha hecho estas semanas, algunas noches cuesta más coger el sueño al principio, aunque eso ya se me pasa una vez me duermo."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por explicarlo tan claramente.\n\n¿Dirías que esto es bastante típico para ti, o ha cambiado algo recientemente en comparación con cómo dormías antes?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues sí, es bastante típico últimamente, la verdad. Desde hace un tiempo, con la menopausia y todo eso, tengo esto de despertarme de madrugada y costarme un poco volver a dormir — antes no me pasaba tanto. Pero ya lo tengo asumido, no le doy más vueltas, es lo que hay a esta edad."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por contarlo con tanta franqueza.\n\nEn general, ¿dirías que estás contenta con cómo duermes estos días, o no tanto? ¿Por qué?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues, contenta del todo no, pero tampoco me quejo demasiado. Es un sueño que funciona, duermo las horas que necesito al final del día, así que no le doy mucha importancia — es lo que hay a esta edad, ¿no?"
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por explicarlo así.\n\nHas oído seguramente que se recomienda que los adultos duerman entre 7 y 9 horas cada noche. ¿Te parece algo práctico para ti en este momento de tu vida?"
+    },
+    {
+      "role": "participant",
+      "text": "Sí, honestamente no me parece muy práctico ahora mismo, con eso de despertarme de madrugada. Yo duermo mis horas repartidas, pero seguidas de un tirón, ocho horas seguidas... eso ya no me pasa, y tampoco me obsesiono con contar las horas exactas, la verdad."
+    },
+    {
+      "role": "interviewer",
+      "text": "Entiendo, tiene sentido lo que comentas.\n\nMucha gente mira el móvil, la tablet o el ordenador justo antes de dormir. ¿Tú también lo haces, o prefieres evitarlo? ¿Por qué?"
+    },
+    {
+      "role": "participant",
+      "text": "No, prefiero evitarlo — sobre todo desde hace un tiempo, que noto que si miro el móvil me cuesta más volver a dormirme. Anoche mismo lo hice al despertarme de madrugada, aunque sé que no debería, es la costumbre. Pero para dormirme por la noche, lo normal es que lea un rato con la lamparita, no el móvil."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por contarlo con tanto detalle.\n\n¿Sueles usar redes sociales con regularidad? Si es así, ¿cómo las utilizas normalmente, especialmente en las horas antes de acostarte?"
+    },
+    {
+      "role": "participant",
+      "text": "No, la verdad es que no las uso mucho antes de dormir. Alguna vez echo un vistazo rápido a Instagram por la tarde, pero por la noche prefiero el libro, que si no luego me cuesta más apagar la cabeza."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias, queda muy claro.\n\nAhora, un par de preguntas rápidas sobre tecnología en general: ¿sueles usar chatbots de inteligencia artificial (como ChatGPT, Gemini, Claude u otros similares)?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues no, la verdad es que no uso mucho esas cosas. Alguna vez he trasteado un poco con el ChatGPT ese por curiosidad, o para alguna duda del trabajo, pero no es algo que use a diario ni mucho menos."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por aclararlo.\n\nComo no usas redes sociales ni chatbots con mucha frecuencia, voy a pasar a otra cosa: si pudieras mejorar una sola cosa de tus hábitos de sueño, ¿qué te gustaría cambiar?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues creo que lo que más me gustaría cambiar sería no despertarme a esa hora de madrugada, así, tan de golpe. Pero bueno, tampoco es que me quite el sueño pensarlo — es lo que hay, y con el libro y la lamparita lo llevo bastante bien."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por explicarlo así.\n\nPensando en tu trabajo, tus responsabilidades diarias y tu vida en general, ¿crees que ese cambio de no despertarte de madrugada sería algo alcanzable para ti, o lo ves difícil? ¿Por qué?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues sinceramente lo veo difícil de eliminar del todo, no sé si es algo que dependa tanto de mí. Con el trabajo y las prisas de la mañana tampoco tengo mucho margen para cambiar horarios, así que más que \"solucionarlo\" pienso que iría por llevarlo mejor, que ya lo llevo bastante bien."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por explicarlo con tanto matiz.\n\nYa casi para terminar, te recuerdo que puedes saltarte cualquier cosa que no quieras compartir. ¿Podrías decirme, si te sientes cómoda haciéndolo?\n\n• Tu edad;\n• Tu profesión;\n• Tu país de nacimiento;\n• Tu país de residencia actual;\n• Y, si es distinto al de nacimiento, ¿cuándo te mudaste?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues sí, no hay problema. Tengo 52 años, trabajo de aparejadora en una constructora, nací aquí en Portugal y sigo viviendo en la misma zona, en Braga, de toda la vida — nunca me he mudado."
+    },
+    {
+      "role": "interviewer",
+      "text": "Muchas gracias por compartir todos estos detalles, han sido muy útiles.\n\nAntes de cerrar, ¿hay algo más que te gustaría añadir sobre tu sueño, tus hábitos antes de dormir o cualquier cosa que creas que no hayamos tocado y que te parezca importante?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T16:20:42.479506+00:00"
+}

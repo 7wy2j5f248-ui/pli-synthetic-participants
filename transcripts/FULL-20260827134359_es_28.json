@@ -1,0 +1,119 @@
+{
+  "run_id": "FULL-20260827134359",
+  "language": "es",
+  "index": 28,
+  "started_at": "2026-08-27T16:33:38.510844+00:00",
+  "participant_id": "P1787848403270",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Le damos la bienvenida a esta entrevista."
+    },
+    {
+      "role": "participant",
+      "text": "Buenos días. Encantada, empezamos cuando quieras."
+    },
+    {
+      "role": "interviewer",
+      "text": "¿A qué hora te fuiste a la cama anoche?"
+    },
+    {
+      "role": "participant",
+      "text": "Anoche me acosté un poco más tarde de lo normal, sobre las once y media. Estuve hablando por teléfono con mi hijo y se me hizo tarde."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por contarlo. Aproximadamente, ¿cuántas horas dormiste anoche? ¿Dirías que dormiste bien? ¿Por qué sí o por qué no?"
+    },
+    {
+      "role": "participant",
+      "text": "Anoche dormí unas seis horas, seis y cuarto quizás, menos de lo habitual porque me costó más quedarme dormida. Diría que sí, dormí bien una vez que me dormí, sin despertares raros, solo que tardé en arrancar."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por explicarlo. ¿Cuál fue la última actividad que hiciste antes de irte a la cama? ¿Por qué elegiste hacer esa actividad?"
+    },
+    {
+      "role": "participant",
+      "text": "Anoche, antes de acostarme, estuve leyendo una revista de ingeniería, algo sobre mantenimiento de puentes, creo. Lo hago cuando no tengo sueño enseguida, me ayuda a desconectar sin quedarme dándole vueltas a la cabeza."
+    },
+    {
+      "role": "interviewer",
+      "text": "Tiene sentido lo que comentas. Pensando no solo en anoche, sino en las últimas dos semanas, ¿qué factores dirías que han afectado más a la calidad de tu sueño?"
+    },
+    {
+      "role": "participant",
+      "text": "Últimamente diría que lo que más me afecta es tener horarios distintos según el día: cuando tengo inspección temprano y me toca madrugar, duermo peor que en días de oficina. Y algún ruido nocturno de la vecina de arriba, que arrastra muebles a horas raras, también me despierta a veces, aunque no le doy mayor importancia."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por detallarlo. ¿Dirías que esto que cuentas (los cambios de horario y el ruido de la vecina) es algo bastante típico para ti desde hace tiempo, o ha cambiado recientemente?"
+    },
+    {
+      "role": "participant",
+      "text": "Diría que ha cambiado un poco recientemente, sí. Antes tenía un horario más fijo, y desde hace unos meses con estas inspecciones que se reparten distinto según el día, pues el cuerpo no termina de acostumbrarse. Lo de la vecina en cambio es más nuevo, empezó hace pocas semanas, antes no la oía tanto."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por aclararlo. En general, ¿dirías que estás contenta con cómo duermes estos días, o no tanto? ¿Por qué?"
+    },
+    {
+      "role": "participant",
+      "text": "Diría que sí, bastante contenta en general. No duermo mal, es solo que hay noches sueltas como la de ayer donde tardo más en dormirme, pero no es algo que me preocupe demasiado. Si tuviera que quejarme de algo sería del ruido de la vecina y de que los días de inspección madrugo más de lo que me gustaría, pero fuera de eso duermo razonablemente bien."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por explicarlo tan bien. Has oído seguramente que se recomienda que las personas adultas duerman entre 7 y 9 horas por noche. ¿Te resulta práctico conseguir esas horas de sueño en tu situación actual?"
+    },
+    {
+      "role": "participant",
+      "text": "Diría que no mucho, la verdad. Con mis horarios, entre siete y nueve horas es más bien la excepción que la norma, sobre todo los días de inspección. Pero como te decía, para mí la cantidad no es lo que más importa, sino cómo me siento al despertarme, y normalmente me siento bien aunque duerma seis y media o siete."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por compartirlo. Muchas personas también miran el móvil, la tablet o el ordenador justo antes de acostarse.\n\n¿Tú también lo haces? ¿Por qué sí o por qué no?"
+    },
+    {
+      "role": "participant",
+      "text": "No, honestamente casi nunca. Suelo dejar el móvil cargando en la cocina, así que si tengo insomnio prefiero un libro o la radio antes que la pantalla — más que nada porque me deja los ojos peor si luego quiero dormirme rápido."
+    },
+    {
+      "role": "interviewer",
+      "text": "Entiendo. ¿Utilizas redes sociales con regularidad en tu día a día? Si es así, ¿cómo las sueles usar, especialmente en las horas antes de acostarte?"
+    },
+    {
+      "role": "participant",
+      "text": "No, no suelo usar mucho las redes sociales antes de dormir. Alguna vez reviso el móvil un rato después de cenar, pero como te decía lo dejo cargando en la cocina, así que en la cama ya no lo tengo a mano."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por explicarlo. Ahora una pregunta más sobre tecnología en general: ¿usas con regularidad chatbots de inteligencia artificial (como ChatGPT, Gemini, Claude u otros parecidos)?"
+    },
+    {
+      "role": "participant",
+      "text": "No, no uso chatbots de este tipo con regularidad. Alguna vez he consultado alguno para dudas puntuales de trabajo, algún cálculo o normativa, pero no es algo habitual y desde luego nada relacionado con el sueño."
+    },
+    {
+      "role": "interviewer",
+      "text": "En tu caso, como no usas redes sociales ni chatbots de forma regular, pasamos a otra cuestión.\n\nSi pudieras mejorar una sola cosa de tus hábitos de sueño, ¿qué te gustaría cambiar?"
+    },
+    {
+      "role": "participant",
+      "text": "Como una sola cosa, creo que cambiaría lo de tardar en dormirme cuando tengo algo dándome vueltas en la cabeza, como anoche. El resto lo llevo bien, pero eso de quedarme rumiando antes de conciliar el sueño es lo único que de verdad me gustaría resolver."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por compartirlo. Para terminar, unas preguntas breves de contexto (puedes saltarte cualquier cosa que no quieras responder):\n\n- Tu edad;\n- Tu profesión;\n- Tu país de nacimiento;\n- Tu país de residencia actual;\n- Y, si es distinto del de nacimiento, ¿cuándo te mudaste?"
+    },
+    {
+      "role": "participant",
+      "text": "Edad, cincuenta y dos años. Soy ingeniera civil, inspecciono puentes e infraestructuras de agua para el municipio. Nací en Francia y sigo residiendo aquí, así que no hay mudanza que contar en ese sentido."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por compartir todos estos detalles, han sido muy útiles para la entrevista.\n\nAntes de cerrar, ¿hay algo más sobre tu sueño o tus hábitos antes de dormir que te apetezca añadir y que no hayamos comentado?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T16:35:23.297491+00:00"
+}

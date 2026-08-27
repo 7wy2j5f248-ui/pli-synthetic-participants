@@ -1,0 +1,28 @@
+{
+  "run_id": "FULL-20260827134359",
+  "language": "es",
+  "index": 44,
+  "started_at": "2026-08-27T16:51:17.468846+00:00",
+  "participant_id": "P1787849464630",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Le damos la bienvenida a esta entrevista."
+    },
+    {
+      "role": "participant",
+      "text": "Hola, buenas. Sí, aquí estoy."
+    },
+    {
+      "role": "interviewer",
+      "text": "¿A qué hora te fuiste a dormir anoche?"
+    },
+    {
+      "role": "participant",
+      "text": "Fui a la cama sobre las 12:30, después de salir tarde del turno. Me costó poco dormirme al principio."
+    }
+  ],
+  "status": "blocked",
+  "error": "no new interviewer message appeared (timeout)",
+  "ended_at": "2026-08-27T16:51:56.845579+00:00"
+}

@@ -1,0 +1,135 @@
+{
+  "run_id": "FULL-20260827134359",
+  "language": "es",
+  "index": 14,
+  "started_at": "2026-08-27T16:03:51.022671+00:00",
+  "participant_id": "P1787846620274",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Le damos la bienvenida a esta entrevista."
+    },
+    {
+      "role": "participant",
+      "text": "¡Hola! Buenas, encantado. Nada, aquí listo para empezar cuando quiera."
+    },
+    {
+      "role": "interviewer",
+      "text": "¿A qué hora te fuiste a la cama anoche?"
+    },
+    {
+      "role": "participant",
+      "text": "Anoche me acosté casi a medianoche, más tarde de lo normal para mí. Es que había partido y me quedé viéndolo hasta el final, así que se me pasó la hora."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias. Aproximadamente, ¿cuántas horas dormiste anoche? ¿Dirías que dormiste bien? ¿Por qué sí o por qué no?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues nada, no dormí gran cosa esa noche, calculo unas cinco horas y media, seis como mucho. No dormí bien, la verdad, me quedé dando vueltas y vueltas después del partido porque tenía la cabeza todavía metida en las jugadas. Al final me quedaba dormido un rato y me despertaba otra vez, así en tramos cortos hasta que sonó el despertador."
+    },
+    {
+      "role": "interviewer",
+      "text": "Entiendo. ¿Cuál fue la última actividad que hiciste justo antes de irte a la cama? ¿Por qué elegiste hacer esa actividad?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues nada, lo último fue quedarme un rato con el móvil en la cama, mirando las noticias, porque todavía tenía la cabeza acelerada del partido y no me apetecía cerrar los ojos así de golpe. Sé que no es lo ideal, pero tampoco le doy muchas vueltas, es lo que me relaja un poco antes de intentar dormir."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por contarlo. Pensando ya no solo en anoche, sino en las últimas dos semanas, ¿qué factores dirías que han afectado más a la calidad de tu sueño?"
+    },
+    {
+      "role": "participant",
+      "text": "Cansancio en el cuerpo, la última cuenta - dos semanas ya - y la verdad es que ha sido bastante normal, sin nada raro. Quizás la única noche mala fue la de anoche por el partido, pero en general duermo mi rutina de siempre, sobre las once, sin mayor drama."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias. ¿Dirías que esto es lo típico para ti o ha cambiado algo recientemente en cómo duermes?"
+    },
+    {
+      "role": "participant",
+      "text": "Sí, esto es bastante típico en mí, la verdad, salvo por la noche del partido. O sea, en general duermo mi horario de siempre y no me cuesta demasiado, quizás me despierto una vez para ir al baño pero vuelvo a dormirme rápido. No diría que ha cambiado nada últimamente, sigo con mi rutina de toda la vida."
+    },
+    {
+      "role": "interviewer",
+      "text": "Y, en general, ¿dirías que estás contento con cómo duermes estos días? ¿Por qué sí o por qué no?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues sí, en general estoy bastante contento, la verdad. Aparte de la noche del partido, duermo mi rutina de siempre y no me cuesta mucho, así que no me quejo. Ya sé que a veces me despierto más cansado si duermo poco, pero no le doy más vueltas, forma parte de la vida normal."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por explicarlo. Has oído seguramente la recomendación de que los adultos duerman entre 7 y 9 horas cada noche. ¿Te parece algo práctico para ti en este momento?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues... a mí me parece que en teoría suena bien, pero en la práctica ya te digo que yo con seis y media, siete horas voy funcionando normal. No sé, quizás si duermo nueve horas hasta me levanto más grogui, no sé si me pasaría eso. Prefiero fijarme en cómo me siento yo, más que en cumplir un número exacto."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias. Muchas personas miran el móvil, la tablet o el ordenador justo antes de dormir. ¿Tú también lo haces? ¿Por qué sí o por qué no?"
+    },
+    {
+      "role": "participant",
+      "text": "Sí, la verdad es que sí, casi todas las noches. Sobre todo si estoy nervioso por algo, como anoche con el partido, me pongo a mirar el móvil un rato en la cama. Sé que dicen que la luz esa no ayuda mucho, pero como te digo, a mí no me ha dado problemas grandes, así que tampoco me obsesiono con dejarlo."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por contarlo. ¿Sueles usar también redes sociales de forma regular? Si es así, ¿cómo las utilizas normalmente, especialmente en las horas antes de dormir?"
+    },
+    {
+      "role": "participant",
+      "text": "No, tampoco soy mucho de redes sociales antes de dormir, la verdad. Últimamente miro más noticias o algún resultado deportivo, como anoche con el partido, pero no me pongo con Instagram ni cosas así en la cama. Alguna vez veo algo que me manda mi hija por WhatsApp, pero poco más."
+    },
+    {
+      "role": "interviewer",
+      "text": "Perfecto, gracias. Ahora, un par de preguntas rápidas sobre tecnología en general: ¿sueles usar chatbots de inteligencia artificial, como ChatGPT, Gemini, Claude u otros parecidos?\n\nSi es así: ¿desde cuándo los usas y para qué los utilizas principalmente (trabajo, estudios, dudas personales, otras cosas)?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues sí, uso un poco ChatGPT, más que nada desde hace un año o así, en el trabajo. Lo uso sobre todo para cosas prácticas, tipo redactar un correo o buscar cómo organizar mejor algo de los envíos, nada muy sofisticado la verdad."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias. Desde que empezaste a usar este tipo de chatbots de forma más regular, ¿sientes que tus hábitos de sueño han cambiado en algo, o dirías que siguen igual?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues... no sé si diría que han cambiado mucho, la verdad. Es más una herramienta de trabajo para mí, no algo que use por la noche ni nada de eso, así que no creo que tenga mucho que ver con cómo duermo."
+    },
+    {
+      "role": "interviewer",
+      "text": "Perfecto, gracias. Si pudieras mejorar una sola cosa de tus hábitos de sueño, ¿qué te gustaría cambiar?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues mira, si tuviera que elegir una cosa, sería dejar el móvil quieto antes de dormir, sobre todo en noches como la de ayer que estoy más nervioso o dándole vueltas a algo. Sé que es una tontería pequeña, pero creo que ahí sí notaría diferencia."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por compartirlo. Pensando en tu día a día (trabajo, familia, otras responsabilidades), ¿crees que dejar el móvil antes de dormir sería algo viable para ti? ¿Por qué sí o por qué no?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues sí, creo que sería viable, la verdad. No es que me pida el móvil nadie a esas horas, ni de trabajo ni familia, así que sería cuestión de disciplina mía, más que otra cosa. Lo malo es que cuando estoy nervioso por algo, como lo del partido, es justo cuando más ganas me dan de mirarlo, así que ahí me costaría un poco más, pero en una noche normal no tendría excusa."
+    },
+    {
+      "role": "interviewer",
+      "text": "Para terminar, unas preguntas generales. Responde solo a lo que te apetezca compartir:\n\n- Tu edad;\n- Tu profesión;\n- Tu país de nacimiento;\n- Tu país de residencia actual;\n- (Si es distinto del anterior) ¿cuándo te mudaste?"
+    },
+    {
+      "role": "participant",
+      "text": "Vale, sin problema. Tengo 52 años, trabajo de coordinador de logística en un almacén, nací en Portugal y sigo viviendo aquí, en Porto, así que no ha habido mudanza ni nada de eso."
+    },
+    {
+      "role": "interviewer",
+      "text": "Perfecto, muchas gracias por toda la información que has compartido durante la entrevista.\n\nAntes de cerrar, ¿hay algo más sobre tu sueño o tus rutinas antes de acostarte que te gustaría añadir?\n\nSi no, lo dejamos aquí. Gracias de nuevo por tu tiempo y por responder tan claramente."
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T16:06:03.970155+00:00"
+}

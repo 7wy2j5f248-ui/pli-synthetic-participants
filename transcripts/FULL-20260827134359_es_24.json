@@ -1,0 +1,127 @@
+{
+  "run_id": "FULL-20260827134359",
+  "language": "es",
+  "index": 24,
+  "started_at": "2026-08-27T16:25:08.572107+00:00",
+  "participant_id": "P1787847895673",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Le damos la bienvenida a esta entrevista."
+    },
+    {
+      "role": "participant",
+      "text": "Buenos días. Sí, aquí estoy."
+    },
+    {
+      "role": "interviewer",
+      "text": "Buenos días. Empecemos.\n\n¿A qué hora te fuiste a la cama anoche?"
+    },
+    {
+      "role": "participant",
+      "text": "Anoche me acosté sobre las once, como casi siempre."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias. \n\nAproximadamente, ¿cuántas horas dormiste anoche? ¿Dirías que dormiste bien? ¿Por qué sí o por qué no?"
+    },
+    {
+      "role": "participant",
+      "text": "Anoche dormí bien, unas siete horas y media supongo. Me desperté un par de veces porque una compañera de piso llegó tarde y hacía ruido en la cocina, pero me volví a dormir enseguida, así que diría que dormí bien en general."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por la explicación.\n\n¿Cuál fue la última actividad que hiciste antes de irte a la cama anoche? ¿Por qué elegiste hacer esa actividad?"
+    },
+    {
+      "role": "participant",
+      "text": "Poco después, ya en la cama, revisé un rato el móvil, mensajes y esas cosas, hasta que me entró sueño. No es nada especial, es lo que hago casi todas las noches."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por contarlo.\n\nPensando un poco más a largo plazo: en las últimas dos semanas, ¿qué factores dirías que han afectado más a la calidad de tu sueño?"
+    },
+    {
+      "role": "participant",
+      "text": "Últimamente he dormido bastante regular, la verdad. Quizás lo que más ha afectado son un par de noches en las que mis compañeras de piso llegaron tarde e hicieron ruido, pero fuera de eso no diría que hay algo grande, mi rutina es bastante estable."
+    },
+    {
+      "role": "interviewer",
+      "text": "Entiendo.\n\n¿Dirías que esto que describes es bastante típico para ti, o ha cambiado algo en tu sueño recientemente?"
+    },
+    {
+      "role": "participant",
+      "text": "Todo bastante normal, la verdad, no diría que ha cambiado nada últimamente. Es más o menos siempre así, con alguna noche interrumpida de vez en cuando por el ruido de mis compañeras, pero nada fuera de lo común."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por aclararlo.\n\nHas oído muchas veces que se recomienda que las personas adultas duerman entre 7 y 9 horas por noche. ¿Sientes que eso es práctico o realista para ti en este momento?"
+    },
+    {
+      "role": "participant",
+      "text": "Bueno, la verdad es que siete u ocho horas más o menos las cumplo casi siempre, así que para mí sí es realista. Ahora, si algún día me quedo en seis y media tampoco me obsesiono, no le doy tantas vueltas a la cifra exacta."
+    },
+    {
+      "role": "interviewer",
+      "text": "Tiene sentido.\n\nMucha gente mira el móvil antes de dormir, como comentabas que haces casi todas las noches. ¿Tú dirías que sueles usar el teléfono, la tablet o el ordenador justo antes de acostarte? ¿Por qué sí o por qué no?"
+    },
+    {
+      "role": "participant",
+      "text": "Sí, casi todas las noches miro el móvil un rato antes de dormir, mensajes y ese tipo de cosas. No es que tenga una razón especial, es más bien costumbre, algo que hago casi automáticamente hasta que me entra sueño."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias.\n\n¿Sueles usar también redes sociales de forma regular? Si es así, ¿cómo las usas normalmente, especialmente en las horas antes de irte a dormir?"
+    },
+    {
+      "role": "participant",
+      "text": "No, no suelo usar tanto las redes sociales, la verdad. A veces reviso un rato Instagram, pero no es lo que más miro antes de dormir, más bien son mensajes de WhatsApp o cosas así."
+    },
+    {
+      "role": "interviewer",
+      "text": "Perfecto, gracias por explicarlo.\n\nAhora un par de preguntas rápidas sobre tecnología en general: ¿sueles usar chatbots de inteligencia artificial (como ChatGPT, Gemini, Claude u otras aplicaciones parecidas)?"
+    },
+    {
+      "role": "participant",
+      "text": "No, la verdad es que no uso ese tipo de cosas, chatbots ni nada de eso. No es algo que forme parte de mi día a día."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por aclararlo.\n\nEn tu caso, ¿sientes que tus hábitos de sueño han cambiado en algo en los últimos años, o dirías que duermes más o menos igual que siempre?"
+    },
+    {
+      "role": "participant",
+      "text": "La verdad es que no, más o menos igual siempre. Desde que vivo aquí en Leipzig llevo el mismo ritmo, así que no diría que ha cambiado mucho en los últimos años."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por explicarlo.\n\nSi pudieras mejorar una sola cosa de tus hábitos de sueño, ¿qué te gustaría cambiar?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues creo que lo que más me gustaría cambiar es que mis compañeras de piso llegaran un poco más silenciosas por la noche, jaja. De lo mío en sí no cambiaría mucho, más bien es eso, que no me despierten a media noche."
+    },
+    {
+      "role": "interviewer",
+      "text": "Tiene sentido lo que comentas.\n\nPensando en tu propia rutina y responsabilidades diarias (trabajo, estudios, etc.), ¿dirías que ese cambio que te gustaría —tener menos ruido de tus compañeras por la noche— es algo que ves factible que ocurra, o lo ves difícil? ¿Por qué?"
+    },
+    {
+      "role": "participant",
+      "text": "Difícil, la verdad. No puedo pedirles que cambien de golpe, y tampoco depende tanto de mí, así que no creo que vaya a pasar así como así."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por compartirlo.\n\nPasando a unas últimas preguntas más generales (recuerda que puedes saltarte lo que no quieras responder):\n\n¿Podrías decirme:\n\n* Tu edad;\n* Tu profesión;\n* Tu país de nacimiento;\n* Tu país de residencia actual;\n* Y, si es distinto, ¿cuándo te mudaste allí?"
+    },
+    {
+      "role": "participant",
+      "text": "34 años, coordinadora de logística. Nací en un pueblo pequeño de Sajonia, en Alemania, y vivo actualmente en Leipzig. Me mudé aquí hace unos ocho años por trabajo."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias, está todo muy claro.\n\nHemos llegado al final de las preguntas previstas para esta entrevista. Antes de cerrar, ¿hay algo más sobre tu sueño, tus rutinas nocturnas o cualquier otro aspecto relacionado que te apetezca añadir?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T16:26:48.717324+00:00"
+}

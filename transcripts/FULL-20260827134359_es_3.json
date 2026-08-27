@@ -1,0 +1,127 @@
+{
+  "run_id": "FULL-20260827134359",
+  "language": "es",
+  "index": 3,
+  "started_at": "2026-08-27T15:44:22.521268+00:00",
+  "participant_id": "P1787845442022",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Le damos la bienvenida a esta entrevista."
+    },
+    {
+      "role": "participant",
+      "text": "¡Hola! Buenos días. Lista para empezar cuando quiera."
+    },
+    {
+      "role": "interviewer",
+      "text": "¿A qué hora te fuiste a dormir anoche?"
+    },
+    {
+      "role": "participant",
+      "text": "Anoche me acosté como a las 10 y media, algo así. Estoy fuera de rotación esta semana, así que aproveché para dormir un poco más temprano de lo normal."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por compartirlo. Y antes de dormir, ¿recuerdas cuál fue la última actividad que hiciste justo antes de acostarte?"
+    },
+    {
+      "role": "participant",
+      "text": "Última actividad, cerré la app de rastreo de un envío que estaba siguiendo y apagué el teléfono. Nada más, la verdad, ya con las cortinas cerradas y el ventilador puesto me quedé dormida bastante rápido."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias. Aproximadamente, ¿cuántas horas dormiste anoche? ¿Dirías que dormiste bien? ¿Por qué sí o por qué no?"
+    },
+    {
+      "role": "participant",
+      "text": "Anoche dormí unas siete horas y media, la verdad, así que bastante bien para mí. Como estoy fuera de rotación esta semana no tengo que pelear con el reloj interno, así que aproveché para descansar de más."
+    },
+    {
+      "role": "interviewer",
+      "text": "Entiendo. Pensando ahora en las últimas dos semanas, ¿qué factores dirías que han afectado más la calidad de tu sueño?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues las últimas dos semanas cambié de turno a mitad de semana, y esa primera noche siempre pierdo horas de sueño porque el cuerpo no se acomoda tan rápido. Fuera de eso, mi suegra a veces ve tele hasta tarde en la sala y se filtra un poco de ruido, pero con el ventilador puesto casi ni lo noto."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por explicarlo. ¿Dirías que esto que describes es lo típico para ti o ha cambiado algo recientemente en tu sueño?"
+    },
+    {
+      "role": "participant",
+      "text": "Típico para mí, sí. Cambiar de turno es lo normal cada pocas semanas, así que perder una noche de sueño con el cambio es parte del ritmo, no algo nuevo ni que me preocupe. Lo del ruido de la tele de mi suegra tampoco es reciente, ya llevamos así un par de años y con el ventilador se maneja bien."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por aclararlo. Has mencionado que anoche dormiste unas siete horas y media. Has oído el consejo de que las personas adultas deberían dormir entre 7 y 9 horas por noche; ¿eso te resulta práctico en tu situación actual?"
+    },
+    {
+      "role": "participant",
+      "text": "Práctico... no sé si es la palabra que usaría. Con turnos rotativos siete a nueve horas es más una meta de suerte que un plan, ¿sabes? Algunas noches me acomodo a esas siete y media, y otras con el cambio de turno son cinco horas y ya. Yo lo manejo, no me quejo, pero seguir esa regla al pie de la letra con mi horario es prácticamente imposible."
+    },
+    {
+      "role": "interviewer",
+      "text": "Entiendo. Muchas personas miran el móvil, la tablet o el ordenador justo antes de irse a dormir. ¿Tú también lo haces? ¿Por qué sí o por qué no?"
+    },
+    {
+      "role": "participant",
+      "text": "No, la verdad, casi nunca miro el móvil antes de dormir. Con las cortinas y el ventilador ya listos, lo más que hago es apagar la app de rastreo y ahí queda, prefiero no darle más vueltas a la pantalla."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por contarlo. ¿Usas redes sociales con regularidad en tu día a día, aunque no sea justo antes de dormir?"
+    },
+    {
+      "role": "participant",
+      "text": "No, casi no uso redes sociales en el día a día. Con el horario que tengo, entre el trabajo y las cosas de la casa, la verdad es que no me queda mucho tiempo ni ganas de andar en eso, más allá de revisar algún grupo de mensajes con la familia de vez en cuando."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por explicarlo. Ahora, una pregunta rápida sobre tecnología en general: ¿usas con regularidad chatbots de inteligencia artificial, como ChatGPT, Gemini, Claude u otros parecidos?"
+    },
+    {
+      "role": "participant",
+      "text": "No, casi no uso chatbots de esos, la verdad. A veces mi hijo me pregunta cosas con ChatGPT para la tarea, pero yo misma no me pongo a chatear con esas cosas, no tengo tiempo ni curiosidad para eso."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por comentarlo. Si piensas en tu forma de dormir antes y después de que existieran cosas como las redes sociales o los chatbots, ¿sientes que tus hábitos de sueño hayan cambiado en algo por culpa o gracias a la tecnología, o dirías que no han influido mucho?"
+    },
+    {
+      "role": "participant",
+      "text": "Sinceramente, creo que la tecnología ha influido poco en mi caso. Ni las redes ni los chatbots son parte de mi rutina antes de dormir, así que si mi sueño se ve afectado es más por los turnos rotativos y la casa que por una pantalla."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por aclararlo. Si pudieras mejorar una sola cosa de tus hábitos de sueño, ¿qué te gustaría cambiar?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues creo que si pudiera cambiar una sola cosa, sería el primer día después de un cambio de turno, esa noche siempre es la peor. El resto lo manejo bien, pero esa transición me deja hecha polvo un par de días."
+    },
+    {
+      "role": "interviewer",
+      "text": "Teniendo en cuenta tu trabajo, tus responsabilidades en casa y esos turnos rotativos, ¿sientes que cambiar esa noche de transición sería algo factible, o lo ves difícil? ¿Por qué?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues creo que sería difícil de eliminar del todo, es parte del trabajo. Lo que sí podría hacer es negociar con mi compañera para que el cambio de turno caiga en un fin de semana que ya tenga libre, así el golpe me pega en un día que de todas formas iba a dedicar a descansar. No es una solución perfecta, pero algo ayuda."
+    },
+    {
+      "role": "interviewer",
+      "text": "Para terminar, unas preguntas opcionales sobre ti. Puedes saltarte cualquier cosa que no quieras compartir.\n\n¿Cuál es tu edad, tu profesión, tu país de nacimiento, tu país de residencia actual y, si son distintos, cuándo te mudaste?"
+    },
+    {
+      "role": "participant",
+      "text": "Tengo 45 años, soy coordinadora de logística en un centro de distribución. Nací aquí en Dayton, Ohio, y sigo viviendo aquí, así que no hay mudanza que contar en mi caso."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por compartirlo. Hemos llegado al final de las preguntas del estudio.\n\nAntes de cerrar, ¿hay algo más sobre tu sueño, tus horarios o el impacto de la tecnología en tu día a día que te gustaría añadir? Si no, lo dejamos aquí."
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T15:46:11.787456+00:00"
+}

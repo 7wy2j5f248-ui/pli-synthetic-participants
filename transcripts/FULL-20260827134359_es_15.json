@@ -1,0 +1,135 @@
+{
+  "run_id": "FULL-20260827134359",
+  "language": "es",
+  "index": 15,
+  "started_at": "2026-08-27T16:06:27.086097+00:00",
+  "participant_id": "P1787846768035",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Le damos la bienvenida a esta entrevista."
+    },
+    {
+      "role": "participant",
+      "text": "Buenas, sí, aquí estoy. Adelante, cuando quiera empezamos."
+    },
+    {
+      "role": "interviewer",
+      "text": "¿A qué hora te fuiste a la cama anoche?"
+    },
+    {
+      "role": "participant",
+      "text": "Anoche me acosté sobre la una y media, casi las dos, después de terminar un turno de tarde. No fue muy temprano, la verdad."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias. Aproximadamente, ¿cuántas horas dormiste anoche? ¿Dirías que dormiste bien? ¿Por qué sí o por qué no?"
+    },
+    {
+      "role": "participant",
+      "text": "Anoche dormí como cuatro horas y media, quizá un poco menos. ¿Bien? Regular, sinceramente. Me desperté un par de veces porque mi hijastro llegó tarde y hacía ruido, y encima tenía que levantarme temprano para una cita con el dentista, así que no fue una noche redonda. Pero bueno, dentro de lo que cabe con mis turnos, tampoco es la peor que he tenido."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por explicarlo con tanto detalle. ¿Cuál fue la última actividad que hiciste justo antes de irte a la cama anoche? ¿Por qué elegiste hacer esa actividad en ese momento?"
+    },
+    {
+      "role": "participant",
+      "text": "Anoche, después de llegar del turno, hice mi rutina de siempre: ducha rápida, una infusión y dejo el móvil fuera del dormitorio. Lo hago porque después de un turno de tarde necesito ese ratito para desconectar la cabeza, aunque sea a horas raras."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por la explicación. Pensando ahora en las últimas dos semanas, ¿qué factores dirías que han afectado más a la calidad de tu sueño?"
+    },
+    {
+      "role": "participant",
+      "text": "Últimas dos semanas, sobre todo el propio cambio de turnos, ¿no? El sueño de día después de un turno de noche nunca es igual, aunque tenga las cortinas opacas. Y luego los días de cambio de turno, ese ajuste, también me deja un poco más cansada de lo normal."
+    },
+    {
+      "role": "interviewer",
+      "text": "¿Dirías que esto que comentas es lo habitual para ti desde hace tiempo, o ha cambiado algo recientemente en cómo duermes?"
+    },
+    {
+      "role": "participant",
+      "text": "Habitual, la verdad. Llevo ya nueve años con turnos así de raros, así que esto de dormir a deshoras no es nada nuevo para mí. Lo de estas dos semanas no lo veo distinto a cualquier otra racha de cambios de turno, la verdad, es más lo mismo de siempre."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por aclararlo. En general, ¿estás contenta con cómo duermes estos días o no demasiado? ¿Por qué?"
+    },
+    {
+      "role": "participant",
+      "text": "En general, bastante contenta, sí. No es un sueño perfecto ni de libro, pero para el trabajo que hago me parece normal, y con mi rutina de antes de dormir consigo llevarlo bien. Prefiero verlo como algo con lo que ya he hecho las paces, más que como un problema."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por compartirlo así. Has mencionado antes la recomendación de sueño “de libro”. Suele decirse que las personas adultas deberían dormir entre 7 y 9 horas cada noche. ¿Eso te parece práctico para ti ahora mismo, con tu situación actual?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues sinceramente, no mucho. Es fácil decirlo, pero con mis turnos, siete u ocho horas seguidas es casi de ciencia ficción para mí, ¿eh? Yo prefiero pensar en cómo me siento y en mantener mi rutina que en un número fijo que en mi caso ni de broma voy a cumplir todos los días."
+    },
+    {
+      "role": "interviewer",
+      "text": "Entiendo. ¿Qué es lo que hace que te resulte difícil, en la práctica, llegar a esas 7–9 horas de sueño?"
+    },
+    {
+      "role": "participant",
+      "text": "Con mis turnos, dormir de un tirón siete u ocho horas es casi imposible: cuando salgo de un turno de noche o tarde, el cuerpo no está para eso, duermo unas horas y ya está, o me despierto y no consigo enlazar más. Y luego los días de cambio también me quitan horas porque el reloj interno anda descolocado."
+    },
+    {
+      "role": "interviewer",
+      "text": "Muchas personas miran el móvil, la tablet o el ordenador justo antes de acostarse. ¿Tú también lo haces, o prefieres evitarlo? ¿Por qué?"
+    },
+    {
+      "role": "participant",
+      "text": "No, prefiero evitarlo, la verdad. Después de mirar pantallas todo el turno para procesar muestras, lo último que quiero antes de dormir es más pantalla, así que dejo el móvil en otra habitación como parte de mi rutina de antes de acostarme."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por contarlo. ¿Sueles usar redes sociales de manera regular? Si es que sí, ¿cómo las sueles usar, sobre todo en las horas antes de irte a la cama?"
+    },
+    {
+      "role": "participant",
+      "text": "No, no mucho, la verdad. Cuando salgo del turno lo típico es una vuelta rápida por el móvil, quince o veinte minutos, y ya lo dejo aparte en la habitación de al lado como parte de la rutina. No me quedo enganchada scrolleando en la cama ni nada de eso."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por aclararlo. Ahora, una pregunta rápida sobre tecnología en general: ¿sueles usar chatbots de IA (como ChatGPT, Gemini, Claude u otras aplicaciones parecidas)?"
+    },
+    {
+      "role": "participant",
+      "text": "No lo hago, la verdad, ni falta que me hace en mi día a día — con los turnos que llevo ya bastante tengo con la cabeza puesta en otras cosas."
+    },
+    {
+      "role": "interviewer",
+      "text": "Perfecto, gracias por explicarlo. Como no usas redes sociales de forma intensa ni chatbots de IA de manera regular, pasamos a otra cosa:\n\nSi pudieras mejorar una sola cosa de tus hábitos de sueño, ¿qué te gustaría cambiar?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues si pudiera cambiar una cosa, sería tener más margen para descansar bien el día antes de un cambio de turno, esos días son los que más me pasan factura porque el cuerpo no sabe muy bien a qué hora tiene que dormir."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por explicarlo. Pensando en tu trabajo, tus turnos y tus responsabilidades diarias, ¿crees que ese cambio que te gustaría —tener más margen para descansar antes de un cambio de turno— sería realista ahora mismo? ¿Por qué sí o por qué no?"
+    },
+    {
+      "role": "participant",
+      "text": "Realista, sí, pero con matices — la respuesta debe sonar humana y práctica, coherente con su tono ligeramente defensivo sobre su horario.\n\nPues realista, realista... no del todo, la verdad. El hospital no va a cambiar el cuadrante por mí, y con mi marido y mi hijastro en casa tampoco puedo simplemente desaparecer un día entero a dormir. Lo que sí hago es intentar dejar ese día lo más libre de compromisos posible, aunque sea difícil, y tirar de siesta corta si puedo."
+    },
+    {
+      "role": "interviewer",
+      "text": "Tiene sentido lo que comentas. Para ir terminando, y solo si te sientes cómoda compartiéndolo:\n\n* ¿Cuál es tu edad?\n* ¿A qué te dedicas profesionalmente?\n* ¿En qué país naciste?\n* ¿En qué país vives actualmente?\n* Y, si es distinto del país de nacimiento, ¿cuándo te mudaste?"
+    },
+    {
+      "role": "participant",
+      "text": "Claro. Tengo 41 años, trabajo como técnica de laboratorio en un hospital, nací en un pueblo del interior pero ahora vivo en una ciudad costera, y me mudé aquí hace unos nueve años por el trabajo."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por compartir todos estos detalles. Para cerrar, ¿hay algo más sobre tu sueño, tus turnos o tu rutina antes de dormir que te apetezca añadir y que no hayamos comentado todavía?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T16:08:21.978073+00:00"
+}

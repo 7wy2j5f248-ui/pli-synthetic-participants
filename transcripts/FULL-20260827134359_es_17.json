@@ -1,0 +1,119 @@
+{
+  "run_id": "FULL-20260827134359",
+  "language": "es",
+  "index": 17,
+  "started_at": "2026-08-27T16:10:48.526639+00:00",
+  "participant_id": "P1787847030458",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Le damos la bienvenida a esta entrevista."
+    },
+    {
+      "role": "participant",
+      "text": "Buenos días. Sí, aquí estoy, listo."
+    },
+    {
+      "role": "interviewer",
+      "text": "¿A qué hora te fuiste a la cama anoche?"
+    },
+    {
+      "role": "participant",
+      "text": "Anoche a las once y media, más o menos. Como siempre."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias. Aproximadamente, ¿cuántas horas dormiste anoche? ¿Dirías que dormiste bien? ¿Por qué sí o por qué no?"
+    },
+    {
+      "role": "participant",
+      "text": "Anoche dormí unas siete horas, más o menos. Bien, bien no diría... me desperté un rato de madrugada, como suele pasar, pero nada raro."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por contarlo. ¿Cuál fue la última actividad que hiciste antes de irte a la cama anoche?\n\n¿Y por qué elegiste hacer esa actividad justo antes de acostarte?"
+    },
+    {
+      "role": "participant",
+      "text": "Última actividad fue apagar la tele y encender la radio bajita, la que dejo toda la noche. La elijo porque con las voces de fondo me cuesta menos coger el sueño que con silencio total."
+    },
+    {
+      "role": "interviewer",
+      "text": "Entiendo. Pensando ahora en las últimas dos semanas, ¿qué factores dirías que han afectado más la calidad de tu sueño?"
+    },
+    {
+      "role": "participant",
+      "text": "Cierre de baterías nocturnas del alternador... no, en serio: lo de siempre, alguna llamada de la cooperativa a deshoras, y luego me despierto solo un rato de madrugada. Nada nuevo en dos semanas, la verdad."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias, tiene sentido lo que comentas. ¿Dirías que esto es bastante típico para ti, o ha cambiado algo recientemente en tu forma de dormir?"
+    },
+    {
+      "role": "participant",
+      "text": "Típico, sí. Alguna semana con menos llamadas duermo del tirón, pero es raro. Ya no le doy más vueltas, es lo que hay a esta edad."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por explicarlo. En general, ¿dirías que estás conforme con cómo duermes estos días, o no tanto? ¿Por qué?"
+    },
+    {
+      "role": "participant",
+      "text": "Conforme, sí. No pierdo el sueño por perder el sueño, valga la redundancia."
+    },
+    {
+      "role": "interviewer",
+      "text": "Ahora pasando a otra idea: seguramente habrás oído que se recomienda que las personas adultas duerman entre 7 y 9 horas cada noche. ¿Te resulta práctico cumplir eso en tu situación actual?"
+    },
+    {
+      "role": "participant",
+      "text": "No lo veo muy práctico, la verdad. Con las llamadas de la cooperativa y despertarme de madrugada, algunas noches me quedo en seis y pico. Pero bueno, hago lo que puedo, no me obsesiono con la cifra."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por aclararlo. Mucha gente hace algo similar. Ahora, sobre el uso de pantallas: muchas personas miran el móvil, la tablet o el ordenador justo antes de acostarse.\n\n¿Tú también lo haces, o no? ¿Por qué?"
+    },
+    {
+      "role": "participant",
+      "text": "No, la verdad, ni tablet ni móvil antes de dormir. Suelo dejarlo en la cocina y ya está, con la radio tengo bastante."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por comentarlo. Te pregunto ahora por redes sociales en general: ¿usas redes sociales con cierta regularidad, o casi nada?"
+    },
+    {
+      "role": "participant",
+      "text": "Casi nada, la verdad. Alguna vez miro Facebook para ver fotos de mis hijos, poco más."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por aclararlo. Sobre tecnología en general: ¿utilizas con cierta regularidad chatbots de IA, como ChatGPT, Gemini, Claude u otros parecidos, o prácticamente nada?"
+    },
+    {
+      "role": "participant",
+      "text": "No lo uso, la verdad. No he tenido necesidad, con la radio y tal ya voy tirando."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por comentarlo. Si pudieras mejorar una sola cosa de tus hábitos de sueño, ¿qué te gustaría cambiar?"
+    },
+    {
+      "role": "participant",
+      "text": "Dormir seguido, sin despertarme a mitad de noche. Pero vamos, si no pasa, tampoco me quito el sueño pensando en ello."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por compartirlo. Para terminar, unas preguntas breves sobre ti (puedes saltarte cualquier cosa que no quieras contestar):\n\n¿Cuál es tu edad, tu profesión, tu país de nacimiento y tu país de residencia actual? Y, si son distintos, ¿en qué año te mudaste?"
+    },
+    {
+      "role": "participant",
+      "text": "52 años, mecánico naval, jubilado a medias. Nacido en el interior de Portugal, ahora vivo en la costa, cerca de Viana do Castelo. Me mudé aquí hace veinte años, por trabajo."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por compartir estos datos y todo lo que has contado sobre tu sueño.\n\nAntes de cerrar, ¿hay algo más sobre tus hábitos de sueño o sobre lo que hemos hablado hoy que te gustaría añadir?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T16:12:17.683593+00:00"
+}

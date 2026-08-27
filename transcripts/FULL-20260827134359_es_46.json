@@ -1,0 +1,8 @@
+{
+  "run_id": "FULL-20260827134359",
+  "language": "es",
+  "index": 46,
+  "status": "blocked",
+  "error": "Timeout 30000ms exceeded.\n=========================== logs ===========================\n\"domcontentloaded\" event fired\n\"load\" event fired\n============================================================",
+  "ended_at": "2026-08-27T16:53:21.018623+00:00"
+}

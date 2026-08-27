@@ -1,0 +1,119 @@
+{
+  "run_id": "FULL-20260827134359",
+  "language": "es",
+  "index": 25,
+  "started_at": "2026-08-27T16:27:10.585467+00:00",
+  "participant_id": "P1787848012702",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Le damos la bienvenida a esta entrevista."
+    },
+    {
+      "role": "participant",
+      "text": "Buenos días, encantada. Bien, aquí estamos."
+    },
+    {
+      "role": "interviewer",
+      "text": "¿A qué hora te fuiste a la cama anoche?"
+    },
+    {
+      "role": "participant",
+      "text": "Anoche me acosté sobre las once y media, como casi siempre."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias. ¿Aproximadamente cuántas horas dormiste anoche? ¿Dirías que dormiste bien? ¿Por qué sí o por qué no?"
+    },
+    {
+      "role": "participant",
+      "text": "Anoche dormí unas siete horas, calculo. Y bien, sí, más o menos bien, aunque me desperté sobre las cinco y me costó volver a dormirme, se me fue la cabeza pensando en pedidos del taller."
+    },
+    {
+      "role": "interviewer",
+      "text": "Entiendo. ¿Cuál fue la última actividad que hiciste antes de irte a la cama anoche? ¿Por qué elegiste hacer esa actividad antes de dormir?"
+    },
+    {
+      "role": "participant",
+      "text": "Anoche, después de acostarme, la verdad es que no hice mucho, leí un poco un catálogo de semillas que tenía en la mesita, como hago casi siempre para desconectar antes de dormir."
+    },
+    {
+      "role": "interviewer",
+      "text": "Suena interesante eso del catálogo de semillas. ¿Qué tipo de semillas eran o qué parte del catálogo estuviste leyendo anoche en concreto?"
+    },
+    {
+      "role": "participant",
+      "text": "Un catálogo alemán de bulbos y flores, la sección de dalias, creo. No es que vaya a plantar nada ya, pero me gusta mirarlo, es lo que tenía a mano en la mesita."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por explicarlo. Pasando a otra cosa: en las últimas dos semanas, ¿qué factores dirías que han afectado más la calidad de tu sueño?"
+    },
+    {
+      "role": "participant",
+      "text": "Últimamente lo que más me quita el sueño son las cuentas del taller, la cabeza se me va con los pedidos y los números en cuanto me despierto sola. Y bueno, el calor de este verano también, algunas noches cuesta más que otras, aunque eso ya va pasando."
+    },
+    {
+      "role": "interviewer",
+      "text": "¿Dirías que esto que comentas es lo típico para ti, o ha cambiado algo recientemente en tu sueño? En general, ¿estás contenta con cómo duermes estos días? ¿Por qué sí o por qué no?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues nada nuevo, la verdad, esto de despertarme sobre las cinco lleva ya así un año más o menos, no es de ahora. En general sí estoy contenta con cómo duermo, siete horas y sin grandes quejas, aunque ese ratito despierta pensando en el taller a veces me fastidia un poco."
+    },
+    {
+      "role": "interviewer",
+      "text": "Has oído eso de que las personas adultas deberían dormir entre 7 y 9 horas cada noche. ¿Te parece algo práctico para ti en este momento de tu vida?\n\n¿Qué dirías que te lo pone fácil o difícil para llegar a dormir tantas horas?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues sí, me suena eso de las siete a nueve horas, y mira, para mí no es que me lo ponga difícil ni fácil, es que ya me sale así casi solo, con el cansancio del taller caigo rendida. Lo único que me complica un poco es ese despertar de madrugada, que ahí sí que a veces me quedo corta de las siete si no consigo volver a dormirme rápido."
+    },
+    {
+      "role": "interviewer",
+      "text": "Muchas personas miran el móvil, la tablet o el ordenador justo antes de dormir.\n\n¿Tú también lo haces? ¿Por qué sí o por qué no?"
+    },
+    {
+      "role": "participant",
+      "text": "No, la verdad es que no, en cuanto apago la luz dejo el móvil en la mesita y ya está, no lo toco. Con la vista cansada de todo el día cosiendo, lo último que me apetece es ponerme a mirar una pantalla pequeña."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por contarlo. ¿Sueles usar redes sociales en tu día a día, aunque no sea justo antes de dormir? Si es así, ¿cómo las usas normalmente, sobre todo en las horas de la tarde o noche?"
+    },
+    {
+      "role": "participant",
+      "text": "No, no uso redes sociales, la verdad, ni de tarde ni de noche. Con el negocio no me queda mucho tiempo para eso, y para hablar con la familia ya tengo el teléfono normal, con llamadas y mensajes."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por aclararlo. Ahora, una pregunta rápida sobre tecnología en general: ¿sueles usar chatbots de inteligencia artificial (como ChatGPT, Gemini, Claude u otros parecidos)?\n\nSi es así:\n* ¿Cuándo empezaste a usarlos?\n* ¿Para qué los usas sobre todo (trabajo, estudios, dudas personales, otra cosa)?"
+    },
+    {
+      "role": "participant",
+      "text": "No, no uso chatbots de esos, ni ChatGPT ni nada parecido. Para lo que necesito con las cuentas y los pedidos me arreglo con la calculadora y mi cuaderno de toda la vida."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por explicarlo. Pasando a otra cosa: si pudieras mejorar una sola cosa de tus hábitos de sueño, ¿qué te gustaría cambiar?\n\nTeniendo en cuenta tu trabajo en el taller y tus responsabilidades diarias, ¿crees que ese cambio sería posible? ¿Por qué sí o por qué no?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues cambiaría lo de despertarme a las cinco de la madrugada, si pudiera elegir. Pero no sé si sería posible, porque eso no me pasa por estar cansada ni por el taller, me pasa así de repente y no controlo mucho cuándo se me va la cabeza a pensar en los pedidos."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por compartirlo. Para ir terminando, unas preguntas opcionales sobre ti (puedes saltarte cualquier cosa que no quieras responder):\n\n* Tu edad;\n* Tu profesión;\n* Tu país de nacimiento;\n* Tu país de residencia actual;\n* (Si es distinto del anterior) ¿cuándo te mudaste?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues tengo 52 años, soy modista, tengo un pequeño taller de costura y arreglos. Nací en Portugal y sigo viviendo aquí, en el mismo pueblo de siempre, así que no ha habido mudanza que contar."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por compartir todos estos detalles. Antes de cerrar, ¿hay algo más sobre tu sueño o tus rutinas antes de dormir que te gustaría comentar y que no hayamos tocado?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T16:28:46.958370+00:00"
+}

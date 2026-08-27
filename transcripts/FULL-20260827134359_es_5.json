@@ -1,0 +1,44 @@
+{
+  "run_id": "FULL-20260827134359",
+  "language": "es",
+  "index": 5,
+  "started_at": "2026-08-27T15:49:07.707844+00:00",
+  "participant_id": "P1787845735626",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Le damos la bienvenida a esta entrevista."
+    },
+    {
+      "role": "participant",
+      "text": "Buenos días. Sí, aquí estoy, listo cuando quieran empezar."
+    },
+    {
+      "role": "interviewer",
+      "text": "¿A qué hora te fuiste a la cama anoche?"
+    },
+    {
+      "role": "participant",
+      "text": "Anoche me quedé despierto un poco más tarde de lo normal, hasta la una y cuarenta y cinco más o menos. Estaba poniéndome al día con unas planillas del inventario que tenía atrasadas."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por contarlo. \n\nAproximadamente, ¿cuántas horas dormiste anoche? ¿Dirías que dormiste bien? ¿Por qué sí o por qué no?"
+    },
+    {
+      "role": "participant",
+      "text": "Anoche dormí unas seis horas, más o menos. Dormí bien en el sentido de que no me desperté ni nada, solo que me acosté tarde así que fue una noche corta. No me preocupa mucho, la verdad, con el taller me pasa seguido tener noches así."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por explicarlo. \n\n¿Qué fue lo último que hiciste antes de irte a la cama anoche? ¿Por qué elegiste hacer esa actividad justo antes de acostarte?"
+    },
+    {
+      "role": "participant",
+      "text": "Anoche, después de acostarme tan tarde con las planillas, di una vuelta a la manzana antes de meterme a la cama. Lo hago cuando termino con la cabeza medio acelerada del taller, me ayuda a desconectar más que quedarme mirando el celular."
+    }
+  ],
+  "status": "blocked",
+  "error": "no new interviewer message appeared (timeout)",
+  "ended_at": "2026-08-27T15:50:32.832544+00:00"
+}

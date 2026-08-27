@@ -1,0 +1,28 @@
+{
+  "run_id": "FULL-20260827134359",
+  "language": "es",
+  "index": 8,
+  "started_at": "2026-08-27T15:53:04.984508+00:00",
+  "participant_id": "P1787845973434",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Le damos la bienvenida a esta entrevista."
+    },
+    {
+      "role": "participant",
+      "text": "Hola, buenas tardes. Encantado, aquí estoy listo para lo que necesiten."
+    },
+    {
+      "role": "interviewer",
+      "text": "¿A qué hora te fuiste a la cama anoche?"
+    },
+    {
+      "role": "participant",
+      "text": "Anoche me acosté un poco más tarde de lo normal, la verdad, porque me quedé viendo un partido de fútbol. Debieron ser cerca de las once y media, once cuarenta y cinco, algo así."
+    }
+  ],
+  "status": "blocked",
+  "error": "no new interviewer message appeared (timeout)",
+  "ended_at": "2026-08-27T15:53:45.618058+00:00"
+}

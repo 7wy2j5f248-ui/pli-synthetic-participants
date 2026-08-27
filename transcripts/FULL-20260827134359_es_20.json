@@ -1,0 +1,119 @@
+{
+  "run_id": "FULL-20260827134359",
+  "language": "es",
+  "index": 20,
+  "started_at": "2026-08-27T16:16:36.048046+00:00",
+  "participant_id": "P1787847381561",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Le damos la bienvenida a esta entrevista."
+    },
+    {
+      "role": "participant",
+      "text": "Gracias. Vale, empecemos cuando quiera."
+    },
+    {
+      "role": "interviewer",
+      "text": "¿A qué hora te fuiste a la cama anoche?"
+    },
+    {
+      "role": "participant",
+      "text": "Sí, sobre las once y media. Vengo de turno, así que ya llegué tarde a casa."
+    },
+    {
+      "role": "interviewer",
+      "text": "Entiendo. ¿Más o menos cuántas horas dormiste anoche? ¿Dirías que dormiste bien? ¿Por qué sí o por qué no?"
+    },
+    {
+      "role": "participant",
+      "text": "Sí, dormí unas seis horas más o menos. No estuvo mal, pero tampoco genial... me desperté una vez para ir al baño. Con el turno que tuve, ya me conformo con eso."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por contarlo. ¿Cuál fue la última actividad que hiciste antes de irte a la cama anoche?\n\nY, si puedes, ¿por qué elegiste hacer justamente esa actividad antes de acostarte?"
+    },
+    {
+      "role": "participant",
+      "text": "Sí, después de cenar me quedé un rato en la cama mirando el móvil, noticias de fútbol, resultados de la jornada. Lo hago casi siempre después de turno de tarde, es una forma de desconectar la cabeza antes de dormir."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por la explicación. Pensando ya no solo en anoche, sino en las últimas dos semanas, ¿qué factores dirías que han afectado más a la calidad de tu sueño?\n\nSi quieres, puedes mencionar cosas como horarios de trabajo, preocupaciones, uso de pantallas, ruido, salud, etc., lo que tú creas que influye más."
+    },
+    {
+      "role": "participant",
+      "text": "Últimas dos semanas, sobre todo el horario, que cambia cada semana y nunca me deja acostumbrarme. Y el café antes de los turnos tampoco ayuda mucho, seguro, pero lo necesito para aguantar."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias, tiene sentido lo que comentas. ¿Dirías que esto es lo típico para ti desde hace tiempo, o ha cambiado algo recientemente en tu sueño o en tus horarios?"
+    },
+    {
+      "role": "participant",
+      "text": "Sí, la verdad es que llevo así ya varios años, desde que empecé con los turnos rotativos. No diría que ha cambiado mucho últimamente, es más bien lo de siempre... uno ya se acostumbra a no acostumbrarse, por decirlo de alguna manera."
+    },
+    {
+      "role": "interviewer",
+      "text": "Entiendo esa sensación de “acostumbrarse a no acostumbrarse”. En general, ¿dirías que estás contento con cómo duermes estos días, o no tanto? ¿Por qué?"
+    },
+    {
+      "role": "participant",
+      "text": "Estoy contento, más o menos... no me quejo. Duermo lo que puedo con el horario que tengo, y a estas alturas ya no espero dormir como un rey, así que si descanso lo básico ya me doy por satisfecho."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por explicarlo así. Has oído seguramente que se recomienda que los adultos duerman entre 7 y 9 horas por noche. ¿Te resulta práctico conseguir eso ahora mismo con tu ritmo de vida y tus turnos?"
+    },
+    {
+      "role": "participant",
+      "text": "No, es una lista de siete horas, es que con este turno tal como lo tengo, es difícil. Alguna semana igual llego, pero la mayoría de veces me quedo por debajo, y ya está, no le doy más vueltas."
+    },
+    {
+      "role": "interviewer",
+      "text": "Entiendo. Mucha gente con turnos rotativos cuenta algo parecido. \n\nMucha gente mira el móvil, la tablet o el ordenador justo antes de dormir. ¿Tú también lo haces? ¿Por qué sí o por qué no?"
+    },
+    {
+      "role": "participant",
+      "text": "No, la verdad es que no. Después de ver el fútbol un rato dejo el móvil y ya está, apago la luz. No es que tenga una regla fija ni nada, simplemente ya con el cansancio del turno no aguanto mucho más despierto mirando pantalla."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por aclararlo. \n\n¿Usas redes sociales de forma regular? Si es que sí, ¿cómo sueles usarlas, especialmente en las horas antes de dormir?"
+    },
+    {
+      "role": "participant",
+      "text": "No, no uso mucho las redes sociales, la verdad. A veces reviso algo de fútbol o noticias deportivas antes de dormir, pero nada de estar horas con eso, no me llama mucho la atención."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por explicarlo. \n\nAhora, una pregunta rápida sobre tecnología en general: ¿utilizas de forma regular chatbots de IA (como ChatGPT, Gemini, Claude u otras aplicaciones parecidas)?"
+    },
+    {
+      "role": "participant",
+      "text": "No, no uso chatbots de IA de forma regular. Alguna vez habré mirado algo por curiosidad, pero no es algo que use en el día a día."
+    },
+    {
+      "role": "interviewer",
+      "text": "Perfecto, gracias por aclararlo.\n\nSi pudieras mejorar una sola cosa de tus hábitos de sueño, ¿qué sería?\n\nY si te apetece añadirlo ya: teniendo en cuenta tu trabajo con turnos y tus responsabilidades diarias, ¿crees que ese cambio sería posible ahora mismo? ¿Por qué sí o por qué no?"
+    },
+    {
+      "role": "participant",
+      "text": "Todo, poder dormir de un tirón sin despertarme, sería lo que cambiaría. Pero con estos turnos no lo veo posible ahora, el cuerpo se acostumbra a levantarse a mitad de noche y no depende tanto de mí como del horario que me toque esa semana."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por compartirlo tan claro.\n\nSi te parece bien, pasamos a unas últimas preguntas más generales (puedes saltarte cualquier cosa que no quieras responder):\n\n¿Cuál es tu edad, tu profesión, tu país de nacimiento y tu país de residencia actual? Y, si son distintos, ¿cuándo te mudaste?"
+    },
+    {
+      "role": "participant",
+      "text": "Tengo 52 años, soy técnico de mantenimiento, trabajo en una empresa de ferris aquí en la costa. Nací en el interior, pero me vine hacia aquí por el trabajo cuando tenía como veintitantos, y desde entonces vivo en la costa, así que llevo ya más de veinte años aquí."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por compartir todos estos detalles, y por el tiempo que has dedicado a la entrevista.\n\nAntes de terminar, ¿hay algo más sobre tu sueño, tus turnos o tus hábitos antes de dormir que te gustaría añadir y que no hayamos comentado?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T16:18:10.958960+00:00"
+}

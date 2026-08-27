@@ -1,0 +1,119 @@
+{
+  "run_id": "FULL-20260827134359",
+  "language": "es",
+  "index": 26,
+  "started_at": "2026-08-27T16:29:05.680815+00:00",
+  "participant_id": "P1787848131181",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Le damos la bienvenida a esta entrevista."
+    },
+    {
+      "role": "participant",
+      "text": "Buenos días. Sí, aquí estoy."
+    },
+    {
+      "role": "interviewer",
+      "text": "¿A qué hora te fuiste a la cama anoche?"
+    },
+    {
+      "role": "participant",
+      "text": "Anoche me acosté sobre las once, como siempre."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias. Aproximadamente, ¿cuántas horas dormiste anoche? ¿Dirías que dormiste bien? ¿Por qué sí o por qué no?"
+    },
+    {
+      "role": "participant",
+      "text": "Anoche dormí unas seis horas y media, más o menos. Bien no diría, pero tampoco mal — me desperté a eso de las tres y media, como casi siempre, y ya con la cabeza dándole vueltas al inventario. Volví a dormir un rato después de las cuatro, así que al final sumó lo de siempre."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por compartirlo. ¿Cuál fue la última actividad que hiciste antes de irte a la cama anoche? ¿Por qué elegiste hacer eso antes de dormir?"
+    },
+    {
+      "role": "participant",
+      "text": "La verdad, apunté algo en un cuaderno que tengo al lado de la cama. Un proveedor que va retrasado con una entrega, no quería quedármelo dando vueltas en la cabeza toda la noche."
+    },
+    {
+      "role": "interviewer",
+      "text": "Tiene sentido lo del cuaderno. Pensando ahora en las últimas dos semanas, ¿qué factores dirías que han afectado más la calidad de tu sueño?"
+    },
+    {
+      "role": "participant",
+      "text": "Últimas dos semanas... básicamente lo mismo de siempre: el negocio. Cuando hay algo pendiente con un proveedor o una factura sin cobrar, eso es lo que me despierta a las tres y media. Nada nuevo, la verdad, es el ritmo normal de tener el negocio."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por explicarlo. ¿Dirías que esto es bastante típico para ti desde hace tiempo, o ha cambiado algo recientemente en cómo duermes por culpa del negocio?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues sí, es lo típico de hace años. No diría que ha cambiado, es más o menos el mismo patrón desde que llevo el negocio."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por aclararlo. En general, ¿dirías que estás contento con cómo duermes estos días, o más bien no? ¿Por qué?"
+    },
+    {
+      "role": "participant",
+      "text": "Estoy contento en general, sí. Duermo lo que necesito para funcionar, y esto de despertarme a media noche ya lo tengo asumido — es parte del paquete de tener el negocio. No me quita el sueño, valga la redundancia."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por explicarlo. Has oído seguramente la recomendación de que los adultos duerman entre 7 y 9 horas por noche. ¿Eso te parece práctico en tu situación actual, o no tanto?"
+    },
+    {
+      "role": "participant",
+      "text": "Práctico... no mucho, la verdad. Con el negocio así, dormir de corrido nueve horas es un sueño, con perdón del chiste. Yo funciono con lo que duermo, y ya está."
+    },
+    {
+      "role": "interviewer",
+      "text": "Entiendo. Mucha gente mira el móvil, la tablet o el ordenador justo antes de acostarse. ¿Tú también lo haces, o no tanto? ¿Por qué?"
+    },
+    {
+      "role": "participant",
+      "text": "No, no lo hago mucho. Cuando cierro el negocio ya estoy harto de pantallas, entre la caja y las facturas todo el día. Leo un rato el periódico en papel o nada, y a dormir."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por contarlo. ¿Sueles usar redes sociales de forma regular, o casi nada? Si las usas, ¿cómo las sueles usar, sobre todo en las horas antes de acostarte?"
+    },
+    {
+      "role": "participant",
+      "text": "No, no las uso mucho. Alguna vez miro un rato el móvil, pero no antes de acostarme, ya te digo que a esa hora ya estoy harto de pantallas."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por aclararlo. Ahora, sobre tecnología en general: ¿sueles usar chatbots de inteligencia artificial (como ChatGPT, Gemini, Claude u otros) con cierta regularidad, o casi nada?"
+    },
+    {
+      "role": "participant",
+      "text": "No, no los uso mucho, la verdad. Alguna vez he trasteado con eso pero para el negocio uso más la calculadora y el papel, no me hace falta para nada más."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por explicarlo. Como no usas mucho redes sociales ni chatbots, dejando eso de lado: si pudieras mejorar una sola cosa de tus hábitos de sueño, ¿qué te gustaría cambiar?"
+    },
+    {
+      "role": "participant",
+      "text": "Un poco de calma antes de acostarse, supongo. Nada dramático, pero si pudiera dejar la libreta de cuentas más temprano, en vez de a media noche, seguro que la cabeza tardaría menos en apagarse a las tres y media."
+    },
+    {
+      "role": "interviewer",
+      "text": "Tiene sentido lo que comentas. Pensando en tu día a día, con el negocio y tus demás responsabilidades, ¿crees que sería viable hacer ese cambio y poder cerrar la libreta de cuentas un poco antes, o lo ves complicado? ¿Por qué?"
+    },
+    {
+      "role": "participant",
+      "text": "Práctico... no sé. Sería tarde, cuando ya está todo cerrado y el día se calma. Podría intentarlo, pero si veo que falta algo en el pedido, me pongo nervioso igual y ya está, no me lo saco de la cabeza aunque cierre la libreta antes."
+    },
+    {
+      "role": "interviewer",
+      "text": "Tiene lógica lo que dices. Para terminar, y solo si te apetece compartirlo:\n\n- Tu edad;\n- Tu profesión;\n- Tu país de nacimiento;\n- Tu país de residencia actual;\n- Y, si es distinto, ¿cuándo te mudaste allí?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T16:30:49.393100+00:00"
+}

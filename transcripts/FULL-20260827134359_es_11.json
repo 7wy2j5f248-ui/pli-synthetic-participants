@@ -1,0 +1,127 @@
+{
+  "run_id": "FULL-20260827134359",
+  "language": "es",
+  "index": 11,
+  "started_at": "2026-08-27T15:57:56.674906+00:00",
+  "participant_id": "P1787846261722",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Le damos la bienvenida a esta entrevista."
+    },
+    {
+      "role": "participant",
+      "text": "Hola, buenos días. Encantado, adelante cuando quiera."
+    },
+    {
+      "role": "interviewer",
+      "text": "¿A qué hora te fuiste a la cama anoche?"
+    },
+    {
+      "role": "participant",
+      "text": "Anoche me acosté sobre las diez y media, como casi siempre."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias. Aproximadamente, ¿cuántas horas dormiste anoche? ¿Dirías que dormiste bien? ¿Por qué sí o por qué no?"
+    },
+    {
+      "role": "participant",
+      "text": "Anoche dormí unas seis horas, más o menos. Diría que sí, dormí bien... bueno, \"bien\" es mucho decir, me desperté una vez sobre las tres y tardé un rato en volver a dormirme, pero al final descanso lo suficiente para tirar del día."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por explicarlo. ¿Cuál fue la última actividad que hiciste antes de irte a la cama anoche? ¿Por qué elegiste hacer esa actividad?"
+    },
+    {
+      "role": "participant",
+      "text": "Anoche vi los resúmenes del fútbol, como casi siempre, con un vasito de vino. Es una rutina que ya tengo tomada, me ayuda a relajarme antes de acostarme."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por compartirlo. En las últimas dos semanas, ¿qué factores sientes que han afectado más la calidad de tu sueño?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues sobre todo el vecino de al lado, que ha estado bastante ruidoso, y esa costumbre mía de despertarme sobre las tres de la madrugada, que no sé muy bien por qué pasa. Aparte de eso nada especial, la rutina la mantengo bastante igual."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por contarlo. Has mencionado al vecino ruidoso y esos despertares sobre las tres. ¿Dirías que esto es algo bastante típico en tu vida, o ha cambiado algo recientemente en tu sueño?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues nada nuevo, la verdad. Esto lleva así desde hace tiempo, más o menos desde que me mudé aquí a Porto solo. Lo del vecino sí es más reciente, se instaló hace cosa de un año y desde entonces le he echado más la culpa a él, pero el despertarme a las tres ya lo hacía antes de que llegara."
+    },
+    {
+      "role": "interviewer",
+      "text": "Entiendo. En general, ¿dirías que estás contento con cómo duermes estos días, o no tanto? ¿Por qué?"
+    },
+    {
+      "role": "participant",
+      "text": "Pues no del todo contento, la verdad. Duermo lo justo para funcionar, pero eso de despertarme siempre a las tres y tardar en volver a dormirme ya cansa un poco, aunque me he acostumbrado. Con los tapones y la habitación fresca sobrellevo mejor lo del vecino, así que dentro de lo que cabe, tampoco me quejo demasiado."
+    },
+    {
+      "role": "interviewer",
+      "text": "Has oído seguramente eso de que las personas adultas deberían dormir entre 7 y 9 horas por noche. ¿Te parece algo práctico para ti en este momento?"
+    },
+    {
+      "role": "participant",
+      "text": "Sí, se dice fácil, ¿eh? Con mi horario, si me acuesto sobre las diez y media y me despierto a las tres, aunque vuelva a dormirme, difícilmente llego a las siete horas, así que las nueve las veo un poco de ciencia ficción para mí ahora mismo."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por compartirlo. Muchas personas miran el móvil, la tablet o el ordenador justo antes de dormir. ¿Tú también lo haces o no tanto? ¿Por qué?"
+    },
+    {
+      "role": "participant",
+      "text": "No, tampoco es lo mío. Suelo dejar el móvil fuera del dormitorio, y si me cuesta dormir prefiero leer un rato con el libro en papel, la pantalla creo que me despeja más que otra cosa."
+    },
+    {
+      "role": "interviewer",
+      "text": "Tiene sentido lo que comentas sobre las pantallas. ¿Sueles usar redes sociales de forma regular? Si es así, ¿cómo las usas normalmente, sobre todo en las horas antes de acostarte?"
+    },
+    {
+      "role": "participant",
+      "text": "No, redes sociales tampoco es lo mío, la verdad. Miro alguna vez el móvil por la tarde, pero antes de dormir ya te digo que lo dejo fuera del cuarto, así que esa hora antes de acostarme la paso más viendo el fútbol o con el libro."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por aclararlo. Ahora, una pregunta rápida sobre tecnología en general: ¿sueles usar chatbots de inteligencia artificial, como ChatGPT, Gemini, Claude u otros parecidos?"
+    },
+    {
+      "role": "participant",
+      "text": "No, la verdad es que no los uso. Los he oído mencionar, claro, pero no me llaman mucho la atención, prefiero hacer las cosas a mi manera."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por comentarlo. Si pudieras mejorar solo una cosa de tus hábitos de sueño, ¿qué elegirías cambiar?"
+    },
+    {
+      "role": "participant",
+      "text": "Prefiero eso de despertarme a las tres, la verdad, quitaría eso si pudiera. Lo demás lo llevo bien, pero ese rato en medio de la noche despierto es lo que más me pesa."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por explicarlo. Pensando en tu trabajo, estudios o responsabilidades diarias, ¿crees que sería viable hacer algún cambio para intentar reducir esos despertares a las tres, o lo ves difícil? ¿Por qué?"
+    },
+    {
+      "role": "participant",
+      "text": "Bueno, difícil no es, pero tampoco es que dependa mucho del trabajo, ya que mi horario es fijo y no cambia. Más que nada tendría que ver con cambiar algo en casa, como el ruido del vecino o alguna rutina antes de dormir, pero la verdad es que no sé muy bien qué más probar en este punto."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por contarlo. Para terminar, si te sientes cómodo compartiéndolo, ¿podrías decirme:\n\n- tu edad;\n- tu profesión;\n- tu país de nacimiento;\n- tu país de residencia actual;\n- y, si es diferente, cuándo te mudaste?"
+    },
+    {
+      "role": "participant",
+      "text": "Vale, sin problema. Tengo 52 años, trabajo como técnico en la empresa de aguas del ayuntamiento, nací en Lisboa y ahora vivo en Oporto, aquí me mudé hace unos ocho años, después de separarme."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por compartir todos estos detalles. Con esto hemos llegado al final de las preguntas del estudio.\n\nAntes de cerrar, ¿hay algo más sobre tu sueño o tus rutinas antes de dormir que te gustaría añadir, o algún comentario final que quieras dejar?"
+    }
+  ],
+  "status": "completed",
+  "ended_at": "2026-08-27T15:59:32.132266+00:00"
+}

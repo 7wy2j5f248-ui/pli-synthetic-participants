@@ -1,0 +1,36 @@
+{
+  "run_id": "FULL-20260827134359",
+  "language": "es",
+  "index": 47,
+  "started_at": "2026-08-27T16:53:37.522740+00:00",
+  "participant_id": "P1787849605222",
+  "turns": [
+    {
+      "role": "interviewer",
+      "text": "Le damos la bienvenida a esta entrevista."
+    },
+    {
+      "role": "participant",
+      "text": "Buenas, sí, aquí estoy. Cuando quiera empezamos."
+    },
+    {
+      "role": "interviewer",
+      "text": "¿A qué hora te fuiste a la cama anoche?"
+    },
+    {
+      "role": "participant",
+      "text": "Anoche me acosté sobre las once, once y cuarto quizás. Me duermo sin muchos problemas, la verdad, el tema viene después."
+    },
+    {
+      "role": "interviewer",
+      "text": "Gracias por compartir eso. Luego volvemos a lo que pasa después.\n\nAproximadamente, ¿cuántas horas dormiste anoche? ¿Dirías que dormiste bien? ¿Por qué sí o por qué no?"
+    },
+    {
+      "role": "participant",
+      "text": "Anoche dormí, contando bien, unas cinco horas y algo, quizás cinco y media. ¿Que si dormí bien? Pues... regular, como casi siempre. Me cuesta arrancar a dormir bien lo que dura, porque a eso de las tres y media, cuatro menos algo, me despierto y ya me cuesta volver a coger el sueño."
+    }
+  ],
+  "status": "blocked",
+  "error": "no new interviewer message appeared (timeout)",
+  "ended_at": "2026-08-27T16:54:25.192005+00:00"
+}
